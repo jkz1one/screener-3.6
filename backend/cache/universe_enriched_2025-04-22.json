@@ -1,0 +1,5886 @@
+{
+  "RVTY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LII": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SHW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "RSG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GILD": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "INCY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FSLR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "MRK": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "NSC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "COR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Defensive"
+  },
+  "CEG": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FDS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ENPH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WAB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EXE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CHRW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "REG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SRE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MPWR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "AME": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PSA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IBM": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "WM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PANW": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "MO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EQIX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GOOGL": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CBOE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NDAQ": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WELL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CLX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "J": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "HPE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ALB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AVB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AEE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LMT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PG": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Defensive"
+  },
+  "SPGI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PSX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PNC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NTAP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MU": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "VTR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CHTR": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FFIV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TROW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SNA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ARM": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IEX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MSFT": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "dow30",
+      "anchor"
+    ],
+    "level": "L0",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "ROK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AMAT": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "CRM": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "AMD": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "ED": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BIIB": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AMT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FDX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MET": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BMY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CINF": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DLR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NEM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Basic Materials"
+  },
+  "IR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "INVH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TXN": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "KR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TJX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "FCX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Basic Materials"
+  },
+  "SMCI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "SW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MRNA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "XYL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AVGO": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "CVX": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Energy"
+  },
+  "REGN": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MDT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "VZ": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Communication Services"
+  },
+  "LOW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AXON": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DGX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TAP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PCAR": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ROST": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "APP": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "EVRG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MKC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AFL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ARE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CFG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ANET": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GRMN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DOC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "META": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Communication Services"
+  },
+  "EOG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TMUS": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Communication Services"
+  },
+  "RTX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FITB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "JNPR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HWM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CRWD": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "CPT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WDAY": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CHD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AVY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PAYC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CDW": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SPY": {
+    "sources": [
+      "anchor"
+    ],
+    "level": "L0",
+    "sector": null,
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IFF": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "STX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "RF": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "APA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MCHP": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ADP": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ASML": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "XLF": {
+    "sources": [
+      "etf"
+    ],
+    "level": "L1",
+    "sector": null,
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ERIE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GFS": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HPQ": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PCG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CCL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KLAC": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "LW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ACN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "QQQ": {
+    "sources": [
+      "anchor"
+    ],
+    "level": "L0",
+    "sector": null,
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DELL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Industrials"
+  },
+  "LYV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ZBRA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EXC": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WYNN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "UNH": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "DLTR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SNPS": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ZBH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "XLE": {
+    "sources": [
+      "etf"
+    ],
+    "level": "L1",
+    "sector": null,
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EQT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WMT": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Defensive"
+  },
+  "ICE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BA": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Industrials"
+  },
+  "TGT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Defensive"
+  },
+  "UAL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WTW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CME": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FOXA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ETN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Industrials"
+  },
+  "TSN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ELV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DUK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NWSA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TER": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GEHC": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "VLTO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "JBL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ULTA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DDOG": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ZS": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PGR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "C": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "XOM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Energy"
+  },
+  "ALL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AIZ": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MRVL": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "HUM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HAS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CSGP": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BDX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ES": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "JKHY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ANSS": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EPAM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "XEL": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "RMD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HSY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AOS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CSCO": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "NTRS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BBY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DHI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MCO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "K": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MAR": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ATO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "F": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "PTC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EXPE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "STT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CMI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "UPS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TDY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "VRSK": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BKR": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DAY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MELI": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AMP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IVZ": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "L": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DIS": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Communication Services"
+  },
+  "DAL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ALGN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "COP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NOC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GEV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Utilities"
+  },
+  "TEL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "JCI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AWK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EMR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WST": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FTNT": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CPRT": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TKO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "T": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Communication Services"
+  },
+  "BXP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PNR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MGM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "UDR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PPG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SLB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HSIC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MDLZ": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DRI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ODFL": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PNW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "URI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "STZ": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "YUM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "STLD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DXCM": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "OMC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HON": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Industrials"
+  },
+  "KMI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MLM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ROL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "USB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MSI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TRGP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HBAN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ADI": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "ABNB": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CTAS": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CCI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EXR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NEE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Utilities"
+  },
+  "KO": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Defensive"
+  },
+  "GNRC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FANG": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ALLE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DECK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TSLA": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "anchor"
+    ],
+    "level": "L0",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "SBAC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AKAM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "APD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "APH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ITW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MOS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GIS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HOLX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "COST": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Defensive"
+  },
+  "DHR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "SOLV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DPZ": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TMO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "WBD": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "JPM": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "GDDY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MMC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "XLK": {
+    "sources": [
+      "etf"
+    ],
+    "level": "L1",
+    "sector": null,
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AZO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MNST": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "RCL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TTD": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PRU": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "JBHT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AIG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BRK.B": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": null,
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MHK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MOH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NRG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BKNG": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "DTE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ETR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "UHS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AMCR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PLD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BLK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "PEP": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Defensive"
+  },
+  "HUBB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EIX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "WY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MTB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "VMC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CCEP": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "POOL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NFLX": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Communication Services"
+  },
+  "VTRS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NVR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HAL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "INTU": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "LKQ": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CBRE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GPC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TYL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ABBV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "WFC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "SJM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WRB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ECL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "UBER": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "WMB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AZN": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AON": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TPL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "VST": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LDOS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "COO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FTV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EMN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BAC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "CVS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "LHX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BF.B": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": null,
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DASH": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FICO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MSCI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HES": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SPG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TECH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DFS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LYB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CAG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CARR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NDSN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MMM": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EA": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HII": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TEAM": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PAYX": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LNT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GWW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TDG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NOW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "CTRA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LRCX": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "VRSN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CDNS": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ESS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FIS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CPB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ACGL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EFX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MTCH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LUV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MPC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WAT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KVUE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NUE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "A": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ROP": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PHM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MAS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GME": {
+    "sources": [
+      "anchor"
+    ],
+    "level": "L0",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SYF": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SWK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AXP": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "ADSK": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AMZN": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "AEP": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "VICI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PEG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "WSM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "OXY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KEYS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KEY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GOOG": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Communication Services"
+  },
+  "WDC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SYK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TSCO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MDB": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HST": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NI": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AMGN": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "DOV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KMB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "APO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DVN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TTWO": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CNP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SCHW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "VRTX": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PYPL": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MCD": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "QCOM": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "MTD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CPAY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CMCSA": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Communication Services"
+  },
+  "PARA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "COF": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "OKE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KIM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FRT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TPR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LLY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "CTVA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FAST": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ISRG": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "CMG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PWR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "APTV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PFG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CAH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NKE": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "INTC": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "DOW": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BRO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CZR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KMX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IRM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ORLY": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HIG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "RL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PDD": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "D": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LIN": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Basic Materials"
+  },
+  "PODD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NCLH": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PPL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KKR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "BAX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ABT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "GLW": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DVA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IPG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NXPI": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "VLO": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Energy",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BALL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SYY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EXPD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CMS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "DD": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ADM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "FOX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "IDXX": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "V": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "GPN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EQR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CSX": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GEN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "O": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LULU": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ZTS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "JNJ": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "WEC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MSTR": {
+    "sources": [
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "AJG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ON": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "RJF": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "SWKS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CAT": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Industrials"
+  },
+  "PLTR": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "MCK": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CRL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "IQV": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CNC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NVDA": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "anchor"
+    ],
+    "level": "L0",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "WBA": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TRMB": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "EBAY": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CF": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Basic Materials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BEN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "NWS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Communication Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AAPL": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "dow30",
+      "anchor"
+    ],
+    "level": "L0",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "SBUX": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "TRV": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "AES": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Utilities",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HD": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Consumer Cyclical"
+  },
+  "TXT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BSX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ORCL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "OTIS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "KHC": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "ADBE": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Technology"
+  },
+  "LEN": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "CTSH": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Technology",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "UNP": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MKTX": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "MAA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Real Estate",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GS": {
+    "sources": [
+      "sp500",
+      "dow30"
+    ],
+    "level": "L1",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Financial Services"
+  },
+  "HRL": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "BLDR": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Industrials",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "LVS": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "TFC": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Financial Services",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HCA": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "HLT": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "GM": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PFE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null,
+    "signals": {},
+    "sector": "Healthcare"
+  },
+  "KDP": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "sector": "Consumer Defensive",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "STE": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Healthcare",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  },
+  "PKG": {
+    "sources": [
+      "sp500"
+    ],
+    "level": "L2",
+    "sector": "Consumer Cyclical",
+    "signals": {},
+    "tv_price": null,
+    "tv_volume": null,
+    "tv_changePercent": null
+  }
+}
