@@ -11,9 +11,7 @@ SECTOR_PRICES_PATH = os.path.join(CACHE_DIR, "sector_etf_prices.json")
 CANDLES_PATH = os.path.join(CACHE_DIR, "candles_5m.json")
 SHORT_INTEREST_PATH = os.path.join(CACHE_DIR, "short_interest.json")
 
-# Local timestamp
-local_time = datetime.now(pytz.timezone("America/New_York"))
-current_date_str = local_time.strftime("%Y-%m-%d")
+current_date_str = datetime.now(pytz.timezone("America/New_York")).strftime("%Y-%m-%d")
 OUTPUT_PATH = os.path.join(CACHE_DIR, f"universe_enriched_{current_date_str}.json")
 
 def load_json(path):
@@ -51,9 +49,9 @@ def enrich_with_candles(universe, candle_data):
             info["range_930_940_low"] = min(lows)
     return universe
 
-def enrich_with_short_interest(universe, si_data):
+def enrich_with_short_interest(universe, short_data):
     for symbol, info in universe.items():
-        si = si_data.get(symbol.upper())
+        si = short_data.get(symbol.upper())
         if si and si.get("shortPercentOfFloat", 0) >= 0.20:
             info.setdefault("signals", {})["squeeze_watch"] = True
     return universe
@@ -71,14 +69,15 @@ def inject_risk_flags(universe):
 def apply_signal_flags(universe):
     for symbol, info in universe.items():
         signals = info.setdefault("signals", {})
-
+        price = signals.get("price")
+        volume = signals.get("volume")
+        change = signals.get("changePercent")
         open_price = info.get("open")
         prev_close = info.get("prevClose")
-        price = signals.get("price")
         high = info.get("range_930_940_high")
         low = info.get("range_930_940_low")
 
-        # Tier 1: Gap Up / Down
+        # Tier 1: Gap up/down
         if open_price and prev_close:
             if open_price > prev_close * 1.01:
                 signals["gap_up"] = True
@@ -91,15 +90,15 @@ def apply_signal_flags(universe):
         if price and low and price < low:
             signals["break_below_range"] = True
 
-        # Tier 2: Early Move
-        if signals.get("changePercent") and abs(signals["changePercent"]) > 2.5:
+        # Tier 2: Early move
+        if change and abs(change) >= 2.5:
             signals["early_move"] = True
 
-        # Tier 3: High Volume
-        if signals.get("volume") and signals["volume"] >= 1_000_000:
+        # Tier 3: High volume
+        if volume and volume >= 1_000_000:
             signals["high_volume"] = True
 
-        # Tier 3: Near Range High
+        # Tier 3: Near range high
         if price and high and 0 < (high - price) <= 0.25:
             signals["near_range_high"] = True
 
@@ -114,6 +113,7 @@ def main():
     short_interest = load_json(SHORT_INTEREST_PATH)
 
     print(f"📦 Loaded {len(universe)} tickers")
+
     universe = enrich_with_tv_signals(universe, tv_signals)
     universe = enrich_with_sector(universe, sector_prices)
     universe = enrich_with_candles(universe, candles)
@@ -123,7 +123,6 @@ def main():
 
     with open(OUTPUT_PATH, "w") as f:
         json.dump(universe, f, indent=2)
-
     print(f"✅ Enriched universe saved to {OUTPUT_PATH}")
 
 if __name__ == "__main__":
