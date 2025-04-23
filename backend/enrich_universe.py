@@ -6,12 +6,14 @@ from tqdm import tqdm
 
 CACHE_DIR = "backend/cache"
 UNIVERSE_PATH = os.path.join(CACHE_DIR, "universe_cache.json")
-TV_PATH = os.path.join(CACHE_DIR, "tv_signals.json")
-SECTOR_PATH = os.path.join(CACHE_DIR, "sector_etf_prices.json")
-CANDLE_PATH = os.path.join(CACHE_DIR, "candles_5m.json")
+TV_SIGNALS_PATH = os.path.join(CACHE_DIR, "tv_signals.json")
+SECTOR_PRICES_PATH = os.path.join(CACHE_DIR, "sector_etf_prices.json")
+CANDLES_PATH = os.path.join(CACHE_DIR, "candles_5m.json")
 SHORT_INTEREST_PATH = os.path.join(CACHE_DIR, "short_interest.json")
 
-current_date_str = datetime.now(pytz.timezone("America/New_York")).strftime("%Y-%m-%d")
+# Local timestamp
+local_time = datetime.now(pytz.timezone("America/New_York"))
+current_date_str = local_time.strftime("%Y-%m-%d")
 OUTPUT_PATH = os.path.join(CACHE_DIR, f"universe_enriched_{current_date_str}.json")
 
 def load_json(path):
@@ -49,9 +51,9 @@ def enrich_with_candles(universe, candle_data):
             info["range_930_940_low"] = min(lows)
     return universe
 
-def enrich_with_short_interest(universe, short_data):
+def enrich_with_short_interest(universe, si_data):
     for symbol, info in universe.items():
-        si = short_data.get(symbol.upper())
+        si = si_data.get(symbol.upper())
         if si and si.get("shortPercentOfFloat", 0) >= 0.20:
             info.setdefault("signals", {})["squeeze_watch"] = True
     return universe
@@ -60,7 +62,6 @@ def inject_risk_flags(universe):
     for symbol, info in universe.items():
         vol = info.get("avg_volume")
         spread = info.get("spread")
-
         if vol is not None and vol < 500_000:
             info.setdefault("signals", {})["low_liquidity"] = True
         if spread is not None and spread > 0.30:
@@ -73,48 +74,46 @@ def apply_signal_flags(universe):
 
         open_price = info.get("open")
         prev_close = info.get("prevClose")
-        current_price = signals.get("price")
+        price = signals.get("price")
+        high = info.get("range_930_940_high")
+        low = info.get("range_930_940_low")
 
-        # TIER 1: Gap Up / Down
+        # Tier 1: Gap Up / Down
         if open_price and prev_close:
             if open_price > prev_close * 1.01:
                 signals["gap_up"] = True
             elif open_price < prev_close * 0.99:
                 signals["gap_down"] = True
 
-        # TIER 1: Break above/below 9:30–9:40 range
-        high = info.get("range_930_940_high")
-        low = info.get("range_930_940_low")
-        if current_price and high and current_price > high:
+        # Tier 1: Breakout
+        if price and high and price > high:
             signals["break_above_range"] = True
-        if current_price and low and current_price < low:
+        if price and low and price < low:
             signals["break_below_range"] = True
 
-        # TIER 2: Early Move
-        if signals.get("changePercent") and signals["changePercent"] >= 2.5:
+        # Tier 2: Early Move
+        if signals.get("changePercent") and abs(signals["changePercent"]) > 2.5:
             signals["early_move"] = True
 
-        # TIER 3: High Volume
+        # Tier 3: High Volume
         if signals.get("volume") and signals["volume"] >= 1_000_000:
             signals["high_volume"] = True
 
-        # TIER 3: Near Range High
-        if current_price and high and (0 < (high - current_price) <= 0.25):
+        # Tier 3: Near Range High
+        if price and high and 0 < (high - price) <= 0.25:
             signals["near_range_high"] = True
 
     return universe
 
 def main():
     print("🚀 Starting enrichment...")
-
     universe = load_json(UNIVERSE_PATH)
-    tv_signals = load_json(TV_PATH)
-    sector_prices = load_json(SECTOR_PATH)
-    candles = load_json(CANDLE_PATH)
+    tv_signals = load_json(TV_SIGNALS_PATH)
+    sector_prices = load_json(SECTOR_PRICES_PATH)
+    candles = load_json(CANDLES_PATH)
     short_interest = load_json(SHORT_INTEREST_PATH)
 
     print(f"📦 Loaded {len(universe)} tickers")
-
     universe = enrich_with_tv_signals(universe, tv_signals)
     universe = enrich_with_sector(universe, sector_prices)
     universe = enrich_with_candles(universe, candles)
@@ -124,6 +123,7 @@ def main():
 
     with open(OUTPUT_PATH, "w") as f:
         json.dump(universe, f, indent=2)
+
     print(f"✅ Enriched universe saved to {OUTPUT_PATH}")
 
 if __name__ == "__main__":
