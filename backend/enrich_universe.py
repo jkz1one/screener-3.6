@@ -21,7 +21,6 @@ def load_json(path):
         return json.load(f)
 
 def enrich_with_tv_signals(universe, tv_data):
-    # Normalize keys (e.g., strip .US suffixes)
     normalized_tv_data = {}
     for k, v in tv_data.items():
         base = k.split(".")[0].upper()
@@ -30,11 +29,17 @@ def enrich_with_tv_signals(universe, tv_data):
     for symbol, info in universe.items():
         tv = normalized_tv_data.get(symbol.upper())
         if tv:
-            info["tv_price"] = tv.get("price")
-            info["tv_volume"] = tv.get("volume")
-            info["tv_changePercent"] = tv.get("changePercent")
+            signals = info.setdefault("signals", {})
+            if "price" in tv:
+                signals["price"] = tv["price"]
+                info["tv_price"] = tv["price"]
+            if "volume" in tv:
+                signals["volume"] = tv["volume"]
+                info["tv_volume"] = tv["volume"]
+            if "changePercent" in tv:
+                signals["changePercent"] = tv["changePercent"]
+                info["tv_changePercent"] = tv["changePercent"]
     return universe
-
 
 def enrich_with_sector(universe, sector_data):
     for symbol, info in universe.items():
@@ -66,16 +71,6 @@ def enrich_with_short_interest(universe, short_data):
             info.setdefault("signals", {})["squeeze_watch"] = True
     return universe
 
-def inject_risk_flags(universe):
-    for symbol, info in universe.items():
-        vol = info.get("avg_volume")
-        spread = info.get("spread")
-        if vol is not None and vol < 500_000:
-            info.setdefault("signals", {})["low_liquidity"] = True
-        if spread is not None and spread > 0.30:
-            info.setdefault("signals", {})["wide_spread"] = True
-    return universe
-
 def apply_signal_flags(universe):
     for symbol, info in universe.items():
         signals = info.setdefault("signals", {})
@@ -87,26 +82,36 @@ def apply_signal_flags(universe):
         high = info.get("range_930_940_high")
         low = info.get("range_930_940_low")
 
-        if open_price and prev_close:
+        if open_price is not None and prev_close is not None:
             if open_price > prev_close * 1.01:
                 signals["gap_up"] = True
             elif open_price < prev_close * 0.99:
                 signals["gap_down"] = True
 
-        if price and high and price > high:
+        if price is not None and high is not None and price > high:
             signals["break_above_range"] = True
-        if price and low and price < low:
+        if price is not None and low is not None and price < low:
             signals["break_below_range"] = True
 
-        if change and abs(change) >= 2.5:
+        if change is not None and abs(change) >= 2.5:
             signals["early_move"] = True
 
-        if volume and volume >= 1_000_000:
+        if volume is not None and volume >= 1_000_000:
             signals["high_volume"] = True
 
-        if price and high and 0 < (high - price) <= 0.25:
+        if price is not None and high is not None and 0 < (high - price) <= 0.25:
             signals["near_range_high"] = True
 
+    return universe
+
+def inject_risk_flags(universe):
+    for symbol, info in universe.items():
+        vol = info.get("avg_volume")
+        spread = info.get("spread")
+        if vol is not None and vol < 500_000:
+            info.setdefault("signals", {})["low_liquidity"] = True
+        if spread is not None and spread > 0.30:
+            info.setdefault("signals", {})["wide_spread"] = True
     return universe
 
 def main():
