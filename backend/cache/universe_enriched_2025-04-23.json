@@ -5,7 +5,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 92.33,
+      "volume": 1510685,
+      "changePercent": 2.85174,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -16,7 +22,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 558.93,
+      "volume": 582421,
+      "changePercent": 3.31041,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -27,7 +38,12 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 331.96,
+      "volume": 986083,
+      "changePercent": 2.99721,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -38,7 +54,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 242.57,
+      "volume": 1188590,
+      "changePercent": 1.76197,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -52,7 +73,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 105.51,
+      "volume": 7279006,
+      "changePercent": 1.1310269,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "INCY": {
@@ -61,7 +87,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 57.38,
+      "volume": 1561684,
+      "changePercent": 1.02113,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -72,7 +103,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 135.35,
+      "volume": 8037266,
+      "changePercent": 10.53492,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -85,7 +122,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 527.33,
+      "volume": 1835392,
+      "changePercent": 3.53609,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "MRK": {
@@ -97,7 +140,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 78.97,
+      "volume": 8869680,
+      "changePercent": 1.43867,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "NSC": {
@@ -106,7 +154,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 220.0,
+      "volume": 1815830,
+      "changePercent": 0.48415,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -117,7 +170,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 286.27,
+      "volume": 1699800,
+      "changePercent": 1.81747,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -130,7 +188,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 164.11,
+      "volume": 9492140,
+      "changePercent": 1.19004,
+      "high_volume": true
+    },
     "sector": "Consumer Defensive"
   },
   "CEG": {
@@ -140,7 +203,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 200.88,
+      "volume": 2128865,
+      "changePercent": 4.2936525,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -151,7 +220,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 423.96,
+      "volume": 222148,
+      "changePercent": 2.6463,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -162,7 +236,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 53.43,
+      "volume": 4737076,
+      "changePercent": 3.5063956,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -173,7 +253,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 171.76,
+      "volume": 893936,
+      "changePercent": 2.81336,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -184,7 +269,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 274.8,
+      "volume": 2738611,
+      "changePercent": 0.593014,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -195,7 +285,12 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 103.01,
+      "volume": 2431660,
+      "changePercent": 0.7531341,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -206,7 +301,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 90.28,
+      "volume": 1051588,
+      "changePercent": 1.1314015,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -217,7 +317,11 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 72.32,
+      "volume": 643095,
+      "changePercent": 2.1757572
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -228,7 +332,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 72.31,
+      "volume": 4966213,
+      "changePercent": 2.6256,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -241,7 +351,11 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 511.82,
+      "volume": 859089,
+      "changePercent": 0.7143007
+    },
     "sector": "Technology"
   },
   "AME": {
@@ -250,7 +364,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 159.65,
+      "volume": 1659140,
+      "changePercent": 2.83413,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -261,7 +381,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 296.67,
+      "volume": 791623,
+      "changePercent": 3.16804,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -275,7 +400,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 240.9,
+      "volume": 4052052,
+      "changePercent": 1.9812,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "WM": {
@@ -284,7 +414,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 229.96,
+      "volume": 1712741,
+      "changePercent": 1.05023,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -298,7 +433,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 163.63,
+      "volume": 3939220,
+      "changePercent": 2.236802,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "MO": {
@@ -307,7 +447,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 58.82,
+      "volume": 7670363,
+      "changePercent": 2.06489,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -318,7 +463,11 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 791.12,
+      "volume": 521681,
+      "changePercent": 2.3176386
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -329,7 +478,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 42.71,
+      "volume": 6553656,
+      "changePercent": 2.17703,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -341,7 +495,13 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 151.47,
+      "volume": 25458224,
+      "changePercent": 2.5733075,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -352,7 +512,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 95.81,
+      "volume": 5112476,
+      "changePercent": 1.17212,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -363,7 +528,11 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 214.07,
+      "volume": 794582,
+      "changePercent": -0.149257
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -374,7 +543,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 72.69,
+      "volume": 2163226,
+      "changePercent": 2.8729107,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -385,7 +560,13 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 147.25,
+      "volume": 3385722,
+      "changePercent": 2.5061,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -396,7 +577,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 142.03,
+      "volume": 1023840,
+      "changePercent": 2.44518,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -407,7 +593,11 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 118.39,
+      "volume": 564523,
+      "changePercent": 2.34267
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -420,7 +610,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 124.91,
+      "volume": 3916804,
+      "changePercent": 3.90118,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "HPE": {
@@ -429,7 +625,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 15.15,
+      "volume": 15417900,
+      "changePercent": 2.22672,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -440,7 +641,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 54.77,
+      "volume": 2440986,
+      "changePercent": 3.30064,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -451,7 +658,11 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 206.44,
+      "volume": 610701,
+      "changePercent": 2.30438
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -462,7 +673,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 46.48,
+      "volume": 2619465,
+      "changePercent": 3.15135,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -473,7 +690,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 99.15,
+      "volume": 2083311,
+      "changePercent": 2.76741,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -484,7 +707,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 462.08,
+      "volume": 2649760,
+      "changePercent": 0.818188,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -498,7 +726,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 167.88,
+      "volume": 7902519,
+      "changePercent": 1.28507,
+      "high_volume": true
+    },
     "sector": "Consumer Defensive"
   },
   "SPGI": {
@@ -507,7 +740,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 466.42,
+      "volume": 1239959,
+      "changePercent": 3.88205,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -518,7 +757,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 100.9,
+      "volume": 2200176,
+      "changePercent": 4.00989,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -529,7 +774,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 154.45,
+      "volume": 2111982,
+      "changePercent": 2.8775,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -540,7 +791,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 82.45,
+      "volume": 1705216,
+      "changePercent": 0.94269913,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -554,7 +810,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 70.21,
+      "volume": 19808946,
+      "changePercent": 5.1992826,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "VTR": {
@@ -563,7 +825,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 68.29,
+      "volume": 2438828,
+      "changePercent": 2.21524,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -575,7 +842,13 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 331.34,
+      "volume": 1080482,
+      "changePercent": 2.7633917,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -586,7 +859,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 254.77,
+      "volume": 501476,
+      "changePercent": 1.5829351
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -597,7 +874,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 86.18,
+      "volume": 1925791,
+      "changePercent": 3.1478121,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -608,7 +891,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 301.33,
+      "volume": 398937,
+      "changePercent": 3.06814,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -619,7 +907,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 100.55,
+      "volume": 3732126,
+      "changePercent": 3.8417857,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -630,7 +924,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 166.4,
+      "volume": 631215,
+      "changePercent": 3.57276,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -646,7 +945,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 366.82,
+      "volume": 17975458,
+      "changePercent": 2.1441336,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "ROK": {
@@ -655,7 +959,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 234.42,
+      "volume": 1254696,
+      "changePercent": 3.30058,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -669,7 +979,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 138.3,
+      "volume": 4955254,
+      "changePercent": 2.025016,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "CRM": {
@@ -681,7 +996,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 243.39,
+      "volume": 7086532,
+      "changePercent": 3.01786,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "AMD": {
@@ -693,7 +1014,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 86.26,
+      "volume": 33475883,
+      "changePercent": 0.81814474,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "ED": {
@@ -702,7 +1028,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 113.3,
+      "volume": 1502103,
+      "changePercent": 2.10887,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -714,7 +1045,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 118.89,
+      "volume": 1072152,
+      "changePercent": 2.0602639,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -725,7 +1061,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 220.97,
+      "volume": 2627427,
+      "changePercent": 1.36703,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -736,7 +1077,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 206.57,
+      "volume": 1368138,
+      "changePercent": 0.706909,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -747,7 +1093,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 73.09,
+      "volume": 2707108,
+      "changePercent": 3.82102,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -758,7 +1110,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 49.82,
+      "volume": 8746810,
+      "changePercent": 1.79812,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -769,7 +1126,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 132.95,
+      "volume": 520478,
+      "changePercent": 4.0948915,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -780,7 +1142,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 148.89,
+      "volume": 2096602,
+      "changePercent": 1.74252,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -793,7 +1160,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 54.54,
+      "volume": 17982267,
+      "changePercent": -1.21354,
+      "high_volume": true
+    },
     "sector": "Basic Materials"
   },
   "IR": {
@@ -802,7 +1174,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 72.25,
+      "volume": 2010788,
+      "changePercent": 3.6288,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -813,7 +1191,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 34.05,
+      "volume": 2222161,
+      "changePercent": 1.9461,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -827,7 +1210,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 146.76,
+      "volume": 9128307,
+      "changePercent": 0.78977674,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "KR": {
@@ -836,7 +1224,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 72.98,
+      "volume": 5481749,
+      "changePercent": 0.926574,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -849,7 +1242,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 125.71,
+      "volume": 4982623,
+      "changePercent": 1.39538,
+      "high_volume": true
+    },
     "sector": "Consumer Cyclical"
   },
   "FCX": {
@@ -860,7 +1258,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 34.06,
+      "volume": 18431952,
+      "changePercent": 3.36874,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Basic Materials"
   },
   "SMCI": {
@@ -871,7 +1275,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 30.58,
+      "volume": 31542542,
+      "changePercent": 3.6258883,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "SW": {
@@ -880,7 +1290,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 41.54,
+      "volume": 2979611,
+      "changePercent": 1.86366,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -891,7 +1306,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 25.74,
+      "volume": 5446634,
+      "changePercent": 2.42738,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -902,7 +1322,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 111.7,
+      "volume": 2392491,
+      "changePercent": 2.93034,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -916,7 +1342,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 169.58,
+      "volume": 18280610,
+      "changePercent": 2.0275526,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "CVX": {
@@ -928,7 +1359,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 137.3,
+      "volume": 7921969,
+      "changePercent": 2.66956,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Energy"
   },
   "REGN": {
@@ -938,7 +1375,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 585.49,
+      "volume": 979152,
+      "changePercent": 4.2743416,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -949,7 +1391,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 83.37,
+      "volume": 4074663,
+      "changePercent": 1.91931,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -963,7 +1410,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 43.19,
+      "volume": 31024509,
+      "changePercent": 0.605633,
+      "high_volume": true
+    },
     "sector": "Communication Services"
   },
   "LOW": {
@@ -972,7 +1424,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 219.07,
+      "volume": 2221762,
+      "changePercent": 2.96095,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -984,7 +1442,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 555.52,
+      "volume": 438871,
+      "changePercent": 2.507709,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -995,7 +1458,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 172.84,
+      "volume": 2423448,
+      "changePercent": 6.78364,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1006,7 +1475,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 59.0,
+      "volume": 1714474,
+      "changePercent": 1.84706,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1018,7 +1492,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 88.56,
+      "volume": 2518376,
+      "changePercent": 1.4549165,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1030,7 +1509,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 137.89,
+      "volume": 2522451,
+      "changePercent": 1.7713438,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1043,7 +1527,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 237.71,
+      "volume": 5968313,
+      "changePercent": 4.199361,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "EVRG": {
@@ -1052,7 +1542,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 68.36,
+      "volume": 1305462,
+      "changePercent": 2.1060548,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1063,7 +1558,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 75.74,
+      "volume": 1576859,
+      "changePercent": 1.43297,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1074,7 +1574,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 108.31,
+      "volume": 1544439,
+      "changePercent": 3.18186,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1085,7 +1591,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 454.66,
+      "volume": 750417,
+      "changePercent": 2.96676,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1096,7 +1607,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 76.26,
+      "volume": 1449668,
+      "changePercent": 0.699853,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1107,7 +1623,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 35.82,
+      "volume": 4959043,
+      "changePercent": 3.85618,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1118,7 +1640,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 68.67,
+      "volume": 7029692,
+      "changePercent": 1.47776,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1129,7 +1656,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 191.41,
+      "volume": 483095,
+      "changePercent": 2.45143
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1140,7 +1671,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 18.81,
+      "volume": 5476917,
+      "changePercent": 1.95121,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1154,7 +1690,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 500.28,
+      "volume": 16271312,
+      "changePercent": 3.2228768,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Communication Services"
   },
   "EOG": {
@@ -1163,7 +1705,12 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 111.32,
+      "volume": 2946354,
+      "changePercent": 2.02548,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1177,7 +1724,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 258.3,
+      "volume": 4659067,
+      "changePercent": 1.9015276,
+      "high_volume": true
+    },
     "sector": "Communication Services"
   },
   "RTX": {
@@ -1186,7 +1738,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 113.75,
+      "volume": 17049215,
+      "changePercent": -9.80812,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1197,7 +1755,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 34.65,
+      "volume": 5312638,
+      "changePercent": 3.991602,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1208,7 +1772,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 34.63,
+      "volume": 1685344,
+      "changePercent": 1.73326,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1219,7 +1788,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 124.3,
+      "volume": 2233830,
+      "changePercent": 4.04286,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1233,7 +1808,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 368.45,
+      "volume": 2480020,
+      "changePercent": 1.5881357,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "CPT": {
@@ -1242,7 +1822,11 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 113.16,
+      "volume": 711271,
+      "changePercent": 2.12075
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1254,7 +1838,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 220.99,
+      "volume": 1801956,
+      "changePercent": 3.2181218,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1265,7 +1855,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 290.42,
+      "volume": 1632796,
+      "changePercent": 3.80299,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1276,7 +1872,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 103.85,
+      "volume": 2022421,
+      "changePercent": 0.688384,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1287,7 +1888,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 121.68,
+      "volume": 426227,
+      "changePercent": 3.84911,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1298,7 +1904,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 174.83,
+      "volume": 1141562,
+      "changePercent": 3.43135,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1309,7 +1921,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 211.52,
+      "volume": 368293,
+      "changePercent": 2.58002,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1321,7 +1938,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 152.03,
+      "volume": 958994,
+      "changePercent": 2.4322872
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1332,7 +1953,13 @@
     ],
     "level": "L0",
     "sector": null,
-    "signals": {},
+    "signals": {
+      "price": 527.25,
+      "volume": 65792577,
+      "changePercent": 2.60177,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1343,7 +1970,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 74.64,
+      "volume": 1165117,
+      "changePercent": 2.65438,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1354,7 +1987,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 75.36,
+      "volume": 1960218,
+      "changePercent": 1.9342625,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1365,7 +2003,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 400.31,
+      "volume": 386290,
+      "changePercent": 1.9976
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1376,7 +2018,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 19.78,
+      "volume": 8550712,
+      "changePercent": 3.61446,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1387,7 +2035,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 15.86,
+      "volume": 7479723,
+      "changePercent": 3.9999976,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1399,7 +2053,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 40.29,
+      "volume": 10908251,
+      "changePercent": 2.1810818,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1411,7 +2070,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 292.89,
+      "volume": 1723261,
+      "changePercent": 2.822541,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1422,7 +2087,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 638.69,
+      "volume": 1900077,
+      "changePercent": 2.2411115,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1433,7 +2103,13 @@
     ],
     "level": "L1",
     "sector": null,
-    "signals": {},
+    "signals": {
+      "price": 47.16,
+      "volume": 38245050,
+      "changePercent": 3.30777,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1444,7 +2120,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 405.3,
+      "volume": 98404,
+      "changePercent": 2.5634472,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1455,7 +2136,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 31.71,
+      "volume": 2169527,
+      "changePercent": 1.1160666,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1466,7 +2152,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 24.18,
+      "volume": 6406114,
+      "changePercent": 1.81053,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1477,7 +2168,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 17.44,
+      "volume": 15321147,
+      "changePercent": 3.56295,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1488,7 +2185,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 17.98,
+      "volume": 18251199,
+      "changePercent": 4.29234,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1502,7 +2205,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 636.36,
+      "volume": 1369226,
+      "changePercent": 2.506443,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "LW": {
@@ -1511,7 +2220,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 52.47,
+      "volume": 1587355,
+      "changePercent": 1.86372,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1524,7 +2238,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 283.96,
+      "volume": 2498900,
+      "changePercent": 1.69394,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "QQQ": {
@@ -1533,7 +2252,13 @@
     ],
     "level": "L0",
     "sector": null,
-    "signals": {},
+    "signals": {
+      "price": 444.48,
+      "volume": 48862104,
+      "changePercent": 2.6252053,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1544,7 +2269,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 84.08,
+      "volume": 3989431,
+      "changePercent": 2.70568,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1557,7 +2288,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 189.18,
+      "volume": 11433280,
+      "changePercent": 6.07232,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Industrials"
   },
   "LYV": {
@@ -1566,7 +2303,13 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 128.5,
+      "volume": 2635774,
+      "changePercent": 4.06543,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1577,7 +2320,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 227.2,
+      "volume": 582527,
+      "changePercent": 2.3192947
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1589,7 +2336,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 47.37,
+      "volume": 7379479,
+      "changePercent": 2.4659297,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1600,7 +2352,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 76.97,
+      "volume": 2318729,
+      "changePercent": 2.681433,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1614,7 +2372,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 427.18,
+      "volume": 10117576,
+      "changePercent": 0.434958,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "DLTR": {
@@ -1623,7 +2386,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 82.16,
+      "volume": 5885114,
+      "changePercent": 3.1512895,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1635,7 +2404,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 413.4,
+      "volume": 945178,
+      "changePercent": 2.7438138,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1646,7 +2420,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 97.44,
+      "volume": 1427771,
+      "changePercent": 1.32058,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1657,7 +2436,13 @@
     ],
     "level": "L1",
     "sector": null,
-    "signals": {},
+    "signals": {
+      "price": 81.39,
+      "volume": 10902864,
+      "changePercent": 2.54504,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1668,7 +2453,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 220.25,
+      "volume": 884459,
+      "changePercent": 3.78381,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1679,7 +2469,12 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 48.57,
+      "volume": 6582320,
+      "changePercent": 1.86661,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1693,7 +2488,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 94.85,
+      "volume": 12208715,
+      "changePercent": 2.6404,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Consumer Defensive"
   },
   "ICE": {
@@ -1702,7 +2503,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 160.68,
+      "volume": 2908362,
+      "changePercent": 3.64445,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1716,7 +2523,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 162.52,
+      "volume": 8458879,
+      "changePercent": 1.99574,
+      "high_volume": true
+    },
     "sector": "Industrials"
   },
   "TGT": {
@@ -1727,7 +2539,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 94.1,
+      "volume": 7052966,
+      "changePercent": 0.34122384,
+      "high_volume": true
+    },
     "sector": "Consumer Defensive"
   },
   "UAL": {
@@ -1736,7 +2553,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 66.97,
+      "volume": 7190653,
+      "changePercent": 2.5574243,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1747,7 +2570,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 324.68,
+      "volume": 609034,
+      "changePercent": 2.824925,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1758,7 +2586,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 96.79,
+      "volume": 3658774,
+      "changePercent": 1.23418,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1769,7 +2602,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 265.56,
+      "volume": 2319637,
+      "changePercent": 2.008993,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1780,7 +2618,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 48.2,
+      "volume": 2579832,
+      "changePercent": 2.097017,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1793,7 +2636,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 266.91,
+      "volume": 2269543,
+      "changePercent": 2.86738,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Industrials"
   },
   "TSN": {
@@ -1802,7 +2651,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 61.39,
+      "volume": 2633561,
+      "changePercent": 0.987002,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1813,7 +2667,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 415.9,
+      "volume": 1890216,
+      "changePercent": 2.26462,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1824,7 +2683,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 122.53,
+      "volume": 3521588,
+      "changePercent": 1.96388,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1835,7 +2699,13 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 26.18,
+      "volume": 2653342,
+      "changePercent": 3.2741613,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1846,7 +2716,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 71.29,
+      "volume": 3231473,
+      "changePercent": 2.120045,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1858,7 +2733,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 61.65,
+      "volume": 4309016,
+      "changePercent": 1.934527,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1869,7 +2749,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 89.18,
+      "volume": 1451059,
+      "changePercent": 2.27065,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1880,7 +2765,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 133.24,
+      "volume": 744393,
+      "changePercent": 2.68979,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1891,7 +2781,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 378.67,
+      "volume": 717098,
+      "changePercent": 3.5551178,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1902,7 +2797,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 91.42,
+      "volume": 3800382,
+      "changePercent": 2.811516,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1913,7 +2814,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 196.52,
+      "volume": 1442067,
+      "changePercent": 1.4558634,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1926,7 +2832,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 265.08,
+      "volume": 2841653,
+      "changePercent": 2.97968,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "C": {
@@ -1937,7 +2849,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 64.55,
+      "volume": 13077910,
+      "changePercent": 2.96699,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "XOM": {
@@ -1948,7 +2866,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 108.3,
+      "volume": 13110122,
+      "changePercent": 2.80019,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Energy"
   },
   "ALL": {
@@ -1957,7 +2881,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 193.9,
+      "volume": 1499227,
+      "changePercent": 3.71757,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1968,7 +2898,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 188.94,
+      "volume": 434741,
+      "changePercent": 2.75739,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -1981,7 +2916,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 50.62,
+      "volume": 15618521,
+      "changePercent": 2.511134,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "HUM": {
@@ -1990,7 +2931,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 258.92,
+      "volume": 1339515,
+      "changePercent": 5.29056,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2001,7 +2948,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 52.1,
+      "volume": 1962252,
+      "changePercent": 1.08653,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2013,7 +2965,13 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 80.87,
+      "volume": 2930685,
+      "changePercent": 3.9326634,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2024,7 +2982,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 199.88,
+      "volume": 1562219,
+      "changePercent": 1.66319,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2035,7 +2998,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 58.05,
+      "volume": 1637715,
+      "changePercent": 2.96204,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2046,7 +3015,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 172.68,
+      "volume": 504103,
+      "changePercent": 2.3470788
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2058,7 +3031,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 303.26,
+      "volume": 319148,
+      "changePercent": 1.7855968
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2069,7 +3046,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 147.39,
+      "volume": 575265,
+      "changePercent": 1.22244
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2081,7 +3062,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 71.39,
+      "volume": 5148708,
+      "changePercent": 3.5087693,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2092,7 +3079,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 214.08,
+      "volume": 1365234,
+      "changePercent": 1.52227,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2103,7 +3095,11 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 167.44,
+      "volume": 995671,
+      "changePercent": 0.582688
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2114,7 +3110,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 63.96,
+      "volume": 1912484,
+      "changePercent": 3.64609,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2129,7 +3131,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 55.04,
+      "volume": 19928550,
+      "changePercent": 1.2323009,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "NTRS": {
@@ -2138,7 +3145,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 89.36,
+      "volume": 2549408,
+      "changePercent": 2.9730375,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2149,7 +3162,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 63.38,
+      "volume": 4687556,
+      "changePercent": 2.04476,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2160,7 +3178,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 566.65,
+      "volume": 718304,
+      "changePercent": 3.53744,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2171,7 +3194,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 124.96,
+      "volume": 4426901,
+      "changePercent": 3.47797,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2182,7 +3211,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 429.87,
+      "volume": 1089073,
+      "changePercent": 4.0092,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2193,7 +3228,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 82.6,
+      "volume": 2422123,
+      "changePercent": 0.230548,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2205,7 +3245,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 220.59,
+      "volume": 1474155,
+      "changePercent": 2.2717762,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2216,7 +3261,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 160.11,
+      "volume": 1592004,
+      "changePercent": 2.28057,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2229,7 +3279,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 9.65,
+      "volume": 120402287,
+      "changePercent": 1.90073,
+      "high_volume": true
+    },
     "sector": "Consumer Cyclical"
   },
   "PTC": {
@@ -2238,7 +3293,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 143.81,
+      "volume": 620897,
+      "changePercent": 3.0010047,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2249,7 +3309,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 152.93,
+      "volume": 1453192,
+      "changePercent": 4.268081,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2260,7 +3326,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 83.84,
+      "volume": 2950959,
+      "changePercent": 3.98115,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2271,7 +3343,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 279.11,
+      "volume": 1224320,
+      "changePercent": 1.78695,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2282,7 +3359,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 96.84,
+      "volume": 4291021,
+      "changePercent": 0.612983,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2293,7 +3375,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 461.1,
+      "volume": 345890,
+      "changePercent": 1.7095
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2305,7 +3391,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 292.7,
+      "volume": 592027,
+      "changePercent": 2.936524,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2317,7 +3408,12 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 38.36,
+      "volume": 9963208,
+      "changePercent": 1.4814851,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2328,7 +3424,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 53.58,
+      "volume": 3035227,
+      "changePercent": 2.38869,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2339,7 +3440,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 2128.33,
+      "volume": 322188,
+      "changePercent": 3.496358,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2350,7 +3456,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 467.65,
+      "volume": 341772,
+      "changePercent": 3.65732,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2361,7 +3472,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 13.49,
+      "volume": 12071565,
+      "changePercent": 8.26645,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2372,7 +3489,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 85.71,
+      "volume": 467395,
+      "changePercent": 2.84378,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2386,7 +3508,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 86.09,
+      "volume": 9548324,
+      "changePercent": 2.48809,
+      "high_volume": true
+    },
     "sector": "Communication Services"
   },
   "DAL": {
@@ -2395,7 +3522,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 40.34,
+      "volume": 6631657,
+      "changePercent": 2.2042,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2406,7 +3538,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 173.87,
+      "volume": 1087454,
+      "changePercent": 0.9580733,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2417,7 +3554,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 89.76,
+      "volume": 5518485,
+      "changePercent": 2.52427,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2428,7 +3571,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 464.08,
+      "volume": 4547510,
+      "changePercent": -12.6569,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2441,7 +3590,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 326.07,
+      "volume": 3459186,
+      "changePercent": 4.14911,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Utilities"
   },
   "TEL": {
@@ -2450,7 +3605,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 133.45,
+      "volume": 3446921,
+      "changePercent": 3.65048,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2461,7 +3622,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 76.61,
+      "volume": 3847962,
+      "changePercent": 2.90128,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2472,7 +3639,11 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 149.26,
+      "volume": 809357,
+      "changePercent": 1.44769
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2483,7 +3654,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 99.79,
+      "volume": 2796748,
+      "changePercent": 3.49513,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2494,7 +3671,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 215.13,
+      "volume": 1517486,
+      "changePercent": 4.49291,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2506,7 +3689,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 94.37,
+      "volume": 3984492,
+      "changePercent": 1.7795529,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2518,7 +3706,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 60.41,
+      "volume": 3410507,
+      "changePercent": 2.860549,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2529,7 +3723,13 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 148.13,
+      "volume": 1136565,
+      "changePercent": 3.52226,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2542,7 +3742,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 26.96,
+      "volume": 50839503,
+      "changePercent": 2.3927,
+      "high_volume": true
+    },
     "sector": "Communication Services"
   },
   "BXP": {
@@ -2551,7 +3756,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 63.93,
+      "volume": 1588072,
+      "changePercent": 2.17357,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2562,7 +3772,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 86.24,
+      "volume": 3661193,
+      "changePercent": 9.21986,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2573,7 +3789,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 80.09,
+      "volume": 1185238,
+      "changePercent": 1.63705,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2584,7 +3805,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 30.28,
+      "volume": 5473604,
+      "changePercent": 4.70263,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2595,7 +3822,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 41.54,
+      "volume": 2992976,
+      "changePercent": 1.96367,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2606,7 +3838,11 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 101.78,
+      "volume": 977908,
+      "changePercent": 2.39436
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2617,7 +3853,12 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 34.61,
+      "volume": 16125505,
+      "changePercent": -0.0288802,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2628,7 +3869,11 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 64.54,
+      "volume": 716783,
+      "changePercent": 2.3145196
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2640,7 +3885,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 68.29,
+      "volume": 6716932,
+      "changePercent": 0.78217053,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2651,7 +3901,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 202.65,
+      "volume": 935451,
+      "changePercent": 2.83147,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2663,7 +3918,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 152.07,
+      "volume": 1819258,
+      "changePercent": 1.4679471,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2674,7 +3934,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 95.01,
+      "volume": 1975594,
+      "changePercent": 1.89833,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2685,7 +3950,11 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 574.76,
+      "volume": 824599,
+      "changePercent": 0.729063
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2696,7 +3965,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 187.0,
+      "volume": 2384598,
+      "changePercent": -0.138841,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2707,7 +3981,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 214.29,
+      "volume": 2617543,
+      "changePercent": 3.29219,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2718,7 +3998,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 145.05,
+      "volume": 1670638,
+      "changePercent": 3.23109,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2729,7 +4015,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 117.39,
+      "volume": 1582220,
+      "changePercent": 3.3817668,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2741,7 +4033,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 66.33,
+      "volume": 4097179,
+      "changePercent": 0.33278054,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2752,7 +4049,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 73.27,
+      "volume": 2664376,
+      "changePercent": 1.63684,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2767,7 +4069,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 198.37,
+      "volume": 4046834,
+      "changePercent": 2.1314933,
+      "high_volume": true
+    },
     "sector": "Industrials"
   },
   "KMI": {
@@ -2776,7 +4083,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 26.6,
+      "volume": 17397633,
+      "changePercent": 3.14075,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2787,7 +4100,11 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 491.0,
+      "volume": 701502,
+      "changePercent": 1.2225
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2798,7 +4115,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 55.66,
+      "volume": 1793998,
+      "changePercent": 1.69925,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2809,7 +4131,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 39.0,
+      "volume": 8295614,
+      "changePercent": 3.14731,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2820,7 +4148,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 419.79,
+      "volume": 841942,
+      "changePercent": 1.80429
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2831,7 +4163,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 170.9,
+      "volume": 1445369,
+      "changePercent": 3.86532,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2842,7 +4180,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 13.93,
+      "volume": 20441295,
+      "changePercent": 3.4149964,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2856,7 +4200,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 178.5,
+      "volume": 3570935,
+      "changePercent": 2.0058258,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "ABNB": {
@@ -2866,7 +4215,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 114.91,
+      "volume": 4451335,
+      "changePercent": 2.956727,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2878,7 +4233,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 205.84,
+      "volume": 1559873,
+      "changePercent": 2.709442,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2889,7 +4250,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 104.37,
+      "volume": 2275891,
+      "changePercent": 2.19329,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2900,7 +4266,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 141.83,
+      "volume": 789455,
+      "changePercent": 2.62663,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2913,7 +4284,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 66.64,
+      "volume": 12644408,
+      "changePercent": 3.0303,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Utilities"
   },
   "KO": {
@@ -2925,7 +4302,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 73.9,
+      "volume": 15574362,
+      "changePercent": 1.55284,
+      "high_volume": true
+    },
     "sector": "Consumer Defensive"
   },
   "GNRC": {
@@ -2934,7 +4316,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 110.67,
+      "volume": 740325,
+      "changePercent": 3.83749,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2946,7 +4333,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 136.54,
+      "volume": 1672012,
+      "changePercent": 3.1658382,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2957,7 +4350,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 126.82,
+      "volume": 890782,
+      "changePercent": 2.87986,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2968,7 +4366,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 106.42,
+      "volume": 1549768,
+      "changePercent": 2.7716,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -2983,7 +4387,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 237.97,
+      "volume": 105586057,
+      "changePercent": 4.602198,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Consumer Cyclical"
   },
   "SBAC": {
@@ -2992,7 +4402,13 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 231.42,
+      "volume": 1073509,
+      "changePercent": 2.6025248,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3003,7 +4419,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 73.67,
+      "volume": 1506639,
+      "changePercent": 2.4332592,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3014,7 +4435,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 265.36,
+      "volume": 1463692,
+      "changePercent": 3.02042,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3025,7 +4452,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 65.75,
+      "volume": 7597066,
+      "changePercent": 3.39676,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3036,7 +4469,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 236.25,
+      "volume": 1295385,
+      "changePercent": 3.79597,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3047,7 +4486,12 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 27.86,
+      "volume": 4210661,
+      "changePercent": 2.42647,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3058,7 +4502,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 58.06,
+      "volume": 2994482,
+      "changePercent": 0.676267,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3069,7 +4518,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 58.19,
+      "volume": 1647856,
+      "changePercent": 2.1952932,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3083,7 +4537,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 979.23,
+      "volume": 2000275,
+      "changePercent": 2.2406173,
+      "high_volume": true
+    },
     "sector": "Consumer Defensive"
   },
   "DHR": {
@@ -3094,7 +4553,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 192.07,
+      "volume": 6685109,
+      "changePercent": 3.84407,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "SOLV": {
@@ -3103,7 +4568,11 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 64.94,
+      "volume": 609899,
+      "changePercent": 1.56397
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3114,7 +4583,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 486.14,
+      "volume": 600548,
+      "changePercent": 3.81618,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3127,7 +4601,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 434.73,
+      "volume": 3653131,
+      "changePercent": 3.05322,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "WBD": {
@@ -3137,7 +4617,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 7.95,
+      "volume": 38590567,
+      "changePercent": 0.12594146,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3151,7 +4636,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 235.59,
+      "volume": 6611322,
+      "changePercent": 2.88222,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "GDDY": {
@@ -3160,7 +4651,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 170.19,
+      "volume": 1841465,
+      "changePercent": 3.01434,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3171,7 +4668,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 219.55,
+      "volume": 2274306,
+      "changePercent": 3.51249,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3182,7 +4685,12 @@
     ],
     "level": "L1",
     "sector": null,
-    "signals": {},
+    "signals": {
+      "price": 192.46,
+      "volume": 4632008,
+      "changePercent": 2.43773,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3193,7 +4701,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 337.07,
+      "volume": 1851995,
+      "changePercent": 3.7873,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3204,7 +4718,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 3678.66,
+      "volume": 115667,
+      "changePercent": 3.06564,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3216,7 +4735,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 59.28,
+      "volume": 4462133,
+      "changePercent": 2.1892786,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3227,7 +4751,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 199.67,
+      "volume": 1935894,
+      "changePercent": 5.3612,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3238,7 +4768,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 48.66,
+      "volume": 7705851,
+      "changePercent": 2.3128648,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3249,7 +4784,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 100.21,
+      "volume": 1382615,
+      "changePercent": 3.44792,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3260,7 +4801,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 128.52,
+      "volume": 1462475,
+      "changePercent": 1.1013228,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3271,7 +4817,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 81.64,
+      "volume": 3544764,
+      "changePercent": 2.84707,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3282,7 +4834,11 @@
     ],
     "level": "L2",
     "sector": null,
-    "signals": {},
+    "signals": {
+      "price": null,
+      "volume": null,
+      "changePercent": null
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3293,7 +4849,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 104.16,
+      "volume": 550106,
+      "changePercent": 4.19126,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3304,7 +4865,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 321.16,
+      "volume": 1212131,
+      "changePercent": 6.31269,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3315,7 +4882,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 98.8,
+      "volume": 3560639,
+      "changePercent": 6.13386,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3329,7 +4902,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 4598.08,
+      "volume": 225733,
+      "changePercent": 3.6156733,
+      "early_move": true
+    },
     "sector": "Consumer Cyclical"
   },
   "DTE": {
@@ -3338,7 +4916,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 135.8,
+      "volume": 2243002,
+      "changePercent": 3.05054,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3349,7 +4933,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 83.28,
+      "volume": 4772061,
+      "changePercent": 3.44056,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3360,7 +4950,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 161.3,
+      "volume": 814538,
+      "changePercent": 2.70614,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3371,7 +4966,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 9.56,
+      "volume": 39801383,
+      "changePercent": 2.68528,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3382,7 +4983,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 99.95,
+      "volume": 4793168,
+      "changePercent": 1.33833,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3395,7 +5001,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 887.22,
+      "volume": 482419,
+      "changePercent": 3.88993,
+      "early_move": true
+    },
     "sector": "Financial Services"
   },
   "PEP": {
@@ -3407,7 +5018,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 143.46,
+      "volume": 7017906,
+      "changePercent": 1.2206386,
+      "high_volume": true
+    },
     "sector": "Consumer Defensive"
   },
   "HUBB": {
@@ -3416,7 +5032,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 340.52,
+      "volume": 357742,
+      "changePercent": 3.43235,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3427,7 +5048,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 57.82,
+      "volume": 3591036,
+      "changePercent": 3.6015,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3440,7 +5067,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 110.38,
+      "volume": 4182255,
+      "changePercent": 3.83819,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "WY": {
@@ -3449,7 +5082,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 25.26,
+      "volume": 2947233,
+      "changePercent": 2.30863,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3460,7 +5098,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 162.0,
+      "volume": 1412295,
+      "changePercent": 3.33609,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3471,7 +5115,12 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 240.57,
+      "volume": 885365,
+      "changePercent": 2.73306,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3482,7 +5131,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 90.71,
+      "volume": 1684928,
+      "changePercent": 2.5319293,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3493,7 +5148,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 306.68,
+      "volume": 412351,
+      "changePercent": 3.4124613,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3507,7 +5167,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 1040.34,
+      "volume": 9051842,
+      "changePercent": 5.307163,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Communication Services"
   },
   "VTRS": {
@@ -3516,7 +5182,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 7.69,
+      "volume": 9477592,
+      "changePercent": 1.5852032,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3527,7 +5198,11 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 7166.92,
+      "volume": 33496,
+      "changePercent": 0.463706
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3538,7 +5213,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 20.7,
+      "volume": 26788468,
+      "changePercent": -5.56569,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3552,7 +5233,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 583.56,
+      "volume": 1397356,
+      "changePercent": 2.587717,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "LKQ": {
@@ -3561,7 +5248,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 42.26,
+      "volume": 2082908,
+      "changePercent": 2.5479236,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3572,7 +5265,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 118.19,
+      "volume": 1634267,
+      "changePercent": 2.27588,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3583,7 +5281,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 114.95,
+      "volume": 2671761,
+      "changePercent": 2.79914,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3594,7 +5298,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 563.84,
+      "volume": 293827,
+      "changePercent": 1.49587
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3607,7 +5315,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 173.78,
+      "volume": 6181770,
+      "changePercent": 2.12741,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "WFC": {
@@ -3618,7 +5331,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 66.23,
+      "volume": 13626634,
+      "changePercent": 3.46821,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "SJM": {
@@ -3627,7 +5346,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 117.73,
+      "volume": 1218464,
+      "changePercent": 1.57895,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3638,7 +5362,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 70.85,
+      "volume": 2647868,
+      "changePercent": 5.22798,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3649,7 +5379,12 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 236.81,
+      "volume": 1333538,
+      "changePercent": 2.28932,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3662,7 +5397,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 74.44,
+      "volume": 14594797,
+      "changePercent": 2.08448,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "WMB": {
@@ -3671,7 +5411,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 58.2,
+      "volume": 5315003,
+      "changePercent": 3.11836,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3682,7 +5428,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 67.87,
+      "volume": 5449637,
+      "changePercent": 1.4499271,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3693,7 +5444,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 55.94,
+      "volume": 3117316,
+      "changePercent": 2.84979,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3704,7 +5461,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 368.52,
+      "volume": 1811180,
+      "changePercent": 3.53139,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3715,7 +5478,12 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 1310.43,
+      "volume": 95871,
+      "changePercent": 4.92086,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3726,7 +5494,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 112.63,
+      "volume": 4806177,
+      "changePercent": 5.73601,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3737,7 +5511,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 141.26,
+      "volume": 1194418,
+      "changePercent": 2.1846,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3748,7 +5527,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 79.79,
+      "volume": 2199965,
+      "changePercent": 1.3850114,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3759,7 +5543,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 65.99,
+      "volume": 1999678,
+      "changePercent": 3.10937,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3770,7 +5560,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 332.62,
+      "volume": 1115135,
+      "changePercent": 3.17958,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3781,7 +5577,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 79.29,
+      "volume": 1861623,
+      "changePercent": 3.05433,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3794,7 +5596,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 38.32,
+      "volume": 34905982,
+      "changePercent": 3.79199,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "CVS": {
@@ -3805,7 +5613,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 65.45,
+      "volume": 8199085,
+      "changePercent": 1.465,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "LHX": {
@@ -3814,7 +5627,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 215.08,
+      "volume": 1750786,
+      "changePercent": 0.44835,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3825,7 +5643,11 @@
     ],
     "level": "L2",
     "sector": null,
-    "signals": {},
+    "signals": {
+      "price": null,
+      "volume": null,
+      "changePercent": null
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3837,7 +5659,13 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 176.61,
+      "volume": 3322700,
+      "changePercent": 2.7877972,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3848,7 +5676,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 1872.9,
+      "volume": 116390,
+      "changePercent": 3.12872,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3859,7 +5692,11 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 538.48,
+      "volume": 818200,
+      "changePercent": 0.937242
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3870,7 +5707,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 130.38,
+      "volume": 1430540,
+      "changePercent": 3.21406,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3881,7 +5724,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 150.71,
+      "volume": 1495174,
+      "changePercent": 2.38452,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3892,7 +5740,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 49.08,
+      "volume": 1961885,
+      "changePercent": 3.304575,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3903,7 +5757,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 172.33,
+      "volume": 3026473,
+      "changePercent": 4.24657,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3914,7 +5774,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 58.14,
+      "volume": 3192677,
+      "changePercent": 3.26821,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3925,7 +5791,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 25.48,
+      "volume": 4383898,
+      "changePercent": 0.354471,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3936,7 +5807,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 59.47,
+      "volume": 2689476,
+      "changePercent": 2.21726,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3947,7 +5823,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 183.06,
+      "volume": 279124,
+      "changePercent": 3.3594925,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3959,7 +5840,13 @@
     ],
     "level": "L1",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 136.33,
+      "volume": 7249285,
+      "changePercent": 8.12119,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3971,7 +5858,13 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 145.87,
+      "volume": 2359194,
+      "changePercent": 2.7760181,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3982,7 +5875,11 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 217.22,
+      "volume": 740159,
+      "changePercent": -0.293766
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -3993,7 +5890,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 200.3,
+      "volume": 1862165,
+      "changePercent": 3.8684957,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4005,7 +5908,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 143.29,
+      "volume": 1902582,
+      "changePercent": 2.06567,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4016,7 +5924,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 76.31,
+      "volume": 3788194,
+      "changePercent": 3.06591,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4027,7 +5941,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 61.03,
+      "volume": 2164042,
+      "changePercent": 2.9347239,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4038,7 +5958,11 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 998.85,
+      "volume": 221830,
+      "changePercent": 2.05051
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4049,7 +5973,11 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 1307.9,
+      "volume": 457067,
+      "changePercent": 0.103324
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4062,7 +5990,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 766.83,
+      "volume": 1572009,
+      "changePercent": 1.43388,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "CTRA": {
@@ -4071,7 +6004,12 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 25.08,
+      "volume": 4650893,
+      "changePercent": 1.08827,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4085,7 +6023,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 63.48,
+      "volume": 10319852,
+      "changePercent": 1.7470751,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "VRSN": {
@@ -4094,7 +6037,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 248.08,
+      "volume": 550359,
+      "changePercent": 2.7927427,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4106,7 +6054,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 258.15,
+      "volume": 1385903,
+      "changePercent": 2.6196518,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4117,7 +6071,11 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 276.37,
+      "volume": 403115,
+      "changePercent": 2.02295
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4128,7 +6086,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 79.12,
+      "volume": 5443620,
+      "changePercent": 3.60089,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4139,7 +6103,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 37.88,
+      "volume": 2811672,
+      "changePercent": 0.8251301,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4150,7 +6119,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 92.95,
+      "volume": 1231473,
+      "changePercent": 3.5193183,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4161,7 +6136,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 245.08,
+      "volume": 1994157,
+      "changePercent": 13.8372,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4172,7 +6153,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 29.71,
+      "volume": 3490593,
+      "changePercent": 2.1664345,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4183,7 +6169,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 24.75,
+      "volume": 9941041,
+      "changePercent": 2.95341,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4194,7 +6186,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 131.39,
+      "volume": 1417410,
+      "changePercent": 3.68529,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4205,7 +6203,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 330.71,
+      "volume": 517357,
+      "changePercent": 4.57894,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4216,7 +6219,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 23.19,
+      "volume": 25712723,
+      "changePercent": 4.13112,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4227,7 +6236,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 109.62,
+      "volume": 1937103,
+      "changePercent": 2.76554,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4238,7 +6253,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 102.81,
+      "volume": 2321454,
+      "changePercent": 2.54338,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4250,7 +6271,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 551.3,
+      "volume": 508929,
+      "changePercent": 2.2307875
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4261,7 +6286,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 100.89,
+      "volume": 2737950,
+      "changePercent": 8.35571,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4272,7 +6303,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 61.43,
+      "volume": 4390863,
+      "changePercent": 2.29809,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4283,7 +6319,13 @@
     ],
     "level": "L0",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 27.8,
+      "volume": 10657441,
+      "changePercent": 3.84759,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4294,7 +6336,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 48.56,
+      "volume": 7499173,
+      "changePercent": 2.81601,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4305,7 +6353,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 58.38,
+      "volume": 2300977,
+      "changePercent": 3.56573,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4319,7 +6373,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 252.42,
+      "volume": 2314172,
+      "changePercent": 4.08643,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "ADSK": {
@@ -4329,7 +6389,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 261.14,
+      "volume": 1072645,
+      "changePercent": 2.7018564,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4343,7 +6409,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 173.18,
+      "volume": 52854921,
+      "changePercent": 3.502262,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Consumer Cyclical"
   },
   "AEP": {
@@ -4353,7 +6425,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 108.15,
+      "volume": 2303217,
+      "changePercent": 2.482709,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4364,7 +6441,13 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 32.97,
+      "volume": 5881064,
+      "changePercent": 2.55054,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4375,7 +6458,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 82.0,
+      "volume": 1839664,
+      "changePercent": 2.18069,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4386,7 +6474,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 141.93,
+      "volume": 1869322,
+      "changePercent": 2.9448,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4397,7 +6491,12 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 39.97,
+      "volume": 5963994,
+      "changePercent": 2.43465,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4408,7 +6507,11 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 135.11,
+      "volume": 680611,
+      "changePercent": 2.44919
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4419,7 +6522,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 14.17,
+      "volume": 17879661,
+      "changePercent": 2.75562,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4433,7 +6542,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 153.9,
+      "volume": 15589777,
+      "changePercent": 2.695845,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Communication Services"
   },
   "WDC": {
@@ -4442,7 +6557,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 36.68,
+      "volume": 4552775,
+      "changePercent": 2.002228,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4453,7 +6573,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 348.12,
+      "volume": 1506416,
+      "changePercent": 2.51185,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4464,7 +6590,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 50.28,
+      "volume": 5804040,
+      "changePercent": 1.3914068,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4475,7 +6606,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 152.15,
+      "volume": 2998245,
+      "changePercent": 0.31647375,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4486,7 +6622,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 91.86,
+      "volume": 3847808,
+      "changePercent": 1.80649,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4497,7 +6638,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 13.82,
+      "volume": 8982637,
+      "changePercent": 2.2945926,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4508,7 +6654,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 39.02,
+      "volume": 4697550,
+      "changePercent": 2.38782,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4523,7 +6674,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 278.4,
+      "volume": 2076083,
+      "changePercent": 1.7246423,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "DOV": {
@@ -4532,7 +6688,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 163.56,
+      "volume": 1438371,
+      "changePercent": 3.50588,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4543,7 +6705,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 137.92,
+      "volume": 3833639,
+      "changePercent": -1.53495,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4554,7 +6721,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 123.71,
+      "volume": 3320255,
+      "changePercent": 3.41052,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4565,7 +6738,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 31.2,
+      "volume": 13707470,
+      "changePercent": 5.83447,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4577,7 +6756,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 209.97,
+      "volume": 1491362,
+      "changePercent": 2.3445103,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4588,7 +6772,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 37.26,
+      "volume": 4173430,
+      "changePercent": 2.11016,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4601,7 +6790,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 76.58,
+      "volume": 9737534,
+      "changePercent": 2.17479,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "VRTX": {
@@ -4611,7 +6805,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 490.47,
+      "volume": 1072770,
+      "changePercent": 2.7119308,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4623,7 +6823,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 61.42,
+      "volume": 9323292,
+      "changePercent": 1.882721,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4637,7 +6842,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 319.08,
+      "volume": 3142126,
+      "changePercent": 3.35579,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Consumer Cyclical"
   },
   "QCOM": {
@@ -4649,7 +6860,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 138.74,
+      "volume": 7773722,
+      "changePercent": 1.9098033,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "MTD": {
@@ -4658,7 +6874,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 1003.16,
+      "volume": 211228,
+      "changePercent": 3.40256,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4669,7 +6890,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 307.77,
+      "volume": 274188,
+      "changePercent": 3.18849,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4680,7 +6906,12 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 357.2,
+      "volume": 305282,
+      "changePercent": 4.17943,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4691,7 +6922,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 70.6,
+      "volume": 3004917,
+      "changePercent": 2.02312,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4705,7 +6941,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 34.2,
+      "volume": 21964318,
+      "changePercent": 1.7857213,
+      "high_volume": true
+    },
     "sector": "Communication Services"
   },
   "PARA": {
@@ -4714,7 +6955,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 10.98,
+      "volume": 7841568,
+      "changePercent": 2.0446033,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4727,7 +6973,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 170.2,
+      "volume": 6358284,
+      "changePercent": 3.05158,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "OKE": {
@@ -4736,7 +6988,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 84.05,
+      "volume": 2883654,
+      "changePercent": 2.7255,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4747,7 +7005,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 20.45,
+      "volume": 5245844,
+      "changePercent": 1.79194,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4758,7 +7021,11 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 93.57,
+      "volume": 843618,
+      "changePercent": 1.38693
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4769,7 +7036,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 64.92,
+      "volume": 3775367,
+      "changePercent": 2.75403,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4782,7 +7055,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 827.54,
+      "volume": 2611479,
+      "changePercent": 1.16378,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "CTVA": {
@@ -4791,7 +7069,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 60.65,
+      "volume": 1652198,
+      "changePercent": 2.58796,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4803,7 +7087,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 81.44,
+      "volume": 2836633,
+      "changePercent": 1.4323097,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4817,7 +7106,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 478.74,
+      "volume": 3002296,
+      "changePercent": 2.2249706,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "CMG": {
@@ -4826,7 +7120,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 47.1,
+      "volume": 12171535,
+      "changePercent": 1.22502,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4837,7 +7136,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 261.85,
+      "volume": 825515,
+      "changePercent": 3.18399,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4848,7 +7152,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 52.28,
+      "volume": 1548454,
+      "changePercent": 2.5299,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4859,7 +7169,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 72.85,
+      "volume": 1845456,
+      "changePercent": 3.6863024,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4870,7 +7186,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 133.69,
+      "volume": 1700239,
+      "changePercent": 1.92117,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4884,7 +7205,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 57.06,
+      "volume": 14084016,
+      "changePercent": 1.67499,
+      "high_volume": true
+    },
     "sector": "Consumer Cyclical"
   },
   "INTC": {
@@ -4897,7 +7223,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 19.51,
+      "volume": 79140974,
+      "changePercent": 3.556264,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "DOW": {
@@ -4907,7 +7239,13 @@
     ],
     "level": "L1",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 29.0,
+      "volume": 7371279,
+      "changePercent": 3.12944,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4918,7 +7256,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 117.56,
+      "volume": 1524693,
+      "changePercent": 3.65015,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4929,7 +7273,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 26.75,
+      "volume": 8680468,
+      "changePercent": 7.0,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4940,7 +7290,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 65.05,
+      "volume": 3053585,
+      "changePercent": 4.36387,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4951,7 +7307,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 83.03,
+      "volume": 1136850,
+      "changePercent": 1.73998,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4963,7 +7324,11 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 1393.54,
+      "volume": 397883,
+      "changePercent": 1.8297434
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4974,7 +7339,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 118.74,
+      "volume": 1059467,
+      "changePercent": 3.95727,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4985,7 +7356,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 209.59,
+      "volume": 724130,
+      "changePercent": 2.72006,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -4996,7 +7372,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 98.34,
+      "volume": 11719280,
+      "changePercent": 4.2178845,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5007,7 +7389,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 53.4,
+      "volume": 4528471,
+      "changePercent": 2.57395,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5021,7 +7409,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 454.61,
+      "volume": 1447028,
+      "changePercent": 2.4242377,
+      "high_volume": true
+    },
     "sector": "Basic Materials"
   },
   "PODD": {
@@ -5030,7 +7423,11 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 244.02,
+      "volume": 525482,
+      "changePercent": 2.2844434
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5041,7 +7438,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 16.61,
+      "volume": 9393675,
+      "changePercent": 3.48911,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5052,7 +7455,13 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 36.21,
+      "volume": 8336307,
+      "changePercent": 2.54885,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5065,7 +7474,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 102.28,
+      "volume": 5768830,
+      "changePercent": 4.42062,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "BAX": {
@@ -5074,7 +7489,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 28.62,
+      "volume": 4604349,
+      "changePercent": 0.280308,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5087,7 +7507,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 131.73,
+      "volume": 4381718,
+      "changePercent": 1.41658,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "GLW": {
@@ -5096,7 +7521,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 41.75,
+      "volume": 4801689,
+      "changePercent": 2.57985,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5107,7 +7538,11 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 134.97,
+      "volume": 947680,
+      "changePercent": 1.10112
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5118,7 +7553,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 23.9,
+      "volume": 3659503,
+      "changePercent": 1.70213,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5132,7 +7572,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 174.66,
+      "volume": 2874802,
+      "changePercent": 1.8425677,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "VLO": {
@@ -5141,7 +7586,13 @@
     ],
     "level": "L2",
     "sector": "Energy",
-    "signals": {},
+    "signals": {
+      "price": 112.46,
+      "volume": 3264265,
+      "changePercent": 3.32599,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5152,7 +7603,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 48.37,
+      "volume": 2511047,
+      "changePercent": 2.26216,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5163,7 +7619,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 73.29,
+      "volume": 3339874,
+      "changePercent": 2.58958,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5174,7 +7636,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 107.11,
+      "volume": 1133922,
+      "changePercent": 2.21395,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5185,7 +7652,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 235.0,
+      "volume": 384376,
+      "changePercent": 3.03402,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5196,7 +7668,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 73.7,
+      "volume": 3842653,
+      "changePercent": 2.21914,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5207,7 +7684,13 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 61.84,
+      "volume": 2895756,
+      "changePercent": 2.87806,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5218,7 +7701,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 48.54,
+      "volume": 2425051,
+      "changePercent": 0.935747,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5229,7 +7717,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 44.78,
+      "volume": 1109474,
+      "changePercent": 1.8885052,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5241,7 +7734,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 421.59,
+      "volume": 949647,
+      "changePercent": 3.6739218,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5255,7 +7753,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 331.4,
+      "volume": 4120236,
+      "changePercent": 3.53014,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "GPN": {
@@ -5264,7 +7768,13 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 71.39,
+      "volume": 8118830,
+      "changePercent": 5.80999,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5275,7 +7785,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 68.93,
+      "volume": 1708963,
+      "changePercent": 2.11852,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5287,7 +7802,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 27.78,
+      "volume": 13606529,
+      "changePercent": 1.1653373,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5298,7 +7818,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 24.24,
+      "volume": 3716554,
+      "changePercent": 2.8862493,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5309,7 +7835,12 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 58.52,
+      "volume": 3887222,
+      "changePercent": 0.966186,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5321,7 +7852,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 261.71,
+      "volume": 2129411,
+      "changePercent": 3.0719497,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5332,7 +7869,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 149.99,
+      "volume": 2832302,
+      "changePercent": 2.13824,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5346,7 +7888,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 157.75,
+      "volume": 7129685,
+      "changePercent": 0.528933,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "WEC": {
@@ -5355,7 +7902,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 109.13,
+      "volume": 1338868,
+      "changePercent": 2.02879,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5368,7 +7920,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 343.03,
+      "volume": 23484812,
+      "changePercent": 7.952539,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "AJG": {
@@ -5377,7 +7935,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 330.75,
+      "volume": 1041348,
+      "changePercent": 3.55354,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5389,7 +7953,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 35.45,
+      "volume": 8815107,
+      "changePercent": 2.0437508,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5400,7 +7969,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 134.77,
+      "volume": 1288624,
+      "changePercent": 3.00367,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5411,7 +7986,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 57.8,
+      "volume": 3671458,
+      "changePercent": 1.7964079,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5425,7 +8005,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 291.17,
+      "volume": 1824599,
+      "changePercent": 2.25821,
+      "high_volume": true
+    },
     "sector": "Industrials"
   },
   "PLTR": {
@@ -5437,7 +8022,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 93.99,
+      "volume": 88560274,
+      "changePercent": 3.5132098,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "MCK": {
@@ -5446,7 +8037,11 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 695.17,
+      "volume": 714752,
+      "changePercent": 1.8579
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5459,7 +8054,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 106.89,
+      "volume": 1647020,
+      "changePercent": 4.11026,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "IQV": {
@@ -5468,7 +8069,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 143.61,
+      "volume": 1733300,
+      "changePercent": 1.69239,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5479,7 +8085,13 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 60.23,
+      "volume": 3739568,
+      "changePercent": 3.82693,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5494,7 +8106,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 98.89,
+      "volume": 231184779,
+      "changePercent": 2.0431285,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "WBA": {
@@ -5504,7 +8121,12 @@
     ],
     "level": "L1",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 10.99,
+      "volume": 10408355,
+      "changePercent": 1.1039548,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5515,7 +8137,13 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 58.01,
+      "volume": 1200809,
+      "changePercent": 3.1839151,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5526,7 +8154,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 67.05,
+      "volume": 4969064,
+      "changePercent": 2.1636536,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5537,7 +8170,12 @@
     ],
     "level": "L2",
     "sector": "Basic Materials",
-    "signals": {},
+    "signals": {
+      "price": 75.54,
+      "volume": 1721478,
+      "changePercent": 0.545726,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5548,7 +8186,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 18.05,
+      "volume": 3397452,
+      "changePercent": 4.03458,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5559,7 +8203,12 @@
     ],
     "level": "L2",
     "sector": "Communication Services",
-    "signals": {},
+    "signals": {
+      "price": 30.29,
+      "volume": 726189,
+      "changePercent": 2.8522925,
+      "early_move": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5575,7 +8224,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 199.74,
+      "volume": 51869389,
+      "changePercent": 3.4065034,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "SBUX": {
@@ -5587,7 +8242,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 81.75,
+      "volume": 10165145,
+      "changePercent": 1.3262267,
+      "high_volume": true
+    },
     "sector": "Consumer Cyclical"
   },
   "TRV": {
@@ -5597,7 +8257,13 @@
     ],
     "level": "L1",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 261.31,
+      "volume": 1721748,
+      "changePercent": 4.6957,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5608,7 +8274,12 @@
     ],
     "level": "L2",
     "sector": "Utilities",
-    "signals": {},
+    "signals": {
+      "price": 9.98,
+      "volume": 8101112,
+      "changePercent": 1.83673,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5622,7 +8293,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 354.43,
+      "volume": 2795317,
+      "changePercent": 2.17065,
+      "high_volume": true
+    },
     "sector": "Consumer Cyclical"
   },
   "TXT": {
@@ -5631,7 +8307,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 65.45,
+      "volume": 2352821,
+      "changePercent": 1.34716,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5642,7 +8323,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 95.05,
+      "volume": 8607105,
+      "changePercent": 1.57085,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5655,7 +8341,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 127.24,
+      "volume": 8821263,
+      "changePercent": 3.59876,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "OTIS": {
@@ -5664,7 +8356,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 98.95,
+      "volume": 2921354,
+      "changePercent": 1.95775,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5676,7 +8373,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 30.2,
+      "volume": 8976347,
+      "changePercent": 0.8684042,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5690,7 +8392,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 349.91,
+      "volume": 3226796,
+      "changePercent": 1.9491878,
+      "high_volume": true
+    },
     "sector": "Technology"
   },
   "LEN": {
@@ -5699,7 +8406,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 107.92,
+      "volume": 2582716,
+      "changePercent": 4.0594,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5711,7 +8424,12 @@
     ],
     "level": "L2",
     "sector": "Technology",
-    "signals": {},
+    "signals": {
+      "price": 69.73,
+      "volume": 2879420,
+      "changePercent": 2.453726,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5722,7 +8440,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 216.9,
+      "volume": 3088799,
+      "changePercent": 0.393423,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5733,7 +8456,11 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 222.41,
+      "volume": 448248,
+      "changePercent": 0.10802785
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5744,7 +8471,11 @@
     ],
     "level": "L2",
     "sector": "Real Estate",
-    "signals": {},
+    "signals": {
+      "price": 158.32,
+      "volume": 581568,
+      "changePercent": 2.26069
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5758,7 +8489,13 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 519.99,
+      "volume": 2091557,
+      "changePercent": 3.71589,
+      "early_move": true,
+      "high_volume": true
+    },
     "sector": "Financial Services"
   },
   "HRL": {
@@ -5767,7 +8504,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 30.71,
+      "volume": 2322053,
+      "changePercent": 1.01974,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5778,7 +8520,12 @@
     ],
     "level": "L2",
     "sector": "Industrials",
-    "signals": {},
+    "signals": {
+      "price": 116.1,
+      "volume": 1127266,
+      "changePercent": 1.77068,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5789,7 +8536,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 33.94,
+      "volume": 7224690,
+      "changePercent": 4.23832,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5800,7 +8553,13 @@
     ],
     "level": "L2",
     "sector": "Financial Services",
-    "signals": {},
+    "signals": {
+      "price": 36.34,
+      "volume": 7170447,
+      "changePercent": 2.91702,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5811,7 +8570,12 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 324.62,
+      "volume": 1432567,
+      "changePercent": 2.20711,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5822,7 +8586,13 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 210.64,
+      "volume": 1681375,
+      "changePercent": 2.95714,
+      "early_move": true,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5833,7 +8603,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 45.16,
+      "volume": 8108099,
+      "changePercent": 1.73463,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5846,7 +8621,12 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "signals": {},
+    "signals": {
+      "price": 22.53,
+      "volume": 30164690,
+      "changePercent": 2.22323,
+      "high_volume": true
+    },
     "sector": "Healthcare"
   },
   "KDP": {
@@ -5856,7 +8636,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Defensive",
-    "signals": {},
+    "signals": {
+      "price": 35.48,
+      "volume": 13158779,
+      "changePercent": 0.48144484,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5867,7 +8652,11 @@
     ],
     "level": "L2",
     "sector": "Healthcare",
-    "signals": {},
+    "signals": {
+      "price": 222.77,
+      "volume": 292221,
+      "changePercent": 1.82375
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
@@ -5878,7 +8667,12 @@
     ],
     "level": "L2",
     "sector": "Consumer Cyclical",
-    "signals": {},
+    "signals": {
+      "price": 186.42,
+      "volume": 1346323,
+      "changePercent": 2.38919,
+      "high_volume": true
+    },
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null
