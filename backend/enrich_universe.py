@@ -22,8 +22,9 @@ def load_json(path):
 
 def enrich_with_tv_signals(universe, tv_data):
     for symbol, info in universe.items():
-        if symbol in tv_data:
-            tv = tv_data[symbol]
+        # Try both original and upper-cased versions of the symbol
+        tv = tv_data.get(symbol) or tv_data.get(symbol.upper()) or tv_data.get(symbol.lower())
+        if tv:
             signals = info.setdefault("signals", {})
             if "price" in tv:
                 signals["price"] = tv["price"]
