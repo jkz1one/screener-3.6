@@ -1,0 +1,170 @@
+{
+  "GOOGL": {
+    "sources": [
+      "sp500",
+      "nasdaq100"
+    ],
+    "level": "L2",
+    "prevClose": 159.07,
+    "avgVolume": 47306130,
+    "multiDayHigh": 161.72,
+    "multiDayLow": 140.53,
+    "premarketHigh": 159.65,
+    "premarketLow": 156.82,
+    "prevHigh": 161.72,
+    "prevLow": 157.57,
+    "tier1": [],
+    "tier2": [],
+    "tier3": [
+      "Top 5 Volume Gainer"
+    ],
+    "tags": [],
+    "score": 1,
+    "tier1_hits": 0,
+    "tier2_hits": 0,
+    "tier3_hits": 1,
+    "isBlocked": true
+  },
+  "SPY": {
+    "sources": [
+      "anchor"
+    ],
+    "level": "L0",
+    "prevClose": 539.12,
+    "avgVolume": 146912070,
+    "multiDayHigh": 567.42,
+    "multiDayLow": 481.8,
+    "premarketHigh": 543.23,
+    "premarketLow": 538.14,
+    "prevHigh": 543.85,
+    "prevLow": 533.86,
+    "tier1": [],
+    "tier2": [],
+    "tier3": [
+      "Top 5 Volume Gainer"
+    ],
+    "tags": [],
+    "score": 1,
+    "tier1_hits": 0,
+    "tier2_hits": 0,
+    "tier3_hits": 1,
+    "isBlocked": true
+  },
+  "TSLA": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "anchor"
+    ],
+    "level": "L0",
+    "tv_price": 252.31,
+    "tv_volume": 128949999,
+    "tv_changePercent": -0.04,
+    "signals": {
+      "gapPercent": -0.04,
+      "momentumBullish": null
+    },
+    "prevClose": 252.35,
+    "avgVolume": 159455820,
+    "multiDayHigh": 284.99,
+    "multiDayLow": 214.25,
+    "premarketHigh": 257.86,
+    "premarketLow": 247.55,
+    "prevHigh": 258.57,
+    "prevLow": 245.93,
+    "tier1": [],
+    "tier2": [],
+    "tier3": [
+      "Top 5 Volume Gainer"
+    ],
+    "tags": [],
+    "score": 1,
+    "tier1_hits": 0,
+    "tier2_hits": 0,
+    "tier3_hits": 1,
+    "isBlocked": false
+  },
+  "NVDA": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "anchor"
+    ],
+    "level": "L0",
+    "tv_price": 110.93,
+    "tv_volume": 313410000,
+    "tv_changePercent": 3.12,
+    "signals": {
+      "gapPercent": 3.12,
+      "earlyMove": true,
+      "momentumBullish": true
+    },
+    "prevClose": 110.71,
+    "avgVolume": 402953110,
+    "multiDayHigh": 115.1,
+    "multiDayLow": 86.62,
+    "premarketHigh": 112.76,
+    "premarketLow": 110.5,
+    "prevHigh": 112.99,
+    "prevLow": 109.07,
+    "tier1": [
+      "Gap Up"
+    ],
+    "tier2": [
+      "Early Move"
+    ],
+    "tier3": [
+      "Top 5 Volume Gainer"
+    ],
+    "tags": [
+      "Strong Setup"
+    ],
+    "score": 6,
+    "tier1_hits": 1,
+    "tier2_hits": 1,
+    "tier3_hits": 1,
+    "isBlocked": false
+  },
+  "AAPL": {
+    "sources": [
+      "sp500",
+      "nasdaq100",
+      "dow30",
+      "anchor"
+    ],
+    "level": "L0",
+    "tv_price": 198.15,
+    "tv_volume": 87440000,
+    "tv_changePercent": 4.06,
+    "signals": {
+      "gapPercent": 4.06,
+      "earlyMove": true,
+      "momentumBullish": true
+    },
+    "prevClose": 202.52,
+    "avgVolume": 109272950,
+    "multiDayHigh": 225.19,
+    "multiDayLow": 169.21,
+    "premarketHigh": 203.51,
+    "premarketLow": 199.82,
+    "prevHigh": 206.66,
+    "prevLow": 201.16,
+    "tier1": [
+      "Gap Up"
+    ],
+    "tier2": [
+      "Early Move"
+    ],
+    "tier3": [
+      "Top 5 Volume Gainer"
+    ],
+    "tags": [
+      "Strong Setup"
+    ],
+    "score": 6,
+    "tier1_hits": 1,
+    "tier2_hits": 1,
+    "tier3_hits": 1,
+    "isBlocked": false
+  }
+}

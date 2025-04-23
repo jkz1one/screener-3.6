@@ -1,0 +1,602 @@
+[
+  {
+    "symbol": "NVDA",
+    "price": 110.93,
+    "changePercent": 3.12,
+    "volume": 313410000
+  },
+  {
+    "symbol": "TSLA",
+    "price": 252.31,
+    "changePercent": -0.04,
+    "volume": 128949999
+  },
+  {
+    "symbol": "AAPL",
+    "price": 198.15,
+    "changePercent": 4.06,
+    "volume": 87440000
+  },
+  {
+    "symbol": "META",
+    "price": 543.57,
+    "changePercent": -0.5,
+    "volume": 17640000
+  },
+  {
+    "symbol": "AMZN",
+    "price": 184.87,
+    "changePercent": 2.01,
+    "volume": 50590000
+  },
+  {
+    "symbol": "MSFT",
+    "price": 388.45,
+    "changePercent": 1.86,
+    "volume": 23840000
+  },
+  {
+    "symbol": "PLTR",
+    "price": 88.55,
+    "changePercent": -0.05,
+    "volume": 95130000
+  },
+  {
+    "symbol": "MSTR",
+    "price": 299.98,
+    "changePercent": 10.15,
+    "volume": 21330000
+  },
+  {
+    "symbol": "AVGO",
+    "price": 181.94,
+    "changePercent": 5.59,
+    "volume": 33960000
+  },
+  {
+    "symbol": "AMD",
+    "price": 93.4,
+    "changePercent": 5.3,
+    "volume": 57890000
+  },
+  {
+    "symbol": "JPM",
+    "price": 236.2,
+    "changePercent": 4.0,
+    "volume": 20280000
+  },
+  {
+    "symbol": "NFLX",
+    "price": 918.29,
+    "changePercent": -0.31,
+    "volume": 4070000
+  },
+  {
+    "symbol": "UNH",
+    "price": 599.47,
+    "changePercent": 0.85,
+    "volume": 6120000
+  },
+  {
+    "symbol": "GOOG",
+    "price": 159.4,
+    "changePercent": 2.59,
+    "volume": 22580000
+  },
+  {
+    "symbol": "TXN",
+    "price": 147.6,
+    "changePercent": -5.75,
+    "volume": 21110000
+  },
+  {
+    "symbol": "LLY",
+    "price": 732.41,
+    "changePercent": 1.6,
+    "volume": 3600000
+  },
+  {
+    "symbol": "COST",
+    "price": 963.41,
+    "changePercent": -0.09,
+    "volume": 2720000
+  },
+  {
+    "symbol": "INTC",
+    "price": 19.74,
+    "changePercent": -0.7,
+    "volume": 128419999
+  },
+  {
+    "symbol": "WMT",
+    "price": 92.8,
+    "changePercent": 2.42,
+    "volume": 25510000
+  },
+  {
+    "symbol": "XOM",
+    "price": 103.14,
+    "changePercent": 3.21,
+    "volume": 22880000
+  },
+  {
+    "symbol": "CVX",
+    "price": 135.63,
+    "changePercent": 0.48,
+    "volume": 17220000
+  },
+  {
+    "symbol": "BAC",
+    "price": 35.95,
+    "changePercent": 0.28,
+    "volume": 63670000
+  },
+  {
+    "symbol": "V",
+    "price": 333.4,
+    "changePercent": 2.71,
+    "volume": 6800000
+  },
+  {
+    "symbol": "HOOD",
+    "price": 43.68,
+    "changePercent": 7.83,
+    "volume": 51350000
+  },
+  {
+    "symbol": "APP",
+    "price": 249.95,
+    "changePercent": -5.26,
+    "volume": 8970000
+  },
+  {
+    "symbol": "MU",
+    "price": 69.55,
+    "changePercent": -0.71,
+    "volume": 30800000
+  },
+  {
+    "symbol": "WFC",
+    "price": 62.51,
+    "changePercent": -0.95,
+    "volume": 33870000
+  },
+  {
+    "symbol": "MA",
+    "price": 509.75,
+    "changePercent": 2.08,
+    "volume": 3740000
+  },
+  {
+    "symbol": "GS",
+    "price": 494.44,
+    "changePercent": 0.95,
+    "volume": 3770000
+  },
+  {
+    "symbol": "NEM",
+    "price": 54.97,
+    "changePercent": 7.91,
+    "volume": 31770000
+  },
+  {
+    "symbol": "NOW",
+    "price": 785.67,
+    "changePercent": 0.28,
+    "volume": 2100000
+  },
+  {
+    "symbol": "ABBV",
+    "price": 175.05,
+    "changePercent": 0.49,
+    "volume": 9050000
+  },
+  {
+    "symbol": "CRM",
+    "price": 255.0,
+    "changePercent": -0.05,
+    "volume": 6090000
+  },
+  {
+    "symbol": "AMAT",
+    "price": 144.94,
+    "changePercent": 4.85,
+    "volume": 10620000
+  },
+  {
+    "symbol": "C",
+    "price": 61.64,
+    "changePercent": 0.08,
+    "volume": 24780000
+  },
+  {
+    "symbol": "QCOM",
+    "price": 139.25,
+    "changePercent": 3.61,
+    "volume": 10960000
+  },
+  {
+    "symbol": "SHOP",
+    "price": 83.71,
+    "changePercent": -1.09,
+    "volume": 18100000
+  },
+  {
+    "symbol": "JNJ",
+    "price": 151.73,
+    "changePercent": 2.04,
+    "volume": 9940000
+  },
+  {
+    "symbol": "LIN",
+    "price": 441.83,
+    "changePercent": 2.3,
+    "volume": 3340000
+  },
+  {
+    "symbol": "PG",
+    "price": 166.91,
+    "changePercent": 2.05,
+    "volume": 8600000
+  },
+  {
+    "symbol": "KO",
+    "price": 71.43,
+    "changePercent": 0.95,
+    "volume": 19990000
+  },
+  {
+    "symbol": "ACN",
+    "price": 284.34,
+    "changePercent": -0.31,
+    "volume": 5020000
+  },
+  {
+    "symbol": "ISRG",
+    "price": 493.6,
+    "changePercent": 0.83,
+    "volume": 2840000
+  },
+  {
+    "symbol": "BKNG",
+    "price": 4586.53,
+    "changePercent": 2.04,
+    "volume": 304990
+  },
+  {
+    "symbol": "ADBE",
+    "price": 352.47,
+    "changePercent": 0.69,
+    "volume": 3940000
+  },
+  {
+    "symbol": "BA",
+    "price": 156.84,
+    "changePercent": 0.85,
+    "volume": 8810000
+  },
+  {
+    "symbol": "MCD",
+    "price": 309.9,
+    "changePercent": 1.02,
+    "volume": 4440000
+  },
+  {
+    "symbol": "COIN",
+    "price": 175.5,
+    "changePercent": 3.47,
+    "volume": 7770000
+  },
+  {
+    "symbol": "F",
+    "price": 9.33,
+    "changePercent": 2.08,
+    "volume": 146070000
+  },
+  {
+    "symbol": "ORCL",
+    "price": 132.35,
+    "changePercent": -0.75,
+    "volume": 10190000
+  },
+  {
+    "symbol": "CSCO",
+    "price": 57.33,
+    "changePercent": 1.31,
+    "volume": 23040000
+  },
+  {
+    "symbol": "VZ",
+    "price": 43.73,
+    "changePercent": 1.89,
+    "volume": 30140000
+  },
+  {
+    "symbol": "MRK",
+    "price": 79.18,
+    "changePercent": 2.1,
+    "volume": 16190000
+  },
+  {
+    "symbol": "CRWD",
+    "price": 377.9,
+    "changePercent": 2.52,
+    "volume": 3380000
+  },
+  {
+    "symbol": "HD",
+    "price": 353.86,
+    "changePercent": 0.07,
+    "volume": 3580000
+  },
+  {
+    "symbol": "PEP",
+    "price": 144.43,
+    "changePercent": 0.2,
+    "volume": 8560000
+  },
+  {
+    "symbol": "NKE",
+    "price": 54.39,
+    "changePercent": -0.02,
+    "volume": 22620000
+  },
+  {
+    "symbol": "PFE",
+    "price": 21.91,
+    "changePercent": 1.48,
+    "volume": 55080000
+  },
+  {
+    "symbol": "MPWR",
+    "price": 533.13,
+    "changePercent": 9.99,
+    "volume": 2220000
+  },
+  {
+    "symbol": "GE",
+    "price": 181.67,
+    "changePercent": 0.09,
+    "volume": 6490000
+  },
+  {
+    "symbol": "UBER",
+    "price": 72.28,
+    "changePercent": 1.89,
+    "volume": 16270000
+  },
+  {
+    "symbol": "SPOT",
+    "price": 543.66,
+    "changePercent": -1.69,
+    "volume": 2150000
+  },
+  {
+    "symbol": "ADI",
+    "price": 179.16,
+    "changePercent": 0.45,
+    "volume": 6530000
+  },
+  {
+    "symbol": "TMO",
+    "price": 438.15,
+    "changePercent": 2.51,
+    "volume": 2660000
+  },
+  {
+    "symbol": "CRL",
+    "price": 99.75,
+    "changePercent": -0.2,
+    "volume": 11600000
+  },
+  {
+    "symbol": "MS",
+    "price": 108.12,
+    "changePercent": 1.44,
+    "volume": 10570000
+  },
+  {
+    "symbol": "SCHW",
+    "price": 76.96,
+    "changePercent": 4.21,
+    "volume": 14850000
+  },
+  {
+    "symbol": "AXP",
+    "price": 251.13,
+    "changePercent": 1.72,
+    "volume": 4410000
+  },
+  {
+    "symbol": "ETN",
+    "price": 277.53,
+    "changePercent": 2.52,
+    "volume": 3830000
+  },
+  {
+    "symbol": "PANW",
+    "price": 168.34,
+    "changePercent": 0.04,
+    "volume": 6300000
+  },
+  {
+    "symbol": "TMUS",
+    "price": 258.67,
+    "changePercent": 1.0,
+    "volume": 3990000
+  },
+  {
+    "symbol": "IBM",
+    "price": 235.48,
+    "changePercent": 2.58,
+    "volume": 4330000
+  },
+  {
+    "symbol": "HON",
+    "price": 198.55,
+    "changePercent": 2.67,
+    "volume": 5100000
+  },
+  {
+    "symbol": "PM",
+    "price": 153.89,
+    "changePercent": 1.8,
+    "volume": 6460000
+  },
+  {
+    "symbol": "BX",
+    "price": 127.18,
+    "changePercent": -0.21,
+    "volume": 7810000
+  },
+  {
+    "symbol": "LRCX",
+    "price": 67.48,
+    "changePercent": 1.58,
+    "volume": 14710000
+  },
+  {
+    "symbol": "AMGN",
+    "price": 285.98,
+    "changePercent": 1.62,
+    "volume": 3470000
+  },
+  {
+    "symbol": "NEE",
+    "price": 65.81,
+    "changePercent": -1.36,
+    "volume": 14860000
+  },
+  {
+    "symbol": "TGT",
+    "price": 92.78,
+    "changePercent": 0.08,
+    "volume": 10460000
+  },
+  {
+    "symbol": "MRVL",
+    "price": 53.39,
+    "changePercent": 0.98,
+    "volume": 17730000
+  },
+  {
+    "symbol": "CAT",
+    "price": 293.45,
+    "changePercent": 1.48,
+    "volume": 3200000
+  },
+  {
+    "symbol": "ABT",
+    "price": 126.88,
+    "changePercent": 1.91,
+    "volume": 7360000
+  },
+  {
+    "symbol": "SMCI",
+    "price": 33.15,
+    "changePercent": -1.57,
+    "volume": 27610000
+  },
+  {
+    "symbol": "KLAC",
+    "price": 670.22,
+    "changePercent": 2.05,
+    "volume": 1360000
+  },
+  {
+    "symbol": "CMCSA",
+    "price": 33.72,
+    "changePercent": 0.12,
+    "volume": 26810000
+  },
+  {
+    "symbol": "GEV",
+    "price": 321.43,
+    "changePercent": 3.7,
+    "volume": 2800000
+  },
+  {
+    "symbol": "GILD",
+    "price": 103.63,
+    "changePercent": 2.2,
+    "volume": 8680000
+  },
+  {
+    "symbol": "DHR",
+    "price": 188.73,
+    "changePercent": 4.41,
+    "volume": 4760000
+  },
+  {
+    "symbol": "TJX",
+    "price": 128.15,
+    "changePercent": 0.53,
+    "volume": 6940000
+  },
+  {
+    "symbol": "FCX",
+    "price": 33.35,
+    "changePercent": 6.38,
+    "volume": 26250000
+  },
+  {
+    "symbol": "NXPI",
+    "price": 168.79,
+    "changePercent": 1.93,
+    "volume": 5170000
+  },
+  {
+    "symbol": "CVS",
+    "price": 69.51,
+    "changePercent": 0.78,
+    "volume": 12540000
+  },
+  {
+    "symbol": "INTU",
+    "price": 587.04,
+    "changePercent": 1.66,
+    "volume": 1480000
+  },
+  {
+    "symbol": "DIS",
+    "price": 84.89,
+    "changePercent": -0.4,
+    "volume": 10200000
+  },
+  {
+    "symbol": "COF",
+    "price": 160.97,
+    "changePercent": -0.73,
+    "volume": 5340000
+  },
+  {
+    "symbol": "SBUX",
+    "price": 85.43,
+    "changePercent": 0.98,
+    "volume": 10060000
+  },
+  {
+    "symbol": "T",
+    "price": 26.79,
+    "changePercent": 1.52,
+    "volume": 32060000
+  },
+  {
+    "symbol": "BLK",
+    "price": 878.78,
+    "changePercent": 2.33,
+    "volume": 963020
+  },
+  {
+    "symbol": "KKR",
+    "price": 101.44,
+    "changePercent": -0.42,
+    "volume": 8300000
+  },
+  {
+    "symbol": "PGR",
+    "price": 275.64,
+    "changePercent": 0.9,
+    "volume": 3050000
+  }
+]
