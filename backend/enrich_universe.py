@@ -21,18 +21,20 @@ def load_json(path):
         return json.load(f)
 
 def enrich_with_tv_signals(universe, tv_data):
+    # Normalize keys (e.g., strip .US suffixes)
+    normalized_tv_data = {}
+    for k, v in tv_data.items():
+        base = k.split(".")[0].upper()
+        normalized_tv_data[base] = v
+
     for symbol, info in universe.items():
-        # Try both original and upper-cased versions of the symbol
-        tv = tv_data.get(symbol) or tv_data.get(symbol.upper()) or tv_data.get(symbol.lower())
+        tv = normalized_tv_data.get(symbol.upper())
         if tv:
-            signals = info.setdefault("signals", {})
-            if "price" in tv:
-                signals["price"] = tv["price"]
-            if "volume" in tv:
-                signals["volume"] = tv["volume"]
-            if "changePercent" in tv:
-                signals["changePercent"] = tv["changePercent"]
+            info["tv_price"] = tv.get("price")
+            info["tv_volume"] = tv.get("volume")
+            info["tv_changePercent"] = tv.get("changePercent")
     return universe
+
 
 def enrich_with_sector(universe, sector_data):
     for symbol, info in universe.items():

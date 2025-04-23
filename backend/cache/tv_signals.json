@@ -1,3146 +1,3146 @@
 {
   "RVTY": {
-    "price": 96.13,
-    "volume": 521619,
-    "changePercent": 4.116336,
-    "timestamp": "2025-04-23T11:01:55.344682"
+    "price": 94.44,
+    "volume": 675832,
+    "changePercent": 2.2852817,
+    "timestamp": "2025-04-23T11:47:27.619345"
   },
   "LII": {
-    "price": 529.65,
-    "volume": 433656,
-    "changePercent": -5.2385755,
-    "timestamp": "2025-04-23T11:01:55.491313"
+    "price": 527.61,
+    "volume": 540565,
+    "changePercent": -5.6035643,
+    "timestamp": "2025-04-23T11:47:27.738824"
   },
   "SHW": {
-    "price": 337.21,
-    "volume": 427520,
-    "changePercent": 1.5815159,
-    "timestamp": "2025-04-23T11:01:55.640550"
+    "price": 335.415,
+    "volume": 591860,
+    "changePercent": 1.040794,
+    "timestamp": "2025-04-23T11:47:27.919077"
   },
   "RSG": {
-    "price": 241.84,
-    "volume": 275150,
-    "changePercent": -0.3009486,
-    "timestamp": "2025-04-23T11:01:55.800046"
+    "price": 240.59,
+    "volume": 460681,
+    "changePercent": -0.81626374,
+    "timestamp": "2025-04-23T11:47:28.097968"
   },
   "GILD": {
-    "price": 105.88,
-    "volume": 1856241,
-    "changePercent": 0.35067302,
-    "timestamp": "2025-04-23T11:01:55.928290"
+    "price": 105.47,
+    "volume": 2536776,
+    "changePercent": -0.037911966,
+    "timestamp": "2025-04-23T11:47:28.249804"
   },
   "INCY": {
-    "price": 58.64,
-    "volume": 411794,
-    "changePercent": 2.195884,
-    "timestamp": "2025-04-23T11:01:56.071287"
+    "price": 57.84,
+    "volume": 564651,
+    "changePercent": 0.80167145,
+    "timestamp": "2025-04-23T11:47:28.413270"
   },
   "FSLR": {
-    "price": 135.67,
-    "volume": 1433815,
-    "changePercent": 0.23631346,
-    "timestamp": "2025-04-23T11:01:56.209025"
+    "price": 132.14,
+    "volume": 1783051,
+    "changePercent": -2.371634,
+    "timestamp": "2025-04-23T11:47:28.561696"
   },
   "MA": {
-    "price": 539.505,
-    "volume": 666813,
-    "changePercent": 2.3049166,
-    "timestamp": "2025-04-23T11:01:56.329160"
+    "price": 535.76,
+    "volume": 995094,
+    "changePercent": 1.5986174,
+    "timestamp": "2025-04-23T11:47:29.100815"
   },
   "MRK": {
-    "price": 79.2,
-    "volume": 4769578,
-    "changePercent": 0.29124442,
-    "timestamp": "2025-04-23T11:01:56.469665"
+    "price": 78.6,
+    "volume": 5834930,
+    "changePercent": -0.4685358,
+    "timestamp": "2025-04-23T11:47:29.290247"
   },
   "NSC": {
-    "price": 225.64,
-    "volume": 327653,
-    "changePercent": 2.563636,
-    "timestamp": "2025-04-23T11:01:56.714912"
+    "price": 224.465,
+    "volume": 443985,
+    "changePercent": 2.0295455,
+    "timestamp": "2025-04-23T11:47:29.428484"
   },
   "COR": {
-    "price": 282.625,
-    "volume": 671448,
-    "changePercent": -1.2732697,
-    "timestamp": "2025-04-23T11:01:56.851806"
+    "price": 283.225,
+    "volume": 842683,
+    "changePercent": -1.0636195,
+    "timestamp": "2025-04-23T11:47:29.594766"
   },
   "PM": {
-    "price": 168.74,
-    "volume": 3138772,
-    "changePercent": 2.8212814,
-    "timestamp": "2025-04-23T11:01:57.085853"
+    "price": 168.36,
+    "volume": 3966128,
+    "changePercent": 2.5897264,
+    "timestamp": "2025-04-23T11:47:29.751217"
   },
   "CEG": {
-    "price": 213.65,
-    "volume": 960021,
-    "changePercent": 6.3570232,
-    "timestamp": "2025-04-23T11:01:57.218746"
+    "price": 211.78,
+    "volume": 1248238,
+    "changePercent": 5.4261217,
+    "timestamp": "2025-04-23T11:47:29.876805"
   },
   "FDS": {
-    "price": 432.13,
-    "volume": 32779,
-    "changePercent": 1.9270718,
-    "timestamp": "2025-04-23T11:01:57.356498"
+    "price": 429.18,
+    "volume": 46660,
+    "changePercent": 1.2312483,
+    "timestamp": "2025-04-23T11:47:30.041760"
   },
   "ENPH": {
-    "price": 47.46,
-    "volume": 9765990,
-    "changePercent": -11.1735,
-    "timestamp": "2025-04-23T11:01:57.535521"
+    "price": 45.87,
+    "volume": 12373758,
+    "changePercent": -14.144062,
+    "timestamp": "2025-04-23T11:47:30.157711"
   },
   "WAB": {
-    "price": 187.45,
-    "volume": 654734,
-    "changePercent": 9.134841,
-    "timestamp": "2025-04-23T11:01:57.689131"
+    "price": 185.515,
+    "volume": 786425,
+    "changePercent": 8.008038,
+    "timestamp": "2025-04-23T11:47:30.272988"
   },
   "GD": {
-    "price": 268.615,
-    "volume": 554544,
-    "changePercent": -2.250727,
-    "timestamp": "2025-04-23T11:01:57.933479"
+    "price": 266.85,
+    "volume": 724090,
+    "changePercent": -2.8930066,
+    "timestamp": "2025-04-23T11:47:30.405568"
   },
   "EXE": {
-    "price": 103.96,
-    "volume": 919757,
-    "changePercent": 0.9222376,
-    "timestamp": "2025-04-23T11:01:58.078077"
+    "price": 104.71,
+    "volume": 1216091,
+    "changePercent": 1.6503222,
+    "timestamp": "2025-04-23T11:47:30.522304"
   },
   "CHRW": {
-    "price": 91.15,
-    "volume": 303940,
-    "changePercent": 0.9636716,
-    "timestamp": "2025-04-23T11:01:58.276246"
+    "price": 90.81,
+    "volume": 373419,
+    "changePercent": 0.5870611,
+    "timestamp": "2025-04-23T11:47:30.646844"
   },
   "REG": {
-    "price": 72.425,
-    "volume": 338293,
-    "changePercent": 0.14484222,
-    "timestamp": "2025-04-23T11:01:58.438225"
+    "price": 71.84,
+    "volume": 431201,
+    "changePercent": -0.66372144,
+    "timestamp": "2025-04-23T11:47:30.777186"
   },
   "SRE": {
-    "price": 73.8285,
-    "volume": 616188,
-    "changePercent": 2.099988,
-    "timestamp": "2025-04-23T11:01:58.561787"
+    "price": 73.06,
+    "volume": 869057,
+    "changePercent": 1.0372009,
+    "timestamp": "2025-04-23T11:47:30.883950"
   },
   "MPWR": {
-    "price": 550.0,
-    "volume": 249486,
-    "changePercent": 7.4596524,
-    "timestamp": "2025-04-23T11:01:58.710608"
+    "price": 542.08,
+    "volume": 306446,
+    "changePercent": 5.9122367,
+    "timestamp": "2025-04-23T11:47:31.062425"
   },
   "AME": {
-    "price": 163.95,
-    "volume": 311391,
-    "changePercent": 2.6933937,
-    "timestamp": "2025-04-23T11:01:58.851060"
+    "price": 163.0,
+    "volume": 399602,
+    "changePercent": 2.0983462,
+    "timestamp": "2025-04-23T11:47:31.240642"
   },
   "PSA": {
-    "price": 296.61,
-    "volume": 131449,
-    "changePercent": -0.020233955,
-    "timestamp": "2025-04-23T11:01:59.029060"
+    "price": 296.105,
+    "volume": 187967,
+    "changePercent": -0.19044797,
+    "timestamp": "2025-04-23T11:47:31.389770"
   },
   "IBM": {
-    "price": 246.65,
-    "volume": 1533396,
-    "changePercent": 2.3868825,
-    "timestamp": "2025-04-23T11:01:59.155693"
+    "price": 244.87,
+    "volume": 2156897,
+    "changePercent": 1.6479872,
+    "timestamp": "2025-04-23T11:47:31.539356"
   },
   "WM": {
-    "price": 228.45,
-    "volume": 428081,
-    "changePercent": -0.6566402,
-    "timestamp": "2025-04-23T11:01:59.394083"
+    "price": 227.52,
+    "volume": 547690,
+    "changePercent": -1.0610552,
+    "timestamp": "2025-04-23T11:47:31.700889"
   },
   "PANW": {
-    "price": 170.84,
-    "volume": 1397298,
-    "changePercent": 4.406277,
-    "timestamp": "2025-04-23T11:01:59.523800"
+    "price": 168.535,
+    "volume": 1764020,
+    "changePercent": 2.9976158,
+    "timestamp": "2025-04-23T11:47:31.845100"
   },
   "MO": {
-    "price": 58.185,
-    "volume": 2314731,
-    "changePercent": -1.079562,
-    "timestamp": "2025-04-23T11:01:59.707699"
+    "price": 58.2699,
+    "volume": 3022697,
+    "changePercent": -0.93522346,
+    "timestamp": "2025-04-23T11:47:31.996956"
   },
   "EQIX": {
-    "price": 814.5784,
-    "volume": 118694,
-    "changePercent": 2.9652183,
-    "timestamp": "2025-04-23T11:01:59.843913"
+    "price": 810.39,
+    "volume": 175976,
+    "changePercent": 2.4359052,
+    "timestamp": "2025-04-23T11:47:32.140149"
   },
   "FE": {
-    "price": 42.485,
-    "volume": 1287966,
-    "changePercent": -0.52680516,
-    "timestamp": "2025-04-23T11:02:00.283982"
+    "price": 42.38,
+    "volume": 1878175,
+    "changePercent": -0.77264816,
+    "timestamp": "2025-04-23T11:47:32.433376"
   },
   "GOOGL": {
-    "price": 156.69,
-    "volume": 10504548,
-    "changePercent": 3.4462278,
-    "timestamp": "2025-04-23T11:02:00.450576"
+    "price": 154.391,
+    "volume": 13962004,
+    "changePercent": 1.9284381,
+    "timestamp": "2025-04-23T11:47:32.597332"
   },
   "CL": {
-    "price": 93.94,
-    "volume": 2149716,
-    "changePercent": -1.9517745,
-    "timestamp": "2025-04-23T11:02:00.610550"
+    "price": 93.01,
+    "volume": 2790864,
+    "changePercent": -2.922446,
+    "timestamp": "2025-04-23T11:47:32.755179"
   },
   "CBOE": {
-    "price": 208.6,
-    "volume": 326782,
-    "changePercent": -2.5552394,
-    "timestamp": "2025-04-23T11:02:00.805682"
+    "price": 208.3,
+    "volume": 498680,
+    "changePercent": -2.6948783,
+    "timestamp": "2025-04-23T11:47:32.881797"
   },
   "NDAQ": {
-    "price": 74.155,
-    "volume": 765263,
-    "changePercent": 2.0154028,
-    "timestamp": "2025-04-23T11:02:00.927270"
+    "price": 73.77,
+    "volume": 974561,
+    "changePercent": 1.4857534,
+    "timestamp": "2025-04-23T11:47:33.006713"
   },
   "WELL": {
-    "price": 147.305,
-    "volume": 451905,
-    "changePercent": 0.037346467,
-    "timestamp": "2025-04-23T11:02:01.092211"
+    "price": 147.135,
+    "volume": 626074,
+    "changePercent": -0.078101866,
+    "timestamp": "2025-04-23T11:47:33.142711"
   },
   "CLX": {
-    "price": 140.05,
-    "volume": 215958,
-    "changePercent": -0.5397305,
-    "timestamp": "2025-04-23T11:02:01.260683"
+    "price": 139.04,
+    "volume": 271151,
+    "changePercent": -1.257013,
+    "timestamp": "2025-04-23T11:47:33.280399"
   },
   "J": {
-    "price": 120.9,
-    "volume": 136108,
-    "changePercent": 2.1201134,
-    "timestamp": "2025-04-23T11:02:01.384632"
+    "price": 119.47,
+    "volume": 184606,
+    "changePercent": 0.91223925,
+    "timestamp": "2025-04-23T11:47:33.457595"
   },
   "BX": {
-    "price": 129.87,
-    "volume": 1870947,
-    "changePercent": 3.9708521,
-    "timestamp": "2025-04-23T11:02:01.530996"
+    "price": 128.12,
+    "volume": 2411483,
+    "changePercent": 2.5698433,
+    "timestamp": "2025-04-23T11:47:33.658883"
   },
   "HPE": {
-    "price": 15.755,
-    "volume": 5590954,
-    "changePercent": 3.9934027,
-    "timestamp": "2025-04-23T11:02:01.657163"
+    "price": 15.455,
+    "volume": 7177694,
+    "changePercent": 2.0132034,
+    "timestamp": "2025-04-23T11:47:33.794211"
   },
   "ALB": {
-    "price": 57.545,
-    "volume": 1101698,
-    "changePercent": 5.066638,
-    "timestamp": "2025-04-23T11:02:01.831655"
+    "price": 56.295,
+    "volume": 1381800,
+    "changePercent": 2.7843668,
+    "timestamp": "2025-04-23T11:47:33.915212"
   },
   "AVB": {
-    "price": 208.4,
-    "volume": 157304,
-    "changePercent": 0.94942427,
-    "timestamp": "2025-04-23T11:02:01.998075"
+    "price": 207.18,
+    "volume": 197175,
+    "changePercent": 0.35845292,
+    "timestamp": "2025-04-23T11:47:34.114838"
   },
   "IP": {
-    "price": 47.47,
-    "volume": 947566,
-    "changePercent": 2.129952,
-    "timestamp": "2025-04-23T11:02:02.140420"
+    "price": 46.95,
+    "volume": 1261840,
+    "changePercent": 1.0111903,
+    "timestamp": "2025-04-23T11:47:34.248110"
   },
   "AEE": {
-    "price": 98.98,
-    "volume": 204643,
-    "changePercent": -0.17145553,
-    "timestamp": "2025-04-23T11:02:02.455926"
+    "price": 98.375,
+    "volume": 245877,
+    "changePercent": -0.78164595,
+    "timestamp": "2025-04-23T11:47:34.405116"
   },
   "LMT": {
-    "price": 462.245,
-    "volume": 373607,
-    "changePercent": 0.03570995,
-    "timestamp": "2025-04-23T11:02:02.566465"
+    "price": 462.62,
+    "volume": 497271,
+    "changePercent": 0.11686483,
+    "timestamp": "2025-04-23T11:47:34.541028"
   },
   "PG": {
-    "price": 165.2,
-    "volume": 2229831,
-    "changePercent": -1.5963831,
-    "timestamp": "2025-04-23T11:02:02.695981"
+    "price": 164.12,
+    "volume": 2809463,
+    "changePercent": -2.2397008,
+    "timestamp": "2025-04-23T11:47:34.698080"
   },
   "SPGI": {
-    "price": 477.3298,
-    "volume": 377181,
-    "changePercent": 2.3390484,
-    "timestamp": "2025-04-23T11:02:02.871303"
+    "price": 472.65,
+    "volume": 450915,
+    "changePercent": 1.3357017,
+    "timestamp": "2025-04-23T11:47:34.877155"
   },
   "PSX": {
-    "price": 102.91,
-    "volume": 514194,
-    "changePercent": 1.9915801,
-    "timestamp": "2025-04-23T11:02:03.012772"
+    "price": 102.77,
+    "volume": 793093,
+    "changePercent": 1.8533152,
+    "timestamp": "2025-04-23T11:47:35.026640"
   },
   "PNC": {
-    "price": 159.62,
-    "volume": 703137,
-    "changePercent": 3.3473604,
-    "timestamp": "2025-04-23T11:02:03.147189"
+    "price": 158.34,
+    "volume": 938150,
+    "changePercent": 2.5186145,
+    "timestamp": "2025-04-23T11:47:35.164048"
   },
   "NTAP": {
-    "price": 86.11,
-    "volume": 430450,
-    "changePercent": 4.439059,
-    "timestamp": "2025-04-23T11:02:03.273649"
+    "price": 85.17,
+    "volume": 575536,
+    "changePercent": 3.2989707,
+    "timestamp": "2025-04-23T11:47:35.282930"
   },
   "MU": {
-    "price": 73.775,
-    "volume": 11066157,
-    "changePercent": 5.0779896,
-    "timestamp": "2025-04-23T11:02:03.433932"
+    "price": 72.96,
+    "volume": 14102938,
+    "changePercent": 3.9179368,
+    "timestamp": "2025-04-23T11:47:35.418768"
   },
   "VTR": {
-    "price": 68.54,
-    "volume": 437210,
-    "changePercent": 0.3660858,
-    "timestamp": "2025-04-23T11:02:03.571494"
+    "price": 68.295,
+    "volume": 548793,
+    "changePercent": 0.0073176944,
+    "timestamp": "2025-04-23T11:47:35.563889"
   },
   "CHTR": {
-    "price": 342.48,
-    "volume": 358575,
-    "changePercent": 3.36211,
-    "timestamp": "2025-04-23T11:02:03.761904"
+    "price": 338.57,
+    "volume": 465725,
+    "changePercent": 2.182052,
+    "timestamp": "2025-04-23T11:47:35.701120"
   },
   "FFIV": {
-    "price": 264.59,
-    "volume": 142164,
-    "changePercent": 3.8544538,
-    "timestamp": "2025-04-23T11:02:03.920074"
+    "price": 262.03,
+    "volume": 183724,
+    "changePercent": 2.8496268,
+    "timestamp": "2025-04-23T11:47:35.826716"
   },
   "TROW": {
-    "price": 88.69,
-    "volume": 1000239,
-    "changePercent": 2.912511,
-    "timestamp": "2025-04-23T11:02:04.086521"
+    "price": 87.495,
+    "volume": 1303418,
+    "changePercent": 1.5258789,
+    "timestamp": "2025-04-23T11:47:35.935092"
   },
   "SNA": {
-    "price": 309.06,
-    "volume": 86977,
-    "changePercent": 2.5652976,
-    "timestamp": "2025-04-23T11:02:04.214964"
+    "price": 306.94,
+    "volume": 117595,
+    "changePercent": 1.8617516,
+    "timestamp": "2025-04-23T11:47:36.071286"
   },
   "ARM": {
-    "price": 107.08,
-    "volume": 2250153,
-    "changePercent": 6.49428,
-    "timestamp": "2025-04-23T11:02:04.360393"
+    "price": 105.6,
+    "volume": 2921236,
+    "changePercent": 5.0223722,
+    "timestamp": "2025-04-23T11:47:36.220313"
   },
   "IEX": {
-    "price": 171.4,
-    "volume": 219365,
-    "changePercent": 3.0048077,
-    "timestamp": "2025-04-23T11:02:04.550985"
+    "price": 169.15,
+    "volume": 327689,
+    "changePercent": 1.6526443,
+    "timestamp": "2025-04-23T11:47:36.407881"
   },
   "MSFT": {
-    "price": 379.15,
-    "volume": 6401399,
-    "changePercent": 3.3613179,
-    "timestamp": "2025-04-23T11:02:04.683857"
+    "price": 375.45,
+    "volume": 7877956,
+    "changePercent": 2.3526537,
+    "timestamp": "2025-04-23T11:47:36.546317"
   },
   "ROK": {
-    "price": 244.905,
-    "volume": 239252,
-    "changePercent": 4.4682617,
-    "timestamp": "2025-04-23T11:02:04.811077"
+    "price": 242.705,
+    "volume": 332791,
+    "changePercent": 3.5342548,
+    "timestamp": "2025-04-23T11:47:36.676427"
   },
   "AMAT": {
-    "price": 145.36,
-    "volume": 2399887,
-    "changePercent": 5.1048427,
-    "timestamp": "2025-04-23T11:02:05.015028"
+    "price": 143.79,
+    "volume": 2885040,
+    "changePercent": 3.969624,
+    "timestamp": "2025-04-23T11:47:36.817693"
   },
   "CRM": {
-    "price": 254.22,
-    "volume": 2346425,
-    "changePercent": 4.4491014,
-    "timestamp": "2025-04-23T11:02:05.152244"
+    "price": 251.05,
+    "volume": 2864094,
+    "changePercent": 3.1450818,
+    "timestamp": "2025-04-23T11:47:36.927074"
   },
   "AMD": {
-    "price": 92.32,
-    "volume": 17986135,
-    "changePercent": 7.0252695,
-    "timestamp": "2025-04-23T11:02:05.290056"
+    "price": 90.86,
+    "volume": 22100400,
+    "changePercent": 5.332713,
+    "timestamp": "2025-04-23T11:47:37.527538"
   },
   "ED": {
-    "price": 112.63,
-    "volume": 473099,
-    "changePercent": -0.5913555,
-    "timestamp": "2025-04-23T11:02:05.429568"
+    "price": 112.13,
+    "volume": 605280,
+    "changePercent": -1.0326618,
+    "timestamp": "2025-04-23T11:47:37.647992"
   },
   "BIIB": {
-    "price": 119.93,
-    "volume": 989055,
-    "changePercent": 0.87475896,
-    "timestamp": "2025-04-23T11:02:05.581636"
+    "price": 117.96,
+    "volume": 1080032,
+    "changePercent": -0.7822359,
+    "timestamp": "2025-04-23T11:47:37.960236"
   },
   "AMT": {
-    "price": 214.4503,
-    "volume": 1169926,
-    "changePercent": -2.9504905,
-    "timestamp": "2025-04-23T11:02:05.695418"
+    "price": 210.44,
+    "volume": 2264437,
+    "changePercent": -4.7653522,
+    "timestamp": "2025-04-23T11:47:38.104517"
   },
   "FDX": {
-    "price": 214.42,
-    "volume": 420171,
-    "changePercent": 3.80016,
-    "timestamp": "2025-04-23T11:02:05.882321"
+    "price": 212.49,
+    "volume": 515744,
+    "changePercent": 2.8658557,
+    "timestamp": "2025-04-23T11:47:38.230622"
   },
   "MET": {
-    "price": 75.285,
-    "volume": 485496,
-    "changePercent": 3.003157,
-    "timestamp": "2025-04-23T11:02:06.042665"
+    "price": 74.545,
+    "volume": 776171,
+    "changePercent": 1.990699,
+    "timestamp": "2025-04-23T11:47:38.383916"
   },
   "BMY": {
-    "price": 48.44,
-    "volume": 8929193,
-    "changePercent": -2.769974,
-    "timestamp": "2025-04-23T11:02:06.188221"
+    "price": 48.03,
+    "volume": 10752130,
+    "changePercent": -3.5922153,
+    "timestamp": "2025-04-23T11:47:38.526407"
   },
   "CINF": {
-    "price": 135.93,
-    "volume": 197092,
-    "changePercent": 2.241441,
-    "timestamp": "2025-04-23T11:02:06.316246"
+    "price": 134.77,
+    "volume": 232031,
+    "changePercent": 1.3689412,
+    "timestamp": "2025-04-23T11:47:38.643116"
   },
   "DLR": {
-    "price": 153.52,
-    "volume": 582689,
-    "changePercent": 3.1096816,
-    "timestamp": "2025-04-23T11:02:06.449275"
+    "price": 152.34,
+    "volume": 740302,
+    "changePercent": 2.3171468,
+    "timestamp": "2025-04-23T11:47:38.776380"
   },
   "NEM": {
-    "price": 53.22,
-    "volume": 9460700,
-    "changePercent": -2.4202414,
-    "timestamp": "2025-04-23T11:02:06.577124"
+    "price": 52.905,
+    "volume": 11098862,
+    "changePercent": -2.9978037,
+    "timestamp": "2025-04-23T11:47:38.911569"
   },
   "IR": {
-    "price": 75.39,
-    "volume": 507452,
-    "changePercent": 4.3460197,
-    "timestamp": "2025-04-23T11:02:06.714725"
+    "price": 74.64,
+    "volume": 688464,
+    "changePercent": 3.3079576,
+    "timestamp": "2025-04-23T11:47:39.067193"
   },
   "INVH": {
-    "price": 34.065,
-    "volume": 666184,
-    "changePercent": 0.044051073,
-    "timestamp": "2025-04-23T11:02:06.882134"
+    "price": 33.94,
+    "volume": 871815,
+    "changePercent": -0.3230573,
+    "timestamp": "2025-04-23T11:47:39.204186"
   },
   "TXN": {
-    "price": 154.71,
-    "volume": 4502927,
-    "changePercent": 5.417016,
-    "timestamp": "2025-04-23T11:02:07.044473"
+    "price": 153.565,
+    "volume": 5281676,
+    "changePercent": 4.637618,
+    "timestamp": "2025-04-23T11:47:39.360085"
   },
   "KR": {
-    "price": 71.685,
-    "volume": 3873378,
-    "changePercent": -1.774102,
-    "timestamp": "2025-04-23T11:02:07.210956"
+    "price": 71.07,
+    "volume": 5032792,
+    "changePercent": -2.6171603,
+    "timestamp": "2025-04-23T11:47:39.533450"
   },
   "TJX": {
-    "price": 127.0,
-    "volume": 1262451,
-    "changePercent": 1.026172,
-    "timestamp": "2025-04-23T11:02:07.345495"
+    "price": 126.01,
+    "volume": 1603398,
+    "changePercent": 0.23864692,
+    "timestamp": "2025-04-23T11:47:39.650663"
   },
   "FCX": {
-    "price": 36.07,
-    "volume": 8145700,
-    "changePercent": 5.9013453,
-    "timestamp": "2025-04-23T11:02:07.481620"
+    "price": 35.68,
+    "volume": 10441859,
+    "changePercent": 4.756309,
+    "timestamp": "2025-04-23T11:47:39.783586"
   },
   "SMCI": {
-    "price": 34.09,
-    "volume": 28626960,
-    "changePercent": 11.478091,
-    "timestamp": "2025-04-23T11:02:07.618664"
+    "price": 32.966,
+    "volume": 35141298,
+    "changePercent": 7.8024845,
+    "timestamp": "2025-04-23T11:47:39.936430"
   },
   "SW": {
-    "price": 42.65,
-    "volume": 1415511,
-    "changePercent": 2.6721246,
-    "timestamp": "2025-04-23T11:02:07.741859"
+    "price": 42.21,
+    "volume": 2028938,
+    "changePercent": 1.6128985,
+    "timestamp": "2025-04-23T11:47:40.167337"
   },
   "MRNA": {
-    "price": 27.57,
-    "volume": 3751725,
-    "changePercent": 7.109557,
-    "timestamp": "2025-04-23T11:02:07.874664"
+    "price": 26.77,
+    "volume": 4458988,
+    "changePercent": 4.001557,
+    "timestamp": "2025-04-23T11:47:40.303774"
   },
   "XYL": {
-    "price": 114.975,
-    "volume": 334946,
-    "changePercent": 2.931962,
-    "timestamp": "2025-04-23T11:02:08.094372"
+    "price": 114.125,
+    "volume": 494776,
+    "changePercent": 2.1709964,
+    "timestamp": "2025-04-23T11:47:40.457136"
   },
   "AVGO": {
-    "price": 179.67,
-    "volume": 7898061,
-    "changePercent": 5.9499917,
-    "timestamp": "2025-04-23T11:02:08.225758"
+    "price": 177.91,
+    "volume": 9710809,
+    "changePercent": 4.912137,
+    "timestamp": "2025-04-23T11:47:40.572415"
   },
   "CVX": {
-    "price": 136.105,
-    "volume": 3427964,
-    "changePercent": -0.8703622,
-    "timestamp": "2025-04-23T11:02:08.395065"
+    "price": 135.48,
+    "volume": 4334538,
+    "changePercent": -1.3247013,
+    "timestamp": "2025-04-23T11:47:40.718073"
   },
   "REGN": {
-    "price": 596.4,
-    "volume": 165599,
-    "changePercent": 1.8634024,
-    "timestamp": "2025-04-23T11:02:08.548918"
+    "price": 589.28,
+    "volume": 248591,
+    "changePercent": 0.6473277,
+    "timestamp": "2025-04-23T11:47:40.847697"
   },
   "MDT": {
-    "price": 84.46,
-    "volume": 1342754,
-    "changePercent": 1.3074203,
-    "timestamp": "2025-04-23T11:02:08.709240"
+    "price": 83.77,
+    "volume": 1959196,
+    "changePercent": 0.47978157,
+    "timestamp": "2025-04-23T11:47:40.975015"
   },
   "VZ": {
-    "price": 42.605,
-    "volume": 9283224,
-    "changePercent": -1.3544781,
-    "timestamp": "2025-04-23T11:02:08.868731"
+    "price": 42.465,
+    "volume": 11576571,
+    "changePercent": -1.6786258,
+    "timestamp": "2025-04-23T11:47:41.107229"
   },
   "LOW": {
-    "price": 222.05,
-    "volume": 522567,
-    "changePercent": 1.8951931,
-    "timestamp": "2025-04-23T11:02:09.038765"
+    "price": 220.395,
+    "volume": 709355,
+    "changePercent": 1.1357406,
+    "timestamp": "2025-04-23T11:47:41.258609"
   },
   "AXON": {
-    "price": 586.665,
-    "volume": 160619,
-    "changePercent": 5.606451,
-    "timestamp": "2025-04-23T11:02:09.171451"
+    "price": 586.18,
+    "volume": 198725,
+    "changePercent": 5.5191483,
+    "timestamp": "2025-04-23T11:47:41.372055"
   },
   "DGX": {
-    "price": 174.215,
-    "volume": 508890,
-    "changePercent": 0.7955335,
-    "timestamp": "2025-04-23T11:02:09.338095"
+    "price": 173.4,
+    "volume": 673788,
+    "changePercent": 0.3240539,
+    "timestamp": "2025-04-23T11:47:41.487424"
   },
   "TAP": {
-    "price": 59.25,
-    "volume": 243396,
-    "changePercent": 0.42372882,
-    "timestamp": "2025-04-23T11:02:09.467896"
+    "price": 58.55,
+    "volume": 358293,
+    "changePercent": -0.76271313,
+    "timestamp": "2025-04-23T11:47:41.622013"
   },
   "PCAR": {
-    "price": 90.185,
-    "volume": 497199,
-    "changePercent": 1.8347589,
-    "timestamp": "2025-04-23T11:02:09.603392"
+    "price": 89.44,
+    "volume": 715295,
+    "changePercent": 0.99368215,
+    "timestamp": "2025-04-23T11:47:41.826482"
   },
   "ROST": {
-    "price": 139.98,
-    "volume": 527410,
-    "changePercent": 1.5156983,
-    "timestamp": "2025-04-23T11:02:09.722114"
+    "price": 139.2025,
+    "volume": 692622,
+    "changePercent": 0.9518457,
+    "timestamp": "2025-04-23T11:47:41.950830"
   },
   "APP": {
-    "price": 260.18,
-    "volume": 3175172,
-    "changePercent": 9.452688,
-    "timestamp": "2025-04-23T11:02:09.863037"
+    "price": 254.405,
+    "volume": 3861003,
+    "changePercent": 7.0232606,
+    "timestamp": "2025-04-23T11:47:42.089808"
   },
   "EVRG": {
-    "price": 68.16,
-    "volume": 253614,
-    "changePercent": -0.29256427,
-    "timestamp": "2025-04-23T11:02:10.029153"
+    "price": 67.95,
+    "volume": 339210,
+    "changePercent": -0.5997713,
+    "timestamp": "2025-04-23T11:47:42.230173"
   },
   "MKC": {
-    "price": 76.36,
-    "volume": 353975,
-    "changePercent": 0.81859356,
-    "timestamp": "2025-04-23T11:02:10.168460"
+    "price": 76.07,
+    "volume": 441852,
+    "changePercent": 0.43570352,
+    "timestamp": "2025-04-23T11:47:42.377551"
   },
   "AFL": {
-    "price": 109.01,
-    "volume": 315672,
-    "changePercent": 0.6462973,
-    "timestamp": "2025-04-23T11:02:10.340067"
+    "price": 108.5174,
+    "volume": 409242,
+    "changePercent": 0.19139916,
+    "timestamp": "2025-04-23T11:47:42.503205"
   },
   "DE": {
-    "price": 464.085,
-    "volume": 206266,
-    "changePercent": 2.072975,
-    "timestamp": "2025-04-23T11:02:10.469696"
+    "price": 459.315,
+    "volume": 276950,
+    "changePercent": 1.0238417,
+    "timestamp": "2025-04-23T11:47:42.658929"
   },
   "ARE": {
-    "price": 78.48,
-    "volume": 266759,
-    "changePercent": 2.9110951,
-    "timestamp": "2025-04-23T11:02:10.631075"
+    "price": 77.55,
+    "volume": 411073,
+    "changePercent": 1.6915826,
+    "timestamp": "2025-04-23T11:47:42.814220"
   },
   "CFG": {
-    "price": 37.15,
-    "volume": 1322755,
-    "changePercent": 3.7135332,
-    "timestamp": "2025-04-23T11:02:10.746849"
+    "price": 36.74,
+    "volume": 1651679,
+    "changePercent": 2.568403,
+    "timestamp": "2025-04-23T11:47:43.001732"
   },
   "ANET": {
-    "price": 72.65,
-    "volume": 4827773,
-    "changePercent": 5.7958403,
-    "timestamp": "2025-04-23T11:02:10.874571"
+    "price": 71.56,
+    "volume": 5847825,
+    "changePercent": 4.208533,
+    "timestamp": "2025-04-23T11:47:43.125339"
   },
   "GRMN": {
-    "price": 196.43,
-    "volume": 300995,
-    "changePercent": 2.6226368,
-    "timestamp": "2025-04-23T11:02:11.057181"
+    "price": 195.19,
+    "volume": 353781,
+    "changePercent": 1.9748178,
+    "timestamp": "2025-04-23T11:47:43.274074"
   },
   "DOC": {
-    "price": 18.97,
-    "volume": 957894,
-    "changePercent": 0.8506106,
-    "timestamp": "2025-04-23T11:02:11.212764"
+    "price": 18.825,
+    "volume": 1305031,
+    "changePercent": 0.079751715,
+    "timestamp": "2025-04-23T11:47:43.420868"
   },
   "META": {
-    "price": 527.49,
-    "volume": 7815756,
-    "changePercent": 5.4389524,
-    "timestamp": "2025-04-23T11:02:11.469652"
+    "price": 520.885,
+    "volume": 9538652,
+    "changePercent": 4.1186953,
+    "timestamp": "2025-04-23T11:47:43.550556"
   },
   "EOG": {
-    "price": 110.94,
-    "volume": 763807,
-    "changePercent": -0.34135577,
-    "timestamp": "2025-04-23T11:02:11.609479"
+    "price": 110.4175,
+    "volume": 933234,
+    "changePercent": -0.81066793,
+    "timestamp": "2025-04-23T11:47:43.726726"
   },
   "TMUS": {
-    "price": 260.7,
-    "volume": 1252515,
-    "changePercent": 0.9292337,
-    "timestamp": "2025-04-23T11:02:11.772299"
+    "price": 259.5275,
+    "volume": 1507818,
+    "changePercent": 0.47522593,
+    "timestamp": "2025-04-23T11:47:43.841672"
   },
   "RTX": {
-    "price": 121.96,
-    "volume": 4159481,
-    "changePercent": 7.218216,
-    "timestamp": "2025-04-23T11:02:11.932345"
+    "price": 121.105,
+    "volume": 4989249,
+    "changePercent": 6.465937,
+    "timestamp": "2025-04-23T11:47:43.968532"
   },
   "FITB": {
-    "price": 35.48,
-    "volume": 1936630,
-    "changePercent": 2.3953767,
-    "timestamp": "2025-04-23T11:02:12.300333"
+    "price": 35.045,
+    "volume": 2544765,
+    "changePercent": 1.1397969,
+    "timestamp": "2025-04-23T11:47:44.088664"
   },
   "JNPR": {
-    "price": 35.12,
-    "volume": 631521,
-    "changePercent": 1.4149519,
-    "timestamp": "2025-04-23T11:02:12.528108"
+    "price": 35.06,
+    "volume": 789345,
+    "changePercent": 1.2416987,
+    "timestamp": "2025-04-23T11:47:44.232630"
   },
   "HWM": {
-    "price": 131.4,
-    "volume": 544094,
-    "changePercent": 5.7119794,
-    "timestamp": "2025-04-23T11:02:12.786581"
+    "price": 130.67,
+    "volume": 921611,
+    "changePercent": 5.1246986,
+    "timestamp": "2025-04-23T11:47:44.377351"
   },
   "CRWD": {
-    "price": 392.53,
-    "volume": 1542006,
-    "changePercent": 6.5354824,
-    "timestamp": "2025-04-23T11:02:12.966572"
+    "price": 387.59,
+    "volume": 1853924,
+    "changePercent": 5.1947303,
+    "timestamp": "2025-04-23T11:47:44.508999"
   },
   "CPT": {
-    "price": 115.07,
-    "volume": 139496,
-    "changePercent": 1.687872,
-    "timestamp": "2025-04-23T11:02:13.092948"
+    "price": 114.395,
+    "volume": 229096,
+    "changePercent": 1.0913688,
+    "timestamp": "2025-04-23T11:47:44.659484"
   },
   "WDAY": {
-    "price": 228.96,
-    "volume": 354264,
-    "changePercent": 3.6064985,
-    "timestamp": "2025-04-23T11:02:13.316680"
+    "price": 226.08,
+    "volume": 455296,
+    "changePercent": 2.3032699,
+    "timestamp": "2025-04-23T11:47:44.787983"
   },
   "CB": {
-    "price": 284.465,
-    "volume": 738113,
-    "changePercent": -2.0504844,
-    "timestamp": "2025-04-23T11:02:13.451684"
+    "price": 282.71,
+    "volume": 915731,
+    "changePercent": -2.6547832,
+    "timestamp": "2025-04-23T11:47:44.903354"
   },
   "CHD": {
-    "price": 102.19,
-    "volume": 584399,
-    "changePercent": -1.5984555,
-    "timestamp": "2025-04-23T11:02:13.649545"
+    "price": 101.21,
+    "volume": 843885,
+    "changePercent": -2.542128,
+    "timestamp": "2025-04-23T11:47:45.101410"
   },
   "GL": {
-    "price": 124.12,
-    "volume": 97263,
-    "changePercent": 2.0052617,
-    "timestamp": "2025-04-23T11:02:13.865904"
+    "price": 123.245,
+    "volume": 121703,
+    "changePercent": 1.2861624,
+    "timestamp": "2025-04-23T11:47:45.225176"
   },
   "AVY": {
-    "price": 173.44,
-    "volume": 487854,
-    "changePercent": -0.7950577,
-    "timestamp": "2025-04-23T11:02:14.003271"
+    "price": 169.965,
+    "volume": 614259,
+    "changePercent": -2.7837412,
+    "timestamp": "2025-04-23T11:47:45.376772"
   },
   "PAYC": {
-    "price": 222.08,
-    "volume": 100508,
-    "changePercent": 4.9924345,
-    "timestamp": "2025-04-23T11:02:14.136328"
+    "price": 220.51,
+    "volume": 137943,
+    "changePercent": 4.2501845,
+    "timestamp": "2025-04-23T11:47:45.557223"
   },
   "CDW": {
-    "price": 157.605,
-    "volume": 231048,
-    "changePercent": 3.6670375,
-    "timestamp": "2025-04-23T11:02:14.246957"
+    "price": 155.11,
+    "volume": 297364,
+    "changePercent": 2.025917,
+    "timestamp": "2025-04-23T11:47:45.690572"
   },
   "SPY": {
-    "price": 541.99,
-    "volume": 31750838,
-    "changePercent": 2.7955828,
-    "timestamp": "2025-04-23T11:02:14.409608"
+    "price": 537.14,
+    "volume": 40827566,
+    "changePercent": 1.8757733,
+    "timestamp": "2025-04-23T11:47:45.834890"
   },
   "IFF": {
-    "price": 76.515,
-    "volume": 400678,
-    "changePercent": 2.5120578,
-    "timestamp": "2025-04-23T11:02:14.549615"
+    "price": 75.78,
+    "volume": 580908,
+    "changePercent": 1.5273304,
+    "timestamp": "2025-04-23T11:47:45.963779"
   },
   "STX": {
-    "price": 79.175,
-    "volume": 1407463,
-    "changePercent": 5.0623703,
-    "timestamp": "2025-04-23T11:02:14.870902"
+    "price": 77.79,
+    "volume": 1892538,
+    "changePercent": 3.2245226,
+    "timestamp": "2025-04-23T11:47:46.110237"
   },
   "IT": {
-    "price": 413.26,
-    "volume": 73923,
-    "changePercent": 3.2349958,
-    "timestamp": "2025-04-23T11:02:15.024497"
+    "price": 409.56,
+    "volume": 102489,
+    "changePercent": 2.3107092,
+    "timestamp": "2025-04-23T11:47:46.293705"
   },
   "RF": {
-    "price": 20.27,
-    "volume": 2002209,
-    "changePercent": 2.4772484,
-    "timestamp": "2025-04-23T11:02:15.160708"
+    "price": 20.12,
+    "volume": 2848508,
+    "changePercent": 1.7189087,
+    "timestamp": "2025-04-23T11:47:46.435607"
   },
   "APA": {
-    "price": 15.96,
-    "volume": 2767717,
-    "changePercent": 0.6307183,
-    "timestamp": "2025-04-23T11:02:15.312549"
+    "price": 15.465,
+    "volume": 4414917,
+    "changePercent": -2.490539,
+    "timestamp": "2025-04-23T11:47:46.567749"
   },
   "MCHP": {
-    "price": 42.745,
-    "volume": 2639307,
-    "changePercent": 6.0933185,
-    "timestamp": "2025-04-23T11:02:15.449022"
+    "price": 42.36,
+    "volume": 3285218,
+    "changePercent": 5.1377506,
+    "timestamp": "2025-04-23T11:47:46.709499"
   },
   "ADP": {
-    "price": 295.37,
-    "volume": 551571,
-    "changePercent": 0.84672755,
-    "timestamp": "2025-04-23T11:02:15.575286"
+    "price": 293.65,
+    "volume": 644749,
+    "changePercent": 0.25947598,
+    "timestamp": "2025-04-23T11:47:46.853660"
   },
   "ASML": {
-    "price": 662.05,
-    "volume": 743742,
-    "changePercent": 3.657484,
-    "timestamp": "2025-04-23T11:02:15.716223"
+    "price": 658.805,
+    "volume": 960648,
+    "changePercent": 3.1494136,
+    "timestamp": "2025-04-23T11:47:46.967237"
   },
   "XLF": {
-    "price": 48.31,
-    "volume": 22543781,
-    "changePercent": 2.4385104,
-    "timestamp": "2025-04-23T11:02:15.884397"
+    "price": 47.96,
+    "volume": 27723766,
+    "changePercent": 1.6963512,
+    "timestamp": "2025-04-23T11:47:47.084683"
   },
   "ERIE": {
-    "price": 409.52,
-    "volume": 17482,
-    "changePercent": 1.0412043,
-    "timestamp": "2025-04-23T11:02:16.081106"
+    "price": 410.21,
+    "volume": 26745,
+    "changePercent": 1.2114493,
+    "timestamp": "2025-04-23T11:47:47.213297"
   },
   "GFS": {
-    "price": 33.98,
-    "volume": 559280,
-    "changePercent": 7.1586266,
-    "timestamp": "2025-04-23T11:02:16.242783"
+    "price": 33.5,
+    "volume": 692924,
+    "changePercent": 5.64491,
+    "timestamp": "2025-04-23T11:47:47.324048"
   },
   "HPQ": {
-    "price": 24.995,
-    "volume": 1828001,
-    "changePercent": 3.3698597,
-    "timestamp": "2025-04-23T11:02:16.391404"
+    "price": 24.62,
+    "volume": 2369425,
+    "changePercent": 1.8196878,
+    "timestamp": "2025-04-23T11:47:47.443340"
   },
   "PCG": {
-    "price": 17.47,
-    "volume": 3742534,
-    "changePercent": 0.17201135,
-    "timestamp": "2025-04-23T11:02:16.542016"
+    "price": 17.375,
+    "volume": 4636310,
+    "changePercent": -0.37270948,
+    "timestamp": "2025-04-23T11:47:47.593785"
   },
   "CCL": {
-    "price": 18.945,
-    "volume": 9947882,
-    "changePercent": 5.3670754,
-    "timestamp": "2025-04-23T11:02:16.722849"
+    "price": 18.625,
+    "volume": 12147137,
+    "changePercent": 3.587322,
+    "timestamp": "2025-04-23T11:47:47.747501"
   },
   "KLAC": {
-    "price": 663.1,
-    "volume": 225621,
-    "changePercent": 4.2020226,
-    "timestamp": "2025-04-23T11:02:16.967538"
+    "price": 658.63,
+    "volume": 287587,
+    "changePercent": 3.4995947,
+    "timestamp": "2025-04-23T11:47:47.907506"
   },
   "LW": {
-    "price": 52.66,
-    "volume": 311086,
-    "changePercent": 0.36210907,
-    "timestamp": "2025-04-23T11:02:17.153332"
+    "price": 52.21,
+    "volume": 458101,
+    "changePercent": -0.4955253,
+    "timestamp": "2025-04-23T11:47:48.052640"
   },
   "ACN": {
-    "price": 292.575,
-    "volume": 696103,
-    "changePercent": 3.0338855,
-    "timestamp": "2025-04-23T11:02:17.300568"
+    "price": 289.485,
+    "volume": 939212,
+    "changePercent": 1.9456944,
+    "timestamp": "2025-04-23T11:47:48.181372"
   },
   "QQQ": {
-    "price": 460.58,
-    "volume": 22518328,
-    "changePercent": 3.6222045,
-    "timestamp": "2025-04-23T11:02:17.454597"
+    "price": 456.038,
+    "volume": 28099667,
+    "changePercent": 2.6003382,
+    "timestamp": "2025-04-23T11:47:48.333063"
   },
   "DELL": {
-    "price": 90.58,
-    "volume": 3369799,
-    "changePercent": 7.7307324,
-    "timestamp": "2025-04-23T11:02:17.614697"
+    "price": 89.365,
+    "volume": 4395582,
+    "changePercent": 6.285676,
+    "timestamp": "2025-04-23T11:47:48.462885"
   },
   "GE": {
-    "price": 195.82,
-    "volume": 2451252,
-    "changePercent": 3.5098927,
-    "timestamp": "2025-04-23T11:02:17.787032"
+    "price": 194.49,
+    "volume": 3091997,
+    "changePercent": 2.8068576,
+    "timestamp": "2025-04-23T11:47:48.586060"
   },
   "LYV": {
-    "price": 132.945,
-    "volume": 744567,
-    "changePercent": 3.4591496,
-    "timestamp": "2025-04-23T11:02:17.926359"
+    "price": 131.895,
+    "volume": 992718,
+    "changePercent": 2.6420267,
+    "timestamp": "2025-04-23T11:47:48.755752"
   },
   "ZBRA": {
-    "price": 240.32,
-    "volume": 151670,
-    "changePercent": 5.7746525,
-    "timestamp": "2025-04-23T11:02:18.495795"
+    "price": 236.895,
+    "volume": 196059,
+    "changePercent": 4.267169,
+    "timestamp": "2025-04-23T11:47:48.925482"
   },
   "EXC": {
-    "price": 46.75,
-    "volume": 2321956,
-    "changePercent": -1.308843,
-    "timestamp": "2025-04-23T11:02:18.752382"
+    "price": 46.54,
+    "volume": 2972566,
+    "changePercent": -1.7521597,
+    "timestamp": "2025-04-23T11:47:49.033030"
   },
   "WYNN": {
-    "price": 79.565,
-    "volume": 834808,
-    "changePercent": 3.371445,
-    "timestamp": "2025-04-23T11:02:18.923736"
+    "price": 78.425,
+    "volume": 1034925,
+    "changePercent": 1.8903493,
+    "timestamp": "2025-04-23T11:47:49.169245"
   },
   "UNH": {
-    "price": 436.1,
-    "volume": 2547029,
-    "changePercent": 2.08929,
-    "timestamp": "2025-04-23T11:02:19.074124"
+    "price": 430.28,
+    "volume": 3277146,
+    "changePercent": 0.72569084,
+    "timestamp": "2025-04-23T11:47:49.297926"
   },
   "DLTR": {
-    "price": 83.355,
-    "volume": 2656279,
-    "changePercent": 1.4546558,
-    "timestamp": "2025-04-23T11:02:19.209836"
+    "price": 82.21,
+    "volume": 3235413,
+    "changePercent": 0.06085129,
+    "timestamp": "2025-04-23T11:47:49.443342"
   },
   "SNPS": {
-    "price": 433.585,
-    "volume": 268210,
-    "changePercent": 4.8826795,
-    "timestamp": "2025-04-23T11:02:19.376534"
+    "price": 428.14,
+    "volume": 335656,
+    "changePercent": 3.565559,
+    "timestamp": "2025-04-23T11:47:49.566608"
   },
   "ZBH": {
-    "price": 100.73,
-    "volume": 395924,
-    "changePercent": 3.3764377,
-    "timestamp": "2025-04-23T11:02:19.520820"
+    "price": 99.51,
+    "volume": 524142,
+    "changePercent": 2.124384,
+    "timestamp": "2025-04-23T11:47:49.691408"
   },
   "XLE": {
-    "price": 81.34,
-    "volume": 9965713,
-    "changePercent": -0.06143636,
-    "timestamp": "2025-04-23T11:02:19.647236"
+    "price": 81.04,
+    "volume": 11622321,
+    "changePercent": -0.43002638,
+    "timestamp": "2025-04-23T11:47:49.808524"
   },
   "LH": {
-    "price": 226.66,
-    "volume": 108215,
-    "changePercent": 2.9103308,
-    "timestamp": "2025-04-23T11:02:19.807998"
+    "price": 224.965,
+    "volume": 161836,
+    "changePercent": 2.1407492,
+    "timestamp": "2025-04-23T11:47:49.960330"
   },
   "EQT": {
-    "price": 49.065,
-    "volume": 5816455,
-    "changePercent": 1.0191455,
-    "timestamp": "2025-04-23T11:02:19.964858"
+    "price": 49.8599,
+    "volume": 7044537,
+    "changePercent": 2.6562998,
+    "timestamp": "2025-04-23T11:47:50.142890"
   },
   "WMT": {
-    "price": 95.47,
-    "volume": 5420866,
-    "changePercent": 0.6536666,
-    "timestamp": "2025-04-23T11:02:20.131569"
+    "price": 94.715,
+    "volume": 7197166,
+    "changePercent": -0.14233226,
+    "timestamp": "2025-04-23T11:47:50.308246"
   },
   "ICE": {
-    "price": 161.52,
-    "volume": 837936,
-    "changePercent": 0.5227854,
-    "timestamp": "2025-04-23T11:02:20.374102"
+    "price": 160.34,
+    "volume": 1035632,
+    "changePercent": -0.21159843,
+    "timestamp": "2025-04-23T11:47:50.436338"
   },
   "BA": {
-    "price": 173.555,
-    "volume": 8319533,
-    "changePercent": 6.789926,
-    "timestamp": "2025-04-23T11:02:20.543280"
+    "price": 172.27,
+    "volume": 9786764,
+    "changePercent": 5.9992614,
+    "timestamp": "2025-04-23T11:47:50.578704"
   },
   "TGT": {
-    "price": 94.575,
-    "volume": 2147187,
-    "changePercent": 0.5046523,
-    "timestamp": "2025-04-23T11:02:20.764300"
+    "price": 92.65,
+    "volume": 3171605,
+    "changePercent": -1.5409107,
+    "timestamp": "2025-04-23T11:47:50.724222"
   },
   "UAL": {
-    "price": 70.11,
-    "volume": 4104884,
-    "changePercent": 4.6886654,
-    "timestamp": "2025-04-23T11:02:20.918979"
+    "price": 68.71,
+    "volume": 5296584,
+    "changePercent": 2.5997279,
+    "timestamp": "2025-04-23T11:47:50.845724"
   },
   "WTW": {
-    "price": 326.81,
-    "volume": 289682,
-    "changePercent": 0.6560321,
-    "timestamp": "2025-04-23T11:02:21.095807"
+    "price": 326.89,
+    "volume": 328651,
+    "changePercent": 0.680677,
+    "timestamp": "2025-04-23T11:47:50.996397"
   },
   "DG": {
-    "price": 94.905,
-    "volume": 1207873,
-    "changePercent": -1.9475174,
-    "timestamp": "2025-04-23T11:02:21.222313"
+    "price": 94.4589,
+    "volume": 1462980,
+    "changePercent": -2.4084103,
+    "timestamp": "2025-04-23T11:47:51.253995"
   },
   "CME": {
-    "price": 255.78,
-    "volume": 1072304,
-    "changePercent": -3.6827831,
-    "timestamp": "2025-04-23T11:02:21.346272"
+    "price": 254.95,
+    "volume": 1345259,
+    "changePercent": -3.9953306,
+    "timestamp": "2025-04-23T11:47:51.396614"
   },
   "FOXA": {
-    "price": 49.82,
-    "volume": 746179,
-    "changePercent": 3.3609936,
-    "timestamp": "2025-04-23T11:02:21.538696"
+    "price": 49.215,
+    "volume": 1112016,
+    "changePercent": 2.1058078,
+    "timestamp": "2025-04-23T11:47:51.512002"
   },
   "ETN": {
-    "price": 283.215,
-    "volume": 1387790,
-    "changePercent": 6.108798,
-    "timestamp": "2025-04-23T11:02:21.732472"
+    "price": 279.395,
+    "volume": 1627707,
+    "changePercent": 4.6776066,
+    "timestamp": "2025-04-23T11:47:51.662466"
   },
   "TSN": {
-    "price": 61.75,
-    "volume": 475695,
-    "changePercent": 0.5864157,
-    "timestamp": "2025-04-23T11:02:21.870188"
+    "price": 61.555,
+    "volume": 637929,
+    "changePercent": 0.2687749,
+    "timestamp": "2025-04-23T11:47:51.840036"
   },
   "ELV": {
-    "price": 429.7175,
-    "volume": 415175,
-    "changePercent": 3.3223143,
-    "timestamp": "2025-04-23T11:02:22.013804"
+    "price": 428.85,
+    "volume": 560114,
+    "changePercent": 3.1137323,
+    "timestamp": "2025-04-23T11:47:51.969335"
   },
   "DUK": {
-    "price": 121.255,
-    "volume": 831814,
-    "changePercent": -1.0405627,
-    "timestamp": "2025-04-23T11:02:22.166452"
+    "price": 120.715,
+    "volume": 1133859,
+    "changePercent": -1.4812719,
+    "timestamp": "2025-04-23T11:47:52.096322"
   },
   "NWSA": {
-    "price": 26.835,
-    "volume": 556102,
-    "changePercent": 2.5019052,
-    "timestamp": "2025-04-23T11:02:22.354938"
+    "price": 26.535,
+    "volume": 824104,
+    "changePercent": 1.3559952,
+    "timestamp": "2025-04-23T11:47:52.271353"
   },
   "TER": {
-    "price": 74.68,
-    "volume": 616439,
-    "changePercent": 4.755224,
-    "timestamp": "2025-04-23T11:02:22.500442"
+    "price": 73.84,
+    "volume": 885026,
+    "changePercent": 3.576933,
+    "timestamp": "2025-04-23T11:47:52.429891"
   },
   "GEHC": {
-    "price": 66.16,
-    "volume": 2611720,
-    "changePercent": 7.315494,
-    "timestamp": "2025-04-23T11:02:22.648744"
+    "price": 64.6,
+    "volume": 3152384,
+    "changePercent": 4.7858486,
+    "timestamp": "2025-04-23T11:47:52.550858"
   },
   "VLTO": {
-    "price": 91.38,
-    "volume": 426491,
-    "changePercent": 2.4669175,
-    "timestamp": "2025-04-23T11:02:22.809453"
+    "price": 91.49,
+    "volume": 556534,
+    "changePercent": 2.590267,
+    "timestamp": "2025-04-23T11:47:52.675542"
   },
   "JBL": {
-    "price": 141.045,
-    "volume": 388538,
-    "changePercent": 5.857845,
-    "timestamp": "2025-04-23T11:02:22.956774"
+    "price": 139.21,
+    "volume": 473536,
+    "changePercent": 4.4784527,
+    "timestamp": "2025-04-23T11:47:52.798785"
   },
   "ULTA": {
-    "price": 386.135,
-    "volume": 206439,
-    "changePercent": 1.9713725,
-    "timestamp": "2025-04-23T11:02:23.167505"
+    "price": 382.0,
+    "volume": 261517,
+    "changePercent": 0.87939006,
+    "timestamp": "2025-04-23T11:47:52.924267"
   },
   "DDOG": {
-    "price": 95.54,
-    "volume": 1519975,
-    "changePercent": 4.5066757,
-    "timestamp": "2025-04-23T11:02:23.300714"
+    "price": 94.245,
+    "volume": 2020555,
+    "changePercent": 3.0901384,
+    "timestamp": "2025-04-23T11:47:53.043043"
   },
   "ZS": {
-    "price": 203.8,
-    "volume": 599629,
-    "changePercent": 3.7046456,
-    "timestamp": "2025-04-23T11:02:23.455741"
+    "price": 200.83,
+    "volume": 854245,
+    "changePercent": 2.1931598,
+    "timestamp": "2025-04-23T11:47:53.158609"
   },
   "PGR": {
-    "price": 265.345,
-    "volume": 629215,
-    "changePercent": 0.099975355,
-    "timestamp": "2025-04-23T11:02:23.580733"
+    "price": 264.56,
+    "volume": 789253,
+    "changePercent": -0.19616306,
+    "timestamp": "2025-04-23T11:47:53.398360"
   },
   "C": {
-    "price": 67.84,
-    "volume": 5958996,
-    "changePercent": 5.0968137,
-    "timestamp": "2025-04-23T11:02:23.797376"
+    "price": 67.145,
+    "volume": 7610857,
+    "changePercent": 4.020129,
+    "timestamp": "2025-04-23T11:47:53.514971"
   },
   "XOM": {
-    "price": 107.34,
-    "volume": 4652415,
-    "changePercent": -0.88643277,
-    "timestamp": "2025-04-23T11:02:23.934165"
+    "price": 107.08,
+    "volume": 5856097,
+    "changePercent": -1.1265016,
+    "timestamp": "2025-04-23T11:47:53.649562"
   },
   "ALL": {
-    "price": 194.83,
-    "volume": 300615,
-    "changePercent": 0.4796328,
-    "timestamp": "2025-04-23T11:02:24.075902"
+    "price": 194.19,
+    "volume": 368671,
+    "changePercent": 0.14956604,
+    "timestamp": "2025-04-23T11:47:53.901408"
   },
   "AIZ": {
-    "price": 192.18,
-    "volume": 60677,
-    "changePercent": 1.7148249,
-    "timestamp": "2025-04-23T11:02:24.225978"
+    "price": 191.535,
+    "volume": 84544,
+    "changePercent": 1.3734525,
+    "timestamp": "2025-04-23T11:47:54.061311"
   },
   "MRVL": {
-    "price": 54.59,
-    "volume": 7454445,
-    "changePercent": 7.8427525,
-    "timestamp": "2025-04-23T11:02:24.398522"
+    "price": 54.02,
+    "volume": 9022753,
+    "changePercent": 6.716716,
+    "timestamp": "2025-04-23T11:47:54.237765"
   },
   "HUM": {
-    "price": 264.61,
-    "volume": 253604,
-    "changePercent": 2.1975791,
-    "timestamp": "2025-04-23T11:02:24.517669"
+    "price": 262.75,
+    "volume": 389156,
+    "changePercent": 1.4792161,
+    "timestamp": "2025-04-23T11:47:54.376203"
   },
   "HAS": {
-    "price": 54.86,
-    "volume": 740836,
-    "changePercent": 5.297509,
-    "timestamp": "2025-04-23T11:02:24.653912"
+    "price": 53.65,
+    "volume": 1126759,
+    "changePercent": 2.975054,
+    "timestamp": "2025-04-23T11:47:54.525460"
   },
   "CSGP": {
-    "price": 83.13,
-    "volume": 519836,
-    "changePercent": 2.7946017,
-    "timestamp": "2025-04-23T11:02:24.806400"
+    "price": 81.97,
+    "volume": 774102,
+    "changePercent": 1.3602058,
+    "timestamp": "2025-04-23T11:47:54.698375"
   },
   "BDX": {
-    "price": 205.67,
-    "volume": 631007,
-    "changePercent": 2.8967347,
-    "timestamp": "2025-04-23T11:02:24.939487"
+    "price": 203.355,
+    "volume": 976774,
+    "changePercent": 1.7385385,
+    "timestamp": "2025-04-23T11:47:54.872620"
   },
   "ES": {
-    "price": 58.71,
-    "volume": 396849,
-    "changePercent": 1.1369506,
-    "timestamp": "2025-04-23T11:02:25.058292"
+    "price": 58.015,
+    "volume": 563104,
+    "changePercent": -0.06029259,
+    "timestamp": "2025-04-23T11:47:55.062910"
   },
   "JKHY": {
-    "price": 174.24,
-    "volume": 113318,
-    "changePercent": 0.9034126,
-    "timestamp": "2025-04-23T11:02:25.224800"
+    "price": 173.43,
+    "volume": 165559,
+    "changePercent": 0.43432942,
+    "timestamp": "2025-04-23T11:47:55.217957"
   },
   "ANSS": {
-    "price": 312.53,
-    "volume": 151622,
-    "changePercent": 3.0567791,
-    "timestamp": "2025-04-23T11:02:25.378657"
+    "price": 310.29,
+    "volume": 180109,
+    "changePercent": 2.3181424,
+    "timestamp": "2025-04-23T11:47:55.341242"
   },
   "EPAM": {
-    "price": 156.67,
-    "volume": 122963,
-    "changePercent": 6.2962203,
-    "timestamp": "2025-04-23T11:02:25.527268"
+    "price": 155.36,
+    "volume": 193050,
+    "changePercent": 5.4074225,
+    "timestamp": "2025-04-23T11:47:55.474202"
   },
   "XEL": {
-    "price": 71.295,
-    "volume": 1618487,
-    "changePercent": -0.13307357,
-    "timestamp": "2025-04-23T11:02:25.690600"
+    "price": 71.15,
+    "volume": 1866562,
+    "changePercent": -0.33617854,
+    "timestamp": "2025-04-23T11:47:55.603800"
   },
   "RMD": {
-    "price": 220.17,
-    "volume": 403773,
-    "changePercent": 2.8447292,
-    "timestamp": "2025-04-23T11:02:25.813035"
+    "price": 216.98,
+    "volume": 562212,
+    "changePercent": 1.354631,
+    "timestamp": "2025-04-23T11:47:55.730217"
   },
   "HSY": {
-    "price": 167.71,
-    "volume": 236077,
-    "changePercent": 0.16125435,
-    "timestamp": "2025-04-23T11:02:25.949276"
+    "price": 166.1,
+    "volume": 289601,
+    "changePercent": -0.80028445,
+    "timestamp": "2025-04-23T11:47:55.878976"
   },
   "AOS": {
-    "price": 64.895,
-    "volume": 622732,
-    "changePercent": 1.4618473,
-    "timestamp": "2025-04-23T11:02:26.095809"
+    "price": 64.31,
+    "volume": 701711,
+    "changePercent": 0.5472146,
+    "timestamp": "2025-04-23T11:47:56.029933"
   },
   "CSCO": {
-    "price": 56.565,
-    "volume": 10656296,
-    "changePercent": 2.770708,
-    "timestamp": "2025-04-23T11:02:26.893633"
+    "price": 56.24,
+    "volume": 12579508,
+    "changePercent": 2.180234,
+    "timestamp": "2025-04-23T11:47:56.192902"
   },
   "NTRS": {
-    "price": 92.68,
-    "volume": 351724,
-    "changePercent": 3.7153084,
-    "timestamp": "2025-04-23T11:02:27.073170"
+    "price": 92.04,
+    "volume": 443076,
+    "changePercent": 2.999105,
+    "timestamp": "2025-04-23T11:47:56.352782"
   },
   "BBY": {
-    "price": 65.49,
-    "volume": 1936483,
-    "changePercent": 3.3291209,
-    "timestamp": "2025-04-23T11:02:27.220841"
+    "price": 64.24,
+    "volume": 2515431,
+    "changePercent": 1.3568898,
+    "timestamp": "2025-04-23T11:47:56.475941"
   },
   "PH": {
-    "price": 596.4,
-    "volume": 229444,
-    "changePercent": 5.250154,
-    "timestamp": "2025-04-23T11:02:27.382590"
+    "price": 588.67,
+    "volume": 293714,
+    "changePercent": 3.8859892,
+    "timestamp": "2025-04-23T11:47:56.814156"
   },
   "DHI": {
-    "price": 127.415,
-    "volume": 2229086,
-    "changePercent": 1.9646301,
-    "timestamp": "2025-04-23T11:02:27.537441"
+    "price": 125.9925,
+    "volume": 2542601,
+    "changePercent": 0.8262654,
+    "timestamp": "2025-04-23T11:47:56.956486"
   },
   "MCO": {
-    "price": 442.67,
-    "volume": 325795,
-    "changePercent": 2.9776487,
-    "timestamp": "2025-04-23T11:02:27.671720"
+    "price": 436.02,
+    "volume": 391104,
+    "changePercent": 1.4306637,
+    "timestamp": "2025-04-23T11:47:57.105635"
   },
   "K": {
-    "price": 82.71,
-    "volume": 866917,
-    "changePercent": 0.13317266,
-    "timestamp": "2025-04-23T11:02:27.841405"
+    "price": 82.72,
+    "volume": 1477910,
+    "changePercent": 0.14528209,
+    "timestamp": "2025-04-23T11:47:57.243161"
   },
   "MAR": {
-    "price": 232.87,
-    "volume": 969747,
-    "changePercent": 5.5668883,
-    "timestamp": "2025-04-23T11:02:27.959382"
+    "price": 231.545,
+    "volume": 1327068,
+    "changePercent": 4.966228,
+    "timestamp": "2025-04-23T11:47:57.364550"
   },
   "ATO": {
-    "price": 160.375,
-    "volume": 308434,
-    "changePercent": 0.16551083,
-    "timestamp": "2025-04-23T11:02:28.133306"
+    "price": 159.06,
+    "volume": 484739,
+    "changePercent": -0.6557991,
+    "timestamp": "2025-04-23T11:47:57.485072"
   },
   "F": {
-    "price": 9.8599,
-    "volume": 36466997,
-    "changePercent": 2.1751385,
-    "timestamp": "2025-04-23T11:02:28.355728"
+    "price": 9.805,
+    "volume": 64150989,
+    "changePercent": 1.6062248,
+    "timestamp": "2025-04-23T11:47:57.652548"
   },
   "PTC": {
-    "price": 149.69,
-    "volume": 123952,
-    "changePercent": 4.088732,
-    "timestamp": "2025-04-23T11:02:28.523128"
+    "price": 148.2,
+    "volume": 175690,
+    "changePercent": 3.0526385,
+    "timestamp": "2025-04-23T11:47:57.848142"
   },
   "EXPE": {
-    "price": 159.755,
-    "volume": 428878,
-    "changePercent": 4.4628344,
-    "timestamp": "2025-04-23T11:02:28.713971"
+    "price": 157.13,
+    "volume": 581866,
+    "changePercent": 2.7463627,
+    "timestamp": "2025-04-23T11:47:57.994248"
   },
   "STT": {
-    "price": 86.78,
-    "volume": 637281,
-    "changePercent": 3.505846,
-    "timestamp": "2025-04-23T11:02:28.934423"
+    "price": 86.145,
+    "volume": 908442,
+    "changePercent": 2.7492847,
+    "timestamp": "2025-04-23T11:47:58.247747"
   },
   "CMI": {
-    "price": 291.005,
-    "volume": 172860,
-    "changePercent": 4.261768,
-    "timestamp": "2025-04-23T11:02:29.094944"
+    "price": 287.12,
+    "volume": 235939,
+    "changePercent": 2.86984,
+    "timestamp": "2025-04-23T11:47:58.520640"
   },
   "UPS": {
-    "price": 98.825,
-    "volume": 1634482,
-    "changePercent": 2.0497735,
-    "timestamp": "2025-04-23T11:02:29.221551"
+    "price": 97.69,
+    "volume": 2283970,
+    "changePercent": 0.8777428,
+    "timestamp": "2025-04-23T11:47:58.669494"
   },
   "TDY": {
-    "price": 450.17,
-    "volume": 151843,
-    "changePercent": -2.3704169,
-    "timestamp": "2025-04-23T11:02:29.427878"
+    "price": 454.35,
+    "volume": 199453,
+    "changePercent": -1.4638907,
+    "timestamp": "2025-04-23T11:47:58.799071"
   },
   "VRSK": {
-    "price": 293.83,
-    "volume": 160540,
-    "changePercent": 0.38605204,
-    "timestamp": "2025-04-23T11:02:29.549007"
+    "price": 292.09,
+    "volume": 211576,
+    "changePercent": -0.20840992,
+    "timestamp": "2025-04-23T11:47:58.937832"
   },
   "BKR": {
-    "price": 36.67,
-    "volume": 4255271,
-    "changePercent": -4.4056373,
-    "timestamp": "2025-04-23T11:02:29.718864"
+    "price": 36.48,
+    "volume": 5377860,
+    "changePercent": -4.902219,
+    "timestamp": "2025-04-23T11:47:59.083888"
   },
   "DAY": {
-    "price": 56.39,
-    "volume": 622374,
-    "changePercent": 5.2444897,
-    "timestamp": "2025-04-23T11:02:29.891818"
+    "price": 55.5,
+    "volume": 693037,
+    "changePercent": 3.5834231,
+    "timestamp": "2025-04-23T11:47:59.352311"
   },
   "MELI": {
-    "price": 2162.265,
-    "volume": 121780,
-    "changePercent": 1.5944338,
-    "timestamp": "2025-04-23T11:02:30.014236"
+    "price": 2150.0,
+    "volume": 152343,
+    "changePercent": 1.0181655,
+    "timestamp": "2025-04-23T11:47:59.488088"
   },
   "AMP": {
-    "price": 483.24,
-    "volume": 159752,
-    "changePercent": 3.333689,
-    "timestamp": "2025-04-23T11:02:30.168950"
+    "price": 480.315,
+    "volume": 192164,
+    "changePercent": 2.708222,
+    "timestamp": "2025-04-23T11:47:59.618161"
   },
   "IVZ": {
-    "price": 13.68,
-    "volume": 1956721,
-    "changePercent": 1.4084547,
-    "timestamp": "2025-04-23T11:02:30.303149"
+    "price": 13.57,
+    "volume": 2597709,
+    "changePercent": 0.59303135,
+    "timestamp": "2025-04-23T11:47:59.767369"
   },
   "L": {
-    "price": 86.26,
-    "volume": 75293,
-    "changePercent": 0.6417023,
-    "timestamp": "2025-04-23T11:02:30.459611"
+    "price": 86.08,
+    "volume": 104256,
+    "changePercent": 0.43169177,
+    "timestamp": "2025-04-23T11:47:59.877705"
   },
   "DIS": {
-    "price": 89.02,
-    "volume": 4057559,
-    "changePercent": 3.4034154,
-    "timestamp": "2025-04-23T11:02:30.602321"
+    "price": 87.99,
+    "volume": 5928218,
+    "changePercent": 2.2069945,
+    "timestamp": "2025-04-23T11:48:00.011504"
   },
   "DAL": {
-    "price": 42.4,
-    "volume": 4798079,
-    "changePercent": 5.1065974,
-    "timestamp": "2025-04-23T11:02:30.796176"
+    "price": 41.47,
+    "volume": 5670702,
+    "changePercent": 2.8011925,
+    "timestamp": "2025-04-23T11:48:00.148102"
   },
   "ALGN": {
-    "price": 182.51,
-    "volume": 296289,
-    "changePercent": 4.9692297,
-    "timestamp": "2025-04-23T11:02:30.947570"
+    "price": 177.53,
+    "volume": 411617,
+    "changePercent": 2.1050231,
+    "timestamp": "2025-04-23T11:48:00.287125"
   },
   "COP": {
-    "price": 89.83,
-    "volume": 2472777,
-    "changePercent": 0.0779854,
-    "timestamp": "2025-04-23T11:02:31.078253"
+    "price": 89.55,
+    "volume": 3229119,
+    "changePercent": -0.2340605,
+    "timestamp": "2025-04-23T11:48:00.498627"
   },
   "NOC": {
-    "price": 474.9,
-    "volume": 684955,
-    "changePercent": 2.3314962,
-    "timestamp": "2025-04-23T11:02:31.205908"
+    "price": 475.0,
+    "volume": 824362,
+    "changePercent": 2.3530455,
+    "timestamp": "2025-04-23T11:48:00.630023"
   },
   "GEV": {
-    "price": 346.45,
-    "volume": 2271363,
-    "changePercent": 6.250193,
-    "timestamp": "2025-04-23T11:02:31.339085"
+    "price": 341.3575,
+    "volume": 2689703,
+    "changePercent": 4.688412,
+    "timestamp": "2025-04-23T11:48:00.752948"
   },
   "TEL": {
-    "price": 139.065,
-    "volume": 798822,
-    "changePercent": 4.2075725,
-    "timestamp": "2025-04-23T11:02:31.490336"
+    "price": 137.03,
+    "volume": 1103398,
+    "changePercent": 2.6826541,
+    "timestamp": "2025-04-23T11:48:00.877956"
   },
   "JCI": {
-    "price": 79.67,
-    "volume": 953612,
-    "changePercent": 3.9942534,
-    "timestamp": "2025-04-23T11:02:31.648097"
+    "price": 79.16,
+    "volume": 1376303,
+    "changePercent": 3.328551,
+    "timestamp": "2025-04-23T11:48:01.091966"
   },
   "AWK": {
-    "price": 146.07,
-    "volume": 382998,
-    "changePercent": -2.1372018,
-    "timestamp": "2025-04-23T11:02:31.799658"
+    "price": 145.315,
+    "volume": 485547,
+    "changePercent": -2.6430323,
+    "timestamp": "2025-04-23T11:48:01.219420"
   },
   "EMR": {
-    "price": 104.51,
-    "volume": 983585,
-    "changePercent": 4.729934,
-    "timestamp": "2025-04-23T11:02:31.932290"
+    "price": 102.79,
+    "volume": 1363303,
+    "changePercent": 3.0063133,
+    "timestamp": "2025-04-23T11:48:01.354523"
   },
   "WST": {
-    "price": 220.355,
-    "volume": 218870,
-    "changePercent": 2.4287596,
-    "timestamp": "2025-04-23T11:02:32.119842"
+    "price": 217.585,
+    "volume": 343007,
+    "changePercent": 1.1411704,
+    "timestamp": "2025-04-23T11:48:01.490659"
   },
   "FTNT": {
-    "price": 98.105,
-    "volume": 1020158,
-    "changePercent": 3.9578261,
-    "timestamp": "2025-04-23T11:02:32.273664"
+    "price": 96.75,
+    "volume": 1406429,
+    "changePercent": 2.521985,
+    "timestamp": "2025-04-23T11:48:01.618501"
   },
   "CPRT": {
-    "price": 61.63,
-    "volume": 845048,
-    "changePercent": 2.0195353,
-    "timestamp": "2025-04-23T11:02:32.446098"
+    "price": 61.17,
+    "volume": 1027192,
+    "changePercent": 1.2580671,
+    "timestamp": "2025-04-23T11:48:01.761346"
   },
   "TKO": {
-    "price": 152.33,
-    "volume": 200302,
-    "changePercent": 2.8353453,
-    "timestamp": "2025-04-23T11:02:32.584063"
+    "price": 151.261,
+    "volume": 250648,
+    "changePercent": 2.1136816,
+    "timestamp": "2025-04-23T11:48:01.940502"
   },
   "T": {
-    "price": 27.07,
-    "volume": 14682310,
-    "changePercent": 0.40801415,
-    "timestamp": "2025-04-23T11:02:32.746053"
+    "price": 27.128,
+    "volume": 17670431,
+    "changePercent": 0.62314975,
+    "timestamp": "2025-04-23T11:48:02.104074"
   },
   "BXP": {
-    "price": 66.06,
-    "volume": 419839,
-    "changePercent": 3.3317647,
-    "timestamp": "2025-04-23T11:02:32.878650"
+    "price": 65.55,
+    "volume": 574450,
+    "changePercent": 2.5340214,
+    "timestamp": "2025-04-23T11:48:02.237966"
   },
   "PNR": {
-    "price": 90.02,
-    "volume": 988331,
-    "changePercent": 4.3818455,
-    "timestamp": "2025-04-23T11:02:33.054317"
+    "price": 88.975,
+    "volume": 1198417,
+    "changePercent": 3.171383,
+    "timestamp": "2025-04-23T11:48:02.380834"
   },
   "BG": {
-    "price": 79.47,
-    "volume": 211328,
-    "changePercent": -0.7741231,
-    "timestamp": "2025-04-23T11:02:33.206868"
+    "price": 79.32,
+    "volume": 341788,
+    "changePercent": -0.9614143,
+    "timestamp": "2025-04-23T11:48:02.517904"
   },
   "MGM": {
-    "price": 31.38,
-    "volume": 2495744,
-    "changePercent": 3.6327558,
-    "timestamp": "2025-04-23T11:02:33.352307"
+    "price": 30.76,
+    "volume": 3107776,
+    "changePercent": 1.5852032,
+    "timestamp": "2025-04-23T11:48:02.756497"
   },
   "UDR": {
-    "price": 42.13,
-    "volume": 411591,
-    "changePercent": 1.4203181,
-    "timestamp": "2025-04-23T11:02:33.479721"
+    "price": 41.86,
+    "volume": 484865,
+    "changePercent": 0.76997036,
+    "timestamp": "2025-04-23T11:48:02.968894"
   },
   "PPG": {
-    "price": 104.42,
-    "volume": 322519,
-    "changePercent": 2.5938292,
-    "timestamp": "2025-04-23T11:02:33.641359"
+    "price": 102.995,
+    "volume": 430538,
+    "changePercent": 1.1937551,
+    "timestamp": "2025-04-23T11:48:03.112101"
   },
   "SLB": {
-    "price": 34.3235,
-    "volume": 6492000,
-    "changePercent": -0.8277926,
-    "timestamp": "2025-04-23T11:02:33.799472"
+    "price": 34.025,
+    "volume": 8411971,
+    "changePercent": -1.6902603,
+    "timestamp": "2025-04-23T11:48:03.408828"
   },
   "HSIC": {
-    "price": 66.045,
-    "volume": 158700,
-    "changePercent": 2.331883,
-    "timestamp": "2025-04-23T11:02:33.956709"
+    "price": 65.15,
+    "volume": 237417,
+    "changePercent": 0.9451512,
+    "timestamp": "2025-04-23T11:48:03.593843"
   },
   "MDLZ": {
-    "price": 67.91,
-    "volume": 1590542,
-    "changePercent": -0.5564464,
-    "timestamp": "2025-04-23T11:02:34.100159"
+    "price": 67.47,
+    "volume": 2036192,
+    "changePercent": -1.200761,
+    "timestamp": "2025-04-23T11:48:03.714385"
   },
   "DRI": {
-    "price": 204.455,
-    "volume": 237331,
-    "changePercent": 0.8907022,
-    "timestamp": "2025-04-23T11:02:34.234655"
+    "price": 202.2,
+    "volume": 317120,
+    "changePercent": -0.22205624,
+    "timestamp": "2025-04-23T11:48:03.892627"
   },
   "ODFL": {
-    "price": 157.2,
-    "volume": 1356022,
-    "changePercent": 3.3734396,
-    "timestamp": "2025-04-23T11:02:34.387170"
+    "price": 154.75,
+    "volume": 1661278,
+    "changePercent": 1.762805,
+    "timestamp": "2025-04-23T11:48:04.065258"
   },
   "PNW": {
-    "price": 94.62,
-    "volume": 172523,
-    "changePercent": -0.41048247,
-    "timestamp": "2025-04-23T11:02:34.533512"
+    "price": 94.05,
+    "volume": 249366,
+    "changePercent": -1.0104189,
+    "timestamp": "2025-04-23T11:48:04.259422"
   },
   "URI": {
-    "price": 607.93,
-    "volume": 258873,
-    "changePercent": 5.7711015,
-    "timestamp": "2025-04-23T11:02:34.700969"
+    "price": 600.365,
+    "volume": 322628,
+    "changePercent": 4.4548993,
+    "timestamp": "2025-04-23T11:48:04.402432"
   },
   "STZ": {
-    "price": 188.19,
-    "volume": 297811,
-    "changePercent": 0.63636494,
-    "timestamp": "2025-04-23T11:02:34.874227"
+    "price": 186.695,
+    "volume": 401898,
+    "changePercent": -0.1630977,
+    "timestamp": "2025-04-23T11:48:04.525270"
   },
   "FI": {
-    "price": 219.93,
-    "volume": 770235,
-    "changePercent": 2.631947,
-    "timestamp": "2025-04-23T11:02:35.040477"
+    "price": 217.99,
+    "volume": 1184251,
+    "changePercent": 1.7265574,
+    "timestamp": "2025-04-23T11:48:04.752667"
   },
   "YUM": {
-    "price": 146.58,
-    "volume": 450929,
-    "changePercent": 1.0548078,
-    "timestamp": "2025-04-23T11:02:35.251052"
+    "price": 146.59,
+    "volume": 606938,
+    "changePercent": 1.0616982,
+    "timestamp": "2025-04-23T11:48:05.040741"
   },
   "STLD": {
-    "price": 124.91,
-    "volume": 859532,
-    "changePercent": 6.4060006,
-    "timestamp": "2025-04-23T11:02:35.394489"
+    "price": 122.99,
+    "volume": 1000280,
+    "changePercent": 4.7704225,
+    "timestamp": "2025-04-23T11:48:05.181339"
   },
   "DXCM": {
-    "price": 68.81,
-    "volume": 1293903,
-    "changePercent": 3.738875,
-    "timestamp": "2025-04-23T11:02:35.558555"
+    "price": 67.35,
+    "volume": 1600607,
+    "changePercent": 1.5379925,
+    "timestamp": "2025-04-23T11:48:05.404423"
   },
   "OMC": {
-    "price": 74.835,
-    "volume": 905349,
-    "changePercent": 2.1359391,
-    "timestamp": "2025-04-23T11:02:35.743995"
+    "price": 73.91,
+    "volume": 1214137,
+    "changePercent": 0.8734913,
+    "timestamp": "2025-04-23T11:48:05.546804"
   },
   "HON": {
-    "price": 199.57,
-    "volume": 1086130,
-    "changePercent": 0.60493636,
-    "timestamp": "2025-04-23T11:02:35.915022"
+    "price": 198.53,
+    "volume": 1324909,
+    "changePercent": 0.0806592,
+    "timestamp": "2025-04-23T11:48:05.677220"
   },
   "KMI": {
-    "price": 26.705,
-    "volume": 3427346,
-    "changePercent": 0.39469802,
-    "timestamp": "2025-04-23T11:02:36.050675"
+    "price": 26.74,
+    "volume": 4361003,
+    "changePercent": 0.5263135,
+    "timestamp": "2025-04-23T11:48:05.793145"
   },
   "MLM": {
-    "price": 505.47,
-    "volume": 70684,
-    "changePercent": 2.947047,
-    "timestamp": "2025-04-23T11:02:36.212379"
+    "price": 502.06,
+    "volume": 95504,
+    "changePercent": 2.2525454,
+    "timestamp": "2025-04-23T11:48:05.940140"
   },
   "ROL": {
-    "price": 55.265,
-    "volume": 726442,
-    "changePercent": -0.70966667,
-    "timestamp": "2025-04-23T11:02:36.759922"
+    "price": 55.08,
+    "volume": 1025137,
+    "changePercent": -1.0420374,
+    "timestamp": "2025-04-23T11:48:06.116266"
   },
   "USB": {
-    "price": 39.98,
-    "volume": 4706885,
-    "changePercent": 2.5124972,
-    "timestamp": "2025-04-23T11:02:36.926349"
+    "price": 39.58,
+    "volume": 6119196,
+    "changePercent": 1.4871842,
+    "timestamp": "2025-04-23T11:48:06.251520"
   },
   "MSI": {
-    "price": 427.515,
-    "volume": 127142,
-    "changePercent": 1.8402072,
-    "timestamp": "2025-04-23T11:02:37.106586"
+    "price": 426.76,
+    "volume": 160027,
+    "changePercent": 1.6603543,
+    "timestamp": "2025-04-23T11:48:06.375919"
   },
   "TRGP": {
-    "price": 173.63,
-    "volume": 448964,
-    "changePercent": 1.5991162,
-    "timestamp": "2025-04-23T11:02:37.256313"
+    "price": 172.5375,
+    "volume": 672727,
+    "changePercent": 0.9581698,
+    "timestamp": "2025-04-23T11:48:06.511726"
   },
   "HBAN": {
-    "price": 14.38,
-    "volume": 5403552,
-    "changePercent": 3.2304366,
-    "timestamp": "2025-04-23T11:02:37.397951"
+    "price": 14.2699,
+    "volume": 7747311,
+    "changePercent": 2.4400399,
+    "timestamp": "2025-04-23T11:48:06.663578"
   },
   "ADI": {
-    "price": 186.02,
-    "volume": 1083047,
-    "changePercent": 4.212888,
-    "timestamp": "2025-04-23T11:02:37.524637"
+    "price": 185.02,
+    "volume": 1473571,
+    "changePercent": 3.6526635,
+    "timestamp": "2025-04-23T11:48:06.813025"
   },
   "ABNB": {
-    "price": 120.31,
-    "volume": 1618349,
-    "changePercent": 4.6993246,
-    "timestamp": "2025-04-23T11:02:37.639576"
+    "price": 118.1,
+    "volume": 2581075,
+    "changePercent": 2.776081,
+    "timestamp": "2025-04-23T11:48:06.945265"
   },
   "CTAS": {
-    "price": 209.3,
-    "volume": 361318,
-    "changePercent": 1.6809205,
-    "timestamp": "2025-04-23T11:02:37.775788"
+    "price": 207.65,
+    "volume": 499538,
+    "changePercent": 0.8793226,
+    "timestamp": "2025-04-23T11:48:07.065863"
   },
   "CCI": {
-    "price": 102.1,
-    "volume": 613316,
-    "changePercent": -2.1749585,
-    "timestamp": "2025-04-23T11:02:37.936084"
+    "price": 101.43,
+    "volume": 915098,
+    "changePercent": -2.8169036,
+    "timestamp": "2025-04-23T11:48:07.208848"
   },
   "EXR": {
-    "price": 142.745,
-    "volume": 127898,
-    "changePercent": 0.6451338,
-    "timestamp": "2025-04-23T11:02:38.083154"
+    "price": 141.955,
+    "volume": 203920,
+    "changePercent": 0.08813368,
+    "timestamp": "2025-04-23T11:48:07.380640"
   },
   "NEE": {
-    "price": 68.92,
-    "volume": 6207058,
-    "changePercent": 3.4213667,
-    "timestamp": "2025-04-23T11:02:38.294409"
+    "price": 67.53,
+    "volume": 8437833,
+    "changePercent": 1.3355333,
+    "timestamp": "2025-04-23T11:48:07.538950"
   },
   "KO": {
-    "price": 73.14,
-    "volume": 4124235,
-    "changePercent": -1.0284196,
-    "timestamp": "2025-04-23T11:02:38.475711"
+    "price": 72.86,
+    "volume": 5382254,
+    "changePercent": -1.4073083,
+    "timestamp": "2025-04-23T11:48:07.697340"
   },
   "GNRC": {
-    "price": 114.2902,
-    "volume": 183127,
-    "changePercent": 3.2711675,
-    "timestamp": "2025-04-23T11:02:38.659568"
+    "price": 112.17,
+    "volume": 204990,
+    "changePercent": 1.3553809,
+    "timestamp": "2025-04-23T11:48:07.815607"
   },
   "FANG": {
-    "price": 136.06,
-    "volume": 649419,
-    "changePercent": -0.35154223,
-    "timestamp": "2025-04-23T11:02:38.825722"
+    "price": 134.79,
+    "volume": 946916,
+    "changePercent": -1.2816758,
+    "timestamp": "2025-04-23T11:48:07.968205"
   },
   "ALLE": {
-    "price": 129.285,
-    "volume": 371916,
-    "changePercent": 1.9437028,
-    "timestamp": "2025-04-23T11:02:39.110692"
+    "price": 128.45,
+    "volume": 598257,
+    "changePercent": 1.285284,
+    "timestamp": "2025-04-23T11:48:08.186310"
   },
   "DECK": {
-    "price": 109.22,
-    "volume": 696676,
-    "changePercent": 2.6310873,
-    "timestamp": "2025-04-23T11:02:39.233497"
+    "price": 107.64,
+    "volume": 920925,
+    "changePercent": 1.146401,
+    "timestamp": "2025-04-23T11:48:08.503294"
   },
   "TSLA": {
-    "price": 256.645,
-    "volume": 68126717,
-    "changePercent": 7.847623,
-    "timestamp": "2025-04-23T11:02:39.498547"
+    "price": 253.0539,
+    "volume": 85815825,
+    "changePercent": 6.338569,
+    "timestamp": "2025-04-23T11:48:08.644824"
   },
   "SBAC": {
-    "price": 222.36,
-    "volume": 466924,
-    "changePercent": -3.9149587,
-    "timestamp": "2025-04-23T11:02:39.626271"
+    "price": 221.52,
+    "volume": 688498,
+    "changePercent": -4.2779336,
+    "timestamp": "2025-04-23T11:48:08.857159"
   },
   "AKAM": {
-    "price": 76.17,
-    "volume": 815072,
-    "changePercent": 3.3935118,
-    "timestamp": "2025-04-23T11:02:39.771025"
+    "price": 75.41,
+    "volume": 954764,
+    "changePercent": 2.3618915,
+    "timestamp": "2025-04-23T11:48:09.006561"
   },
   "APD": {
-    "price": 269.395,
-    "volume": 214378,
-    "changePercent": 1.5205773,
-    "timestamp": "2025-04-23T11:02:39.883545"
+    "price": 266.05,
+    "volume": 277127,
+    "changePercent": 0.26002505,
+    "timestamp": "2025-04-23T11:48:09.157569"
   },
   "APH": {
-    "price": 73.02,
-    "volume": 6865412,
-    "changePercent": 11.057029,
-    "timestamp": "2025-04-23T11:02:40.025166"
+    "price": 72.134,
+    "volume": 8521869,
+    "changePercent": 9.708624,
+    "timestamp": "2025-04-23T11:48:09.315853"
   },
   "ITW": {
-    "price": 240.705,
-    "volume": 259847,
-    "changePercent": 1.885715,
-    "timestamp": "2025-04-23T11:02:40.148446"
+    "price": 239.165,
+    "volume": 359845,
+    "changePercent": 1.2338595,
+    "timestamp": "2025-04-23T11:48:09.464947"
   },
   "MOS": {
-    "price": 27.67,
-    "volume": 1350814,
-    "changePercent": -0.6824732,
-    "timestamp": "2025-04-23T11:02:40.407559"
+    "price": 27.525,
+    "volume": 1896229,
+    "changePercent": -1.2024443,
+    "timestamp": "2025-04-23T11:48:09.610398"
   },
   "GIS": {
-    "price": 57.4,
-    "volume": 891325,
-    "changePercent": -1.1367548,
-    "timestamp": "2025-04-23T11:02:40.583189"
+    "price": 56.8,
+    "volume": 1192848,
+    "changePercent": -2.1701725,
+    "timestamp": "2025-04-23T11:48:09.738519"
   },
   "HOLX": {
-    "price": 58.7,
-    "volume": 350956,
-    "changePercent": 0.87644297,
-    "timestamp": "2025-04-23T11:02:40.734312"
+    "price": 58.23,
+    "volume": 454854,
+    "changePercent": 0.06874191,
+    "timestamp": "2025-04-23T11:48:09.920860"
   },
   "COST": {
-    "price": 981.3,
-    "volume": 667913,
-    "changePercent": 0.21139133,
-    "timestamp": "2025-04-23T11:02:40.896784"
+    "price": 976.51,
+    "volume": 922233,
+    "changePercent": -0.2777663,
+    "timestamp": "2025-04-23T11:48:10.060410"
   },
   "DHR": {
-    "price": 201.235,
-    "volume": 2448510,
-    "changePercent": 4.771694,
-    "timestamp": "2025-04-23T11:02:41.029403"
+    "price": 198.39,
+    "volume": 3093832,
+    "changePercent": 3.2904627,
+    "timestamp": "2025-04-23T11:48:10.215479"
   },
   "SOLV": {
-    "price": 67.24,
-    "volume": 125333,
-    "changePercent": 3.5417237,
-    "timestamp": "2025-04-23T11:02:41.183469"
+    "price": 66.49,
+    "volume": 162471,
+    "changePercent": 2.3868115,
+    "timestamp": "2025-04-23T11:48:10.366978"
   },
   "DPZ": {
-    "price": 486.31,
-    "volume": 119059,
-    "changePercent": 0.034965836,
-    "timestamp": "2025-04-23T11:02:41.321023"
+    "price": 482.5,
+    "volume": 190515,
+    "changePercent": -0.7487585,
+    "timestamp": "2025-04-23T11:48:10.522094"
   },
   "TMO": {
-    "price": 441.24,
-    "volume": 1277856,
-    "changePercent": 1.4974763,
-    "timestamp": "2025-04-23T11:02:41.468341"
+    "price": 435.11,
+    "volume": 1637973,
+    "changePercent": 0.087404676,
+    "timestamp": "2025-04-23T11:48:10.797960"
   },
   "WBD": {
-    "price": 8.58,
-    "volume": 19625290,
-    "changePercent": 7.9295173,
-    "timestamp": "2025-04-23T11:02:41.605420"
+    "price": 8.425,
+    "volume": 25384794,
+    "changePercent": 5.974848,
+    "timestamp": "2025-04-23T11:48:10.957798"
   },
   "JPM": {
-    "price": 244.525,
-    "volume": 3937498,
-    "changePercent": 3.792605,
-    "timestamp": "2025-04-23T11:02:41.744925"
+    "price": 243.08,
+    "volume": 5275995,
+    "changePercent": 3.1792545,
+    "timestamp": "2025-04-23T11:48:11.112607"
   },
   "GDDY": {
-    "price": 177.92,
-    "volume": 332953,
-    "changePercent": 4.54198,
-    "timestamp": "2025-04-23T11:02:41.877466"
+    "price": 176.99,
+    "volume": 437445,
+    "changePercent": 3.995536,
+    "timestamp": "2025-04-23T11:48:11.282815"
   },
   "MMC": {
-    "price": 220.195,
-    "volume": 637572,
-    "changePercent": 0.29378468,
-    "timestamp": "2025-04-23T11:02:42.010700"
+    "price": 219.525,
+    "volume": 729780,
+    "changePercent": -0.011391098,
+    "timestamp": "2025-04-23T11:48:11.436863"
   },
   "XLK": {
-    "price": 200.69,
-    "volume": 2408504,
-    "changePercent": 4.276211,
-    "timestamp": "2025-04-23T11:02:42.120954"
+    "price": 198.62,
+    "volume": 3213090,
+    "changePercent": 3.200659,
+    "timestamp": "2025-04-23T11:48:11.570955"
   },
   "CI": {
-    "price": 335.41,
-    "volume": 513922,
-    "changePercent": -0.4924804,
-    "timestamp": "2025-04-23T11:02:42.302432"
+    "price": 334.12,
+    "volume": 644212,
+    "changePercent": -0.87519276,
+    "timestamp": "2025-04-23T11:48:11.706696"
   },
   "AZO": {
-    "price": 3681.97,
-    "volume": 30713,
-    "changePercent": 0.08998001,
-    "timestamp": "2025-04-23T11:02:42.459065"
+    "price": 3662.55,
+    "volume": 38315,
+    "changePercent": -0.43792748,
+    "timestamp": "2025-04-23T11:48:11.875678"
   },
   "MNST": {
-    "price": 59.18,
-    "volume": 1187689,
-    "changePercent": -0.16868839,
-    "timestamp": "2025-04-23T11:02:42.609815"
+    "price": 59.02,
+    "volume": 1666704,
+    "changePercent": -0.43859366,
+    "timestamp": "2025-04-23T11:48:12.041024"
   },
   "RCL": {
-    "price": 210.19,
-    "volume": 1104184,
-    "changePercent": 5.268696,
-    "timestamp": "2025-04-23T11:02:42.787327"
+    "price": 209.1,
+    "volume": 1326884,
+    "changePercent": 4.7227964,
+    "timestamp": "2025-04-23T11:48:12.196684"
   },
   "TTD": {
-    "price": 51.9899,
-    "volume": 3541254,
-    "changePercent": 6.843195,
-    "timestamp": "2025-04-23T11:02:42.933280"
+    "price": 50.7,
+    "volume": 4954901,
+    "changePercent": 4.192357,
+    "timestamp": "2025-04-23T11:48:12.352188"
   },
   "PRU": {
-    "price": 103.2401,
-    "volume": 392220,
-    "changePercent": 3.0237482,
-    "timestamp": "2025-04-23T11:02:43.180004"
+    "price": 102.55,
+    "volume": 552958,
+    "changePercent": 2.335096,
+    "timestamp": "2025-04-23T11:48:12.479955"
   },
   "JBHT": {
-    "price": 131.72,
-    "volume": 474280,
-    "changePercent": 2.4898825,
-    "timestamp": "2025-04-23T11:02:43.307412"
+    "price": 130.66,
+    "volume": 630419,
+    "changePercent": 1.66511,
+    "timestamp": "2025-04-23T11:48:12.641519"
   },
   "AIG": {
-    "price": 81.82,
-    "volume": 889800,
-    "changePercent": 0.22048053,
-    "timestamp": "2025-04-23T11:02:43.428293"
+    "price": 81.38,
+    "volume": 1117629,
+    "changePercent": -0.31847396,
+    "timestamp": "2025-04-23T11:48:12.787043"
   },
   "BRK.B": {
     "price": null,
     "volume": null,
     "changePercent": null,
-    "timestamp": "2025-04-23T11:02:43.569947"
+    "timestamp": "2025-04-23T11:48:12.916821"
   },
   "MHK": {
-    "price": 107.97,
-    "volume": 104595,
-    "changePercent": 3.6578317,
-    "timestamp": "2025-04-23T11:02:43.717139"
+    "price": 106.89,
+    "volume": 138929,
+    "changePercent": 2.6209636,
+    "timestamp": "2025-04-23T11:48:13.083519"
   },
   "MOH": {
-    "price": 329.76,
-    "volume": 130575,
-    "changePercent": 2.677795,
-    "timestamp": "2025-04-23T11:02:43.867560"
+    "price": 327.99,
+    "volume": 192343,
+    "changePercent": 2.1266615,
+    "timestamp": "2025-04-23T11:48:13.244716"
   },
   "NRG": {
-    "price": 102.9,
-    "volume": 440351,
-    "changePercent": 4.149796,
-    "timestamp": "2025-04-23T11:02:44.003438"
+    "price": 101.845,
+    "volume": 568596,
+    "changePercent": 3.081982,
+    "timestamp": "2025-04-23T11:48:13.419626"
   },
   "BKNG": {
-    "price": 4778.36,
-    "volume": 70316,
-    "changePercent": 3.9207623,
-    "timestamp": "2025-04-23T11:02:44.147150"
+    "price": 4760.085,
+    "volume": 87536,
+    "changePercent": 3.523316,
+    "timestamp": "2025-04-23T11:48:13.551387"
   },
   "DTE": {
-    "price": 135.85,
-    "volume": 162868,
-    "changePercent": 0.036821097,
-    "timestamp": "2025-04-23T11:02:44.292013"
+    "price": 134.96,
+    "volume": 233094,
+    "changePercent": -0.618554,
+    "timestamp": "2025-04-23T11:48:13.684251"
   },
   "ETR": {
-    "price": 84.58,
-    "volume": 693328,
-    "changePercent": 1.5610027,
-    "timestamp": "2025-04-23T11:02:44.442919"
+    "price": 84.18,
+    "volume": 1002127,
+    "changePercent": 1.0806935,
+    "timestamp": "2025-04-23T11:48:13.843218"
   },
   "UHS": {
-    "price": 167.475,
-    "volume": 187589,
-    "changePercent": 3.828272,
-    "timestamp": "2025-04-23T11:02:44.576432"
+    "price": 167.11,
+    "volume": 223161,
+    "changePercent": 3.6019838,
+    "timestamp": "2025-04-23T11:48:13.972817"
   },
   "AMCR": {
-    "price": 9.545,
-    "volume": 8495081,
-    "changePercent": -0.15690735,
-    "timestamp": "2025-04-23T11:02:44.740140"
+    "price": 9.495,
+    "volume": 12565178,
+    "changePercent": -0.67992187,
+    "timestamp": "2025-04-23T11:48:14.092970"
   },
   "PLD": {
-    "price": 102.71,
-    "volume": 1529790,
-    "changePercent": 2.7630415,
-    "timestamp": "2025-04-23T11:02:44.880532"
+    "price": 102.0,
+    "volume": 1878678,
+    "changePercent": 2.0510287,
+    "timestamp": "2025-04-23T11:48:14.243347"
   },
   "BLK": {
-    "price": 913.095,
-    "volume": 171939,
-    "changePercent": 2.916413,
-    "timestamp": "2025-04-23T11:02:45.007494"
+    "price": 903.52,
+    "volume": 235283,
+    "changePercent": 1.8372049,
+    "timestamp": "2025-04-23T11:48:14.401856"
   },
   "PEP": {
-    "price": 142.56,
-    "volume": 1944073,
-    "changePercent": -0.6273589,
-    "timestamp": "2025-04-23T11:02:45.154191"
+    "price": 141.78,
+    "volume": 2720788,
+    "changePercent": -1.1710637,
+    "timestamp": "2025-04-23T11:48:14.579737"
   },
   "HUBB": {
-    "price": 355.41,
-    "volume": 120023,
-    "changePercent": 4.3727283,
-    "timestamp": "2025-04-23T11:02:45.557656"
+    "price": 351.632,
+    "volume": 156283,
+    "changePercent": 3.2633355,
+    "timestamp": "2025-04-23T11:48:14.719116"
   },
   "EIX": {
-    "price": 58.21,
-    "volume": 451931,
-    "changePercent": 0.67450607,
-    "timestamp": "2025-04-23T11:02:45.734190"
+    "price": 57.77,
+    "volume": 624206,
+    "changePercent": -0.08647395,
+    "timestamp": "2025-04-23T11:48:14.869735"
   },
   "MS": {
-    "price": 114.31,
-    "volume": 2884728,
-    "changePercent": 3.5582519,
-    "timestamp": "2025-04-23T11:02:45.901081"
+    "price": 113.33,
+    "volume": 3658517,
+    "changePercent": 2.6725898,
+    "timestamp": "2025-04-23T11:48:15.014719"
   },
   "WY": {
-    "price": 25.7,
-    "volume": 510441,
-    "changePercent": 1.7418865,
-    "timestamp": "2025-04-23T11:02:46.064871"
+    "price": 25.49,
+    "volume": 746276,
+    "changePercent": 0.91052866,
+    "timestamp": "2025-04-23T11:48:15.181179"
   },
   "MTB": {
-    "price": 167.605,
-    "volume": 289153,
-    "changePercent": 3.459874,
-    "timestamp": "2025-04-23T11:02:46.219836"
+    "price": 166.535,
+    "volume": 400958,
+    "changePercent": 2.7974854,
+    "timestamp": "2025-04-23T11:48:15.312539"
   },
   "VMC": {
-    "price": 247.845,
-    "volume": 203355,
-    "changePercent": 3.0240653,
-    "timestamp": "2025-04-23T11:02:46.425106"
+    "price": 245.93,
+    "volume": 307208,
+    "changePercent": 2.2280357,
+    "timestamp": "2025-04-23T11:48:15.439026"
   },
   "CCEP": {
-    "price": 88.945,
-    "volume": 965180,
-    "changePercent": -1.9457606,
-    "timestamp": "2025-04-23T11:02:46.575423"
+    "price": 88.565,
+    "volume": 1260716,
+    "changePercent": -2.364675,
+    "timestamp": "2025-04-23T11:48:15.578989"
   },
   "POOL": {
-    "price": 315.365,
-    "volume": 88485,
-    "changePercent": 2.8319414,
-    "timestamp": "2025-04-23T11:02:46.724847"
+    "price": 310.17,
+    "volume": 148620,
+    "changePercent": 1.1380008,
+    "timestamp": "2025-04-23T11:48:15.747807"
   },
   "NFLX": {
-    "price": 1051.0,
-    "volume": 2315535,
-    "changePercent": 1.0246683,
-    "timestamp": "2025-04-23T11:02:46.868353"
+    "price": 1044.38,
+    "volume": 3368870,
+    "changePercent": 0.38833836,
+    "timestamp": "2025-04-23T11:48:15.911368"
   },
   "VTRS": {
-    "price": 7.975,
-    "volume": 2546488,
-    "changePercent": 3.7037017,
-    "timestamp": "2025-04-23T11:02:47.007541"
+    "price": 7.885,
+    "volume": 3351728,
+    "changePercent": 2.535763,
+    "timestamp": "2025-04-23T11:48:16.073023"
   },
   "NVR": {
-    "price": 7280.37,
-    "volume": 5179,
-    "changePercent": 1.58297,
-    "timestamp": "2025-04-23T11:02:47.178193"
+    "price": 7235.12,
+    "volume": 7952,
+    "changePercent": 0.951597,
+    "timestamp": "2025-04-23T11:48:16.210159"
   },
   "HAL": {
-    "price": 20.585,
-    "volume": 8142467,
-    "changePercent": -0.55542946,
-    "timestamp": "2025-04-23T11:02:47.358748"
+    "price": 20.41,
+    "volume": 9792407,
+    "changePercent": -1.4009908,
+    "timestamp": "2025-04-23T11:48:16.374996"
   },
   "INTU": {
-    "price": 604.3925,
-    "volume": 462861,
-    "changePercent": 3.570055,
-    "timestamp": "2025-04-23T11:02:47.544398"
+    "price": 597.23,
+    "volume": 585574,
+    "changePercent": 2.3425155,
+    "timestamp": "2025-04-23T11:48:16.514636"
   },
   "LKQ": {
-    "price": 42.69,
-    "volume": 353920,
-    "changePercent": 1.0175114,
-    "timestamp": "2025-04-23T11:02:47.769424"
+    "price": 42.4,
+    "volume": 558433,
+    "changePercent": 0.33129013,
+    "timestamp": "2025-04-23T11:48:16.663464"
   },
   "CBRE": {
-    "price": 123.71,
-    "volume": 723751,
-    "changePercent": 4.6704426,
-    "timestamp": "2025-04-23T11:02:47.885218"
+    "price": 122.875,
+    "volume": 981053,
+    "changePercent": 3.9639542,
+    "timestamp": "2025-04-23T11:48:16.807250"
   },
   "GPC": {
-    "price": 117.985,
-    "volume": 287153,
-    "changePercent": 2.6402817,
-    "timestamp": "2025-04-23T11:02:48.171752"
+    "price": 117.17,
+    "volume": 418127,
+    "changePercent": 1.9312756,
+    "timestamp": "2025-04-23T11:48:16.925861"
   },
   "TYL": {
-    "price": 578.41,
-    "volume": 80482,
-    "changePercent": 2.5840569,
-    "timestamp": "2025-04-23T11:02:48.293314"
+    "price": 571.34,
+    "volume": 149445,
+    "changePercent": 1.3301646,
+    "timestamp": "2025-04-23T11:48:17.080947"
   },
   "ABBV": {
-    "price": 176.61,
-    "volume": 1624398,
-    "changePercent": 1.6284969,
-    "timestamp": "2025-04-23T11:02:48.464766"
+    "price": 175.83,
+    "volume": 2194751,
+    "changePercent": 1.1796542,
+    "timestamp": "2025-04-23T11:48:17.200150"
   },
   "WFC": {
-    "price": 68.75,
-    "volume": 6793698,
-    "changePercent": 3.804917,
-    "timestamp": "2025-04-23T11:02:48.628977"
+    "price": 68.305,
+    "volume": 8550001,
+    "changePercent": 3.1330166,
+    "timestamp": "2025-04-23T11:48:17.324508"
   },
   "SJM": {
-    "price": 117.83,
-    "volume": 140816,
-    "changePercent": 0.08493882,
-    "timestamp": "2025-04-23T11:02:48.789254"
+    "price": 116.83,
+    "volume": 188648,
+    "changePercent": -0.7644627,
+    "timestamp": "2025-04-23T11:48:17.442689"
   },
   "WRB": {
-    "price": 71.1,
-    "volume": 581317,
-    "changePercent": 0.35285816,
-    "timestamp": "2025-04-23T11:02:48.967509"
+    "price": 70.745,
+    "volume": 715491,
+    "changePercent": -0.1481944,
+    "timestamp": "2025-04-23T11:48:17.604395"
   },
   "ECL": {
-    "price": 239.145,
-    "volume": 228289,
-    "changePercent": 0.9860254,
-    "timestamp": "2025-04-23T11:02:49.115375"
+    "price": 238.0,
+    "volume": 305404,
+    "changePercent": 0.5025136,
+    "timestamp": "2025-04-23T11:48:17.725421"
   },
   "UBER": {
-    "price": 74.6,
-    "volume": 7796257,
-    "changePercent": 0.21493287,
-    "timestamp": "2025-04-23T11:02:49.230781"
+    "price": 73.615,
+    "volume": 10260633,
+    "changePercent": -1.1082813,
+    "timestamp": "2025-04-23T11:48:17.875332"
   },
   "WMB": {
     "price": 58.51,
-    "volume": 1459238,
-    "changePercent": 0.53255033,
-    "timestamp": "2025-04-23T11:02:49.384727"
+    "volume": 1815338,
+    "changePercent": 0.5326418,
+    "timestamp": "2025-04-23T11:48:18.014069"
   },
   "AZN": {
-    "price": 68.86,
-    "volume": 1424265,
-    "changePercent": 1.4586678,
-    "timestamp": "2025-04-23T11:02:49.558489"
+    "price": 68.635,
+    "volume": 1998467,
+    "changePercent": 1.1272371,
+    "timestamp": "2025-04-23T11:48:18.225937"
   },
   "EL": {
-    "price": 58.2775,
-    "volume": 1284047,
-    "changePercent": 4.178587,
-    "timestamp": "2025-04-23T11:02:49.697009"
+    "price": 57.155,
+    "volume": 1615599,
+    "changePercent": 2.1719704,
+    "timestamp": "2025-04-23T11:48:18.340741"
   },
   "AON": {
-    "price": 369.005,
-    "volume": 233050,
-    "changePercent": 0.13161182,
-    "timestamp": "2025-04-23T11:02:49.849631"
+    "price": 367.12,
+    "volume": 300859,
+    "changePercent": -0.3798963,
+    "timestamp": "2025-04-23T11:48:18.447995"
   },
   "TPL": {
-    "price": 1334.19,
-    "volume": 33182,
-    "changePercent": 1.8045301,
-    "timestamp": "2025-04-23T11:02:49.990328"
+    "price": 1329.395,
+    "volume": 39429,
+    "changePercent": 1.4472322,
+    "timestamp": "2025-04-23T11:48:18.603456"
   },
   "VST": {
-    "price": 122.68,
-    "volume": 2990598,
-    "changePercent": 8.923025,
-    "timestamp": "2025-04-23T11:02:50.106327"
+    "price": 120.15,
+    "volume": 3663780,
+    "changePercent": 6.676733,
+    "timestamp": "2025-04-23T11:48:18.718844"
   },
   "LDOS": {
-    "price": 143.43,
-    "volume": 240993,
-    "changePercent": 1.5361732,
-    "timestamp": "2025-04-23T11:02:50.325925"
+    "price": 142.775,
+    "volume": 295678,
+    "changePercent": 1.0724905,
+    "timestamp": "2025-04-23T11:48:18.917025"
   },
   "COO": {
-    "price": 81.99,
-    "volume": 742066,
-    "changePercent": 2.7572339,
-    "timestamp": "2025-04-23T11:02:50.528902"
+    "price": 81.04,
+    "volume": 859219,
+    "changePercent": 1.5666124,
+    "timestamp": "2025-04-23T11:48:19.093416"
   },
   "FTV": {
-    "price": 68.285,
-    "volume": 285276,
-    "changePercent": 3.4778085,
-    "timestamp": "2025-04-23T11:02:50.690478"
+    "price": 67.56,
+    "volume": 379559,
+    "changePercent": 2.3791485,
+    "timestamp": "2025-04-23T11:48:19.200029"
   },
   "TT": {
-    "price": 345.64,
-    "volume": 536988,
-    "changePercent": 3.9143827,
-    "timestamp": "2025-04-23T11:02:50.820504"
+    "price": 342.03,
+    "volume": 663376,
+    "changePercent": 2.8290553,
+    "timestamp": "2025-04-23T11:48:19.318789"
   },
   "EMN": {
-    "price": 80.485,
-    "volume": 440624,
-    "changePercent": 1.5071254,
-    "timestamp": "2025-04-23T11:02:50.954751"
+    "price": 79.535,
+    "volume": 544453,
+    "changePercent": 0.30899575,
+    "timestamp": "2025-04-23T11:48:19.460013"
   },
   "BAC": {
-    "price": 39.435,
-    "volume": 20022273,
-    "changePercent": 2.909712,
-    "timestamp": "2025-04-23T11:02:51.097274"
+    "price": 38.99,
+    "volume": 25545130,
+    "changePercent": 1.7484394,
+    "timestamp": "2025-04-23T11:48:19.600637"
   },
   "CVS": {
-    "price": 65.79,
-    "volume": 2042848,
-    "changePercent": 0.51932794,
-    "timestamp": "2025-04-23T11:02:51.239936"
+    "price": 65.24,
+    "volume": 2841424,
+    "changePercent": -0.32085422,
+    "timestamp": "2025-04-23T11:48:19.803502"
   },
   "LHX": {
-    "price": 217.905,
-    "volume": 356051,
-    "changePercent": 1.3134633,
-    "timestamp": "2025-04-23T11:02:51.375387"
+    "price": 217.28,
+    "volume": 541148,
+    "changePercent": 1.0228738,
+    "timestamp": "2025-04-23T11:48:19.938050"
   },
   "BF.B": {
     "price": null,
     "volume": null,
     "changePercent": null,
-    "timestamp": "2025-04-23T11:02:51.521407"
+    "timestamp": "2025-04-23T11:48:20.083678"
   },
   "DASH": {
-    "price": 184.485,
-    "volume": 775482,
-    "changePercent": 4.458977,
-    "timestamp": "2025-04-23T11:02:51.666413"
+    "price": 182.7,
+    "volume": 999828,
+    "changePercent": 3.4482737,
+    "timestamp": "2025-04-23T11:48:20.205142"
   },
   "FICO": {
-    "price": 1962.97,
-    "volume": 42630,
-    "changePercent": 4.8091164,
-    "timestamp": "2025-04-23T11:02:51.836815"
+    "price": 1949.8225,
+    "volume": 68767,
+    "changePercent": 4.1071324,
+    "timestamp": "2025-04-23T11:48:20.363675"
   },
   "MSCI": {
-    "price": 548.56,
-    "volume": 128882,
-    "changePercent": 1.8719391,
-    "timestamp": "2025-04-23T11:02:51.964647"
+    "price": 545.645,
+    "volume": 168207,
+    "changePercent": 1.3306048,
+    "timestamp": "2025-04-23T11:48:20.499581"
   },
   "HES": {
-    "price": 129.61,
-    "volume": 531456,
-    "changePercent": -0.59058464,
-    "timestamp": "2025-04-23T11:02:52.097747"
+    "price": 128.965,
+    "volume": 614971,
+    "changePercent": -1.0856704,
+    "timestamp": "2025-04-23T11:48:20.649982"
   },
   "SPG": {
-    "price": 155.965,
-    "volume": 652569,
-    "changePercent": 3.486822,
-    "timestamp": "2025-04-23T11:02:52.279720"
+    "price": 153.85,
+    "volume": 773355,
+    "changePercent": 2.083471,
+    "timestamp": "2025-04-23T11:48:20.793065"
   },
   "TECH": {
-    "price": 52.28,
-    "volume": 514798,
-    "changePercent": 6.519961,
-    "timestamp": "2025-04-23T11:02:52.423443"
+    "price": 50.95,
+    "volume": 631133,
+    "changePercent": 3.8101037,
+    "timestamp": "2025-04-23T11:48:20.918824"
   },
   "DFS": {
-    "price": 182.36,
-    "volume": 1537464,
-    "changePercent": 5.8202276,
-    "timestamp": "2025-04-23T11:02:52.555161"
+    "price": 180.76,
+    "volume": 1715076,
+    "changePercent": 4.891773,
+    "timestamp": "2025-04-23T11:48:21.054860"
   },
   "LYB": {
-    "price": 59.255,
-    "volume": 1020237,
-    "changePercent": 1.9177876,
-    "timestamp": "2025-04-23T11:02:52.689786"
+    "price": 57.99,
+    "volume": 1348784,
+    "changePercent": -0.25794965,
+    "timestamp": "2025-04-23T11:48:21.193428"
   },
   "CAG": {
-    "price": 25.39,
-    "volume": 811497,
-    "changePercent": -0.35321882,
-    "timestamp": "2025-04-23T11:02:52.859550"
+    "price": 25.2,
+    "volume": 1185948,
+    "changePercent": -1.0988964,
+    "timestamp": "2025-04-23T11:48:21.371913"
   },
   "CARR": {
-    "price": 60.33,
-    "volume": 2008288,
-    "changePercent": 1.4456222,
-    "timestamp": "2025-04-23T11:02:53.048978"
+    "price": 59.9,
+    "volume": 2573934,
+    "changePercent": 0.7230541,
+    "timestamp": "2025-04-23T11:48:21.522755"
   },
   "NDSN": {
-    "price": 189.58,
-    "volume": 53313,
-    "changePercent": 3.5616763,
-    "timestamp": "2025-04-23T11:02:53.190751"
+    "price": 187.73,
+    "volume": 76457,
+    "changePercent": 2.5510752,
+    "timestamp": "2025-04-23T11:48:21.648605"
   },
   "MMM": {
-    "price": 138.36,
-    "volume": 1799219,
-    "changePercent": 1.4890331,
-    "timestamp": "2025-04-23T11:02:53.345268"
+    "price": 136.79,
+    "volume": 2126076,
+    "changePercent": 0.3374103,
+    "timestamp": "2025-04-23T11:48:21.784844"
   },
   "EA": {
-    "price": 144.7,
-    "volume": 578275,
-    "changePercent": -0.80208284,
-    "timestamp": "2025-04-23T11:02:53.501470"
+    "price": 143.405,
+    "volume": 750820,
+    "changePercent": -1.6888741,
+    "timestamp": "2025-04-23T11:48:21.911342"
   },
   "HII": {
-    "price": 218.81,
-    "volume": 171501,
-    "changePercent": 0.7319751,
-    "timestamp": "2025-04-23T11:02:53.691812"
+    "price": 217.43,
+    "volume": 248131,
+    "changePercent": 0.096672036,
+    "timestamp": "2025-04-23T11:48:22.084272"
   },
   "TEAM": {
-    "price": 212.93,
-    "volume": 451364,
-    "changePercent": 6.3055367,
-    "timestamp": "2025-04-23T11:02:53.866897"
+    "price": 209.68,
+    "volume": 651266,
+    "changePercent": 4.68297,
+    "timestamp": "2025-04-23T11:48:22.203271"
   },
   "PAYX": {
-    "price": 144.58,
-    "volume": 730689,
-    "changePercent": 0.9002782,
-    "timestamp": "2025-04-23T11:02:54.014540"
+    "price": 143.64,
+    "volume": 857508,
+    "changePercent": 0.24426417,
+    "timestamp": "2025-04-23T11:48:22.366447"
   },
   "BK": {
-    "price": 78.56,
-    "volume": 847620,
-    "changePercent": 2.9484997,
-    "timestamp": "2025-04-23T11:02:54.154321"
+    "price": 78.06,
+    "volume": 1181221,
+    "changePercent": 2.2932775,
+    "timestamp": "2025-04-23T11:48:22.497487"
   },
   "LNT": {
-    "price": 61.06,
-    "volume": 893411,
-    "changePercent": 0.049160402,
-    "timestamp": "2025-04-23T11:02:54.285040"
+    "price": 60.64,
+    "volume": 1213388,
+    "changePercent": -0.639029,
+    "timestamp": "2025-04-23T11:48:22.618776"
   },
   "GWW": {
-    "price": 1010.195,
-    "volume": 34134,
-    "changePercent": 1.1358094,
-    "timestamp": "2025-04-23T11:02:54.437641"
+    "price": 1001.33,
+    "volume": 66885,
+    "changePercent": 0.24828956,
+    "timestamp": "2025-04-23T11:48:22.719763"
   },
   "TDG": {
-    "price": 1363.48,
-    "volume": 71697,
-    "changePercent": 4.249557,
-    "timestamp": "2025-04-23T11:02:54.605181"
+    "price": 1355.27,
+    "volume": 95425,
+    "changePercent": 3.6218364,
+    "timestamp": "2025-04-23T11:48:22.879061"
   },
   "NOW": {
-    "price": 825.805,
-    "volume": 968004,
-    "changePercent": 7.6907496,
-    "timestamp": "2025-04-23T11:02:54.777009"
+    "price": 814.04,
+    "volume": 1173608,
+    "changePercent": 6.1565094,
+    "timestamp": "2025-04-23T11:48:23.000222"
   },
   "CTRA": {
-    "price": 25.26,
-    "volume": 1685563,
-    "changePercent": 0.7177046,
-    "timestamp": "2025-04-23T11:02:55.005930"
+    "price": 25.395,
+    "volume": 2121713,
+    "changePercent": 1.255983,
+    "timestamp": "2025-04-23T11:48:23.113101"
   },
   "LRCX": {
-    "price": 67.42,
-    "volume": 4903092,
-    "changePercent": 6.2066774,
-    "timestamp": "2025-04-23T11:02:55.191457"
+    "price": 66.6,
+    "volume": 5888774,
+    "changePercent": 4.914932,
+    "timestamp": "2025-04-23T11:48:23.300497"
   },
   "VRSN": {
-    "price": 250.845,
-    "volume": 159824,
-    "changePercent": 1.1145595,
-    "timestamp": "2025-04-23T11:02:55.337147"
+    "price": 249.78,
+    "volume": 216010,
+    "changePercent": 0.6852616,
+    "timestamp": "2025-04-23T11:48:23.435014"
   },
   "CDNS": {
-    "price": 270.53,
-    "volume": 528519,
-    "changePercent": 4.7956634,
-    "timestamp": "2025-04-23T11:02:55.535216"
+    "price": 268.06,
+    "volume": 711354,
+    "changePercent": 3.8388548,
+    "timestamp": "2025-04-23T11:48:23.590618"
   },
   "ESS": {
-    "price": 280.945,
-    "volume": 76476,
-    "changePercent": 1.655394,
-    "timestamp": "2025-04-23T11:02:55.645906"
+    "price": 278.48,
+    "volume": 95747,
+    "changePercent": 0.763475,
+    "timestamp": "2025-04-23T11:48:23.727664"
   },
   "FIS": {
-    "price": 80.93,
-    "volume": 1244234,
-    "changePercent": 2.287661,
-    "timestamp": "2025-04-23T11:02:55.778367"
+    "price": 80.015,
+    "volume": 1705409,
+    "changePercent": 1.1311889,
+    "timestamp": "2025-04-23T11:48:23.862329"
   },
   "CPB": {
-    "price": 37.555,
-    "volume": 849880,
-    "changePercent": -0.8579745,
-    "timestamp": "2025-04-23T11:02:55.933894"
+    "price": 37.32,
+    "volume": 1111380,
+    "changePercent": -1.4783562,
+    "timestamp": "2025-04-23T11:48:23.988914"
   },
   "ACGL": {
-    "price": 93.0687,
-    "volume": 260059,
-    "changePercent": 0.12770925,
-    "timestamp": "2025-04-23T11:02:56.093509"
+    "price": 92.4445,
+    "volume": 336787,
+    "changePercent": -0.54383343,
+    "timestamp": "2025-04-23T11:48:24.115305"
   },
   "EFX": {
-    "price": 252.06,
-    "volume": 261826,
-    "changePercent": 2.8480477,
-    "timestamp": "2025-04-23T11:02:56.231952"
+    "price": 248.07,
+    "volume": 369197,
+    "changePercent": 1.2200121,
+    "timestamp": "2025-04-23T11:48:24.231993"
   },
   "MTCH": {
-    "price": 29.73,
-    "volume": 576666,
-    "changePercent": 0.06727343,
-    "timestamp": "2025-04-23T11:02:56.390432"
+    "price": 29.19,
+    "volume": 883107,
+    "changePercent": -1.7502476,
+    "timestamp": "2025-04-23T11:48:24.386064"
   },
   "LUV": {
-    "price": 25.735,
-    "volume": 3480153,
-    "changePercent": 3.9798005,
-    "timestamp": "2025-04-23T11:02:56.548363"
+    "price": 25.45,
+    "volume": 4489146,
+    "changePercent": 2.828286,
+    "timestamp": "2025-04-23T11:48:24.515470"
   },
   "MPC": {
-    "price": 133.5325,
-    "volume": 666947,
-    "changePercent": 1.630643,
-    "timestamp": "2025-04-23T11:02:56.720069"
+    "price": 133.04,
+    "volume": 943508,
+    "changePercent": 1.2557987,
+    "timestamp": "2025-04-23T11:48:24.637692"
   },
   "WAT": {
-    "price": 344.93,
-    "volume": 126984,
-    "changePercent": 4.2998405,
-    "timestamp": "2025-04-23T11:02:56.884702"
+    "price": 338.91,
+    "volume": 183533,
+    "changePercent": 2.4795175,
+    "timestamp": "2025-04-23T11:48:24.755869"
   },
   "KVUE": {
-    "price": 23.055,
-    "volume": 2871525,
-    "changePercent": -0.58214843,
-    "timestamp": "2025-04-23T11:02:57.012246"
+    "price": 22.96,
+    "volume": 3861090,
+    "changePercent": -0.99181306,
+    "timestamp": "2025-04-23T11:48:24.895077"
   },
   "NUE": {
-    "price": 113.34,
-    "volume": 591551,
-    "changePercent": 3.3841195,
-    "timestamp": "2025-04-23T11:02:57.177394"
+    "price": 112.29,
+    "volume": 730358,
+    "changePercent": 2.4356852,
+    "timestamp": "2025-04-23T11:48:25.006981"
   },
   "A": {
-    "price": 107.46,
-    "volume": 546568,
-    "changePercent": 4.5229077,
-    "timestamp": "2025-04-23T11:02:57.334262"
+    "price": 105.5275,
+    "volume": 738331,
+    "changePercent": 2.6432242,
+    "timestamp": "2025-04-23T11:48:25.178579"
   },
   "ROP": {
-    "price": 559.2,
-    "volume": 118115,
-    "changePercent": 1.432981,
-    "timestamp": "2025-04-23T11:02:57.461780"
+    "price": 555.73,
+    "volume": 138170,
+    "changePercent": 0.80355394,
+    "timestamp": "2025-04-23T11:48:25.289920"
   },
   "PHM": {
-    "price": 103.265,
-    "volume": 565449,
-    "changePercent": 2.354049,
-    "timestamp": "2025-04-23T11:02:57.608299"
+    "price": 102.11,
+    "volume": 704227,
+    "changePercent": 1.209239,
+    "timestamp": "2025-04-23T11:48:25.445626"
   },
   "MAS": {
-    "price": 61.5,
-    "volume": 2567255,
-    "changePercent": 0.11395034,
-    "timestamp": "2025-04-23T11:02:57.762610"
+    "price": 60.65,
+    "volume": 2923279,
+    "changePercent": -1.2697359,
+    "timestamp": "2025-04-23T11:48:25.599479"
   },
   "GME": {
-    "price": 27.46,
-    "volume": 3461811,
-    "changePercent": -1.2230222,
-    "timestamp": "2025-04-23T11:02:57.910904"
+    "price": 27.1445,
+    "volume": 4785720,
+    "changePercent": -2.3579082,
+    "timestamp": "2025-04-23T11:48:25.711196"
   },
   "SYF": {
-    "price": 50.73,
-    "volume": 2152959,
-    "changePercent": 4.4686947,
-    "timestamp": "2025-04-23T11:02:58.057057"
+    "price": 50.38,
+    "volume": 2592115,
+    "changePercent": 3.74794,
+    "timestamp": "2025-04-23T11:48:25.869963"
   },
   "SWK": {
-    "price": 61.95,
-    "volume": 829330,
-    "changePercent": 6.115107,
-    "timestamp": "2025-04-23T11:02:58.213157"
+    "price": 60.69,
+    "volume": 1093173,
+    "changePercent": 3.9568303,
+    "timestamp": "2025-04-23T11:48:25.995954"
   },
   "AXP": {
-    "price": 265.115,
-    "volume": 1437244,
-    "changePercent": 5.0293136,
-    "timestamp": "2025-04-23T11:02:58.368609"
+    "price": 262.215,
+    "volume": 1732242,
+    "changePercent": 3.8804367,
+    "timestamp": "2025-04-23T11:48:26.149915"
   },
   "ADSK": {
-    "price": 268.81,
-    "volume": 252429,
-    "changePercent": 2.9371152,
-    "timestamp": "2025-04-23T11:02:58.512625"
+    "price": 265.88,
+    "volume": 315456,
+    "changePercent": 1.8151145,
+    "timestamp": "2025-04-23T11:48:26.276105"
   },
   "AMZN": {
-    "price": 184.74,
-    "volume": 27704403,
-    "changePercent": 6.675336,
-    "timestamp": "2025-04-23T11:02:58.655046"
+    "price": 181.85,
+    "volume": 33857854,
+    "changePercent": 5.0063596,
+    "timestamp": "2025-04-23T11:48:26.403761"
   },
   "AEP": {
-    "price": 107.135,
-    "volume": 759959,
-    "changePercent": -0.9385108,
-    "timestamp": "2025-04-23T11:02:58.830644"
+    "price": 106.22,
+    "volume": 1010316,
+    "changePercent": -1.7845588,
+    "timestamp": "2025-04-23T11:48:26.559754"
   },
   "VICI": {
-    "price": 32.75,
-    "volume": 1799264,
-    "changePercent": -0.667277,
-    "timestamp": "2025-04-23T11:02:58.965075"
+    "price": 32.54,
+    "volume": 2604108,
+    "changePercent": -1.3042169,
+    "timestamp": "2025-04-23T11:48:26.681035"
   },
   "PEG": {
-    "price": 83.39,
-    "volume": 551426,
-    "changePercent": 1.6951212,
-    "timestamp": "2025-04-23T11:02:59.129033"
+    "price": 82.125,
+    "volume": 848693,
+    "changePercent": 0.15243903,
+    "timestamp": "2025-04-23T11:48:26.865145"
   },
   "WSM": {
-    "price": 149.915,
-    "volume": 565198,
-    "changePercent": 5.6250224,
-    "timestamp": "2025-04-23T11:02:59.282013"
+    "price": 148.25,
+    "volume": 705479,
+    "changePercent": 4.4529047,
+    "timestamp": "2025-04-23T11:48:26.990536"
   },
   "OXY": {
-    "price": 40.17,
-    "volume": 4855302,
-    "changePercent": 0.50036764,
-    "timestamp": "2025-04-23T11:02:59.417727"
+    "price": 39.625,
+    "volume": 6148505,
+    "changePercent": -0.8630424,
+    "timestamp": "2025-04-23T11:48:27.134435"
   },
   "KEYS": {
-    "price": 140.02,
-    "volume": 189623,
-    "changePercent": 3.6340787,
-    "timestamp": "2025-04-23T11:02:59.541253"
+    "price": 138.04,
+    "volume": 246921,
+    "changePercent": 2.168598,
+    "timestamp": "2025-04-23T11:48:27.273039"
   },
   "KEY": {
-    "price": 14.795,
-    "volume": 6315748,
-    "changePercent": 4.410727,
-    "timestamp": "2025-04-23T11:02:59.690590"
+    "price": 14.645,
+    "volume": 8190152,
+    "changePercent": 3.350973,
+    "timestamp": "2025-04-23T11:48:27.388734"
   },
   "GOOG": {
-    "price": 159.0,
-    "volume": 5843348,
-    "changePercent": 3.3138442,
-    "timestamp": "2025-04-23T11:02:59.828220"
+    "price": 156.71,
+    "volume": 7648059,
+    "changePercent": 1.8255135,
+    "timestamp": "2025-04-23T11:48:27.516630"
   },
   "WDC": {
-    "price": 38.45,
-    "volume": 1685895,
-    "changePercent": 4.825519,
-    "timestamp": "2025-04-23T11:03:00.015426"
+    "price": 37.82,
+    "volume": 2108588,
+    "changePercent": 3.107959,
+    "timestamp": "2025-04-23T11:48:27.673200"
   },
   "SYK": {
-    "price": 363.98,
-    "volume": 509088,
-    "changePercent": 4.555905,
-    "timestamp": "2025-04-23T11:03:00.151325"
+    "price": 360.03,
+    "volume": 659120,
+    "changePercent": 3.421235,
+    "timestamp": "2025-04-23T11:48:27.840723"
   },
   "TSCO": {
-    "price": 51.31,
-    "volume": 1348334,
-    "changePercent": 2.0485334,
-    "timestamp": "2025-04-23T11:03:00.285765"
+    "price": 51.07,
+    "volume": 1759147,
+    "changePercent": 1.5712031,
+    "timestamp": "2025-04-23T11:48:28.031824"
   },
   "MDB": {
-    "price": 165.03,
-    "volume": 1290267,
-    "changePercent": 8.468117,
-    "timestamp": "2025-04-23T11:03:00.487197"
+    "price": 162.28,
+    "volume": 1663569,
+    "changePercent": 6.657907,
+    "timestamp": "2025-04-23T11:48:28.177154"
   },
   "SO": {
-    "price": 91.1,
-    "volume": 1000855,
-    "changePercent": -0.8273483,
-    "timestamp": "2025-04-23T11:03:00.634876"
+    "price": 90.68,
+    "volume": 1344786,
+    "changePercent": -1.2845638,
+    "timestamp": "2025-04-23T11:48:28.287480"
   },
   "HST": {
-    "price": 14.13,
-    "volume": 1897578,
-    "changePercent": 2.243129,
-    "timestamp": "2025-04-23T11:03:00.767985"
+    "price": 13.93,
+    "volume": 2581208,
+    "changePercent": 0.7959523,
+    "timestamp": "2025-04-23T11:48:28.533696"
   },
   "NI": {
-    "price": 39.43,
-    "volume": 594426,
-    "changePercent": 1.0507429,
-    "timestamp": "2025-04-23T11:03:00.940536"
+    "price": 39.29,
+    "volume": 856005,
+    "changePercent": 0.691954,
+    "timestamp": "2025-04-23T11:48:28.688979"
   },
   "AMGN": {
-    "price": 281.89,
-    "volume": 543943,
-    "changePercent": 1.2535994,
-    "timestamp": "2025-04-23T11:03:01.074637"
+    "price": 279.46,
+    "volume": 677268,
+    "changePercent": 0.38074625,
+    "timestamp": "2025-04-23T11:48:28.846234"
   },
   "DOV": {
-    "price": 169.24,
-    "volume": 400329,
-    "changePercent": 3.4727366,
-    "timestamp": "2025-04-23T11:03:01.215991"
+    "price": 167.225,
+    "volume": 612588,
+    "changePercent": 2.2384467,
+    "timestamp": "2025-04-23T11:48:29.004981"
   },
   "KMB": {
-    "price": 132.79,
-    "volume": 1077446,
-    "changePercent": -3.719551,
-    "timestamp": "2025-04-23T11:03:01.474587"
+    "price": 131.27,
+    "volume": 1401430,
+    "changePercent": -4.8216314,
+    "timestamp": "2025-04-23T11:48:29.148833"
   },
   "APO": {
-    "price": 130.2,
-    "volume": 1261285,
-    "changePercent": 5.246138,
-    "timestamp": "2025-04-23T11:03:01.628702"
+    "price": 128.45,
+    "volume": 1518857,
+    "changePercent": 3.8315399,
+    "timestamp": "2025-04-23T11:48:29.297865"
   },
   "DVN": {
-    "price": 31.115,
-    "volume": 3123694,
-    "changePercent": -0.27248272,
-    "timestamp": "2025-04-23T11:03:01.770683"
+    "price": 30.735,
+    "volume": 4285916,
+    "changePercent": -1.4901463,
+    "timestamp": "2025-04-23T11:48:29.414728"
   },
   "TTWO": {
-    "price": 215.12,
-    "volume": 524065,
-    "changePercent": 2.4527285,
-    "timestamp": "2025-04-23T11:03:01.897925"
+    "price": 212.38,
+    "volume": 637979,
+    "changePercent": 1.1477847,
+    "timestamp": "2025-04-23T11:48:29.558792"
   },
   "CNP": {
-    "price": 37.17,
-    "volume": 1032503,
-    "changePercent": -0.24154632,
-    "timestamp": "2025-04-23T11:03:02.065780"
+    "price": 36.99,
+    "volume": 1319713,
+    "changePercent": -0.7246287,
+    "timestamp": "2025-04-23T11:48:29.692133"
   },
   "SCHW": {
-    "price": 79.245,
-    "volume": 2568635,
-    "changePercent": 3.480022,
-    "timestamp": "2025-04-23T11:03:02.238676"
+    "price": 78.51,
+    "volume": 3670653,
+    "changePercent": 2.5202405,
+    "timestamp": "2025-04-23T11:48:29.860979"
   },
   "VRTX": {
-    "price": 493.82,
-    "volume": 252809,
-    "changePercent": 0.6830196,
-    "timestamp": "2025-04-23T11:03:02.356417"
+    "price": 489.46,
+    "volume": 331275,
+    "changePercent": -0.20592692,
+    "timestamp": "2025-04-23T11:48:30.054381"
   },
   "PYPL": {
-    "price": 63.37,
-    "volume": 3667222,
-    "changePercent": 3.1748629,
-    "timestamp": "2025-04-23T11:03:02.609929"
+    "price": 62.74,
+    "volume": 4547776,
+    "changePercent": 2.149143,
+    "timestamp": "2025-04-23T11:48:30.207246"
   },
   "MCD": {
-    "price": 318.3,
-    "volume": 888746,
-    "changePercent": -0.24445243,
-    "timestamp": "2025-04-23T11:03:02.807922"
+    "price": 317.575,
+    "volume": 1246475,
+    "changePercent": -0.47166052,
+    "timestamp": "2025-04-23T11:48:30.378886"
   },
   "QCOM": {
-    "price": 142.59,
-    "volume": 2526406,
-    "changePercent": 2.775368,
-    "timestamp": "2025-04-23T11:03:02.952295"
+    "price": 141.2,
+    "volume": 3063736,
+    "changePercent": 1.7730945,
+    "timestamp": "2025-04-23T11:48:30.571646"
   },
   "MTD": {
-    "price": 1078.31,
-    "volume": 163024,
-    "changePercent": 7.4913363,
-    "timestamp": "2025-04-23T11:03:03.161909"
+    "price": 1056.11,
+    "volume": 198183,
+    "changePercent": 5.2783217,
+    "timestamp": "2025-04-23T11:48:30.723152"
   },
   "CPAY": {
-    "price": 322.725,
-    "volume": 86673,
-    "changePercent": 4.8591537,
-    "timestamp": "2025-04-23T11:03:03.528356"
+    "price": 318.83,
+    "volume": 117892,
+    "changePercent": 3.593592,
+    "timestamp": "2025-04-23T11:48:30.911817"
   },
   "EG": {
-    "price": 357.4,
-    "volume": 101178,
-    "changePercent": 0.055985913,
-    "timestamp": "2025-04-23T11:03:03.697783"
+    "price": 356.54,
+    "volume": 125088,
+    "changePercent": -0.18477145,
+    "timestamp": "2025-04-23T11:48:31.095599"
   },
   "EW": {
-    "price": 71.29,
-    "volume": 1571775,
-    "changePercent": 0.9773406,
-    "timestamp": "2025-04-23T11:03:03.811855"
+    "price": 70.405,
+    "volume": 2510204,
+    "changePercent": -0.27630138,
+    "timestamp": "2025-04-23T11:48:31.263561"
   },
   "CMCSA": {
-    "price": 34.74,
-    "volume": 7469945,
-    "changePercent": 1.57895,
-    "timestamp": "2025-04-23T11:03:03.965216"
+    "price": 34.545,
+    "volume": 9573680,
+    "changePercent": 1.0087643,
+    "timestamp": "2025-04-23T11:48:31.409780"
   },
   "PARA": {
-    "price": 11.1922,
-    "volume": 2257430,
-    "changePercent": 1.9321136,
-    "timestamp": "2025-04-23T11:03:04.098421"
+    "price": 11.17,
+    "volume": 3207459,
+    "changePercent": 1.7304239,
+    "timestamp": "2025-04-23T11:48:31.573609"
   },
   "COF": {
-    "price": 179.9,
-    "volume": 3814776,
-    "changePercent": 5.699176,
-    "timestamp": "2025-04-23T11:03:04.234315"
+    "price": 178.15,
+    "volume": 4467803,
+    "changePercent": 4.670974,
+    "timestamp": "2025-04-23T11:48:31.722761"
   },
   "OKE": {
-    "price": 85.065,
-    "volume": 1814585,
-    "changePercent": 1.2076137,
-    "timestamp": "2025-04-23T11:03:04.396062"
+    "price": 84.715,
+    "volume": 2029798,
+    "changePercent": 0.7911877,
+    "timestamp": "2025-04-23T11:48:31.880773"
   },
   "KIM": {
-    "price": 20.715,
-    "volume": 1354080,
-    "changePercent": 1.2958405,
-    "timestamp": "2025-04-23T11:03:04.581787"
+    "price": 20.62,
+    "volume": 1970006,
+    "changePercent": 0.8312962,
+    "timestamp": "2025-04-23T11:48:32.037751"
   },
   "FRT": {
-    "price": 95.05,
-    "volume": 213665,
-    "changePercent": 1.5817071,
-    "timestamp": "2025-04-23T11:03:04.719766"
+    "price": 94.61,
+    "volume": 296283,
+    "changePercent": 1.1114683,
+    "timestamp": "2025-04-23T11:48:32.173977"
   },
   "TPR": {
-    "price": 67.61,
-    "volume": 1565516,
-    "changePercent": 4.143565,
-    "timestamp": "2025-04-23T11:03:04.886789"
+    "price": 66.92,
+    "volume": 1982639,
+    "changePercent": 3.0807147,
+    "timestamp": "2025-04-23T11:48:32.313451"
   },
   "LLY": {
-    "price": 835.2,
-    "volume": 933827,
-    "changePercent": 0.92563915,
-    "timestamp": "2025-04-23T11:03:05.020201"
+    "price": 821.865,
+    "volume": 1267087,
+    "changePercent": -0.685766,
+    "timestamp": "2025-04-23T11:48:32.425309"
   },
   "CTVA": {
-    "price": 61.195,
-    "volume": 546785,
-    "changePercent": 0.89859545,
-    "timestamp": "2025-04-23T11:03:05.145905"
+    "price": 60.69,
+    "volume": 725819,
+    "changePercent": 0.065947406,
+    "timestamp": "2025-04-23T11:48:32.566375"
   },
   "FAST": {
-    "price": 81.55,
-    "volume": 1250189,
-    "changePercent": 0.1350695,
-    "timestamp": "2025-04-23T11:03:05.310112"
+    "price": 80.74,
+    "volume": 1495408,
+    "changePercent": -0.8595341,
+    "timestamp": "2025-04-23T11:48:32.683281"
   },
   "ISRG": {
-    "price": 500.89,
-    "volume": 1796996,
-    "changePercent": 4.626734,
-    "timestamp": "2025-04-23T11:03:05.464707"
+    "price": 492.97,
+    "volume": 2062117,
+    "changePercent": 2.9723883,
+    "timestamp": "2025-04-23T11:48:32.822530"
   },
   "CMG": {
-    "price": 49.09,
-    "volume": 4246207,
-    "changePercent": 4.2250566,
-    "timestamp": "2025-04-23T11:03:05.594430"
+    "price": 48.71,
+    "volume": 5600879,
+    "changePercent": 3.4182603,
+    "timestamp": "2025-04-23T11:48:32.972086"
   },
   "PWR": {
-    "price": 281.495,
-    "volume": 544510,
-    "changePercent": 7.5023823,
-    "timestamp": "2025-04-23T11:03:05.717996"
+    "price": 277.84,
+    "volume": 700523,
+    "changePercent": 6.1056128,
+    "timestamp": "2025-04-23T11:48:33.091268"
   },
   "APTV": {
-    "price": 54.8,
-    "volume": 391314,
-    "changePercent": 4.8202,
-    "timestamp": "2025-04-23T11:03:05.837844"
+    "price": 54.05,
+    "volume": 507985,
+    "changePercent": 3.3856168,
+    "timestamp": "2025-04-23T11:48:33.250911"
   },
   "PFG": {
-    "price": 74.88,
-    "volume": 376503,
-    "changePercent": 2.786546,
-    "timestamp": "2025-04-23T11:03:05.956670"
+    "price": 74.17,
+    "volume": 460586,
+    "changePercent": 1.811942,
+    "timestamp": "2025-04-23T11:48:33.435024"
   },
   "CAH": {
-    "price": 135.07,
-    "volume": 457543,
-    "changePercent": 1.0322424,
-    "timestamp": "2025-04-23T11:03:06.225550"
+    "price": 134.125,
+    "volume": 665459,
+    "changePercent": 0.3253778,
+    "timestamp": "2025-04-23T11:48:33.563443"
   },
   "NKE": {
-    "price": 57.71,
-    "volume": 8248437,
-    "changePercent": 1.1391478,
-    "timestamp": "2025-04-23T11:03:06.370066"
+    "price": 56.97,
+    "volume": 10715666,
+    "changePercent": -0.15772897,
+    "timestamp": "2025-04-23T11:48:33.676713"
   },
   "INTC": {
-    "price": 20.82,
-    "volume": 43077033,
-    "changePercent": 6.7145023,
-    "timestamp": "2025-04-23T11:03:06.514487"
+    "price": 20.53,
+    "volume": 53406694,
+    "changePercent": 5.2280903,
+    "timestamp": "2025-04-23T11:48:33.931192"
   },
   "DOW": {
-    "price": 29.685,
-    "volume": 3461975,
-    "changePercent": 2.3620672,
-    "timestamp": "2025-04-23T11:03:06.631283"
+    "price": 28.99,
+    "volume": 4607824,
+    "changePercent": -0.03448355,
+    "timestamp": "2025-04-23T11:48:34.324091"
   },
   "BRO": {
-    "price": 118.43,
-    "volume": 333580,
-    "changePercent": 0.74004996,
-    "timestamp": "2025-04-23T11:03:06.800426"
+    "price": 118.13,
+    "volume": 422396,
+    "changePercent": 0.48485854,
+    "timestamp": "2025-04-23T11:48:34.518432"
   },
   "CZR": {
-    "price": 27.5,
-    "volume": 3395781,
-    "changePercent": 2.8037384,
-    "timestamp": "2025-04-23T11:03:06.966479"
+    "price": 26.6,
+    "volume": 3950414,
+    "changePercent": -0.56074625,
+    "timestamp": "2025-04-23T11:48:34.710629"
   },
   "KMX": {
-    "price": 67.34,
-    "volume": 716305,
-    "changePercent": 3.5203586,
-    "timestamp": "2025-04-23T11:03:07.138560"
+    "price": 66.615,
+    "volume": 942636,
+    "changePercent": 2.4058335,
+    "timestamp": "2025-04-23T11:48:34.831306"
   },
   "IRM": {
-    "price": 85.55,
-    "volume": 198526,
-    "changePercent": 3.0350528,
-    "timestamp": "2025-04-23T11:03:07.274711"
+    "price": 84.685,
+    "volume": 266020,
+    "changePercent": 1.9932541,
+    "timestamp": "2025-04-23T11:48:35.032759"
   },
   "ORLY": {
-    "price": 1397.91,
-    "volume": 89378,
-    "changePercent": 0.31358948,
-    "timestamp": "2025-04-23T11:03:07.387078"
+    "price": 1391.2,
+    "volume": 112341,
+    "changePercent": -0.16792399,
+    "timestamp": "2025-04-23T11:48:35.171602"
   },
   "HIG": {
-    "price": 119.23,
-    "volume": 274897,
-    "changePercent": 0.41267097,
-    "timestamp": "2025-04-23T11:03:07.562863"
+    "price": 118.94,
+    "volume": 359124,
+    "changePercent": 0.16843909,
+    "timestamp": "2025-04-23T11:48:35.382937"
   },
   "RL": {
-    "price": 217.83,
-    "volume": 225853,
-    "changePercent": 3.931488,
-    "timestamp": "2025-04-23T11:03:07.704049"
+    "price": 216.08,
+    "volume": 362284,
+    "changePercent": 3.0965245,
+    "timestamp": "2025-04-23T11:48:35.523270"
   },
   "PDD": {
-    "price": 103.06,
-    "volume": 8000900,
-    "changePercent": 4.799676,
-    "timestamp": "2025-04-23T11:03:07.828401"
+    "price": 101.55,
+    "volume": 9366237,
+    "changePercent": 3.2641923,
+    "timestamp": "2025-04-23T11:48:35.645846"
   },
   "D": {
-    "price": 54.17,
-    "volume": 941598,
-    "changePercent": 1.4419413,
-    "timestamp": "2025-04-23T11:03:07.963934"
+    "price": 53.51,
+    "volume": 1359956,
+    "changePercent": 0.2059865,
+    "timestamp": "2025-04-23T11:48:35.815460"
   },
   "LIN": {
-    "price": 452.645,
-    "volume": 464401,
-    "changePercent": -0.43223783,
-    "timestamp": "2025-04-23T11:03:08.126358"
+    "price": 448.885,
+    "volume": 587985,
+    "changePercent": -1.2593158,
+    "timestamp": "2025-04-23T11:48:35.957423"
   },
   "PODD": {
-    "price": 251.685,
-    "volume": 90482,
-    "changePercent": 3.141133,
-    "timestamp": "2025-04-23T11:03:08.239912"
+    "price": 247.82,
+    "volume": 131564,
+    "changePercent": 1.5572506,
+    "timestamp": "2025-04-23T11:48:36.135518"
   },
   "NCLH": {
-    "price": 17.48,
-    "volume": 7667553,
-    "changePercent": 5.2377067,
-    "timestamp": "2025-04-23T11:03:08.383868"
+    "price": 17.105,
+    "volume": 9865341,
+    "changePercent": 2.980126,
+    "timestamp": "2025-04-23T11:48:36.290195"
   },
   "PPL": {
-    "price": 36.255,
-    "volume": 2607068,
-    "changePercent": 0.12429771,
-    "timestamp": "2025-04-23T11:03:08.538998"
+    "price": 36.01,
+    "volume": 3572181,
+    "changePercent": -0.55233574,
+    "timestamp": "2025-04-23T11:48:36.441040"
   },
   "KKR": {
-    "price": 108.74,
-    "volume": 2206167,
-    "changePercent": 6.3159943,
-    "timestamp": "2025-04-23T11:03:08.691546"
+    "price": 107.48,
+    "volume": 2643865,
+    "changePercent": 5.084088,
+    "timestamp": "2025-04-23T11:48:36.636412"
   },
   "BAX": {
-    "price": 30.095,
-    "volume": 1364153,
-    "changePercent": 5.1537333,
-    "timestamp": "2025-04-23T11:03:09.219190"
+    "price": 29.48,
+    "volume": 1736909,
+    "changePercent": 3.004887,
+    "timestamp": "2025-04-23T11:48:36.863650"
   },
   "ABT": {
-    "price": 129.905,
-    "volume": 2851225,
-    "changePercent": -1.3854073,
-    "timestamp": "2025-04-23T11:03:09.379610"
+    "price": 129.04,
+    "volume": 3920308,
+    "changePercent": -2.0420578,
+    "timestamp": "2025-04-23T11:48:37.017348"
   },
   "GLW": {
-    "price": 43.325,
-    "volume": 1441435,
-    "changePercent": 3.772457,
-    "timestamp": "2025-04-23T11:03:09.751415"
+    "price": 42.94,
+    "volume": 2093295,
+    "changePercent": 2.850296,
+    "timestamp": "2025-04-23T11:48:37.218408"
   },
   "DVA": {
-    "price": 139.495,
-    "volume": 176051,
-    "changePercent": 3.3525922,
-    "timestamp": "2025-04-23T11:03:09.905037"
+    "price": 138.15,
+    "volume": 243648,
+    "changePercent": 2.3557246,
+    "timestamp": "2025-04-23T11:48:37.368725"
   },
   "IPG": {
-    "price": 24.45,
-    "volume": 1423509,
-    "changePercent": 2.30126,
-    "timestamp": "2025-04-23T11:03:10.354289"
+    "price": 24.15,
+    "volume": 1740826,
+    "changePercent": 1.0460252,
+    "timestamp": "2025-04-23T11:48:37.507222"
   },
   "NXPI": {
-    "price": 183.83,
-    "volume": 825460,
-    "changePercent": 5.2501993,
-    "timestamp": "2025-04-23T11:03:10.799388"
+    "price": 181.21,
+    "volume": 1058617,
+    "changePercent": 3.7501447,
+    "timestamp": "2025-04-23T11:48:38.062596"
   },
   "VLO": {
-    "price": 114.65,
-    "volume": 805762,
-    "changePercent": 1.9473612,
-    "timestamp": "2025-04-23T11:03:10.907124"
+    "price": 114.245,
+    "volume": 1237034,
+    "changePercent": 1.587305,
+    "timestamp": "2025-04-23T11:48:38.193097"
   },
   "BALL": {
-    "price": 48.875,
-    "volume": 473880,
-    "changePercent": 1.0439298,
-    "timestamp": "2025-04-23T11:03:11.297398"
+    "price": 48.33,
+    "volume": 632775,
+    "changePercent": -0.082689896,
+    "timestamp": "2025-04-23T11:48:38.306630"
   },
   "SYY": {
-    "price": 73.08,
-    "volume": 821492,
-    "changePercent": -0.28651217,
-    "timestamp": "2025-04-23T11:03:11.460244"
+    "price": 72.485,
+    "volume": 1237580,
+    "changePercent": -1.0983768,
+    "timestamp": "2025-04-23T11:48:38.467564"
   },
   "EXPD": {
-    "price": 108.07,
-    "volume": 282959,
-    "changePercent": 0.896274,
-    "timestamp": "2025-04-23T11:03:11.865392"
+    "price": 107.28,
+    "volume": 358507,
+    "changePercent": 0.15871362,
+    "timestamp": "2025-04-23T11:48:38.645961"
   },
   "BR": {
-    "price": 238.97,
-    "volume": 119616,
-    "changePercent": 1.6893622,
-    "timestamp": "2025-04-23T11:03:11.991858"
+    "price": 238.105,
+    "volume": 150941,
+    "changePercent": 1.3212748,
+    "timestamp": "2025-04-23T11:48:38.782043"
   },
   "CMS": {
-    "price": 73.08,
-    "volume": 1043189,
-    "changePercent": -0.8412417,
-    "timestamp": "2025-04-23T11:03:12.302360"
+    "price": 72.57,
+    "volume": 1541949,
+    "changePercent": -1.5332392,
+    "timestamp": "2025-04-23T11:48:38.905442"
   },
   "DD": {
-    "price": 64.55,
-    "volume": 1346831,
-    "changePercent": 4.382282,
-    "timestamp": "2025-04-23T11:03:12.752574"
+    "price": 63.65,
+    "volume": 1834283,
+    "changePercent": 2.926674,
+    "timestamp": "2025-04-23T11:48:39.017879"
   },
   "ADM": {
-    "price": 48.23,
-    "volume": 514444,
-    "changePercent": -0.6386514,
-    "timestamp": "2025-04-23T11:03:12.893232"
+    "price": 47.94,
+    "volume": 683747,
+    "changePercent": -1.2360986,
+    "timestamp": "2025-04-23T11:48:39.150719"
   },
   "FOX": {
-    "price": 46.11,
-    "volume": 309446,
-    "changePercent": 2.9714072,
-    "timestamp": "2025-04-23T11:03:13.275868"
+    "price": 45.46,
+    "volume": 471202,
+    "changePercent": 1.5185357,
+    "timestamp": "2025-04-23T11:48:39.345818"
   },
   "IDXX": {
-    "price": 437.69,
-    "volume": 251688,
-    "changePercent": 3.8188777,
-    "timestamp": "2025-04-23T11:03:13.501314"
+    "price": 430.98,
+    "volume": 485047,
+    "changePercent": 2.2249112,
+    "timestamp": "2025-04-23T11:48:39.474077"
   },
   "V": {
-    "price": 338.49,
-    "volume": 1341246,
-    "changePercent": 2.1394074,
-    "timestamp": "2025-04-23T11:03:13.855210"
+    "price": 336.41,
+    "volume": 1786777,
+    "changePercent": 1.5119995,
+    "timestamp": "2025-04-23T11:48:39.600864"
   },
   "GPN": {
-    "price": 73.14,
-    "volume": 1214817,
-    "changePercent": 2.4513237,
-    "timestamp": "2025-04-23T11:03:14.324347"
+    "price": 72.065,
+    "volume": 1572480,
+    "changePercent": 0.94558114,
+    "timestamp": "2025-04-23T11:48:39.738165"
   },
   "EQR": {
-    "price": 70.05,
-    "volume": 264297,
-    "changePercent": 1.6248407,
-    "timestamp": "2025-04-23T11:03:14.472896"
+    "price": 69.55,
+    "volume": 357268,
+    "changePercent": 0.89946723,
+    "timestamp": "2025-04-23T11:48:39.882455"
   },
   "CSX": {
-    "price": 27.835,
-    "volume": 3733597,
-    "changePercent": 0.19797839,
-    "timestamp": "2025-04-23T11:03:14.610379"
+    "price": 27.61,
+    "volume": 4809022,
+    "changePercent": -0.6120615,
+    "timestamp": "2025-04-23T11:48:40.035960"
   },
   "GEN": {
-    "price": 24.81,
-    "volume": 543447,
-    "changePercent": 2.3514838,
-    "timestamp": "2025-04-23T11:03:14.936366"
+    "price": 24.6,
+    "volume": 700675,
+    "changePercent": 1.485151,
+    "timestamp": "2025-04-23T11:48:40.176365"
   },
   "O": {
-    "price": 57.985,
-    "volume": 1514865,
-    "changePercent": -0.9142171,
-    "timestamp": "2025-04-23T11:03:15.373234"
+    "price": 57.57,
+    "volume": 2007483,
+    "changePercent": -1.6233779,
+    "timestamp": "2025-04-23T11:48:40.315388"
   },
   "LULU": {
-    "price": 269.21,
-    "volume": 619778,
-    "changePercent": 2.8657675,
-    "timestamp": "2025-04-23T11:03:15.530561"
+    "price": 264.605,
+    "volume": 895316,
+    "changePercent": 1.1061938,
+    "timestamp": "2025-04-23T11:48:40.444204"
   },
   "ZTS": {
-    "price": 152.7531,
-    "volume": 499698,
-    "changePercent": 1.8404429,
-    "timestamp": "2025-04-23T11:03:15.897348"
+    "price": 151.36,
+    "volume": 670716,
+    "changePercent": 0.91339093,
+    "timestamp": "2025-04-23T11:48:40.573737"
   },
   "JNJ": {
-    "price": 155.96,
-    "volume": 2595751,
-    "changePercent": -1.1347746,
-    "timestamp": "2025-04-23T11:03:16.073468"
+    "price": 155.27,
+    "volume": 3265070,
+    "changePercent": -1.572105,
+    "timestamp": "2025-04-23T11:48:40.717747"
   },
   "WEC": {
-    "price": 108.49,
-    "volume": 349353,
-    "changePercent": -0.586456,
-    "timestamp": "2025-04-23T11:03:16.190782"
+    "price": 107.9,
+    "volume": 426250,
+    "changePercent": -1.1270922,
+    "timestamp": "2025-04-23T11:48:40.841024"
   },
   "MSTR": {
-    "price": 345.0,
-    "volume": 6841293,
-    "changePercent": 0.57429415,
-    "timestamp": "2025-04-23T11:03:16.463803"
+    "price": 343.29,
+    "volume": 9241401,
+    "changePercent": 0.07579797,
+    "timestamp": "2025-04-23T11:48:41.001014"
   },
   "AJG": {
-    "price": 333.48,
-    "volume": 243746,
-    "changePercent": 0.8254002,
-    "timestamp": "2025-04-23T11:03:16.600092"
+    "price": 331.79,
+    "volume": 312064,
+    "changePercent": 0.31443948,
+    "timestamp": "2025-04-23T11:48:41.140332"
   },
   "ON": {
-    "price": 36.695,
-    "volume": 2298853,
-    "changePercent": 3.5119855,
-    "timestamp": "2025-04-23T11:03:16.945644"
+    "price": 36.33,
+    "volume": 2823173,
+    "changePercent": 2.4823725,
+    "timestamp": "2025-04-23T11:48:41.301476"
   },
   "RJF": {
-    "price": 138.07,
-    "volume": 424127,
-    "changePercent": 2.4486184,
-    "timestamp": "2025-04-23T11:03:17.078516"
+    "price": 136.33,
+    "volume": 624470,
+    "changePercent": 1.1575258,
+    "timestamp": "2025-04-23T11:48:41.505254"
   },
   "SWKS": {
-    "price": 60.19,
-    "volume": 756824,
-    "changePercent": 4.1349473,
-    "timestamp": "2025-04-23T11:03:17.230050"
+    "price": 59.71,
+    "volume": 1029752,
+    "changePercent": 3.304498,
+    "timestamp": "2025-04-23T11:48:41.629456"
   },
   "CAT": {
-    "price": 300.77,
-    "volume": 731392,
-    "changePercent": 3.2970345,
-    "timestamp": "2025-04-23T11:03:17.533254"
+    "price": 297.58,
+    "volume": 972469,
+    "changePercent": 2.2014537,
+    "timestamp": "2025-04-23T11:48:41.760490"
   },
   "PLTR": {
-    "price": 102.1569,
-    "volume": 54011731,
-    "changePercent": 8.6891165,
-    "timestamp": "2025-04-23T11:03:17.691281"
+    "price": 100.5299,
+    "volume": 66764003,
+    "changePercent": 6.9580827,
+    "timestamp": "2025-04-23T11:48:42.004094"
   },
   "MCK": {
-    "price": 687.395,
-    "volume": 259785,
-    "changePercent": -1.1184262,
-    "timestamp": "2025-04-23T11:03:17.955657"
+    "price": 685.745,
+    "volume": 344681,
+    "changePercent": -1.3537081,
+    "timestamp": "2025-04-23T11:48:42.188450"
   },
   "CRL": {
-    "price": 112.71,
-    "volume": 292218,
-    "changePercent": 5.44485,
-    "timestamp": "2025-04-23T11:03:18.121447"
+    "price": 108.7975,
+    "volume": 428862,
+    "changePercent": 1.784546,
+    "timestamp": "2025-04-23T11:48:42.361099"
   },
   "IQV": {
-    "price": 150.185,
-    "volume": 634260,
-    "changePercent": 4.5783696,
-    "timestamp": "2025-04-23T11:03:18.544132"
+    "price": 148.06,
+    "volume": 847345,
+    "changePercent": 3.0986679,
+    "timestamp": "2025-04-23T11:48:42.504963"
   },
   "CNC": {
-    "price": 62.0,
-    "volume": 923986,
-    "changePercent": 2.9387357,
-    "timestamp": "2025-04-23T11:03:18.668100"
+    "price": 61.795,
+    "volume": 1188219,
+    "changePercent": 2.5983706,
+    "timestamp": "2025-04-23T11:48:42.637669"
   },
   "NVDA": {
-    "price": 103.699,
-    "volume": 104108046,
-    "changePercent": 4.862977,
-    "timestamp": "2025-04-23T11:03:18.800641"
+    "price": 102.73,
+    "volume": 128238494,
+    "changePercent": 3.8831065,
+    "timestamp": "2025-04-23T11:48:42.750200"
   },
   "WBA": {
-    "price": 11.025,
-    "volume": 3853899,
-    "changePercent": 0.31846994,
-    "timestamp": "2025-04-23T11:03:18.955973"
+    "price": 11.015,
+    "volume": 4419114,
+    "changePercent": 0.22748473,
+    "timestamp": "2025-04-23T11:48:42.893942"
   },
   "TRMB": {
-    "price": 60.555,
-    "volume": 305248,
-    "changePercent": 4.387178,
-    "timestamp": "2025-04-23T11:03:19.088080"
+    "price": 59.93,
+    "volume": 387908,
+    "changePercent": 3.3097777,
+    "timestamp": "2025-04-23T11:48:43.033820"
   },
   "EBAY": {
-    "price": 66.79,
-    "volume": 1594207,
-    "changePercent": -0.38777348,
-    "timestamp": "2025-04-23T11:03:19.228099"
+    "price": 66.22,
+    "volume": 2065092,
+    "changePercent": -1.2378849,
+    "timestamp": "2025-04-23T11:48:43.205298"
   },
   "CF": {
-    "price": 75.495,
-    "volume": 326258,
-    "changePercent": -0.059568662,
-    "timestamp": "2025-04-23T11:03:19.411416"
+    "price": 75.04,
+    "volume": 423341,
+    "changePercent": -0.661901,
+    "timestamp": "2025-04-23T11:48:43.335402"
   },
   "BEN": {
-    "price": 18.62,
-    "volume": 957496,
-    "changePercent": 3.1579037,
-    "timestamp": "2025-04-23T11:03:19.537984"
+    "price": 18.39,
+    "volume": 1291052,
+    "changePercent": 1.8836575,
+    "timestamp": "2025-04-23T11:48:43.538977"
   },
   "NWS": {
-    "price": 31.305,
-    "volume": 217061,
-    "changePercent": 3.3509388,
-    "timestamp": "2025-04-23T11:03:19.733488"
+    "price": 30.77,
+    "volume": 263479,
+    "changePercent": 1.5846798,
+    "timestamp": "2025-04-23T11:48:43.675597"
   },
   "AAPL": {
-    "price": 206.79,
-    "volume": 18710502,
-    "changePercent": 3.5295823,
-    "timestamp": "2025-04-23T11:03:19.894884"
+    "price": 204.22,
+    "volume": 25541854,
+    "changePercent": 2.2429135,
+    "timestamp": "2025-04-23T11:48:43.790197"
   },
   "SBUX": {
-    "price": 84.57,
-    "volume": 3022650,
-    "changePercent": 3.4495409,
-    "timestamp": "2025-04-23T11:03:20.024628"
+    "price": 83.21,
+    "volume": 3683332,
+    "changePercent": 1.7857131,
+    "timestamp": "2025-04-23T11:48:43.928406"
   },
   "TRV": {
-    "price": 261.0,
-    "volume": 607423,
-    "changePercent": -0.11863211,
-    "timestamp": "2025-04-23T11:03:20.155793"
+    "price": 259.0,
+    "volume": 803179,
+    "changePercent": -0.88400656,
+    "timestamp": "2025-04-23T11:48:44.091549"
   },
   "AES": {
-    "price": 10.37,
-    "volume": 2901831,
-    "changePercent": 3.9078193,
-    "timestamp": "2025-04-23T11:03:20.305401"
+    "price": 10.135,
+    "volume": 3839620,
+    "changePercent": 1.5523354,
+    "timestamp": "2025-04-23T11:48:44.264192"
   },
   "HD": {
-    "price": 360.07,
-    "volume": 982592,
-    "changePercent": 1.5912915,
-    "timestamp": "2025-04-23T11:03:20.427074"
+    "price": 357.34,
+    "volume": 1201812,
+    "changePercent": 0.82103765,
+    "timestamp": "2025-04-23T11:48:44.412904"
   },
   "TXT": {
-    "price": 66.995,
-    "volume": 384701,
-    "changePercent": 2.3618526,
-    "timestamp": "2025-04-23T11:03:20.553103"
+    "price": 66.31,
+    "volume": 555181,
+    "changePercent": 1.3139812,
+    "timestamp": "2025-04-23T11:48:44.545107"
   },
   "BSX": {
-    "price": 100.15,
-    "volume": 4506546,
-    "changePercent": 5.3655953,
-    "timestamp": "2025-04-23T11:03:20.717686"
+    "price": 99.735,
+    "volume": 5593467,
+    "changePercent": 4.928982,
+    "timestamp": "2025-04-23T11:48:44.719072"
   },
   "ORCL": {
-    "price": 134.27,
-    "volume": 3888559,
-    "changePercent": 5.524997,
-    "timestamp": "2025-04-23T11:03:21.102389"
+    "price": 132.34,
+    "volume": 4877223,
+    "changePercent": 4.005968,
+    "timestamp": "2025-04-23T11:48:44.859749"
   },
   "OTIS": {
-    "price": 92.64,
-    "volume": 1830652,
-    "changePercent": -6.3776007,
-    "timestamp": "2025-04-23T11:03:21.473045"
+    "price": 93.26,
+    "volume": 2287691,
+    "changePercent": -5.7503743,
+    "timestamp": "2025-04-23T11:48:45.003946"
   },
   "KHC": {
-    "price": 30.155,
-    "volume": 2184578,
-    "changePercent": -0.14903155,
-    "timestamp": "2025-04-23T11:03:21.697578"
+    "price": 29.92,
+    "volume": 2796019,
+    "changePercent": -0.92715454,
+    "timestamp": "2025-04-23T11:48:45.181412"
   },
   "ADBE": {
-    "price": 356.86,
-    "volume": 795070,
-    "changePercent": 1.9862198,
-    "timestamp": "2025-04-23T11:03:21.863871"
+    "price": 351.869,
+    "volume": 1079998,
+    "changePercent": 0.5598538,
+    "timestamp": "2025-04-23T11:48:45.327011"
   },
   "LEN": {
-    "price": 110.13,
-    "volume": 711672,
-    "changePercent": 2.522807,
-    "timestamp": "2025-04-23T11:03:22.044925"
+    "price": 108.97,
+    "volume": 945906,
+    "changePercent": 1.4429371,
+    "timestamp": "2025-04-23T11:48:45.485809"
   },
   "CTSH": {
-    "price": 72.175,
-    "volume": 821122,
-    "changePercent": 3.506381,
-    "timestamp": "2025-04-23T11:03:22.213635"
+    "price": 71.23,
+    "volume": 1169147,
+    "changePercent": 2.1511543,
+    "timestamp": "2025-04-23T11:48:45.607178"
   },
   "UNP": {
-    "price": 221.5,
-    "volume": 881197,
-    "changePercent": 2.120796,
-    "timestamp": "2025-04-23T11:03:22.367817"
+    "price": 219.85,
+    "volume": 1205092,
+    "changePercent": 1.3600794,
+    "timestamp": "2025-04-23T11:48:45.760817"
   },
   "MKTX": {
-    "price": 218.36,
-    "volume": 197782,
-    "changePercent": -1.8209627,
-    "timestamp": "2025-04-23T11:03:22.521879"
+    "price": 217.36,
+    "volume": 238081,
+    "changePercent": -2.2705827,
+    "timestamp": "2025-04-23T11:48:45.938332"
   },
   "MAA": {
-    "price": 161.1125,
-    "volume": 159760,
-    "changePercent": 1.76383,
-    "timestamp": "2025-04-23T11:03:22.665864"
+    "price": 160.12,
+    "volume": 228594,
+    "changePercent": 1.1369301,
+    "timestamp": "2025-04-23T11:48:46.100096"
   },
   "GS": {
-    "price": 539.6,
-    "volume": 1382435,
-    "changePercent": 3.7712235,
-    "timestamp": "2025-04-23T11:03:22.812303"
+    "price": 533.895,
+    "volume": 1677742,
+    "changePercent": 2.6740956,
+    "timestamp": "2025-04-23T11:48:46.238999"
   },
   "HRL": {
-    "price": 30.79,
-    "volume": 353507,
-    "changePercent": 0.26050743,
-    "timestamp": "2025-04-23T11:03:22.918685"
+    "price": 30.59,
+    "volume": 511158,
+    "changePercent": -0.39074874,
+    "timestamp": "2025-04-23T11:48:46.378360"
   },
   "BLDR": {
-    "price": 121.14,
-    "volume": 274205,
-    "changePercent": 4.341086,
-    "timestamp": "2025-04-23T11:03:23.057234"
+    "price": 119.1125,
+    "volume": 375947,
+    "changePercent": 2.59475,
+    "timestamp": "2025-04-23T11:48:46.614406"
   },
   "LVS": {
-    "price": 35.08,
-    "volume": 2838861,
-    "changePercent": 3.3588781,
-    "timestamp": "2025-04-23T11:03:23.248185"
+    "price": 34.64,
+    "volume": 3850360,
+    "changePercent": 2.0624654,
+    "timestamp": "2025-04-23T11:48:46.751872"
   },
   "TFC": {
-    "price": 37.69,
-    "volume": 2662432,
-    "changePercent": 3.7149105,
-    "timestamp": "2025-04-23T11:03:23.385562"
+    "price": 37.27,
+    "volume": 3258054,
+    "changePercent": 2.5591643,
+    "timestamp": "2025-04-23T11:48:46.887294"
   },
   "HCA": {
-    "price": 336.135,
-    "volume": 373219,
-    "changePercent": 3.547229,
-    "timestamp": "2025-04-23T11:03:23.545958"
+    "price": 334.785,
+    "volume": 479496,
+    "changePercent": 3.1313562,
+    "timestamp": "2025-04-23T11:48:47.052591"
   },
   "HLT": {
-    "price": 218.75,
-    "volume": 677846,
-    "changePercent": 3.8501713,
-    "timestamp": "2025-04-23T11:03:23.727018"
+    "price": 217.13,
+    "volume": 881032,
+    "changePercent": 3.0810888,
+    "timestamp": "2025-04-23T11:48:47.221899"
   },
   "GM": {
-    "price": 46.56,
-    "volume": 2185531,
-    "changePercent": 3.0966635,
-    "timestamp": "2025-04-23T11:03:24.298362"
+    "price": 46.045,
+    "volume": 2795821,
+    "changePercent": 1.9596951,
+    "timestamp": "2025-04-23T11:48:47.360985"
   },
   "PFE": {
-    "price": 22.62,
-    "volume": 18569356,
-    "changePercent": 0.39946803,
-    "timestamp": "2025-04-23T11:03:24.445601"
+    "price": 22.2855,
+    "volume": 24424591,
+    "changePercent": -1.0852246,
+    "timestamp": "2025-04-23T11:48:47.535322"
   },
   "KDP": {
-    "price": 35.165,
-    "volume": 5575342,
-    "changePercent": -0.8879454,
-    "timestamp": "2025-04-23T11:03:24.642450"
+    "price": 34.955,
+    "volume": 7509027,
+    "changePercent": -1.4797004,
+    "timestamp": "2025-04-23T11:48:47.686335"
   },
   "STE": {
-    "price": 227.04,
-    "volume": 75135,
-    "changePercent": 1.9167702,
-    "timestamp": "2025-04-23T11:03:24.800816"
+    "price": 225.575,
+    "volume": 98304,
+    "changePercent": 1.2553391,
+    "timestamp": "2025-04-23T11:48:47.811372"
   },
   "PKG": {
-    "price": 184.32,
-    "volume": 434665,
-    "changePercent": -1.1264837,
-    "timestamp": "2025-04-23T11:03:24.980950"
+    "price": 182.9,
+    "volume": 520751,
+    "changePercent": -1.8882117,
+    "timestamp": "2025-04-23T11:48:47.924999"
   }
 }
