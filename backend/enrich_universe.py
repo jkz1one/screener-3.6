@@ -14,20 +14,17 @@ SHORT_INTEREST_PATH = os.path.join(CACHE_DIR, "short_interest.json")
 current_date_str = datetime.now(pytz.timezone("America/New_York")).strftime("%Y-%m-%d")
 OUTPUT_PATH = os.path.join(CACHE_DIR, f"universe_enriched_{current_date_str}.json")
 
-
 def load_json(path):
     if not os.path.exists(path):
         return {}
     with open(path, "r") as f:
         return json.load(f)
 
-
 def enrich_with_tv_signals(universe, tv_data):
     for symbol, info in universe.items():
         if symbol in tv_data:
             info.setdefault("signals", {}).update(tv_data[symbol])
     return universe
-
 
 def enrich_with_sector(universe, sector_data):
     for symbol, info in universe.items():
@@ -38,7 +35,6 @@ def enrich_with_sector(universe, sector_data):
         if etf:
             info["sector_etf"] = etf
     return universe
-
 
 def enrich_with_candles(universe, candle_data):
     for symbol, info in universe.items():
@@ -53,14 +49,12 @@ def enrich_with_candles(universe, candle_data):
             info["range_930_940_low"] = min(lows)
     return universe
 
-
 def enrich_with_short_interest(universe, short_data):
     for symbol, info in universe.items():
         si = short_data.get(symbol.upper())
         if si and si.get("shortPercentOfFloat", 0) >= 0.20:
             info.setdefault("signals", {})["squeeze_watch"] = True
     return universe
-
 
 def inject_risk_flags(universe):
     for symbol, info in universe.items():
@@ -73,6 +67,42 @@ def inject_risk_flags(universe):
             info.setdefault("signals", {})["wide_spread"] = True
     return universe
 
+def apply_signal_flags(universe):
+    for symbol, info in universe.items():
+        signals = info.setdefault("signals", {})
+
+        open_price = info.get("open")
+        prev_close = info.get("prevClose")
+        current_price = signals.get("price")
+
+        # TIER 1: Gap Up / Down
+        if open_price and prev_close:
+            if open_price > prev_close * 1.01:
+                signals["gap_up"] = True
+            elif open_price < prev_close * 0.99:
+                signals["gap_down"] = True
+
+        # TIER 1: Break above/below 9:30–9:40 range
+        high = info.get("range_930_940_high")
+        low = info.get("range_930_940_low")
+        if current_price and high and current_price > high:
+            signals["break_above_range"] = True
+        if current_price and low and current_price < low:
+            signals["break_below_range"] = True
+
+        # TIER 2: Early Move
+        if signals.get("changePercent") and signals["changePercent"] >= 2.5:
+            signals["early_move"] = True
+
+        # TIER 3: High Volume
+        if signals.get("volume") and signals["volume"] >= 1_000_000:
+            signals["high_volume"] = True
+
+        # TIER 3: Near Range High
+        if current_price and high and (0 < (high - current_price) <= 0.25):
+            signals["near_range_high"] = True
+
+    return universe
 
 def main():
     print("🚀 Starting enrichment...")
@@ -83,19 +113,18 @@ def main():
     candles = load_json(CANDLE_PATH)
     short_interest = load_json(SHORT_INTEREST_PATH)
 
-    print(f"📦 Loaded {len(universe)} tickers from universe")
+    print(f"📦 Loaded {len(universe)} tickers")
 
     universe = enrich_with_tv_signals(universe, tv_signals)
     universe = enrich_with_sector(universe, sector_prices)
     universe = enrich_with_candles(universe, candles)
     universe = enrich_with_short_interest(universe, short_interest)
+    universe = apply_signal_flags(universe)
     universe = inject_risk_flags(universe)
 
     with open(OUTPUT_PATH, "w") as f:
         json.dump(universe, f, indent=2)
-
     print(f"✅ Enriched universe saved to {OUTPUT_PATH}")
-
 
 if __name__ == "__main__":
     main()
