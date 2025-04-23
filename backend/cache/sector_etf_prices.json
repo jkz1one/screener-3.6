@@ -1,42 +1,46 @@
 {
   "XLF": {
-    "tv_price": 47.16,
-    "prevClose": 45.65
+    "tv_price": 48.26,
+    "prevClose": 47.16
   },
   "XLK": {
-    "tv_price": 192.46,
-    "prevClose": 187.88
+    "tv_price": 199.85,
+    "prevClose": 192.46
   },
   "XLE": {
-    "tv_price": 81.39,
-    "prevClose": 79.37
+    "tv_price": 81.17,
+    "prevClose": 81.39
   },
   "XLV": {
-    "tv_price": 135.06,
-    "prevClose": 132.57
+    "tv_price": 136.95,
+    "prevClose": 135.06
   },
   "XLY": {
-    "tv_price": 186.16,
-    "prevClose": 180.45
+    "tv_price": 192.6,
+    "prevClose": 186.16
   },
   "XLI": {
-    "tv_price": 124.63,
-    "prevClose": 122.49
+    "tv_price": 128.1,
+    "prevClose": 124.63
   },
   "XLP": {
-    "tv_price": 82.24,
-    "prevClose": 81.09
+    "tv_price": 82.31,
+    "prevClose": 82.24
   },
   "XLU": {
-    "tv_price": 78.0,
-    "prevClose": 75.93
+    "tv_price": 78.54,
+    "prevClose": 78.0
   },
   "XLRE": {
-    "tv_price": 40.42,
-    "prevClose": 39.61
+    "tv_price": 40.81,
+    "prevClose": 40.42
   },
   "XLB": {
-    "tv_price": 81.38,
-    "prevClose": 79.52
+    "tv_price": 82.67,
+    "prevClose": 81.38
+  },
+  "XLC": {
+    "tv_price": 92.43,
+    "prevClose": 90.48
   }
 }

@@ -14,7 +14,7 @@ SECTOR_ETFS = {
     "XLU": "Utilities",
     "XLRE": "Real Estate",
     "XLB": "Materials",
-    "XLCD": "Communication Services"
+    "XLC": "Communication Services"
 }
 
 CACHE_PATH = "backend/cache/sector_etf_prices.json"

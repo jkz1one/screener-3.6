@@ -23,7 +23,14 @@ def load_json(path):
 def enrich_with_tv_signals(universe, tv_data):
     for symbol, info in universe.items():
         if symbol in tv_data:
-            info.setdefault("signals", {}).update(tv_data[symbol])
+            tv = tv_data[symbol]
+            signals = info.setdefault("signals", {})
+            if "price" in tv:
+                signals["price"] = tv["price"]
+            if "volume" in tv:
+                signals["volume"] = tv["volume"]
+            if "changePercent" in tv:
+                signals["changePercent"] = tv["changePercent"]
     return universe
 
 def enrich_with_sector(universe, sector_data):
@@ -77,28 +84,23 @@ def apply_signal_flags(universe):
         high = info.get("range_930_940_high")
         low = info.get("range_930_940_low")
 
-        # Tier 1: Gap up/down
         if open_price and prev_close:
             if open_price > prev_close * 1.01:
                 signals["gap_up"] = True
             elif open_price < prev_close * 0.99:
                 signals["gap_down"] = True
 
-        # Tier 1: Breakout
         if price and high and price > high:
             signals["break_above_range"] = True
         if price and low and price < low:
             signals["break_below_range"] = True
 
-        # Tier 2: Early move
         if change and abs(change) >= 2.5:
             signals["early_move"] = True
 
-        # Tier 3: High volume
         if volume and volume >= 1_000_000:
             signals["high_volume"] = True
 
-        # Tier 3: Near range high
         if price and high and 0 < (high - price) <= 0.25:
             signals["near_range_high"] = True
 
