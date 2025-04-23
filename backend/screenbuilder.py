@@ -1,48 +1,83 @@
 import json
-import pandas as pd
 import os
 from datetime import datetime
-from backend.path_helpers import get_latest_universe_path
-from backend.fetch_fallback_price import fetch_fallback_price
+import pytz
+from tqdm import tqdm
 
-CACHE_PATH = "backend/cache/autowatchlist_cache.json"
+CACHE_DIR = "backend/cache"
 
-def is_cache_fresh(path):
+def get_latest_universe_file():
+    files = [
+        os.path.join(CACHE_DIR, f)
+        for f in os.listdir(CACHE_DIR)
+        if f.startswith("universe_enriched_") and f.endswith(".json") and not f.endswith("_scored.json")
+    ]
+    if not files:
+        raise FileNotFoundError("No enriched universe files found.")
+    files.sort(key=os.path.getmtime, reverse=True)
+    return files[0]
+
+UNIVERSE_PATH = get_latest_universe_file()
+current_date_str = datetime.now(pytz.timezone("America/New_York")).strftime("%Y-%m-%d")
+OUTPUT_PATH = os.path.join(CACHE_DIR, f"universe_scored_{current_date_str}.json")
+
+TIER_1 = {
+    "gap_up": 3,
+    "gap_down": 3,
+    "break_above_range": 3,
+    "break_below_range": 3,
+}
+
+TIER_2 = {
+    "early_move": 2,
+    "squeeze_watch": 2,
+}
+
+TIER_3 = {
+    "near_range_high": 1,
+    "high_volume": 1,
+}
+
+RISK_FLAGS = {
+    "low_liquidity": -3,
+    "wide_spread": -3,
+}
+
+def load_json(path):
     if not os.path.exists(path):
-        return False
-    modified_time = datetime.fromtimestamp(os.path.getmtime(path))
-    return modified_time.date() == datetime.now().date()
+        return {}
+    with open(path, "r") as f:
+        return json.load(f)
 
-def build_screening_output():
-    enriched_path = get_latest_universe_path()
-    if not enriched_path:
-        raise FileNotFoundError("❌ No enriched universe file found.")
+def score(info):
+    signals = info.get("signals", {})
+    score = 0
+    for sig in TIER_1:
+        if signals.get(sig):
+            score += TIER_1[sig]
+    for sig in TIER_2:
+        if signals.get(sig):
+            score += TIER_2[sig]
+    for sig in TIER_3:
+        if signals.get(sig):
+            score += TIER_3[sig]
+    for risk in RISK_FLAGS:
+        if signals.get(risk):
+            score += RISK_FLAGS[risk]
+    return score
 
-    with open(enriched_path, "r") as f:
-        raw = json.load(f)
+def main():
+    print("🚀 Starting enrichment and scoring...")
+    universe = load_json(UNIVERSE_PATH)
+    print(f"📦 Loaded {len(universe)} tickers to enrich")
+    print("⚙️ Scoring tickers...")
+    for symbol in tqdm(universe):
+        s = score(universe[symbol])
+        universe[symbol]["score"] = s
 
-    for symbol, row in raw.items():
-        row["symbol"] = symbol
+    with open(OUTPUT_PATH, "w") as f:
+        json.dump(universe, f, indent=2)
+    print(f"✅ Enriched universe saved to {OUTPUT_PATH}")
 
-    df = pd.DataFrame(list(raw.values()))
-
-    for col in ["tier1_hits", "tier2_hits", "tier3_hits", "isBlocked"]:
-        if col not in df.columns:
-            df[col] = 0 if "hits" in col else False
-
-    df["score"] = (
-        df["tier1_hits"] * 3 +
-        df["tier2_hits"] * 2 +
-        df["tier3_hits"]
-    )
-
-    df = df[df["isBlocked"] == False].copy()
-    df["price"] = df.apply(fetch_fallback_price, axis=1)
-    df.sort_values("score", ascending=False, inplace=True)
-
-    # Save to cache
-    cache_dict = {row["symbol"]: row for row in df.to_dict("records")}
-    with open(CACHE_PATH, "w") as f:
-        json.dump(cache_dict, f, indent=2)
-
-    return df.reset_index(drop=True)
+if __name__ == "__main__":
+    main()
