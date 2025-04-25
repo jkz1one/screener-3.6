@@ -4398,7 +4398,8 @@
       "changePercent": 2.86299,
       "gap_up": true,
       "early_move": true,
-      "high_volume": true
+      "high_volume": true,
+      "top_volume_gainer": true
     },
     "sector": "Consumer Cyclical",
     "open": 9.835,
@@ -5893,7 +5894,8 @@
       "changePercent": 3.4976487,
       "gap_up": true,
       "early_move": true,
-      "high_volume": true
+      "high_volume": true,
+      "top_volume_gainer": true
     },
     "sector": "Consumer Cyclical",
     "open": 254.86,
@@ -9672,7 +9674,8 @@
       "changePercent": 4.371052,
       "gap_up": true,
       "early_move": true,
-      "high_volume": true
+      "high_volume": true,
+      "top_volume_gainer": true
     },
     "sector": "Technology",
     "open": 20.725,
@@ -10734,7 +10737,8 @@
       "changePercent": 6.9033914,
       "gap_up": true,
       "early_move": true,
-      "high_volume": true
+      "high_volume": true,
+      "top_volume_gainer": true
     },
     "sector": "Technology",
     "open": 98.87,
@@ -10845,7 +10849,8 @@
       "changePercent": 3.621849,
       "gap_up": true,
       "early_move": true,
-      "high_volume": true
+      "high_volume": true,
+      "top_volume_gainer": true
     },
     "sector": "Technology",
     "open": 104.52,

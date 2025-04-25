@@ -121,6 +121,16 @@ def inject_risk_flags(universe):
             info.setdefault("signals", {})["wide_spread"] = True
     return universe
 
+def flag_top_volume_gainers(universe, top_n=5):
+    sorted_tickers = sorted(
+        universe.items(),
+        key=lambda x: x[1].get("tv_volume") or 0,
+        reverse=True
+    )
+    for symbol, info in sorted_tickers[:top_n]:
+        info.setdefault("signals", {})["top_volume_gainer"] = True
+    return universe
+
 def main():
     print("🚀 Starting enrichment...")
     universe = load_json(UNIVERSE_PATH)
@@ -136,7 +146,9 @@ def main():
     universe = enrich_with_candles(universe, candles)
     universe = enrich_with_short_interest(universe, short_interest)
     universe = apply_signal_flags(universe)
+    universe = flag_top_volume_gainers(universe)
     universe = inject_risk_flags(universe)
+
 
     with open(OUTPUT_PATH, "w") as f:
         json.dump(universe, f, indent=2)

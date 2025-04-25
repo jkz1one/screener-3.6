@@ -37,6 +37,7 @@ TIER_2 = {
 TIER_3 = {
     "near_range_high": 1,
     "high_volume": 1,
+    "top_volume_gainer": 1
 }
 
 RISK_FLAGS = {
