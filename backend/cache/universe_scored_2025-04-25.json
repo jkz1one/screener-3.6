@@ -57,6 +57,7 @@
       "price": 331.97,
       "volume": 308902,
       "changePercent": -0.7385484,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 331.97,
@@ -69,7 +70,7 @@
     "avg_volume_10d": 1627020,
     "high_10d": 342.73,
     "low_10d": 318.33,
-    "score": 3
+    "score": 5
   },
   "RSG": {
     "sources": [
@@ -154,6 +155,7 @@
       "price": 138.85,
       "volume": 587345,
       "changePercent": 1.7663468,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -167,7 +169,7 @@
     "avg_volume_10d": 3337160,
     "high_10d": 141.46,
     "low_10d": 117.65,
-    "score": 4
+    "score": 6
   },
   "MA": {
     "sources": [
@@ -277,6 +279,7 @@
       "price": 169.68,
       "volume": 1780851,
       "changePercent": -0.22937988,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -289,7 +292,7 @@
     "avg_volume_10d": 7645250,
     "high_10d": 171.63,
     "low_10d": 149.08,
-    "score": 5
+    "score": 7
   },
   "CEG": {
     "sources": [
@@ -351,6 +354,7 @@
       "price": 46.57,
       "volume": 1394654,
       "changePercent": 1.7923491,
+      "strong_sector": true,
       "gap_down": true,
       "high_volume": true
     },
@@ -364,7 +368,7 @@
     "avg_volume_10d": 6076350,
     "high_10d": 55.41,
     "low_10d": 44.88,
-    "score": 4
+    "score": 6
   },
   "WAB": {
     "sources": [
@@ -521,6 +525,7 @@
       "price": 573.92,
       "volume": 102839,
       "changePercent": -1.1760684,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -532,7 +537,7 @@
     "avg_volume_10d": 1196190,
     "high_10d": 582.57,
     "low_10d": 470.22,
-    "score": 4
+    "score": 6
   },
   "AME": {
     "sources": [
@@ -595,6 +600,7 @@
       "price": 229.3,
       "volume": 1759656,
       "changePercent": -0.013081053,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -606,7 +612,7 @@
     "avg_volume_10d": 5866480,
     "high_10d": 249.34,
     "low_10d": 222.02,
-    "score": 4
+    "score": 6
   },
   "WM": {
     "sources": [
@@ -644,6 +650,7 @@
       "price": 176.85,
       "volume": 734672,
       "changePercent": 0.46013,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -655,7 +662,7 @@
     "avg_volume_10d": 4971250,
     "high_10d": 176.45,
     "low_10d": 157.6,
-    "score": 4
+    "score": 6
   },
   "MO": {
     "sources": [
@@ -667,6 +674,7 @@
       "price": 58.1,
       "volume": 1553969,
       "changePercent": -1.0390064,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_high": true
     },
@@ -680,7 +688,7 @@
     "avg_volume_10d": 8756400,
     "high_10d": 59.0,
     "low_10d": 55.51,
-    "score": 2
+    "score": 4
   },
   "EQIX": {
     "sources": [
@@ -770,6 +778,7 @@
       "price": 93.07,
       "volume": 3049847,
       "changePercent": 0.39913997,
+      "weak_sector": true,
       "high_volume": true
     },
     "tv_price": 93.07,
@@ -782,7 +791,7 @@
     "avg_volume_10d": 6352660,
     "high_10d": 96.23,
     "low_10d": 89.02,
-    "score": 1
+    "score": 3
   },
   "CBOE": {
     "sources": [
@@ -866,6 +875,7 @@
       "price": 137.1898,
       "volume": 164642,
       "changePercent": -0.27637073,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 137.1898,
@@ -878,7 +888,7 @@
     "avg_volume_10d": 1265270,
     "high_10d": 141.41,
     "low_10d": 135.37,
-    "score": 1
+    "score": 3
   },
   "J": {
     "sources": [
@@ -941,6 +951,7 @@
       "price": 16.17,
       "volume": 1902519,
       "changePercent": -0.06180611,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -955,7 +966,7 @@
     "avg_volume_10d": 24066210,
     "high_10d": 16.27,
     "low_10d": 13.2,
-    "score": 5
+    "score": 7
   },
   "ALB": {
     "sources": [
@@ -967,6 +978,7 @@
       "price": 57.2,
       "volume": 1017627,
       "changePercent": -1.6675218,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -980,7 +992,7 @@
     "avg_volume_10d": 3511560,
     "high_10d": 59.93,
     "low_10d": 50.85,
-    "score": 4
+    "score": 6
   },
   "AVB": {
     "sources": [
@@ -1015,6 +1027,7 @@
       "price": 47.31,
       "volume": 584107,
       "changePercent": -0.67184484,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 47.31,
@@ -1027,7 +1040,7 @@
     "avg_volume_10d": 3349210,
     "high_10d": 48.33,
     "low_10d": 44.63,
-    "score": 3
+    "score": 5
   },
   "AEE": {
     "sources": [
@@ -1090,6 +1103,7 @@
       "price": 158.91,
       "volume": 4024289,
       "changePercent": -0.38874385,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -1101,7 +1115,7 @@
     "avg_volume_10d": 9627590,
     "high_10d": 170.59,
     "low_10d": 156.58,
-    "score": 2
+    "score": 4
   },
   "SPGI": {
     "sources": [
@@ -1187,6 +1201,7 @@
       "price": 87.345,
       "volume": 262430,
       "changePercent": -0.935689,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -1200,7 +1215,7 @@
     "avg_volume_10d": 2132230,
     "high_10d": 88.34,
     "low_10d": 79.81,
-    "score": 4
+    "score": 6
   },
   "MU": {
     "sources": [
@@ -1215,6 +1230,7 @@
       "price": 78.2185,
       "volume": 6852939,
       "changePercent": 1.0313873,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1227,7 +1243,7 @@
     "avg_volume_10d": 26698280,
     "high_10d": 77.59,
     "low_10d": 65.65,
-    "score": 5
+    "score": 7
   },
   "VTR": {
     "sources": [
@@ -1291,6 +1307,7 @@
       "price": 265.92,
       "volume": 73203,
       "changePercent": -0.83531857,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -1304,7 +1321,7 @@
     "avg_volume_10d": 499770,
     "high_10d": 269.78,
     "low_10d": 246.64,
-    "score": 4
+    "score": 6
   },
   "TROW": {
     "sources": [
@@ -1364,6 +1381,7 @@
       "price": 111.99,
       "volume": 1354063,
       "changePercent": -0.017859362,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1378,7 +1396,7 @@
     "avg_volume_10d": 4807900,
     "high_10d": 112.5,
     "low_10d": 95.32,
-    "score": 5
+    "score": 7
   },
   "IEX": {
     "sources": [
@@ -1420,6 +1438,7 @@
       "price": 387.39,
       "volume": 3764067,
       "changePercent": 0.023244735,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1432,7 +1451,7 @@
     "avg_volume_10d": 22425510,
     "high_10d": 394.65,
     "low_10d": 355.67,
-    "score": 5
+    "score": 7
   },
   "ROK": {
     "sources": [
@@ -1472,6 +1491,7 @@
       "price": 150.29,
       "volume": 1165356,
       "changePercent": 0.07990619,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1484,7 +1504,7 @@
     "avg_volume_10d": 8398640,
     "high_10d": 150.4,
     "low_10d": 132.8,
-    "score": 5
+    "score": 7
   },
   "CRM": {
     "sources": [
@@ -1499,6 +1519,7 @@
       "price": 266.5,
       "volume": 1301738,
       "changePercent": 0.680396,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1511,7 +1532,7 @@
     "avg_volume_10d": 6985410,
     "high_10d": 264.98,
     "low_10d": 232.77,
-    "score": 5
+    "score": 7
   },
   "AMD": {
     "sources": [
@@ -1526,6 +1547,7 @@
       "price": 94.68,
       "volume": 10215846,
       "changePercent": 0.22229181,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -1537,7 +1559,7 @@
     "avg_volume_10d": 42778240,
     "high_10d": 97.37,
     "low_10d": 83.75,
-    "score": 4
+    "score": 6
   },
   "ED": {
     "sources": [
@@ -1746,6 +1768,7 @@
       "price": 53.98,
       "volume": 3520044,
       "changePercent": -3.0879734,
+      "weak_sector": true,
       "gap_down": true,
       "early_move": true,
       "high_volume": true
@@ -1758,7 +1781,7 @@
     "avg_volume_10d": 18658840,
     "high_10d": 57.16,
     "low_10d": 48.72,
-    "score": 6
+    "score": 8
   },
   "IR": {
     "sources": [
@@ -1822,6 +1845,7 @@
       "price": 163.225,
       "volume": 1579498,
       "changePercent": 0.6753847,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1834,7 +1858,7 @@
     "avg_volume_10d": 12148550,
     "high_10d": 165.0,
     "low_10d": 139.95,
-    "score": 5
+    "score": 7
   },
   "KR": {
     "sources": [
@@ -1846,6 +1870,7 @@
       "price": 70.22,
       "volume": 1518853,
       "changePercent": -1.5834054,
+      "weak_sector": true,
       "gap_down": true,
       "high_volume": true
     },
@@ -1859,7 +1884,7 @@
     "avg_volume_10d": 9944130,
     "high_10d": 73.63,
     "low_10d": 66.14,
-    "score": 4
+    "score": 6
   },
   "TJX": {
     "sources": [
@@ -1873,6 +1898,7 @@
       "price": 126.175,
       "volume": 935645,
       "changePercent": -0.2569146,
+      "strong_sector": true,
       "gap_up": true
     },
     "sector": "Consumer Cyclical",
@@ -1883,7 +1909,7 @@
     "avg_volume_10d": 5793160,
     "high_10d": 131.3,
     "low_10d": 122.25,
-    "score": 3
+    "score": 5
   },
   "FCX": {
     "sources": [
@@ -1897,6 +1923,7 @@
       "price": 37.115,
       "volume": 3299383,
       "changePercent": -1.3685873,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1909,7 +1936,7 @@
     "avg_volume_10d": 20083690,
     "high_10d": 37.81,
     "low_10d": 30.1,
-    "score": 5
+    "score": 7
   },
   "SMCI": {
     "sources": [
@@ -1923,6 +1950,7 @@
       "price": 35.585,
       "volume": 14721068,
       "changePercent": -0.6283225,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -1934,7 +1962,7 @@
     "avg_volume_10d": 36714990,
     "high_10d": 36.48,
     "low_10d": 28.9,
-    "score": 4
+    "score": 6
   },
   "SW": {
     "sources": [
@@ -1945,7 +1973,8 @@
     "signals": {
       "price": 42.25,
       "volume": 488203,
-      "changePercent": -0.47114432
+      "changePercent": -0.47114432,
+      "strong_sector": true
     },
     "tv_price": 42.25,
     "tv_volume": 488203,
@@ -1957,7 +1986,7 @@
     "avg_volume_10d": 3643830,
     "high_10d": 43.54,
     "low_10d": 38.41,
-    "score": 0
+    "score": 2
   },
   "MRNA": {
     "sources": [
@@ -2023,6 +2052,7 @@
       "price": 188.57,
       "volume": 5776935,
       "changePercent": 0.2232333,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -2035,7 +2065,7 @@
     "avg_volume_10d": 27917580,
     "high_10d": 188.57,
     "low_10d": 161.61,
-    "score": 5
+    "score": 7
   },
   "CVX": {
     "sources": [
@@ -2151,6 +2181,7 @@
       "price": 220.785,
       "volume": 268904,
       "changePercent": -0.56969124,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 220.785,
@@ -2163,7 +2194,7 @@
     "avg_volume_10d": 2566010,
     "high_10d": 225.66,
     "low_10d": 209.31,
-    "score": 3
+    "score": 5
   },
   "AXON": {
     "sources": [
@@ -2225,6 +2256,7 @@
       "price": 57.135,
       "volume": 398383,
       "changePercent": -2.0822625,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 57.135,
@@ -2237,7 +2269,7 @@
     "avg_volume_10d": 1999950,
     "high_10d": 61.41,
     "low_10d": 56.72,
-    "score": 1
+    "score": 3
   },
   "PCAR": {
     "sources": [
@@ -2276,6 +2308,7 @@
       "price": 139.91,
       "volume": 488599,
       "changePercent": -0.01428501,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 139.91,
@@ -2288,7 +2321,7 @@
     "avg_volume_10d": 2995510,
     "high_10d": 144.31,
     "low_10d": 133.7,
-    "score": 3
+    "score": 5
   },
   "APP": {
     "sources": [
@@ -2302,6 +2335,7 @@
       "price": 272.0,
       "volume": 2460595,
       "changePercent": 1.5380002,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -2313,7 +2347,7 @@
     "avg_volume_10d": 7231860,
     "high_10d": 278.48,
     "low_10d": 222.02,
-    "score": 4
+    "score": 6
   },
   "EVRG": {
     "sources": [
@@ -2349,6 +2383,7 @@
       "price": 74.29,
       "volume": 196632,
       "changePercent": -0.9598736,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 74.29,
@@ -2361,7 +2396,7 @@
     "avg_volume_10d": 1941000,
     "high_10d": 78.0,
     "low_10d": 72.99,
-    "score": 1
+    "score": 3
   },
   "AFL": {
     "sources": [
@@ -2468,6 +2503,7 @@
       "price": 76.885,
       "volume": 3321336,
       "changePercent": 2.1184769,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -2482,7 +2518,7 @@
     "avg_volume_10d": 9961055,
     "high_10d": 76.78,
     "low_10d": 66.59,
-    "score": 5
+    "score": 7
   },
   "GRMN": {
     "sources": [
@@ -2494,6 +2530,7 @@
       "price": 198.14,
       "volume": 76691,
       "changePercent": -0.48716852,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2507,7 +2544,7 @@
     "avg_volume_10d": 759430,
     "high_10d": 200.0,
     "low_10d": 181.37,
-    "score": 4
+    "score": 6
   },
   "DOC": {
     "sources": [
@@ -2672,6 +2709,7 @@
       "price": 35.495,
       "volume": 97690,
       "changePercent": -0.09850787,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 35.495,
@@ -2684,7 +2722,7 @@
     "avg_volume_10d": 2281630,
     "high_10d": 35.58,
     "low_10d": 33.7,
-    "score": 1
+    "score": 3
   },
   "HWM": {
     "sources": [
@@ -2724,6 +2762,7 @@
       "price": 414.325,
       "volume": 1033077,
       "changePercent": 0.066423,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -2736,7 +2775,7 @@
     "avg_volume_10d": 3615290,
     "high_10d": 414.85,
     "low_10d": 354.2,
-    "score": 5
+    "score": 7
   },
   "CPT": {
     "sources": [
@@ -2773,6 +2812,7 @@
       "price": 236.96,
       "volume": 297148,
       "changePercent": 0.03800042,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2786,7 +2826,7 @@
     "avg_volume_10d": 2013140,
     "high_10d": 237.53,
     "low_10d": 210.75,
-    "score": 4
+    "score": 6
   },
   "CB": {
     "sources": [
@@ -2823,6 +2863,7 @@
       "price": 99.115,
       "volume": 386661,
       "changePercent": -1.0927066,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 99.115,
@@ -2835,7 +2876,7 @@
     "avg_volume_10d": 2038170,
     "high_10d": 107.05,
     "low_10d": 99.25,
-    "score": 1
+    "score": 3
   },
   "GL": {
     "sources": [
@@ -2869,7 +2910,8 @@
     "signals": {
       "price": 171.25,
       "volume": 134266,
-      "changePercent": -1.3650473
+      "changePercent": -1.3650473,
+      "strong_sector": true
     },
     "tv_price": 171.25,
     "tv_volume": 134266,
@@ -2881,7 +2923,7 @@
     "avg_volume_10d": 1013400,
     "high_10d": 176.65,
     "low_10d": 161.5,
-    "score": 0
+    "score": 2
   },
   "PAYC": {
     "sources": [
@@ -2893,6 +2935,7 @@
       "price": 224.675,
       "volume": 46055,
       "changePercent": -0.5246602,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2906,7 +2949,7 @@
     "avg_volume_10d": 448400,
     "high_10d": 226.52,
     "low_10d": 201.71,
-    "score": 4
+    "score": 6
   },
   "CDW": {
     "sources": [
@@ -2919,6 +2962,7 @@
       "price": 156.375,
       "volume": 103791,
       "changePercent": -1.613818,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2932,7 +2976,7 @@
     "avg_volume_10d": 1342830,
     "high_10d": 159.17,
     "low_10d": 143.61,
-    "score": 4
+    "score": 6
   },
   "SPY": {
     "sources": [
@@ -2970,6 +3014,7 @@
       "price": 75.69,
       "volume": 266831,
       "changePercent": -1.2395576,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2983,7 +3028,7 @@
     "avg_volume_10d": 1851380,
     "high_10d": 77.06,
     "low_10d": 69.46,
-    "score": 4
+    "score": 6
   },
   "STX": {
     "sources": [
@@ -2995,6 +3040,7 @@
       "price": 82.59,
       "volume": 1050500,
       "changePercent": -0.54191303,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -3009,7 +3055,7 @@
     "avg_volume_10d": 3958230,
     "high_10d": 83.27,
     "low_10d": 67.63,
-    "score": 5
+    "score": 7
   },
   "IT": {
     "sources": [
@@ -3021,6 +3067,7 @@
       "price": 414.795,
       "volume": 145783,
       "changePercent": -0.73112184,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3034,7 +3081,7 @@
     "avg_volume_10d": 496150,
     "high_10d": 420.2,
     "low_10d": 382.58,
-    "score": 4
+    "score": 6
   },
   "RF": {
     "sources": [
@@ -3098,6 +3145,7 @@
       "price": 46.75,
       "volume": 1753254,
       "changePercent": -0.78522694,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -3112,7 +3160,7 @@
     "avg_volume_10d": 14273990,
     "high_10d": 47.33,
     "low_10d": 35.48,
-    "score": 5
+    "score": 7
   },
   "ADP": {
     "sources": [
@@ -3124,7 +3172,8 @@
     "signals": {
       "price": 290.785,
       "volume": 356811,
-      "changePercent": -1.2782156
+      "changePercent": -1.2782156,
+      "strong_sector": true
     },
     "tv_price": 290.785,
     "tv_volume": 356811,
@@ -3136,7 +3185,7 @@
     "avg_volume_10d": 1947850,
     "high_10d": 304.31,
     "low_10d": 280.34,
-    "score": 0
+    "score": 2
   },
   "ASML": {
     "sources": [
@@ -3148,6 +3197,7 @@
       "price": 668.904,
       "volume": 388524,
       "changePercent": -0.90311235,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 668.904,
@@ -3160,7 +3210,7 @@
     "avg_volume_10d": 2143980,
     "high_10d": 687.53,
     "low_10d": 614.06,
-    "score": 3
+    "score": 5
   },
   "XLF": {
     "sources": [
@@ -3223,6 +3273,7 @@
       "price": 35.03,
       "volume": 203195,
       "changePercent": -0.02856121,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3236,7 +3287,7 @@
     "avg_volume_10d": 1884880,
     "high_10d": 35.31,
     "low_10d": 30.69,
-    "score": 4
+    "score": 6
   },
   "HPQ": {
     "sources": [
@@ -3248,6 +3299,7 @@
       "price": 25.175,
       "volume": 1037872,
       "changePercent": -0.61192536,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -3262,7 +3314,7 @@
     "avg_volume_10d": 8439600,
     "high_10d": 25.58,
     "low_10d": 22.32,
-    "score": 5
+    "score": 7
   },
   "PCG": {
     "sources": [
@@ -3298,6 +3350,7 @@
       "price": 18.7352,
       "volume": 4363697,
       "changePercent": 0.18823592,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -3311,7 +3364,7 @@
     "avg_volume_10d": 22529490,
     "high_10d": 19.52,
     "low_10d": 17.05,
-    "score": 4
+    "score": 6
   },
   "KLAC": {
     "sources": [
@@ -3326,6 +3379,7 @@
       "price": 687.59,
       "volume": 104268,
       "changePercent": -0.26544955,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3337,7 +3391,7 @@
     "avg_volume_10d": 1402720,
     "high_10d": 690.57,
     "low_10d": 607.7,
-    "score": 4
+    "score": 6
   },
   "LW": {
     "sources": [
@@ -3349,6 +3403,7 @@
       "price": 51.95,
       "volume": 191073,
       "changePercent": -1.2357371,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 51.95,
@@ -3361,7 +3416,7 @@
     "avg_volume_10d": 1774840,
     "high_10d": 56.26,
     "low_10d": 50.16,
-    "score": 3
+    "score": 5
   },
   "ACN": {
     "sources": [
@@ -3375,6 +3430,7 @@
       "price": 291.1936,
       "volume": 591713,
       "changePercent": -0.07425968,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3386,7 +3442,7 @@
     "avg_volume_10d": 3304280,
     "high_10d": 296.94,
     "low_10d": 275.98,
-    "score": 4
+    "score": 6
   },
   "QQQ": {
     "sources": [
@@ -3424,6 +3480,7 @@
       "price": 94.42,
       "volume": 1266530,
       "changePercent": 0.021185128,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -3438,7 +3495,7 @@
     "avg_volume_10d": 7494850,
     "high_10d": 94.68,
     "low_10d": 75.46,
-    "score": 5
+    "score": 7
   },
   "GE": {
     "sources": [
@@ -3501,6 +3558,7 @@
       "price": 245.4,
       "volume": 125913,
       "changePercent": 0.5408141,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3514,7 +3572,7 @@
     "avg_volume_10d": 650060,
     "high_10d": 248.05,
     "low_10d": 216.86,
-    "score": 4
+    "score": 6
   },
   "EXC": {
     "sources": [
@@ -3551,6 +3609,7 @@
       "price": 81.89,
       "volume": 504727,
       "changePercent": 0.3799921,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3564,7 +3623,7 @@
     "avg_volume_10d": 2357050,
     "high_10d": 81.86,
     "low_10d": 69.44,
-    "score": 4
+    "score": 6
   },
   "UNH": {
     "sources": [
@@ -3602,6 +3661,7 @@
       "price": 81.34,
       "volume": 766558,
       "changePercent": 0.1354093,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 81.34,
@@ -3614,7 +3674,7 @@
     "avg_volume_10d": 5876980,
     "high_10d": 85.55,
     "low_10d": 68.93,
-    "score": 3
+    "score": 5
   },
   "SNPS": {
     "sources": [
@@ -3627,6 +3687,7 @@
       "price": 438.2036,
       "volume": 246286,
       "changePercent": -0.15866499,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3640,7 +3701,7 @@
     "avg_volume_10d": 1143380,
     "high_10d": 441.38,
     "low_10d": 391.61,
-    "score": 4
+    "score": 6
   },
   "ZBH": {
     "sources": [
@@ -3753,6 +3814,7 @@
       "price": 95.21,
       "volume": 3898048,
       "changePercent": -0.65734273,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_high": true
     },
@@ -3764,7 +3826,7 @@
     "avg_volume_10d": 21867910,
     "high_10d": 96.6,
     "low_10d": 88.16,
-    "score": 2
+    "score": 4
   },
   "ICE": {
     "sources": [
@@ -3829,6 +3891,7 @@
       "price": 95.21,
       "volume": 1252981,
       "changePercent": -0.10491919,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -3840,7 +3903,7 @@
     "avg_volume_10d": 8169510,
     "high_10d": 97.62,
     "low_10d": 88.63,
-    "score": 4
+    "score": 6
   },
   "UAL": {
     "sources": [
@@ -3901,7 +3964,8 @@
     "signals": {
       "price": 94.135,
       "volume": 845654,
-      "changePercent": 0.34644982
+      "changePercent": 0.34644982,
+      "weak_sector": true
     },
     "tv_price": 94.135,
     "tv_volume": 845654,
@@ -3913,7 +3977,7 @@
     "avg_volume_10d": 4016870,
     "high_10d": 96.9,
     "low_10d": 85.6,
-    "score": 0
+    "score": 2
   },
   "CME": {
     "sources": [
@@ -3998,7 +4062,8 @@
     "signals": {
       "price": 60.6,
       "volume": 271050,
-      "changePercent": -1.3350695
+      "changePercent": -1.3350695,
+      "weak_sector": true
     },
     "tv_price": 60.6,
     "tv_volume": 271050,
@@ -4010,7 +4075,7 @@
     "avg_volume_10d": 2244350,
     "high_10d": 62.18,
     "low_10d": 58.75,
-    "score": 0
+    "score": 2
   },
   "ELV": {
     "sources": [
@@ -4095,6 +4160,7 @@
       "price": 76.54,
       "volume": 562995,
       "changePercent": -0.9831851,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4108,7 +4174,7 @@
     "avg_volume_10d": 3785330,
     "high_10d": 77.59,
     "low_10d": 68.24,
-    "score": 4
+    "score": 6
   },
   "GEHC": {
     "sources": [
@@ -4173,6 +4239,7 @@
       "price": 146.135,
       "volume": 206697,
       "changePercent": 0.0034145103,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4186,7 +4253,7 @@
     "avg_volume_10d": 1304590,
     "high_10d": 146.28,
     "low_10d": 127.72,
-    "score": 4
+    "score": 6
   },
   "ULTA": {
     "sources": [
@@ -4198,6 +4265,7 @@
       "price": 382.625,
       "volume": 92582,
       "changePercent": -0.85637105,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 382.625,
@@ -4210,7 +4278,7 @@
     "avg_volume_10d": 796360,
     "high_10d": 390.86,
     "low_10d": 343.9,
-    "score": 3
+    "score": 5
   },
   "DDOG": {
     "sources": [
@@ -4222,6 +4290,7 @@
       "price": 99.35,
       "volume": 717918,
       "changePercent": -0.251004,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4235,7 +4304,7 @@
     "avg_volume_10d": 4855900,
     "high_10d": 99.73,
     "low_10d": 87.69,
-    "score": 4
+    "score": 6
   },
   "ZS": {
     "sources": [
@@ -4247,6 +4316,7 @@
       "price": 211.48,
       "volume": 455589,
       "changePercent": 0.63801754,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4260,7 +4330,7 @@
     "avg_volume_10d": 2104720,
     "high_10d": 212.35,
     "low_10d": 189.27,
-    "score": 4
+    "score": 6
   },
   "PGR": {
     "sources": [
@@ -4395,6 +4465,7 @@
       "price": 57.49,
       "volume": 3436204,
       "changePercent": 0.27908573,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -4407,7 +4478,7 @@
     "avg_volume_10d": 18521080,
     "high_10d": 58.35,
     "low_10d": 48.09,
-    "score": 5
+    "score": 7
   },
   "HUM": {
     "sources": [
@@ -4442,6 +4513,7 @@
       "price": 60.67,
       "volume": 1140188,
       "changePercent": 0.4969343,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -4456,7 +4528,7 @@
     "avg_volume_10d": 2425650,
     "high_10d": 61.57,
     "low_10d": 49.08,
-    "score": 5
+    "score": 7
   },
   "CSGP": {
     "sources": [
@@ -4541,7 +4613,8 @@
     "signals": {
       "price": 170.69,
       "volume": 53049,
-      "changePercent": -1.0722098
+      "changePercent": -1.0722098,
+      "strong_sector": true
     },
     "tv_price": 170.69,
     "tv_volume": 53049,
@@ -4553,7 +4626,7 @@
     "avg_volume_10d": 519980,
     "high_10d": 175.79,
     "low_10d": 165.68,
-    "score": 0
+    "score": 2
   },
   "ANSS": {
     "sources": [
@@ -4566,6 +4639,7 @@
       "price": 315.865,
       "volume": 74270,
       "changePercent": -0.15646578,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4579,7 +4653,7 @@
     "avg_volume_10d": 591540,
     "high_10d": 318.38,
     "low_10d": 291.63,
-    "score": 4
+    "score": 6
   },
   "EPAM": {
     "sources": [
@@ -4591,6 +4665,7 @@
       "price": 157.89,
       "volume": 94562,
       "changePercent": -0.08859039,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4604,7 +4679,7 @@
     "avg_volume_10d": 573610,
     "high_10d": 159.15,
     "low_10d": 142.04,
-    "score": 4
+    "score": 6
   },
   "XEL": {
     "sources": [
@@ -4664,6 +4739,7 @@
       "price": 162.81,
       "volume": 164060,
       "changePercent": -0.71956086,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 162.81,
@@ -4676,7 +4752,7 @@
     "avg_volume_10d": 1117800,
     "high_10d": 171.5,
     "low_10d": 160.89,
-    "score": 1
+    "score": 3
   },
   "AOS": {
     "sources": [
@@ -4717,6 +4793,7 @@
       "price": 56.35,
       "volume": 2789078,
       "changePercent": 0.10660546,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -4728,7 +4805,7 @@
     "avg_volume_10d": 21416970,
     "high_10d": 58.21,
     "low_10d": 53.83,
-    "score": 4
+    "score": 6
   },
   "NTRS": {
     "sources": [
@@ -4764,6 +4841,7 @@
       "price": 67.355,
       "volume": 1281423,
       "changePercent": 2.0530355,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -4778,7 +4856,7 @@
     "avg_volume_10d": 4923680,
     "high_10d": 68.3,
     "low_10d": 57.25,
-    "score": 5
+    "score": 7
   },
   "PH": {
     "sources": [
@@ -4814,6 +4892,7 @@
       "price": 125.11,
       "volume": 418995,
       "changePercent": -0.7378612,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 125.11,
@@ -4826,7 +4905,7 @@
     "avg_volume_10d": 4215160,
     "high_10d": 129.08,
     "low_10d": 114.5,
-    "score": 3
+    "score": 5
   },
   "MCO": {
     "sources": [
@@ -4862,6 +4941,7 @@
       "price": 82.705,
       "volume": 576148,
       "changePercent": -0.078524604,
+      "weak_sector": true,
       "near_multi_day_high": true,
       "near_multi_day_low": true
     },
@@ -4875,7 +4955,7 @@
     "avg_volume_10d": 2697670,
     "high_10d": 82.87,
     "low_10d": 81.98,
-    "score": 2
+    "score": 4
   },
   "MAR": {
     "sources": [
@@ -4888,6 +4968,7 @@
       "price": 235.02,
       "volume": 492077,
       "changePercent": -0.52484137,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4901,7 +4982,7 @@
     "avg_volume_10d": 2073470,
     "high_10d": 237.35,
     "low_10d": 212.53,
-    "score": 4
+    "score": 6
   },
   "ATO": {
     "sources": [
@@ -4939,6 +5020,7 @@
       "price": 10.085,
       "volume": 24343023,
       "changePercent": 0.24850515,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -4951,7 +5033,7 @@
     "avg_volume_10d": 134918990,
     "high_10d": 10.09,
     "low_10d": 8.88,
-    "score": 5
+    "score": 7
   },
   "PTC": {
     "sources": [
@@ -4963,6 +5045,7 @@
       "price": 151.5,
       "volume": 55773,
       "changePercent": -0.09232352,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4976,7 +5059,7 @@
     "avg_volume_10d": 791090,
     "high_10d": 152.06,
     "low_10d": 138.32,
-    "score": 4
+    "score": 6
   },
   "EXPE": {
     "sources": [
@@ -4988,6 +5071,7 @@
       "price": 159.42,
       "volume": 228414,
       "changePercent": -0.08148222,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 159.42,
@@ -5000,7 +5084,7 @@
     "avg_volume_10d": 1931730,
     "high_10d": 163.75,
     "low_10d": 144.2,
-    "score": 3
+    "score": 5
   },
   "STT": {
     "sources": [
@@ -5087,6 +5171,7 @@
       "price": 455.23,
       "volume": 49840,
       "changePercent": -0.8494313,
+      "strong_sector": true,
       "gap_down": true
     },
     "tv_price": 455.23,
@@ -5099,7 +5184,7 @@
     "avg_volume_10d": 338910,
     "high_10d": 474.54,
     "low_10d": 438.86,
-    "score": 3
+    "score": 5
   },
   "VRSK": {
     "sources": [
@@ -5162,6 +5247,7 @@
       "price": 57.275,
       "volume": 340869,
       "changePercent": 0.008732439,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5175,7 +5261,7 @@
     "avg_volume_10d": 1744200,
     "high_10d": 57.45,
     "low_10d": 51.98,
-    "score": 4
+    "score": 6
   },
   "MELI": {
     "sources": [
@@ -5187,6 +5273,7 @@
       "price": 2207.865,
       "volume": 80728,
       "changePercent": 0.13855758,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5200,7 +5287,7 @@
     "avg_volume_10d": 343460,
     "high_10d": 2210.0,
     "low_10d": 1865.24,
-    "score": 4
+    "score": 6
   },
   "AMP": {
     "sources": [
@@ -5436,6 +5523,7 @@
       "price": 142.9,
       "volume": 207605,
       "changePercent": -0.43200275,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5449,7 +5537,7 @@
     "avg_volume_10d": 2446370,
     "high_10d": 143.97,
     "low_10d": 123.28,
-    "score": 4
+    "score": 6
   },
   "JCI": {
     "sources": [
@@ -5560,6 +5648,7 @@
       "price": 100.435,
       "volume": 844268,
       "changePercent": -0.28296632,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5573,7 +5662,7 @@
     "avg_volume_10d": 4527700,
     "high_10d": 101.19,
     "low_10d": 91.24,
-    "score": 4
+    "score": 6
   },
   "CPRT": {
     "sources": [
@@ -5709,6 +5798,7 @@
       "price": 80.96,
       "volume": 270041,
       "changePercent": 0.19801489,
+      "weak_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 80.96,
@@ -5721,7 +5811,7 @@
     "avg_volume_10d": 1413120,
     "high_10d": 81.17,
     "low_10d": 72.04,
-    "score": 1
+    "score": 3
   },
   "MGM": {
     "sources": [
@@ -5733,6 +5823,7 @@
       "price": 31.98,
       "volume": 1335605,
       "changePercent": 1.7817354,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -5747,7 +5838,7 @@
     "avg_volume_10d": 5592130,
     "high_10d": 32.33,
     "low_10d": 27.78,
-    "score": 5
+    "score": 7
   },
   "UDR": {
     "sources": [
@@ -5783,6 +5874,7 @@
       "price": 102.52,
       "volume": 427637,
       "changePercent": -1.5461448,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 102.52,
@@ -5795,7 +5887,7 @@
     "avg_volume_10d": 1834460,
     "high_10d": 105.96,
     "low_10d": 95.61,
-    "score": 3
+    "score": 5
   },
   "SLB": {
     "sources": [
@@ -5858,6 +5950,7 @@
       "price": 64.87,
       "volume": 1754956,
       "changePercent": -0.9920542,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -5871,7 +5964,7 @@
     "avg_volume_10d": 7810060,
     "high_10d": 69.09,
     "low_10d": 64.71,
-    "score": 2
+    "score": 4
   },
   "DRI": {
     "sources": [
@@ -5883,6 +5976,7 @@
       "price": 198.76,
       "volume": 159793,
       "changePercent": -0.83816,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 198.76,
@@ -5895,7 +5989,7 @@
     "avg_volume_10d": 1094380,
     "high_10d": 206.97,
     "low_10d": 187.23,
-    "score": 3
+    "score": 5
   },
   "ODFL": {
     "sources": [
@@ -5980,7 +6074,8 @@
     "signals": {
       "price": 185.48,
       "volume": 246622,
-      "changePercent": -1.0773356
+      "changePercent": -1.0773356,
+      "weak_sector": true
     },
     "tv_price": 185.48,
     "tv_volume": 246622,
@@ -5992,7 +6087,7 @@
     "avg_volume_10d": 2434680,
     "high_10d": 190.77,
     "low_10d": 175.1,
-    "score": 0
+    "score": 2
   },
   "FI": {
     "sources": [
@@ -6004,6 +6099,7 @@
       "price": 179.58,
       "volume": 2335102,
       "changePercent": 1.5148134,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_low": true
@@ -6018,7 +6114,7 @@
     "avg_volume_10d": 4276930,
     "high_10d": 221.5,
     "low_10d": 176.24,
-    "score": 5
+    "score": 7
   },
   "YUM": {
     "sources": [
@@ -6030,6 +6126,7 @@
       "price": 147.0,
       "volume": 264212,
       "changePercent": -0.3930084,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 147.0,
@@ -6042,7 +6139,7 @@
     "avg_volume_10d": 2511850,
     "high_10d": 148.37,
     "low_10d": 139.03,
-    "score": 1
+    "score": 3
   },
   "STLD": {
     "sources": [
@@ -6054,6 +6151,7 @@
       "price": 126.56,
       "volume": 89291,
       "changePercent": -0.6437429,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6067,7 +6165,7 @@
     "avg_volume_10d": 1482410,
     "high_10d": 127.85,
     "low_10d": 112.6,
-    "score": 4
+    "score": 6
   },
   "DXCM": {
     "sources": [
@@ -6178,6 +6276,7 @@
       "price": 507.08,
       "volume": 64982,
       "changePercent": -0.42611948,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6191,7 +6290,7 @@
     "avg_volume_10d": 426780,
     "high_10d": 511.08,
     "low_10d": 462.8,
-    "score": 4
+    "score": 6
   },
   "ROL": {
     "sources": [
@@ -6203,6 +6302,7 @@
       "price": 55.21,
       "volume": 487872,
       "changePercent": -0.4682192,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 55.21,
@@ -6215,7 +6315,7 @@
     "avg_volume_10d": 2379840,
     "high_10d": 56.31,
     "low_10d": 51.77,
-    "score": 1
+    "score": 3
   },
   "USB": {
     "sources": [
@@ -6252,6 +6352,7 @@
       "price": 428.125,
       "volume": 63437,
       "changePercent": -0.0035069482,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 428.125,
@@ -6264,7 +6365,7 @@
     "avg_volume_10d": 724960,
     "high_10d": 431.74,
     "low_10d": 404.73,
-    "score": 1
+    "score": 3
   },
   "TRGP": {
     "sources": [
@@ -6330,6 +6431,7 @@
       "price": 193.97,
       "volume": 965741,
       "changePercent": -0.6453898,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6341,7 +6443,7 @@
     "avg_volume_10d": 4707140,
     "high_10d": 197.52,
     "low_10d": 167.2,
-    "score": 4
+    "score": 6
   },
   "ABNB": {
     "sources": [
@@ -6354,6 +6456,7 @@
       "price": 122.05,
       "volume": 619610,
       "changePercent": 0.27935582,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6367,7 +6470,7 @@
     "avg_volume_10d": 5014250,
     "high_10d": 122.32,
     "low_10d": 109.79,
-    "score": 4
+    "score": 6
   },
   "CTAS": {
     "sources": [
@@ -6478,6 +6581,7 @@
       "price": 71.235,
       "volume": 5951673,
       "changePercent": -1.7719196,
+      "weak_sector": true,
       "high_volume": true
     },
     "sector": "Consumer Defensive",
@@ -6488,7 +6592,7 @@
     "avg_volume_10d": 17224100,
     "high_10d": 74.38,
     "low_10d": 68.98,
-    "score": 1
+    "score": 3
   },
   "GNRC": {
     "sources": [
@@ -6571,6 +6675,7 @@
       "price": 109.64,
       "volume": 378978,
       "changePercent": -0.91279,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 109.64,
@@ -6583,7 +6688,7 @@
     "avg_volume_10d": 2388290,
     "high_10d": 113.42,
     "low_10d": 100.26,
-    "score": 3
+    "score": 5
   },
   "TSLA": {
     "sources": [
@@ -6599,6 +6704,7 @@
       "price": 275.3,
       "volume": 63712030,
       "changePercent": 6.084535,
+      "strong_sector": true,
       "gap_up": true,
       "early_move": true,
       "high_volume": true,
@@ -6613,7 +6719,7 @@
     "avg_volume_10d": 114870640,
     "high_10d": 262.49,
     "low_10d": 222.79,
-    "score": 8
+    "score": 10
   },
   "SBAC": {
     "sources": [
@@ -6648,6 +6754,7 @@
       "price": 79.24,
       "volume": 313031,
       "changePercent": 0.050506208,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6661,7 +6768,7 @@
     "avg_volume_10d": 1659740,
     "high_10d": 79.57,
     "low_10d": 70.75,
-    "score": 4
+    "score": 6
   },
   "APD": {
     "sources": [
@@ -6673,6 +6780,7 @@
       "price": 267.675,
       "volume": 98117,
       "changePercent": -0.43705347,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 267.675,
@@ -6685,7 +6793,7 @@
     "avg_volume_10d": 1313280,
     "high_10d": 274.51,
     "low_10d": 254.04,
-    "score": 3
+    "score": 5
   },
   "APH": {
     "sources": [
@@ -6697,6 +6805,7 @@
       "price": 75.47,
       "volume": 3398944,
       "changePercent": -0.7365482,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -6711,7 +6820,7 @@
     "avg_volume_10d": 9237750,
     "high_10d": 76.56,
     "low_10d": 62.0,
-    "score": 5
+    "score": 7
   },
   "ITW": {
     "sources": [
@@ -6748,6 +6857,7 @@
       "price": 28.91,
       "volume": 980697,
       "changePercent": -0.069169834,
+      "weak_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 28.91,
@@ -6760,7 +6870,7 @@
     "avg_volume_10d": 4845020,
     "high_10d": 29.22,
     "low_10d": 23.62,
-    "score": 1
+    "score": 3
   },
   "GIS": {
     "sources": [
@@ -6772,6 +6882,7 @@
       "price": 55.7099,
       "volume": 1132445,
       "changePercent": -1.206064,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -6785,7 +6896,7 @@
     "avg_volume_10d": 3960520,
     "high_10d": 59.21,
     "low_10d": 56.21,
-    "score": 2
+    "score": 4
   },
   "HOLX": {
     "sources": [
@@ -6824,6 +6935,7 @@
       "price": 968.24,
       "volume": 377554,
       "changePercent": -0.7425327,
+      "weak_sector": true,
       "gap_up": true
     },
     "sector": "Consumer Defensive",
@@ -6834,7 +6946,7 @@
     "avg_volume_10d": 2582410,
     "high_10d": 999.92,
     "low_10d": 942.89,
-    "score": 3
+    "score": 5
   },
   "DHR": {
     "sources": [
@@ -6894,6 +7006,7 @@
       "price": 485.05,
       "volume": 211615,
       "changePercent": -0.5984002,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 485.05,
@@ -6906,7 +7019,7 @@
     "avg_volume_10d": 548680,
     "high_10d": 491.95,
     "low_10d": 439.96,
-    "score": 1
+    "score": 3
   },
   "TMO": {
     "sources": [
@@ -6995,6 +7108,7 @@
       "price": 183.45,
       "volume": 267724,
       "changePercent": 1.679414,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7008,7 +7122,7 @@
     "avg_volume_10d": 1584030,
     "high_10d": 181.95,
     "low_10d": 164.07,
-    "score": 4
+    "score": 6
   },
   "MMC": {
     "sources": [
@@ -7091,6 +7205,7 @@
       "price": 3558.97,
       "volume": 25677,
       "changePercent": -1.4040124,
+      "strong_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 3558.97,
@@ -7103,7 +7218,7 @@
     "avg_volume_10d": 121300,
     "high_10d": 3712.91,
     "low_10d": 3506.62,
-    "score": 1
+    "score": 3
   },
   "MNST": {
     "sources": [
@@ -7115,7 +7230,8 @@
     "signals": {
       "price": 58.23,
       "volume": 562899,
-      "changePercent": -0.6144404
+      "changePercent": -0.6144404,
+      "weak_sector": true
     },
     "tv_price": 58.23,
     "tv_volume": 562899,
@@ -7127,7 +7243,7 @@
     "avg_volume_10d": 4903530,
     "high_10d": 59.7,
     "low_10d": 56.91,
-    "score": 0
+    "score": 2
   },
   "RCL": {
     "sources": [
@@ -7139,6 +7255,7 @@
       "price": 211.92,
       "volume": 349670,
       "changePercent": 0.2886757,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 211.92,
@@ -7151,7 +7268,7 @@
     "avg_volume_10d": 2154250,
     "high_10d": 218.06,
     "low_10d": 185.14,
-    "score": 3
+    "score": 5
   },
   "TTD": {
     "sources": [
@@ -7163,6 +7280,7 @@
       "price": 53.6599,
       "volume": 2179679,
       "changePercent": 0.73193204,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -7177,7 +7295,7 @@
     "avg_volume_10d": 9093300,
     "high_10d": 53.41,
     "low_10d": 46.82,
-    "score": 5
+    "score": 7
   },
   "PRU": {
     "sources": [
@@ -7276,6 +7394,7 @@
       "price": 106.56,
       "volume": 150150,
       "changePercent": -2.3281403,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 106.56,
@@ -7288,7 +7407,7 @@
     "avg_volume_10d": 655050,
     "high_10d": 109.89,
     "low_10d": 98.42,
-    "score": 3
+    "score": 5
   },
   "MOH": {
     "sources": [
@@ -7351,6 +7470,7 @@
       "price": 4810.19,
       "volume": 50564,
       "changePercent": -0.36827636,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7362,7 +7482,7 @@
     "avg_volume_10d": 264540,
     "high_10d": 4843.76,
     "low_10d": 4371.12,
-    "score": 4
+    "score": 6
   },
   "DTE": {
     "sources": [
@@ -7446,6 +7566,7 @@
       "price": 9.58,
       "volume": 6430297,
       "changePercent": -0.8281566,
+      "strong_sector": true,
       "high_volume": true,
       "near_multi_day_high": true
     },
@@ -7459,7 +7580,7 @@
     "avg_volume_10d": 38592890,
     "high_10d": 9.69,
     "low_10d": 8.73,
-    "score": 2
+    "score": 4
   },
   "PLD": {
     "sources": [
@@ -7523,6 +7644,7 @@
       "price": 132.85,
       "volume": 3684135,
       "changePercent": -1.8181757,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -7534,7 +7656,7 @@
     "avg_volume_10d": 8220500,
     "high_10d": 147.18,
     "low_10d": 134.53,
-    "score": 2
+    "score": 4
   },
   "HUBB": {
     "sources": [
@@ -7670,6 +7792,7 @@
       "price": 247.04,
       "volume": 137274,
       "changePercent": -0.9899408,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7683,7 +7806,7 @@
     "avg_volume_10d": 926660,
     "high_10d": 250.24,
     "low_10d": 229.3,
-    "score": 4
+    "score": 6
   },
   "CCEP": {
     "sources": [
@@ -7694,7 +7817,8 @@
     "signals": {
       "price": 87.28,
       "volume": 369238,
-      "changePercent": -0.98695713
+      "changePercent": -0.98695713,
+      "weak_sector": true
     },
     "tv_price": 87.28,
     "tv_volume": 369238,
@@ -7706,7 +7830,7 @@
     "avg_volume_10d": 2276200,
     "high_10d": 91.04,
     "low_10d": 83.95,
-    "score": 0
+    "score": 2
   },
   "POOL": {
     "sources": [
@@ -7795,6 +7919,7 @@
       "price": 7077.15,
       "volume": 1857,
       "changePercent": -0.9756706,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 7077.15,
@@ -7807,7 +7932,7 @@
     "avg_volume_10d": 23950,
     "high_10d": 7369.81,
     "low_10d": 6752.65,
-    "score": 3
+    "score": 5
   },
   "HAL": {
     "sources": [
@@ -7847,6 +7972,7 @@
       "price": 616.03,
       "volume": 284709,
       "changePercent": 0.19517788,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7858,7 +7984,7 @@
     "avg_volume_10d": 1611380,
     "high_10d": 617.1,
     "low_10d": 558.66,
-    "score": 4
+    "score": 6
   },
   "LKQ": {
     "sources": [
@@ -7870,6 +7996,7 @@
       "price": 36.65,
       "volume": 715676,
       "changePercent": -1.6371359,
+      "strong_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 36.65,
@@ -7882,7 +8009,7 @@
     "avg_volume_10d": 2350080,
     "high_10d": 43.1,
     "low_10d": 36.89,
-    "score": 1
+    "score": 3
   },
   "CBRE": {
     "sources": [
@@ -7918,6 +8045,7 @@
       "price": 116.49,
       "volume": 136028,
       "changePercent": -0.51242507,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 116.49,
@@ -7930,7 +8058,7 @@
     "avg_volume_10d": 1587560,
     "high_10d": 118.83,
     "low_10d": 108.99,
-    "score": 1
+    "score": 3
   },
   "TYL": {
     "sources": [
@@ -7942,6 +8070,7 @@
       "price": 530.375,
       "volume": 155791,
       "changePercent": -0.023562677,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_low": true
     },
@@ -7955,7 +8084,7 @@
     "avg_volume_10d": 298580,
     "high_10d": 584.08,
     "low_10d": 525.59,
-    "score": 4
+    "score": 6
   },
   "ABBV": {
     "sources": [
@@ -8018,6 +8147,7 @@
       "price": 114.15,
       "volume": 121537,
       "changePercent": -1.3311443,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 114.15,
@@ -8030,7 +8160,7 @@
     "avg_volume_10d": 1085190,
     "high_10d": 118.79,
     "low_10d": 112.06,
-    "score": 1
+    "score": 3
   },
   "WRB": {
     "sources": [
@@ -8065,6 +8195,7 @@
       "price": 236.45,
       "volume": 193962,
       "changePercent": -1.3435146,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 236.45,
@@ -8077,7 +8208,7 @@
     "avg_volume_10d": 1330530,
     "high_10d": 241.51,
     "low_10d": 227.77,
-    "score": 3
+    "score": 5
   },
   "UBER": {
     "sources": [
@@ -8091,6 +8222,7 @@
       "price": 78.43,
       "volume": 8297693,
       "changePercent": 0.42253757,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -8103,7 +8235,7 @@
     "avg_volume_10d": 18494040,
     "high_10d": 78.38,
     "low_10d": 68.34,
-    "score": 5
+    "score": 7
   },
   "WMB": {
     "sources": [
@@ -8165,6 +8297,7 @@
       "price": 59.0,
       "volume": 410941,
       "changePercent": 0.5967578,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8178,7 +8311,7 @@
     "avg_volume_10d": 4288880,
     "high_10d": 59.75,
     "low_10d": 50.61,
-    "score": 4
+    "score": 6
   },
   "AON": {
     "sources": [
@@ -8268,6 +8401,7 @@
       "price": 145.325,
       "volume": 263611,
       "changePercent": -0.16144587,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8281,7 +8415,7 @@
     "avg_volume_10d": 1288980,
     "high_10d": 146.48,
     "low_10d": 135.8,
-    "score": 4
+    "score": 6
   },
   "COO": {
     "sources": [
@@ -8318,6 +8452,7 @@
       "price": 68.82,
       "volume": 274410,
       "changePercent": -0.14496735,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8331,7 +8466,7 @@
     "avg_volume_10d": 2661520,
     "high_10d": 69.1,
     "low_10d": 62.15,
-    "score": 4
+    "score": 6
   },
   "TT": {
     "sources": [
@@ -8368,6 +8503,7 @@
       "price": 76.87,
       "volume": 565882,
       "changePercent": -4.8874,
+      "weak_sector": true,
       "gap_up": true,
       "early_move": true
     },
@@ -8381,7 +8517,7 @@
     "avg_volume_10d": 1649020,
     "high_10d": 82.99,
     "low_10d": 73.37,
-    "score": 5
+    "score": 7
   },
   "BAC": {
     "sources": [
@@ -8507,6 +8643,7 @@
       "price": 1929.08,
       "volume": 57776,
       "changePercent": -0.39911515,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 1929.08,
@@ -8519,7 +8656,7 @@
     "avg_volume_10d": 177810,
     "high_10d": 1971.12,
     "low_10d": 1791.23,
-    "score": 3
+    "score": 5
   },
   "MSCI": {
     "sources": [
@@ -8652,6 +8789,7 @@
       "price": 59.5599,
       "volume": 1552679,
       "changePercent": 0.5230352,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -8665,7 +8803,7 @@
     "avg_volume_10d": 4486550,
     "high_10d": 61.06,
     "low_10d": 52.8,
-    "score": 4
+    "score": 6
   },
   "CAG": {
     "sources": [
@@ -8677,6 +8815,7 @@
       "price": 24.315,
       "volume": 1809903,
       "changePercent": -2.427767,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -8690,7 +8829,7 @@
     "avg_volume_10d": 5112570,
     "high_10d": 26.34,
     "low_10d": 24.81,
-    "score": 2
+    "score": 4
   },
   "CARR": {
     "sources": [
@@ -8825,6 +8964,7 @@
       "price": 227.41,
       "volume": 579751,
       "changePercent": 1.0351883,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8838,7 +8978,7 @@
     "avg_volume_10d": 2344760,
     "high_10d": 226.07,
     "low_10d": 190.46,
-    "score": 4
+    "score": 6
   },
   "PAYX": {
     "sources": [
@@ -8850,7 +8990,8 @@
     "signals": {
       "price": 142.795,
       "volume": 323705,
-      "changePercent": -0.98121387
+      "changePercent": -0.98121387,
+      "strong_sector": true
     },
     "tv_price": 142.795,
     "tv_volume": 323705,
@@ -8862,7 +9003,7 @@
     "avg_volume_10d": 2063010,
     "high_10d": 149.84,
     "low_10d": 138.17,
-    "score": 0
+    "score": 2
   },
   "BK": {
     "sources": [
@@ -8974,6 +9115,7 @@
       "price": 943.74,
       "volume": 946517,
       "changePercent": 0.5513149,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8985,7 +9127,7 @@
     "avg_volume_10d": 2362190,
     "high_10d": 943.98,
     "low_10d": 742.41,
-    "score": 4
+    "score": 6
   },
   "CTRA": {
     "sources": [
@@ -9023,6 +9165,7 @@
       "price": 71.4025,
       "volume": 2266260,
       "changePercent": 0.7087374,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -9035,7 +9178,7 @@
     "avg_volume_10d": 14854880,
     "high_10d": 71.21,
     "low_10d": 61.14,
-    "score": 5
+    "score": 7
   },
   "VRSN": {
     "sources": [
@@ -9047,6 +9190,7 @@
       "price": 274.85,
       "volume": 455426,
       "changePercent": 8.812704,
+      "strong_sector": true,
       "early_move": true,
       "near_multi_day_high": true
     },
@@ -9060,7 +9204,7 @@
     "avg_volume_10d": 832680,
     "high_10d": 256.13,
     "low_10d": 235.47,
-    "score": 3
+    "score": 5
   },
   "CDNS": {
     "sources": [
@@ -9073,6 +9217,7 @@
       "price": 285.18,
       "volume": 539972,
       "changePercent": 1.206613,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9086,7 +9231,7 @@
     "avg_volume_10d": 1841670,
     "high_10d": 283.0,
     "low_10d": 244.99,
-    "score": 4
+    "score": 6
   },
   "ESS": {
     "sources": [
@@ -9122,6 +9267,7 @@
       "price": 79.06,
       "volume": 634955,
       "changePercent": -1.0141544,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 79.06,
@@ -9134,7 +9280,7 @@
     "avg_volume_10d": 5293250,
     "high_10d": 81.7,
     "low_10d": 68.08,
-    "score": 3
+    "score": 5
   },
   "CPB": {
     "sources": [
@@ -9146,6 +9292,7 @@
       "price": 36.08,
       "volume": 762864,
       "changePercent": -1.7429177,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 36.08,
@@ -9158,7 +9305,7 @@
     "avg_volume_10d": 2716710,
     "high_10d": 39.04,
     "low_10d": 36.65,
-    "score": 1
+    "score": 3
   },
   "ACGL": {
     "sources": [
@@ -9317,6 +9464,7 @@
       "price": 22.57,
       "volume": 2477998,
       "changePercent": -0.7912101,
+      "weak_sector": true,
       "high_volume": true
     },
     "tv_price": 22.57,
@@ -9329,7 +9477,7 @@
     "avg_volume_10d": 19529650,
     "high_10d": 23.53,
     "low_10d": 21.41,
-    "score": 1
+    "score": 3
   },
   "NUE": {
     "sources": [
@@ -9341,6 +9489,7 @@
       "price": 115.43,
       "volume": 323202,
       "changePercent": 0.12143238,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9354,7 +9503,7 @@
     "avg_volume_10d": 1916360,
     "high_10d": 115.85,
     "low_10d": 105.92,
-    "score": 4
+    "score": 6
   },
   "A": {
     "sources": [
@@ -9390,7 +9539,8 @@
     "signals": {
       "price": 556.87,
       "volume": 115034,
-      "changePercent": -0.49851304
+      "changePercent": -0.49851304,
+      "strong_sector": true
     },
     "tv_price": 556.87,
     "tv_volume": 115034,
@@ -9402,7 +9552,7 @@
     "avg_volume_10d": 549840,
     "high_10d": 571.68,
     "low_10d": 533.1,
-    "score": 0
+    "score": 2
   },
   "PHM": {
     "sources": [
@@ -9414,6 +9564,7 @@
       "price": 101.805,
       "volume": 247498,
       "changePercent": -1.016041,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 101.805,
@@ -9426,7 +9577,7 @@
     "avg_volume_10d": 2385420,
     "high_10d": 105.62,
     "low_10d": 89.81,
-    "score": 3
+    "score": 5
   },
   "MAS": {
     "sources": [
@@ -9462,6 +9613,7 @@
       "price": 27.68,
       "volume": 2606691,
       "changePercent": 2.2156587,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -9475,7 +9627,7 @@
     "avg_volume_10d": 8735650,
     "high_10d": 28.25,
     "low_10d": 24.41,
-    "score": 4
+    "score": 6
   },
   "SYF": {
     "sources": [
@@ -9563,6 +9715,7 @@
       "price": 269.9942,
       "volume": 201264,
       "changePercent": -0.63147837,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9576,7 +9729,7 @@
     "avg_volume_10d": 1290860,
     "high_10d": 272.77,
     "low_10d": 248.58,
-    "score": 4
+    "score": 6
   },
   "AMZN": {
     "sources": [
@@ -9591,6 +9744,7 @@
       "price": 186.68,
       "volume": 11109642,
       "changePercent": 0.0750506,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -9603,7 +9757,7 @@
     "avg_volume_10d": 51867390,
     "high_10d": 187.44,
     "low_10d": 165.29,
-    "score": 5
+    "score": 7
   },
   "AEP": {
     "sources": [
@@ -9687,6 +9841,7 @@
       "price": 151.36,
       "volume": 229921,
       "changePercent": -0.026415646,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 151.36,
@@ -9699,7 +9854,7 @@
     "avg_volume_10d": 1748910,
     "high_10d": 156.51,
     "low_10d": 134.44,
-    "score": 3
+    "score": 5
   },
   "OXY": {
     "sources": [
@@ -9736,6 +9891,7 @@
       "price": 143.0151,
       "volume": 67896,
       "changePercent": -0.538902,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9749,7 +9905,7 @@
     "avg_volume_10d": 1093540,
     "high_10d": 144.17,
     "low_10d": 129.26,
-    "score": 4
+    "score": 6
   },
   "KEY": {
     "sources": [
@@ -9814,6 +9970,7 @@
       "price": 40.441,
       "volume": 912294,
       "changePercent": 0.6746421,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9827,7 +9984,7 @@
     "avg_volume_10d": 7793800,
     "high_10d": 40.36,
     "low_10d": 33.42,
-    "score": 4
+    "score": 6
   },
   "SYK": {
     "sources": [
@@ -9864,6 +10021,7 @@
       "price": 49.885,
       "volume": 1108902,
       "changePercent": 1.806119,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -9877,7 +10035,7 @@
     "avg_volume_10d": 5783600,
     "high_10d": 52.72,
     "low_10d": 46.85,
-    "score": 4
+    "score": 6
   },
   "MDB": {
     "sources": [
@@ -9889,6 +10047,7 @@
       "price": 169.375,
       "volume": 542279,
       "changePercent": -2.2140791,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 169.375,
@@ -9901,7 +10060,7 @@
     "avg_volume_10d": 2275200,
     "high_10d": 175.43,
     "low_10d": 148.88,
-    "score": 3
+    "score": 5
   },
   "SO": {
     "sources": [
@@ -10035,6 +10194,7 @@
       "price": 130.915,
       "volume": 393165,
       "changePercent": -1.0767742,
+      "weak_sector": true,
       "gap_down": true,
       "near_multi_day_low": true
     },
@@ -10048,7 +10208,7 @@
     "avg_volume_10d": 2539170,
     "high_10d": 143.5,
     "low_10d": 131.12,
-    "score": 4
+    "score": 6
   },
   "APO": {
     "sources": [
@@ -10241,6 +10401,7 @@
       "price": 315.52,
       "volume": 808711,
       "changePercent": -0.22136873,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "sector": "Consumer Cyclical",
@@ -10251,7 +10412,7 @@
     "avg_volume_10d": 3584420,
     "high_10d": 320.0,
     "low_10d": 296.92,
-    "score": 1
+    "score": 3
   },
   "QCOM": {
     "sources": [
@@ -10266,6 +10427,7 @@
       "price": 147.535,
       "volume": 1086197,
       "changePercent": 0.22077847,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -10278,7 +10440,7 @@
     "avg_volume_10d": 9087570,
     "high_10d": 147.82,
     "low_10d": 129.29,
-    "score": 5
+    "score": 7
   },
   "MTD": {
     "sources": [
@@ -10314,6 +10476,7 @@
       "price": 322.655,
       "volume": 30583,
       "changePercent": 0.23765388,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 322.655,
@@ -10326,7 +10489,7 @@
     "avg_volume_10d": 389920,
     "high_10d": 329.36,
     "low_10d": 292.67,
-    "score": 3
+    "score": 5
   },
   "EG": {
     "sources": [
@@ -10534,6 +10697,7 @@
       "price": 68.51,
       "volume": 535922,
       "changePercent": 0.3074657,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 68.51,
@@ -10546,7 +10710,7 @@
     "avg_volume_10d": 4935130,
     "high_10d": 71.11,
     "low_10d": 61.6,
-    "score": 3
+    "score": 5
   },
   "LLY": {
     "sources": [
@@ -10584,6 +10748,7 @@
       "price": 61.475,
       "volume": 382776,
       "changePercent": -0.38081446,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -10597,7 +10762,7 @@
     "avg_volume_10d": 2964240,
     "high_10d": 62.25,
     "low_10d": 56.14,
-    "score": 4
+    "score": 6
   },
   "FAST": {
     "sources": [
@@ -10660,6 +10825,7 @@
       "price": 50.15,
       "volume": 3863206,
       "changePercent": 1.2313294,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -10674,7 +10840,7 @@
     "avg_volume_10d": 15191290,
     "high_10d": 51.05,
     "low_10d": 45.21,
-    "score": 5
+    "score": 7
   },
   "PWR": {
     "sources": [
@@ -10711,6 +10877,7 @@
       "price": 55.66,
       "volume": 242170,
       "changePercent": 1.0897175,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -10724,7 +10891,7 @@
     "avg_volume_10d": 3313810,
     "high_10d": 55.65,
     "low_10d": 47.19,
-    "score": 4
+    "score": 6
   },
   "PFG": {
     "sources": [
@@ -10787,6 +10954,7 @@
       "price": 57.36,
       "volume": 6694831,
       "changePercent": -1.9151828,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -10798,7 +10966,7 @@
     "avg_volume_10d": 23849766,
     "high_10d": 59.2,
     "low_10d": 52.28,
-    "score": 4
+    "score": 6
   },
   "INTC": {
     "sources": [
@@ -10814,6 +10982,7 @@
       "price": 20.145,
       "volume": 80176120,
       "changePercent": -6.260179,
+      "strong_sector": true,
       "gap_up": true,
       "early_move": true,
       "high_volume": true,
@@ -10827,7 +10996,7 @@
     "avg_volume_10d": 96724890,
     "high_10d": 21.55,
     "low_10d": 18.18,
-    "score": 7
+    "score": 9
   },
   "DOW": {
     "sources": [
@@ -10840,6 +11009,7 @@
       "price": 29.84,
       "volume": 2992631,
       "changePercent": 0.26881695,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -10853,7 +11023,7 @@
     "avg_volume_10d": 10640070,
     "high_10d": 30.75,
     "low_10d": 26.47,
-    "score": 4
+    "score": 6
   },
   "BRO": {
     "sources": [
@@ -10891,6 +11061,7 @@
       "price": 28.33,
       "volume": 1279664,
       "changePercent": 4.2694144,
+      "strong_sector": true,
       "gap_up": true,
       "early_move": true,
       "high_volume": true,
@@ -10906,7 +11077,7 @@
     "avg_volume_10d": 5730580,
     "high_10d": 28.63,
     "low_10d": 24.27,
-    "score": 7
+    "score": 9
   },
   "KMX": {
     "sources": [
@@ -10918,6 +11089,7 @@
       "price": 65.47,
       "volume": 535847,
       "changePercent": -0.31973064,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 65.47,
@@ -10930,7 +11102,7 @@
     "avg_volume_10d": 5019360,
     "high_10d": 71.55,
     "low_10d": 61.67,
-    "score": 3
+    "score": 5
   },
   "IRM": {
     "sources": [
@@ -10968,6 +11140,7 @@
       "price": 1337.4215,
       "volume": 108703,
       "changePercent": -1.0907308,
+      "strong_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 1337.4215,
@@ -10980,7 +11153,7 @@
     "avg_volume_10d": 514660,
     "high_10d": 1428.71,
     "low_10d": 1331.07,
-    "score": 1
+    "score": 3
   },
   "HIG": {
     "sources": [
@@ -11016,6 +11189,7 @@
       "price": 218.755,
       "volume": 147353,
       "changePercent": -0.6336539,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 218.755,
@@ -11028,7 +11202,7 @@
     "avg_volume_10d": 989530,
     "high_10d": 225.33,
     "low_10d": 188.69,
-    "score": 3
+    "score": 5
   },
   "PDD": {
     "sources": [
@@ -11040,6 +11214,7 @@
       "price": 103.475,
       "volume": 1985197,
       "changePercent": 0.19851054,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -11053,7 +11228,7 @@
     "avg_volume_10d": 13743460,
     "high_10d": 105.71,
     "low_10d": 87.11,
-    "score": 4
+    "score": 6
   },
   "D": {
     "sources": [
@@ -11091,7 +11266,8 @@
     "signals": {
       "price": 446.375,
       "volume": 394822,
-      "changePercent": -0.70184386
+      "changePercent": -0.70184386,
+      "weak_sector": true
     },
     "sector": "Basic Materials",
     "open": 454.39,
@@ -11101,7 +11277,7 @@
     "avg_volume_10d": 2220450,
     "high_10d": 457.81,
     "low_10d": 427.1,
-    "score": 0
+    "score": 2
   },
   "PODD": {
     "sources": [
@@ -11138,6 +11314,7 @@
       "price": 17.13,
       "volume": 3141156,
       "changePercent": -0.11662075,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -11151,7 +11328,7 @@
     "avg_volume_10d": 15109120,
     "high_10d": 18.2,
     "low_10d": 15.81,
-    "score": 4
+    "score": 6
   },
   "PPL": {
     "sources": [
@@ -11263,6 +11440,7 @@
       "price": 43.88,
       "volume": 695669,
       "changePercent": 0.0,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11276,7 +11454,7 @@
     "avg_volume_10d": 6343800,
     "high_10d": 44.43,
     "low_10d": 40.16,
-    "score": 4
+    "score": 6
   },
   "DVA": {
     "sources": [
@@ -11340,6 +11518,7 @@
       "price": 191.34,
       "volume": 703094,
       "changePercent": -1.1520437,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11351,7 +11530,7 @@
     "avg_volume_10d": 3623830,
     "high_10d": 194.43,
     "low_10d": 158.66,
-    "score": 4
+    "score": 6
   },
   "VLO": {
     "sources": [
@@ -11387,6 +11566,7 @@
       "price": 50.495,
       "volume": 383055,
       "changePercent": -0.049488373,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 50.495,
@@ -11399,7 +11579,7 @@
     "avg_volume_10d": 2665190,
     "high_10d": 50.69,
     "low_10d": 44.76,
-    "score": 1
+    "score": 3
   },
   "SYY": {
     "sources": [
@@ -11411,6 +11591,7 @@
       "price": 70.86,
       "volume": 1056336,
       "changePercent": -2.315964,
+      "weak_sector": true,
       "high_volume": true
     },
     "tv_price": 70.86,
@@ -11423,7 +11604,7 @@
     "avg_volume_10d": 2962740,
     "high_10d": 74.31,
     "low_10d": 68.25,
-    "score": 1
+    "score": 3
   },
   "EXPD": {
     "sources": [
@@ -11459,6 +11640,7 @@
       "price": 236.645,
       "volume": 75575,
       "changePercent": -0.6236092,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11472,7 +11654,7 @@
     "avg_volume_10d": 471430,
     "high_10d": 240.95,
     "low_10d": 221.95,
-    "score": 4
+    "score": 6
   },
   "CMS": {
     "sources": [
@@ -11507,6 +11689,7 @@
       "price": 65.4,
       "volume": 295614,
       "changePercent": -0.9841052,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11520,7 +11703,7 @@
     "avg_volume_10d": 3952070,
     "high_10d": 66.47,
     "low_10d": 55.82,
-    "score": 4
+    "score": 6
   },
   "ADM": {
     "sources": [
@@ -11532,6 +11715,7 @@
       "price": 48.23,
       "volume": 353054,
       "changePercent": -1.1275097,
+      "weak_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 48.23,
@@ -11544,7 +11728,7 @@
     "avg_volume_10d": 3273010,
     "high_10d": 49.13,
     "low_10d": 43.19,
-    "score": 1
+    "score": 3
   },
   "FOX": {
     "sources": [
@@ -11706,6 +11890,7 @@
       "price": 25.145,
       "volume": 500682,
       "changePercent": 0.33918992,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11719,7 +11904,7 @@
     "avg_volume_10d": 3523590,
     "high_10d": 25.18,
     "low_10d": 23.32,
-    "score": 4
+    "score": 6
   },
   "O": {
     "sources": [
@@ -11756,6 +11941,7 @@
       "price": 268.5,
       "volume": 439134,
       "changePercent": -0.7907237,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 268.5,
@@ -11768,7 +11954,7 @@
     "avg_volume_10d": 1920170,
     "high_10d": 277.3,
     "low_10d": 245.6,
-    "score": 3
+    "score": 5
   },
   "ZTS": {
     "sources": [
@@ -11856,6 +12042,7 @@
       "price": 365.135,
       "volume": 7032977,
       "changePercent": 4.2230444,
+      "strong_sector": true,
       "gap_up": true,
       "early_move": true,
       "high_volume": true,
@@ -11869,7 +12056,7 @@
     "avg_volume_10d": 16121760,
     "high_10d": 355.83,
     "low_10d": 261.37,
-    "score": 7
+    "score": 9
   },
   "AJG": {
     "sources": [
@@ -11907,6 +12094,7 @@
       "price": 39.44,
       "volume": 1946981,
       "changePercent": -1.3013024,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -11921,7 +12109,7 @@
     "avg_volume_10d": 11262050,
     "high_10d": 40.05,
     "low_10d": 32.1,
-    "score": 5
+    "score": 7
   },
   "RJF": {
     "sources": [
@@ -11958,6 +12146,7 @@
       "price": 61.365,
       "volume": 556219,
       "changePercent": -0.21950947,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11971,7 +12160,7 @@
     "avg_volume_10d": 3989110,
     "high_10d": 62.0,
     "low_10d": 51.65,
-    "score": 4
+    "score": 6
   },
   "CAT": {
     "sources": [
@@ -12012,6 +12201,7 @@
       "price": 107.93,
       "volume": 41937372,
       "changePercent": 0.1391738,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true,
@@ -12025,7 +12215,7 @@
     "avg_volume_10d": 105728850,
     "high_10d": 108.0,
     "low_10d": 84.14,
-    "score": 6
+    "score": 8
   },
   "MCK": {
     "sources": [
@@ -12138,6 +12328,7 @@
       "price": 108.13,
       "volume": 75001183,
       "changePercent": 1.597141,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "top_volume_gainer": true
@@ -12150,7 +12341,7 @@
     "avg_volume_10d": 292880100,
     "high_10d": 114.29,
     "low_10d": 95.04,
-    "score": 5
+    "score": 7
   },
   "WBA": {
     "sources": [
@@ -12188,6 +12379,7 @@
       "price": 61.36,
       "volume": 124516,
       "changePercent": -0.47039887,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -12201,7 +12393,7 @@
     "avg_volume_10d": 1275670,
     "high_10d": 61.75,
     "low_10d": 55.55,
-    "score": 4
+    "score": 6
   },
   "EBAY": {
     "sources": [
@@ -12213,6 +12405,7 @@
       "price": 67.587,
       "volume": 770537,
       "changePercent": 0.5758944,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 67.587,
@@ -12225,7 +12418,7 @@
     "avg_volume_10d": 5166530,
     "high_10d": 67.71,
     "low_10d": 60.68,
-    "score": 1
+    "score": 3
   },
   "CF": {
     "sources": [
@@ -12237,6 +12430,7 @@
       "price": 77.3537,
       "volume": 310312,
       "changePercent": 0.069464006,
+      "weak_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 77.3537,
@@ -12249,7 +12443,7 @@
     "avg_volume_10d": 2351670,
     "high_10d": 77.54,
     "low_10d": 68.9,
-    "score": 1
+    "score": 3
   },
   "BEN": {
     "sources": [
@@ -12315,6 +12509,7 @@
       "price": 207.34,
       "volume": 10781706,
       "changePercent": -0.49431244,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -12326,7 +12521,7 @@
     "avg_volume_10d": 67292680,
     "high_10d": 212.94,
     "low_10d": 183.0,
-    "score": 4
+    "score": 6
   },
   "SBUX": {
     "sources": [
@@ -12341,6 +12536,7 @@
       "price": 83.24,
       "volume": 1558546,
       "changePercent": -0.7393307,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -12352,7 +12548,7 @@
     "avg_volume_10d": 10201700,
     "high_10d": 86.77,
     "low_10d": 78.13,
-    "score": 4
+    "score": 6
   },
   "TRV": {
     "sources": [
@@ -12417,6 +12613,7 @@
       "price": 356.625,
       "volume": 533696,
       "changePercent": -0.83834237,
+      "strong_sector": true,
       "gap_up": true
     },
     "sector": "Consumer Cyclical",
@@ -12427,7 +12624,7 @@
     "avg_volume_10d": 3359250,
     "high_10d": 364.84,
     "low_10d": 339.66,
-    "score": 3
+    "score": 5
   },
   "TXT": {
     "sources": [
@@ -12492,6 +12689,7 @@
       "price": 137.6955,
       "volume": 1660738,
       "changePercent": 0.13490008,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -12504,7 +12702,7 @@
     "avg_volume_10d": 9691700,
     "high_10d": 137.86,
     "low_10d": 121.24,
-    "score": 5
+    "score": 7
   },
   "OTIS": {
     "sources": [
@@ -12542,6 +12740,7 @@
       "price": 29.425,
       "volume": 2388204,
       "changePercent": -0.72537166,
+      "weak_sector": true,
       "high_volume": true
     },
     "tv_price": 29.425,
@@ -12554,7 +12753,7 @@
     "avg_volume_10d": 8518290,
     "high_10d": 30.42,
     "low_10d": 28.27,
-    "score": 1
+    "score": 3
   },
   "ADBE": {
     "sources": [
@@ -12569,6 +12768,7 @@
       "price": 364.52,
       "volume": 862699,
       "changePercent": 0.99991274,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -12580,7 +12780,7 @@
     "avg_volume_10d": 3803870,
     "high_10d": 363.0,
     "low_10d": 338.64,
-    "score": 4
+    "score": 6
   },
   "LEN": {
     "sources": [
@@ -12592,6 +12792,7 @@
       "price": 107.83,
       "volume": 290765,
       "changePercent": -1.2726601,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 107.83,
@@ -12604,7 +12805,7 @@
     "avg_volume_10d": 2389300,
     "high_10d": 111.61,
     "low_10d": 100.14,
-    "score": 3
+    "score": 5
   },
   "CTSH": {
     "sources": [
@@ -12617,6 +12818,7 @@
       "price": 72.15,
       "volume": 413134,
       "changePercent": 0.041612953,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -12630,7 +12832,7 @@
     "avg_volume_10d": 3650990,
     "high_10d": 72.86,
     "low_10d": 67.18,
-    "score": 4
+    "score": 6
   },
   "UNP": {
     "sources": [
@@ -12738,7 +12940,8 @@
     "signals": {
       "price": 29.7,
       "volume": 285444,
-      "changePercent": -1.6230532
+      "changePercent": -1.6230532,
+      "weak_sector": true
     },
     "tv_price": 29.7,
     "tv_volume": 285444,
@@ -12750,7 +12953,7 @@
     "avg_volume_10d": 2854110,
     "high_10d": 30.97,
     "low_10d": 28.81,
-    "score": 0
+    "score": 2
   },
   "BLDR": {
     "sources": [
@@ -12786,6 +12989,7 @@
       "price": 36.3,
       "volume": 1776348,
       "changePercent": -0.8469982,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -12800,7 +13004,7 @@
     "avg_volume_10d": 7292830,
     "high_10d": 37.02,
     "low_10d": 30.71,
-    "score": 5
+    "score": 7
   },
   "TFC": {
     "sources": [
@@ -12863,6 +13067,7 @@
       "price": 218.025,
       "volume": 445770,
       "changePercent": -0.6085917,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -12876,7 +13081,7 @@
     "avg_volume_10d": 2405990,
     "high_10d": 221.99,
     "low_10d": 201.15,
-    "score": 4
+    "score": 6
   },
   "GM": {
     "sources": [
@@ -12888,6 +13093,7 @@
       "price": 47.47,
       "volume": 2482008,
       "changePercent": 1.2585328,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -12902,7 +13108,7 @@
     "avg_volume_10d": 11298220,
     "high_10d": 47.42,
     "low_10d": 42.62,
-    "score": 5
+    "score": 7
   },
   "PFE": {
     "sources": [
@@ -12941,6 +13147,7 @@
       "price": 34.4198,
       "volume": 2591932,
       "changePercent": -0.11665491,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -12954,7 +13161,7 @@
     "avg_volume_10d": 12685030,
     "high_10d": 35.9,
     "low_10d": 33.91,
-    "score": 2
+    "score": 4
   },
   "STE": {
     "sources": [
@@ -12990,6 +13197,7 @@
       "price": 186.73,
       "volume": 94316,
       "changePercent": -1.0486236,
+      "strong_sector": true,
       "gap_down": true
     },
     "tv_price": 186.73,
@@ -13002,6 +13210,6 @@
     "avg_volume_10d": 942900,
     "high_10d": 193.53,
     "low_10d": 176.45,
-    "score": 3
+    "score": 5
   }
 }

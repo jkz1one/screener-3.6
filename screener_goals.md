@@ -8,6 +8,7 @@
 - [x] Tier 1: High Relative Volume (`rel_vol > 1.5`)
 - [x] Tier 2: Early % Move (9:30–9:35)
 - [x] Tier 2: Squeeze Watch (Short % + RelVol + Move)
+- [x] Tier 2: Sector Rotation logic
 - [x] Tier 3: High Volume
 - [x] Tier 3: Top 5 Volume Gainers
 - [x] Tier 3: Near Multi-Day High / Low
@@ -38,12 +39,7 @@
 ## ⚒️ IN PROGRESS / PARTIALLY COMPLETE
 
 ### Tier Logic (Partial)
-- [~] Tier 2: Sector Rotation logic (data exists, logic missing)
 - [~] Tier 3: High Volume, No Breakout (needs breakout logic)
-
-### Enrichment & Signal Engine
-- [~] Sector ETF scraped — scoring logic not wired
-- [~] Short interest used — volatility component added, can be refined
 
 ## ❌ NOT YET STARTED
 
@@ -54,6 +50,7 @@
 - [ ] No Reliable Price / Ghost Print logic
 
 ### Backend Features
+- [ ] Build scraper script
 - [ ] Add debug logs for scoring breakdown
 - [ ] Include `reasons[]` in output
 - [ ] Add timestamps to all cache files
@@ -83,7 +80,7 @@
 ### Long-Term / Advanced
 - [ ] Relative Volume Percentiles
 - [ ] Options-based GEX / vanna / charm integration
-- [ ] Sentiment overlays (e.g. SPY + VIX)
+- [ ] Sentiment overlays (e.g. SPY + VIX, Strong Weak Sector)
 - [ ] Screener builder or custom logic mode (Management Panel on Front End)
 - [ ] Backtest / replay past signals
 - [ ] Export or alert system

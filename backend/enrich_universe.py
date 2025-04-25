@@ -57,6 +57,55 @@ def enrich_with_sector(universe, sector_data):
             info["sector_etf"] = etf
     return universe
 
+def apply_sector_rotation_signals(universe, sector_data):
+    SECTOR_ETFS = {
+        "XLF": "Financial Services",
+        "XLK": "Technology",
+        "XLE": "Energy",
+        "XLV": "Healthcare",
+        "XLY": "Consumer Cyclical",
+        "XLI": "Industrials",
+        "XLP": "Consumer Defensive",
+        "XLU": "Utilities",
+        "XLRE": "Real Estate",
+        "XLB": "Basic Materials",
+        "XLCD": "Communication Services"
+    }
+
+    # Reverse map for easier matching
+    SECTOR_TO_ETF = {v: k for k, v in SECTOR_ETFS.items()}
+
+    sector_changes = {}
+    for etf, sector in SECTOR_ETFS.items():
+        etf_info = sector_data.get(etf)
+        if not etf_info:
+            continue
+        price = etf_info.get("tv_price")
+        prev_close = etf_info.get("prevClose")
+        if price and prev_close:
+            try:
+                change = ((price - prev_close) / prev_close) * 100
+                sector_changes[sector] = round(change, 2)
+            except ZeroDivisionError:
+                continue
+
+    sorted_sectors = sorted(sector_changes.items(), key=lambda x: x[1], reverse=True)
+    top_sectors = set(s for s, _ in sorted_sectors[:2])
+    bottom_sectors = set(s for s, _ in sorted_sectors[-2:])
+
+    for symbol, info in universe.items():
+        sector = info.get("sector")
+        if not sector:
+            continue
+        signals = info.setdefault("signals", {})
+        if sector in top_sectors:
+            signals["strong_sector"] = True
+        elif sector in bottom_sectors:
+            signals["weak_sector"] = True
+
+    return universe
+
+
 def enrich_with_candles(universe, candle_data):
     for symbol, info in universe.items():
         candles = candle_data.get(symbol, [])
@@ -169,6 +218,7 @@ def main():
 
     universe = enrich_with_tv_signals(universe, tv_signals)
     universe = enrich_with_sector(universe, sector_prices)
+    universe = apply_sector_rotation_signals(universe, sector_prices)
     universe = enrich_with_candles(universe, candles)
     universe = enrich_with_multi_day_levels(universe, multi_day_data)
     universe = enrich_with_short_interest(universe, short_interest)

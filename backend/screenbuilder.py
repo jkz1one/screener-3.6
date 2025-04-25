@@ -32,6 +32,8 @@ TIER_1 = {
 TIER_2 = {
     "early_move": 2,
     "squeeze_watch": 2,
+    "strong_sector": 2,
+    "weak_sector": 2,
 }
 
 TIER_3 = {

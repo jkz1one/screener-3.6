@@ -55,6 +55,7 @@
       "price": 331.97,
       "volume": 308902,
       "changePercent": -0.7385484,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 331.97,
@@ -148,6 +149,7 @@
       "price": 138.85,
       "volume": 587345,
       "changePercent": 1.7663468,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -266,6 +268,7 @@
       "price": 169.68,
       "volume": 1780851,
       "changePercent": -0.22937988,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -337,6 +340,7 @@
       "price": 46.57,
       "volume": 1394654,
       "changePercent": 1.7923491,
+      "strong_sector": true,
       "gap_down": true,
       "high_volume": true
     },
@@ -500,6 +504,7 @@
       "price": 573.92,
       "volume": 102839,
       "changePercent": -1.1760684,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -571,6 +576,7 @@
       "price": 229.3,
       "volume": 1759656,
       "changePercent": -0.013081053,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -618,6 +624,7 @@
       "price": 176.85,
       "volume": 734672,
       "changePercent": 0.46013,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -640,6 +647,7 @@
       "price": 58.1,
       "volume": 1553969,
       "changePercent": -1.0390064,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_high": true
     },
@@ -739,6 +747,7 @@
       "price": 93.07,
       "volume": 3049847,
       "changePercent": 0.39913997,
+      "weak_sector": true,
       "high_volume": true
     },
     "tv_price": 93.07,
@@ -831,6 +840,7 @@
       "price": 137.1898,
       "volume": 164642,
       "changePercent": -0.27637073,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 137.1898,
@@ -903,6 +913,7 @@
       "price": 16.17,
       "volume": 1902519,
       "changePercent": -0.06180611,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -928,6 +939,7 @@
       "price": 57.2,
       "volume": 1017627,
       "changePercent": -1.6675218,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -974,6 +986,7 @@
       "price": 47.31,
       "volume": 584107,
       "changePercent": -0.67184484,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 47.31,
@@ -1046,6 +1059,7 @@
       "price": 158.91,
       "volume": 4024289,
       "changePercent": -0.38874385,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -1139,6 +1153,7 @@
       "price": 87.345,
       "volume": 262430,
       "changePercent": -0.935689,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -1166,6 +1181,7 @@
       "price": 78.2185,
       "volume": 6852939,
       "changePercent": 1.0313873,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1239,6 +1255,7 @@
       "price": 265.92,
       "volume": 73203,
       "changePercent": -0.83531857,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -1309,6 +1326,7 @@
       "price": 111.99,
       "volume": 1354063,
       "changePercent": -0.017859362,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1363,6 +1381,7 @@
       "price": 387.39,
       "volume": 3764067,
       "changePercent": 0.023244735,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1413,6 +1432,7 @@
       "price": 150.29,
       "volume": 1165356,
       "changePercent": 0.07990619,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1439,6 +1459,7 @@
       "price": 266.5,
       "volume": 1301738,
       "changePercent": 0.680396,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1465,6 +1486,7 @@
       "price": 94.68,
       "volume": 10215846,
       "changePercent": 0.22229181,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -1676,6 +1698,7 @@
       "price": 53.98,
       "volume": 3520044,
       "changePercent": -3.0879734,
+      "weak_sector": true,
       "gap_down": true,
       "early_move": true,
       "high_volume": true
@@ -1749,6 +1772,7 @@
       "price": 163.225,
       "volume": 1579498,
       "changePercent": 0.6753847,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1772,6 +1796,7 @@
       "price": 70.22,
       "volume": 1518853,
       "changePercent": -1.5834054,
+      "weak_sector": true,
       "gap_down": true,
       "high_volume": true
     },
@@ -1798,6 +1823,7 @@
       "price": 126.175,
       "volume": 935645,
       "changePercent": -0.2569146,
+      "strong_sector": true,
       "gap_up": true
     },
     "sector": "Consumer Cyclical",
@@ -1821,6 +1847,7 @@
       "price": 37.115,
       "volume": 3299383,
       "changePercent": -1.3685873,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -1846,6 +1873,7 @@
       "price": 35.585,
       "volume": 14721068,
       "changePercent": -0.6283225,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -1867,7 +1895,8 @@
     "signals": {
       "price": 42.25,
       "volume": 488203,
-      "changePercent": -0.47114432
+      "changePercent": -0.47114432,
+      "strong_sector": true
     },
     "tv_price": 42.25,
     "tv_volume": 488203,
@@ -1942,6 +1971,7 @@
       "price": 188.57,
       "volume": 5776935,
       "changePercent": 0.2232333,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -2065,6 +2095,7 @@
       "price": 220.785,
       "volume": 268904,
       "changePercent": -0.56969124,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 220.785,
@@ -2136,6 +2167,7 @@
       "price": 57.135,
       "volume": 398383,
       "changePercent": -2.0822625,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 57.135,
@@ -2185,6 +2217,7 @@
       "price": 139.91,
       "volume": 488599,
       "changePercent": -0.01428501,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 139.91,
@@ -2210,6 +2243,7 @@
       "price": 272.0,
       "volume": 2460595,
       "changePercent": 1.5380002,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -2255,6 +2289,7 @@
       "price": 74.29,
       "volume": 196632,
       "changePercent": -0.9598736,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 74.29,
@@ -2369,6 +2404,7 @@
       "price": 76.885,
       "volume": 3321336,
       "changePercent": 2.1184769,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -2394,6 +2430,7 @@
       "price": 198.14,
       "volume": 76691,
       "changePercent": -0.48716852,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2565,6 +2602,7 @@
       "price": 35.495,
       "volume": 97690,
       "changePercent": -0.09850787,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 35.495,
@@ -2615,6 +2653,7 @@
       "price": 414.325,
       "volume": 1033077,
       "changePercent": 0.066423,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -2662,6 +2701,7 @@
       "price": 236.96,
       "volume": 297148,
       "changePercent": 0.03800042,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2710,6 +2750,7 @@
       "price": 99.115,
       "volume": 386661,
       "changePercent": -1.0927066,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 99.115,
@@ -2754,7 +2795,8 @@
     "signals": {
       "price": 171.25,
       "volume": 134266,
-      "changePercent": -1.3650473
+      "changePercent": -1.3650473,
+      "strong_sector": true
     },
     "tv_price": 171.25,
     "tv_volume": 134266,
@@ -2777,6 +2819,7 @@
       "price": 224.675,
       "volume": 46055,
       "changePercent": -0.5246602,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2802,6 +2845,7 @@
       "price": 156.375,
       "volume": 103791,
       "changePercent": -1.613818,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2851,6 +2895,7 @@
       "price": 75.69,
       "volume": 266831,
       "changePercent": -1.2395576,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2875,6 +2920,7 @@
       "price": 82.59,
       "volume": 1050500,
       "changePercent": -0.54191303,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -2900,6 +2946,7 @@
       "price": 414.795,
       "volume": 145783,
       "changePercent": -0.73112184,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -2974,6 +3021,7 @@
       "price": 46.75,
       "volume": 1753254,
       "changePercent": -0.78522694,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -2999,7 +3047,8 @@
     "signals": {
       "price": 290.785,
       "volume": 356811,
-      "changePercent": -1.2782156
+      "changePercent": -1.2782156,
+      "strong_sector": true
     },
     "tv_price": 290.785,
     "tv_volume": 356811,
@@ -3022,6 +3071,7 @@
       "price": 668.904,
       "volume": 388524,
       "changePercent": -0.90311235,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 668.904,
@@ -3094,6 +3144,7 @@
       "price": 35.03,
       "volume": 203195,
       "changePercent": -0.02856121,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3118,6 +3169,7 @@
       "price": 25.175,
       "volume": 1037872,
       "changePercent": -0.61192536,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -3166,6 +3218,7 @@
       "price": 18.7352,
       "volume": 4363697,
       "changePercent": 0.18823592,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -3193,6 +3246,7 @@
       "price": 687.59,
       "volume": 104268,
       "changePercent": -0.26544955,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3215,6 +3269,7 @@
       "price": 51.95,
       "volume": 191073,
       "changePercent": -1.2357371,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 51.95,
@@ -3240,6 +3295,7 @@
       "price": 291.1936,
       "volume": 591713,
       "changePercent": -0.07425968,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3287,6 +3343,7 @@
       "price": 94.42,
       "volume": 1266530,
       "changePercent": 0.021185128,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -3361,6 +3418,7 @@
       "price": 245.4,
       "volume": 125913,
       "changePercent": 0.5408141,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3409,6 +3467,7 @@
       "price": 81.89,
       "volume": 504727,
       "changePercent": 0.3799921,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3458,6 +3517,7 @@
       "price": 81.34,
       "volume": 766558,
       "changePercent": 0.1354093,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 81.34,
@@ -3482,6 +3542,7 @@
       "price": 438.2036,
       "volume": 246286,
       "changePercent": -0.15866499,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -3603,6 +3664,7 @@
       "price": 95.21,
       "volume": 3898048,
       "changePercent": -0.65734273,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_high": true
     },
@@ -3676,6 +3738,7 @@
       "price": 95.21,
       "volume": 1252981,
       "changePercent": -0.10491919,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -3745,7 +3808,8 @@
     "signals": {
       "price": 94.135,
       "volume": 845654,
-      "changePercent": 0.34644982
+      "changePercent": 0.34644982,
+      "weak_sector": true
     },
     "tv_price": 94.135,
     "tv_volume": 845654,
@@ -3838,7 +3902,8 @@
     "signals": {
       "price": 60.6,
       "volume": 271050,
-      "changePercent": -1.3350695
+      "changePercent": -1.3350695,
+      "weak_sector": true
     },
     "tv_price": 60.6,
     "tv_volume": 271050,
@@ -3931,6 +3996,7 @@
       "price": 76.54,
       "volume": 562995,
       "changePercent": -0.9831851,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4006,6 +4072,7 @@
       "price": 146.135,
       "volume": 206697,
       "changePercent": 0.0034145103,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4030,6 +4097,7 @@
       "price": 382.625,
       "volume": 92582,
       "changePercent": -0.85637105,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 382.625,
@@ -4053,6 +4121,7 @@
       "price": 99.35,
       "volume": 717918,
       "changePercent": -0.251004,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4077,6 +4146,7 @@
       "price": 211.48,
       "volume": 455589,
       "changePercent": 0.63801754,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4219,6 +4289,7 @@
       "price": 57.49,
       "volume": 3436204,
       "changePercent": 0.27908573,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -4264,6 +4335,7 @@
       "price": 60.67,
       "volume": 1140188,
       "changePercent": 0.4969343,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -4359,7 +4431,8 @@
     "signals": {
       "price": 170.69,
       "volume": 53049,
-      "changePercent": -1.0722098
+      "changePercent": -1.0722098,
+      "strong_sector": true
     },
     "tv_price": 170.69,
     "tv_volume": 53049,
@@ -4383,6 +4456,7 @@
       "price": 315.865,
       "volume": 74270,
       "changePercent": -0.15646578,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4407,6 +4481,7 @@
       "price": 157.89,
       "volume": 94562,
       "changePercent": -0.08859039,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4477,6 +4552,7 @@
       "price": 162.81,
       "volume": 164060,
       "changePercent": -0.71956086,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 162.81,
@@ -4528,6 +4604,7 @@
       "price": 56.35,
       "volume": 2789078,
       "changePercent": 0.10660546,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -4573,6 +4650,7 @@
       "price": 67.355,
       "volume": 1281423,
       "changePercent": 2.0530355,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -4621,6 +4699,7 @@
       "price": 125.11,
       "volume": 418995,
       "changePercent": -0.7378612,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 125.11,
@@ -4667,6 +4746,7 @@
       "price": 82.705,
       "volume": 576148,
       "changePercent": -0.078524604,
+      "weak_sector": true,
       "near_multi_day_high": true,
       "near_multi_day_low": true
     },
@@ -4692,6 +4772,7 @@
       "price": 235.02,
       "volume": 492077,
       "changePercent": -0.52484137,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4741,6 +4822,7 @@
       "price": 10.085,
       "volume": 24343023,
       "changePercent": 0.24850515,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -4764,6 +4846,7 @@
       "price": 151.5,
       "volume": 55773,
       "changePercent": -0.09232352,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4788,6 +4871,7 @@
       "price": 159.42,
       "volume": 228414,
       "changePercent": -0.08148222,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 159.42,
@@ -4883,6 +4967,7 @@
       "price": 455.23,
       "volume": 49840,
       "changePercent": -0.8494313,
+      "strong_sector": true,
       "gap_down": true
     },
     "tv_price": 455.23,
@@ -4955,6 +5040,7 @@
       "price": 57.275,
       "volume": 340869,
       "changePercent": 0.008732439,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -4979,6 +5065,7 @@
       "price": 2207.865,
       "volume": 80728,
       "changePercent": 0.13855758,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5218,6 +5305,7 @@
       "price": 142.9,
       "volume": 207605,
       "changePercent": -0.43200275,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5337,6 +5425,7 @@
       "price": 100.435,
       "volume": 844268,
       "changePercent": -0.28296632,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5480,6 +5569,7 @@
       "price": 80.96,
       "volume": 270041,
       "changePercent": 0.19801489,
+      "weak_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 80.96,
@@ -5503,6 +5593,7 @@
       "price": 31.98,
       "volume": 1335605,
       "changePercent": 1.7817354,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -5551,6 +5642,7 @@
       "price": 102.52,
       "volume": 427637,
       "changePercent": -1.5461448,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 102.52,
@@ -5623,6 +5715,7 @@
       "price": 64.87,
       "volume": 1754956,
       "changePercent": -0.9920542,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -5647,6 +5740,7 @@
       "price": 198.76,
       "volume": 159793,
       "changePercent": -0.83816,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 198.76,
@@ -5740,7 +5834,8 @@
     "signals": {
       "price": 185.48,
       "volume": 246622,
-      "changePercent": -1.0773356
+      "changePercent": -1.0773356,
+      "weak_sector": true
     },
     "tv_price": 185.48,
     "tv_volume": 246622,
@@ -5763,6 +5858,7 @@
       "price": 179.58,
       "volume": 2335102,
       "changePercent": 1.5148134,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_low": true
@@ -5788,6 +5884,7 @@
       "price": 147.0,
       "volume": 264212,
       "changePercent": -0.3930084,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 147.0,
@@ -5811,6 +5908,7 @@
       "price": 126.56,
       "volume": 89291,
       "changePercent": -0.6437429,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5930,6 +6028,7 @@
       "price": 507.08,
       "volume": 64982,
       "changePercent": -0.42611948,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -5954,6 +6053,7 @@
       "price": 55.21,
       "volume": 487872,
       "changePercent": -0.4682192,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 55.21,
@@ -6001,6 +6101,7 @@
       "price": 428.125,
       "volume": 63437,
       "changePercent": -0.0035069482,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 428.125,
@@ -6076,6 +6177,7 @@
       "price": 193.97,
       "volume": 965741,
       "changePercent": -0.6453898,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6099,6 +6201,7 @@
       "price": 122.05,
       "volume": 619610,
       "changePercent": 0.27935582,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6218,6 +6321,7 @@
       "price": 71.235,
       "volume": 5951673,
       "changePercent": -1.7719196,
+      "weak_sector": true,
       "high_volume": true
     },
     "sector": "Consumer Defensive",
@@ -6307,6 +6411,7 @@
       "price": 109.64,
       "volume": 378978,
       "changePercent": -0.91279,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 109.64,
@@ -6334,6 +6439,7 @@
       "price": 275.3,
       "volume": 63712030,
       "changePercent": 6.084535,
+      "strong_sector": true,
       "gap_up": true,
       "early_move": true,
       "high_volume": true,
@@ -6381,6 +6487,7 @@
       "price": 79.24,
       "volume": 313031,
       "changePercent": 0.050506208,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6405,6 +6512,7 @@
       "price": 267.675,
       "volume": 98117,
       "changePercent": -0.43705347,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 267.675,
@@ -6428,6 +6536,7 @@
       "price": 75.47,
       "volume": 3398944,
       "changePercent": -0.7365482,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -6477,6 +6586,7 @@
       "price": 28.91,
       "volume": 980697,
       "changePercent": -0.069169834,
+      "weak_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 28.91,
@@ -6500,6 +6610,7 @@
       "price": 55.7099,
       "volume": 1132445,
       "changePercent": -1.206064,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -6550,6 +6661,7 @@
       "price": 968.24,
       "volume": 377554,
       "changePercent": -0.7425327,
+      "weak_sector": true,
       "gap_up": true
     },
     "sector": "Consumer Defensive",
@@ -6617,6 +6729,7 @@
       "price": 485.05,
       "volume": 211615,
       "changePercent": -0.5984002,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 485.05,
@@ -6714,6 +6827,7 @@
       "price": 183.45,
       "volume": 267724,
       "changePercent": 1.679414,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -6806,6 +6920,7 @@
       "price": 3558.97,
       "volume": 25677,
       "changePercent": -1.4040124,
+      "strong_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 3558.97,
@@ -6829,7 +6944,8 @@
     "signals": {
       "price": 58.23,
       "volume": 562899,
-      "changePercent": -0.6144404
+      "changePercent": -0.6144404,
+      "weak_sector": true
     },
     "tv_price": 58.23,
     "tv_volume": 562899,
@@ -6852,6 +6968,7 @@
       "price": 211.92,
       "volume": 349670,
       "changePercent": 0.2886757,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 211.92,
@@ -6875,6 +6992,7 @@
       "price": 53.6599,
       "volume": 2179679,
       "changePercent": 0.73193204,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -6983,6 +7101,7 @@
       "price": 106.56,
       "volume": 150150,
       "changePercent": -2.3281403,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 106.56,
@@ -7055,6 +7174,7 @@
       "price": 4810.19,
       "volume": 50564,
       "changePercent": -0.36827636,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7146,6 +7266,7 @@
       "price": 9.58,
       "volume": 6430297,
       "changePercent": -0.8281566,
+      "strong_sector": true,
       "high_volume": true,
       "near_multi_day_high": true
     },
@@ -7220,6 +7341,7 @@
       "price": 132.85,
       "volume": 3684135,
       "changePercent": -1.8181757,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -7361,6 +7483,7 @@
       "price": 247.04,
       "volume": 137274,
       "changePercent": -0.9899408,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7384,7 +7507,8 @@
     "signals": {
       "price": 87.28,
       "volume": 369238,
-      "changePercent": -0.98695713
+      "changePercent": -0.98695713,
+      "weak_sector": true
     },
     "tv_price": 87.28,
     "tv_volume": 369238,
@@ -7481,6 +7605,7 @@
       "price": 7077.15,
       "volume": 1857,
       "changePercent": -0.9756706,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 7077.15,
@@ -7531,6 +7656,7 @@
       "price": 616.03,
       "volume": 284709,
       "changePercent": 0.19517788,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7553,6 +7679,7 @@
       "price": 36.65,
       "volume": 715676,
       "changePercent": -1.6371359,
+      "strong_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 36.65,
@@ -7599,6 +7726,7 @@
       "price": 116.49,
       "volume": 136028,
       "changePercent": -0.51242507,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 116.49,
@@ -7622,6 +7750,7 @@
       "price": 530.375,
       "volume": 155791,
       "changePercent": -0.023562677,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_low": true
     },
@@ -7695,6 +7824,7 @@
       "price": 114.15,
       "volume": 121537,
       "changePercent": -1.3311443,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 114.15,
@@ -7740,6 +7870,7 @@
       "price": 236.45,
       "volume": 193962,
       "changePercent": -1.3435146,
+      "weak_sector": true,
       "gap_up": true
     },
     "tv_price": 236.45,
@@ -7765,6 +7896,7 @@
       "price": 78.43,
       "volume": 8297693,
       "changePercent": 0.42253757,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -7836,6 +7968,7 @@
       "price": 59.0,
       "volume": 410941,
       "changePercent": 0.5967578,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7935,6 +8068,7 @@
       "price": 145.325,
       "volume": 263611,
       "changePercent": -0.16144587,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -7983,6 +8117,7 @@
       "price": 68.82,
       "volume": 274410,
       "changePercent": -0.14496735,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8031,6 +8166,7 @@
       "price": 76.87,
       "volume": 565882,
       "changePercent": -4.8874,
+      "weak_sector": true,
       "gap_up": true,
       "early_move": true
     },
@@ -8164,6 +8300,7 @@
       "price": 1929.08,
       "volume": 57776,
       "changePercent": -0.39911515,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 1929.08,
@@ -8303,6 +8440,7 @@
       "price": 59.5599,
       "volume": 1552679,
       "changePercent": 0.5230352,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -8327,6 +8465,7 @@
       "price": 24.315,
       "volume": 1809903,
       "changePercent": -2.427767,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -8469,6 +8608,7 @@
       "price": 227.41,
       "volume": 579751,
       "changePercent": 1.0351883,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8493,7 +8633,8 @@
     "signals": {
       "price": 142.795,
       "volume": 323705,
-      "changePercent": -0.98121387
+      "changePercent": -0.98121387,
+      "strong_sector": true
     },
     "tv_price": 142.795,
     "tv_volume": 323705,
@@ -8612,6 +8753,7 @@
       "price": 943.74,
       "volume": 946517,
       "changePercent": 0.5513149,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8659,6 +8801,7 @@
       "price": 71.4025,
       "volume": 2266260,
       "changePercent": 0.7087374,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -8682,6 +8825,7 @@
       "price": 274.85,
       "volume": 455426,
       "changePercent": 8.812704,
+      "strong_sector": true,
       "early_move": true,
       "near_multi_day_high": true
     },
@@ -8707,6 +8851,7 @@
       "price": 285.18,
       "volume": 539972,
       "changePercent": 1.206613,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -8754,6 +8899,7 @@
       "price": 79.06,
       "volume": 634955,
       "changePercent": -1.0141544,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 79.06,
@@ -8777,6 +8923,7 @@
       "price": 36.08,
       "volume": 762864,
       "changePercent": -1.7429177,
+      "weak_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 36.08,
@@ -8941,6 +9088,7 @@
       "price": 22.57,
       "volume": 2477998,
       "changePercent": -0.7912101,
+      "weak_sector": true,
       "high_volume": true
     },
     "tv_price": 22.57,
@@ -8964,6 +9112,7 @@
       "price": 115.43,
       "volume": 323202,
       "changePercent": 0.12143238,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9011,7 +9160,8 @@
     "signals": {
       "price": 556.87,
       "volume": 115034,
-      "changePercent": -0.49851304
+      "changePercent": -0.49851304,
+      "strong_sector": true
     },
     "tv_price": 556.87,
     "tv_volume": 115034,
@@ -9034,6 +9184,7 @@
       "price": 101.805,
       "volume": 247498,
       "changePercent": -1.016041,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 101.805,
@@ -9080,6 +9231,7 @@
       "price": 27.68,
       "volume": 2606691,
       "changePercent": 2.2156587,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -9177,6 +9329,7 @@
       "price": 269.9942,
       "volume": 201264,
       "changePercent": -0.63147837,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9204,6 +9357,7 @@
       "price": 186.68,
       "volume": 11109642,
       "changePercent": 0.0750506,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -9296,6 +9450,7 @@
       "price": 151.36,
       "volume": 229921,
       "changePercent": -0.026415646,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 151.36,
@@ -9343,6 +9498,7 @@
       "price": 143.0151,
       "volume": 67896,
       "changePercent": -0.538902,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9418,6 +9574,7 @@
       "price": 40.441,
       "volume": 912294,
       "changePercent": 0.6746421,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -9466,6 +9623,7 @@
       "price": 49.885,
       "volume": 1108902,
       "changePercent": 1.806119,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -9490,6 +9648,7 @@
       "price": 169.375,
       "volume": 542279,
       "changePercent": -2.2140791,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 169.375,
@@ -9630,6 +9789,7 @@
       "price": 130.915,
       "volume": 393165,
       "changePercent": -1.0767742,
+      "weak_sector": true,
       "gap_down": true,
       "near_multi_day_low": true
     },
@@ -9828,6 +9988,7 @@
       "price": 315.52,
       "volume": 808711,
       "changePercent": -0.22136873,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "sector": "Consumer Cyclical",
@@ -9852,6 +10013,7 @@
       "price": 147.535,
       "volume": 1086197,
       "changePercent": 0.22077847,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -9898,6 +10060,7 @@
       "price": 322.655,
       "volume": 30583,
       "changePercent": 0.23765388,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 322.655,
@@ -10109,6 +10272,7 @@
       "price": 68.51,
       "volume": 535922,
       "changePercent": 0.3074657,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 68.51,
@@ -10157,6 +10321,7 @@
       "price": 61.475,
       "volume": 382776,
       "changePercent": -0.38081446,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -10230,6 +10395,7 @@
       "price": 50.15,
       "volume": 3863206,
       "changePercent": 1.2313294,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -10279,6 +10445,7 @@
       "price": 55.66,
       "volume": 242170,
       "changePercent": 1.0897175,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -10352,6 +10519,7 @@
       "price": 57.36,
       "volume": 6694831,
       "changePercent": -1.9151828,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -10378,6 +10546,7 @@
       "price": 20.145,
       "volume": 80176120,
       "changePercent": -6.260179,
+      "strong_sector": true,
       "gap_up": true,
       "early_move": true,
       "high_volume": true,
@@ -10403,6 +10572,7 @@
       "price": 29.84,
       "volume": 2992631,
       "changePercent": 0.26881695,
+      "weak_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -10452,6 +10622,7 @@
       "price": 28.33,
       "volume": 1279664,
       "changePercent": 4.2694144,
+      "strong_sector": true,
       "gap_up": true,
       "early_move": true,
       "high_volume": true,
@@ -10478,6 +10649,7 @@
       "price": 65.47,
       "volume": 535847,
       "changePercent": -0.31973064,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 65.47,
@@ -10526,6 +10698,7 @@
       "price": 1337.4215,
       "volume": 108703,
       "changePercent": -1.0907308,
+      "strong_sector": true,
       "near_multi_day_low": true
     },
     "tv_price": 1337.4215,
@@ -10572,6 +10745,7 @@
       "price": 218.755,
       "volume": 147353,
       "changePercent": -0.6336539,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 218.755,
@@ -10595,6 +10769,7 @@
       "price": 103.475,
       "volume": 1985197,
       "changePercent": 0.19851054,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -10644,7 +10819,8 @@
     "signals": {
       "price": 446.375,
       "volume": 394822,
-      "changePercent": -0.70184386
+      "changePercent": -0.70184386,
+      "weak_sector": true
     },
     "sector": "Basic Materials",
     "open": 454.39,
@@ -10689,6 +10865,7 @@
       "price": 17.13,
       "volume": 3141156,
       "changePercent": -0.11662075,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -10809,6 +10986,7 @@
       "price": 43.88,
       "volume": 695669,
       "changePercent": 0.0,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -10883,6 +11061,7 @@
       "price": 191.34,
       "volume": 703094,
       "changePercent": -1.1520437,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -10928,6 +11107,7 @@
       "price": 50.495,
       "volume": 383055,
       "changePercent": -0.049488373,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 50.495,
@@ -10951,6 +11131,7 @@
       "price": 70.86,
       "volume": 1056336,
       "changePercent": -2.315964,
+      "weak_sector": true,
       "high_volume": true
     },
     "tv_price": 70.86,
@@ -10997,6 +11178,7 @@
       "price": 236.645,
       "volume": 75575,
       "changePercent": -0.6236092,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11043,6 +11225,7 @@
       "price": 65.4,
       "volume": 295614,
       "changePercent": -0.9841052,
+      "weak_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11067,6 +11250,7 @@
       "price": 48.23,
       "volume": 353054,
       "changePercent": -1.1275097,
+      "weak_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 48.23,
@@ -11234,6 +11418,7 @@
       "price": 25.145,
       "volume": 500682,
       "changePercent": 0.33918992,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11282,6 +11467,7 @@
       "price": 268.5,
       "volume": 439134,
       "changePercent": -0.7907237,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 268.5,
@@ -11378,6 +11564,7 @@
       "price": 365.135,
       "volume": 7032977,
       "changePercent": 4.2230444,
+      "strong_sector": true,
       "gap_up": true,
       "early_move": true,
       "high_volume": true,
@@ -11427,6 +11614,7 @@
       "price": 39.44,
       "volume": 1946981,
       "changePercent": -1.3013024,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -11476,6 +11664,7 @@
       "price": 61.365,
       "volume": 556219,
       "changePercent": -0.21950947,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11528,6 +11717,7 @@
       "price": 107.93,
       "volume": 41937372,
       "changePercent": 0.1391738,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true,
@@ -11649,6 +11839,7 @@
       "price": 108.13,
       "volume": 75001183,
       "changePercent": 1.597141,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "top_volume_gainer": true
@@ -11697,6 +11888,7 @@
       "price": 61.36,
       "volume": 124516,
       "changePercent": -0.47039887,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -11721,6 +11913,7 @@
       "price": 67.587,
       "volume": 770537,
       "changePercent": 0.5758944,
+      "strong_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 67.587,
@@ -11744,6 +11937,7 @@
       "price": 77.3537,
       "volume": 310312,
       "changePercent": 0.069464006,
+      "weak_sector": true,
       "near_multi_day_high": true
     },
     "tv_price": 77.3537,
@@ -11819,6 +12013,7 @@
       "price": 207.34,
       "volume": 10781706,
       "changePercent": -0.49431244,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -11844,6 +12039,7 @@
       "price": 83.24,
       "volume": 1558546,
       "changePercent": -0.7393307,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true
     },
@@ -11917,6 +12113,7 @@
       "price": 356.625,
       "volume": 533696,
       "changePercent": -0.83834237,
+      "strong_sector": true,
       "gap_up": true
     },
     "sector": "Consumer Cyclical",
@@ -11989,6 +12186,7 @@
       "price": 137.6955,
       "volume": 1660738,
       "changePercent": 0.13490008,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -12037,6 +12235,7 @@
       "price": 29.425,
       "volume": 2388204,
       "changePercent": -0.72537166,
+      "weak_sector": true,
       "high_volume": true
     },
     "tv_price": 29.425,
@@ -12063,6 +12262,7 @@
       "price": 364.52,
       "volume": 862699,
       "changePercent": 0.99991274,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -12085,6 +12285,7 @@
       "price": 107.83,
       "volume": 290765,
       "changePercent": -1.2726601,
+      "strong_sector": true,
       "gap_up": true
     },
     "tv_price": 107.83,
@@ -12109,6 +12310,7 @@
       "price": 72.15,
       "volume": 413134,
       "changePercent": 0.041612953,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -12225,7 +12427,8 @@
     "signals": {
       "price": 29.7,
       "volume": 285444,
-      "changePercent": -1.6230532
+      "changePercent": -1.6230532,
+      "weak_sector": true
     },
     "tv_price": 29.7,
     "tv_volume": 285444,
@@ -12271,6 +12474,7 @@
       "price": 36.3,
       "volume": 1776348,
       "changePercent": -0.8469982,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -12345,6 +12549,7 @@
       "price": 218.025,
       "volume": 445770,
       "changePercent": -0.6085917,
+      "strong_sector": true,
       "gap_up": true,
       "near_multi_day_high": true
     },
@@ -12369,6 +12574,7 @@
       "price": 47.47,
       "volume": 2482008,
       "changePercent": 1.2585328,
+      "strong_sector": true,
       "gap_up": true,
       "high_volume": true,
       "near_multi_day_high": true
@@ -12420,6 +12626,7 @@
       "price": 34.4198,
       "volume": 2591932,
       "changePercent": -0.11665491,
+      "weak_sector": true,
       "high_volume": true,
       "near_multi_day_low": true
     },
@@ -12467,6 +12674,7 @@
       "price": 186.73,
       "volume": 94316,
       "changePercent": -1.0486236,
+      "strong_sector": true,
       "gap_down": true
     },
     "tv_price": 186.73,
