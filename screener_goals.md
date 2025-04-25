@@ -1,4 +1,3 @@
-
 # Stock Screener v3.6 – Project Goals (as of 2025-04-25)
 
 ## ✅ COMPLETED GOALS
@@ -8,8 +7,10 @@
 - [x] Tier 1: Break Above/Below 9:30–9:40 Range
 - [x] Tier 1: High Relative Volume (`rel_vol > 1.5`)
 - [x] Tier 2: Early % Move (9:30–9:35)
+- [x] Tier 2: Squeeze Watch (Short % + RelVol + Move)
 - [x] Tier 3: High Volume
 - [x] Tier 3: Top 5 Volume Gainers
+- [x] Tier 3: Near Multi-Day High / Low
 
 ### Risk Filters
 - [x] Low Liquidity
@@ -20,6 +21,7 @@
 - [x] `sector_etf_prices.json` scrape
 - [x] `candles_5m.json` for range break logic
 - [x] `short_interest.json` loaded
+- [x] `multi_day_levels.json` added (high/low)
 - [x] Universe cache with L1/L2/L3 logic
 - [x] `universe_enriched.json` merge complete
 - [x] `universe_scored.json` output
@@ -36,19 +38,17 @@
 ## ⚒️ IN PROGRESS / PARTIALLY COMPLETE
 
 ### Tier Logic (Partial)
-- [~] Tier 2: Squeeze Watch (needs `volatility` logic)
-- [~] Tier 3: High Volume, No Breakout (missing breakout logic)
+- [~] Tier 2: Sector Rotation logic (data exists, logic missing)
+- [~] Tier 3: High Volume, No Breakout (needs breakout logic)
 
 ### Enrichment & Signal Engine
 - [~] Sector ETF scraped — scoring logic not wired
-- [~] Short interest used — volatility component missing
+- [~] Short interest used — volatility component added, can be refined
 
 ## ❌ NOT YET STARTED
 
 ### Tier Logic
 - [ ] Tier 1: Momentum Confluence (PM + prev day)
-- [ ] Tier 2: Sector Rotation logic
-- [ ] Tier 3: Near Multi-Day High
 
 ### Risk Filters
 - [ ] No Reliable Price / Ghost Print logic
@@ -59,6 +59,7 @@
 - [ ] Add timestamps to all cache files
 - [ ] Build `runner.py` for full pipeline
 - [ ] Fallback logic if yfinance fails mid-run
+- [ ] Build scoring anomaly validator script
 
 ### Timed Automation
 - [ ] Add `APScheduler` or `cron` support for scheduled pulls
@@ -68,6 +69,7 @@
 - [ ] Add stealth features (user-agent, delay randomization)
 - [ ] Handle rate limiting and fallback logging
 - [ ] Consider Playwright-based option
+- [ ] Make TradingView the primary data source
 
 ### Frontend Goals
 - [ ] Frontend UI config (e.g. rel_vol threshold)
@@ -82,6 +84,8 @@
 - [ ] Relative Volume Percentiles
 - [ ] Options-based GEX / vanna / charm integration
 - [ ] Sentiment overlays (e.g. SPY + VIX)
-- [ ] Screener builder or custom logic mode
+- [ ] Screener builder or custom logic mode (Management Panel on Front End)
 - [ ] Backtest / replay past signals
 - [ ] Export or alert system
+- [ ] Expand universe with more tickers (e.g. mid-caps for squeeze watch)
+- [ ] Fix or rebuild watchlist puller

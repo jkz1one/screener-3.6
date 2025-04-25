@@ -9,7 +9,9 @@ UNIVERSE_PATH = os.path.join(CACHE_DIR, "universe_cache.json")
 TV_SIGNALS_PATH = os.path.join(CACHE_DIR, "tv_signals.json")
 SECTOR_PRICES_PATH = os.path.join(CACHE_DIR, "sector_etf_prices.json")
 CANDLES_PATH = os.path.join(CACHE_DIR, "candles_5m.json")
+MULTI_DAY_PATH = os.path.join(CACHE_DIR, "multi_day_levels.json")
 SHORT_INTEREST_PATH = os.path.join(CACHE_DIR, "short_interest.json")
+
 
 current_date_str = datetime.now(pytz.timezone("America/New_York")).strftime("%Y-%m-%d")
 OUTPUT_PATH = os.path.join(CACHE_DIR, f"universe_enriched_{current_date_str}.json")
@@ -68,11 +70,28 @@ def enrich_with_candles(universe, candle_data):
             info["range_930_940_low"] = min(lows)
     return universe
 
+def enrich_with_multi_day_levels(universe, multi_day_data):
+    for symbol, info in universe.items():
+        data = multi_day_data.get(symbol)
+        if data and "high" in data and "low" in data:
+            info["high_10d"] = data["high"]
+            info["low_10d"] = data["low"]
+    return universe
+
 def enrich_with_short_interest(universe, short_data):
     for symbol, info in universe.items():
         si = short_data.get(symbol.upper())
-        if si and si.get("shortPercentOfFloat", 0) >= 0.20:
-            info.setdefault("signals", {})["squeeze_watch"] = True
+        rel_vol = info.get("rel_vol", 0)
+        change = info.get("signals", {}).get("changePercent", 0)
+
+        if si:
+            short_pct = si.get("shortPercentOfFloat", 0)
+            if (
+                short_pct >= 0.18 and
+                rel_vol > 1.2 and
+                abs(change) >= 1.5
+            ):
+                info.setdefault("signals", {})["squeeze_watch"] = True
     return universe
 
 def apply_signal_flags(universe):
@@ -109,16 +128,12 @@ def apply_signal_flags(universe):
         if info.get("rel_vol", 0) > 1.5:
             signals["high_rel_vol"] = True
 
-    return universe
+        if price is not None and info.get("high_10d") and price >= info["high_10d"] * 0.98:
+            signals["near_multi_day_high"] = True
 
-def inject_risk_flags(universe):
-    for symbol, info in universe.items():
-        vol = info.get("avg_volume")
-        spread = info.get("spread")
-        if vol is not None and vol < 500_000:
-            info.setdefault("signals", {})["low_liquidity"] = True
-        if spread is not None and spread > 0.30:
-            info.setdefault("signals", {})["wide_spread"] = True
+        if price is not None and info.get("low_10d") and price <= info["low_10d"] * 1.02:
+            signals["near_multi_day_low"] = True
+    
     return universe
 
 def flag_top_volume_gainers(universe, top_n=5):
@@ -131,6 +146,16 @@ def flag_top_volume_gainers(universe, top_n=5):
         info.setdefault("signals", {})["top_volume_gainer"] = True
     return universe
 
+def inject_risk_flags(universe):
+    for symbol, info in universe.items():
+        vol = info.get("avg_volume")
+        spread = info.get("spread")
+        if vol is not None and vol < 500_000:
+            info.setdefault("signals", {})["low_liquidity"] = True
+        if spread is not None and spread > 0.30:
+            info.setdefault("signals", {})["wide_spread"] = True
+    return universe
+
 def main():
     print("🚀 Starting enrichment...")
     universe = load_json(UNIVERSE_PATH)
@@ -138,12 +163,14 @@ def main():
     sector_prices = load_json(SECTOR_PRICES_PATH)
     candles = load_json(CANDLES_PATH)
     short_interest = load_json(SHORT_INTEREST_PATH)
+    multi_day_data = load_json(MULTI_DAY_PATH)
 
     print(f"📦 Loaded {len(universe)} tickers")
 
     universe = enrich_with_tv_signals(universe, tv_signals)
     universe = enrich_with_sector(universe, sector_prices)
     universe = enrich_with_candles(universe, candles)
+    universe = enrich_with_multi_day_levels(universe, multi_day_data)
     universe = enrich_with_short_interest(universe, short_interest)
     universe = apply_signal_flags(universe)
     universe = flag_top_volume_gainers(universe)
