@@ -39,6 +39,10 @@ def enrich_with_tv_signals(universe, tv_data):
             if "changePercent" in tv:
                 signals["changePercent"] = tv["changePercent"]
                 info["tv_changePercent"] = tv["changePercent"]
+            if "rel_vol" in tv:
+                info["rel_vol"] = tv["rel_vol"]
+            if "avg_volume_10d" in tv:
+                info["avg_volume_10d"] = tv["avg_volume_10d"]
     return universe
 
 def enrich_with_sector(universe, sector_data):
@@ -101,6 +105,9 @@ def apply_signal_flags(universe):
 
         if price is not None and high is not None and 0 < (high - price) <= 0.25:
             signals["near_range_high"] = True
+
+        if info.get("rel_vol", 0) > 1.5:
+            signals["high_rel_vol"] = True
 
     return universe
 

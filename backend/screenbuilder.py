@@ -26,6 +26,7 @@ TIER_1 = {
     "gap_down": 3,
     "break_above_range": 3,
     "break_below_range": 3,
+    "high_rel_vol": 3,
 }
 
 TIER_2 = {
