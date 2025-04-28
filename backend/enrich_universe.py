@@ -163,7 +163,7 @@ def apply_signal_flags(universe):
         prev_close = info.get("prevClose")
         high = info.get("range_930_940_high")
         low = info.get("range_930_940_low")
-
+        
         if open_price is not None and prev_close is not None:
             if open_price > prev_close * 1.01:
                 signals["gap_up"] = True
