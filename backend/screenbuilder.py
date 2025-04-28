@@ -41,7 +41,8 @@ TIER_3 = {
     "high_volume": 1,
     "top_volume_gainer": 1,
     "near_multi_day_high": 1,
-    "near_multi_day_low": 1
+    "near_multi_day_low": 1,
+    "high_volume_no_breakout": 1
 }
 
 RISK_FLAGS = {

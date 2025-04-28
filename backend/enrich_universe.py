@@ -109,15 +109,25 @@ def apply_sector_rotation_signals(universe, sector_data):
 def enrich_with_candles(universe, candle_data):
     for symbol, info in universe.items():
         candles = candle_data.get(symbol, [])
-        range_930_940 = [c for c in candles if any(
-            c.get("timestamp", "").endswith(t) for t in (":30:00", ":35:00", ":40:00")
-        )]
-        if range_930_940:
-            highs = [c.get("high", 0) for c in range_930_940]
-            lows = [c.get("low", 0) for c in range_930_940]
+        if not candles:
+            continue
+
+        highs = []
+        lows = []
+
+        for c in candles:
+            high = c.get("high")
+            low = c.get("low")
+            if high is not None and low is not None:
+                highs.append(high)
+                lows.append(low)
+
+        if highs and lows:
             info["range_930_940_high"] = max(highs)
             info["range_930_940_low"] = min(lows)
+
     return universe
+
 
 def enrich_with_multi_day_levels(universe, multi_day_data):
     for symbol, info in universe.items():
@@ -182,7 +192,22 @@ def apply_signal_flags(universe):
 
         if price is not None and info.get("low_10d") and price <= info["low_10d"] * 1.02:
             signals["near_multi_day_low"] = True
-    
+
+        if (
+            volume is not None and volume >= 800_000 and  # lower vol threshold a bit
+            info.get("rel_vol", 0) > 1.0 and              # loosen rel vol to 1.0
+            high is not None and low is not None and
+            price is not None and
+            low * 0.99 <= price <= high * 1.01 and         # widen wiggle room from 0.5% → 1%
+            not signals.get("break_above_range") and
+            not signals.get("break_below_range") and
+            (high - low) / low < 0.02                     # expand range limit from 1.5% → 2%
+        ):
+            signals["high_volume_no_breakout"] = True
+
+
+
+        
     return universe
 
 def flag_top_volume_gainers(universe, top_n=5):
