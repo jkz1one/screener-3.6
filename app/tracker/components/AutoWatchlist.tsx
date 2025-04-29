@@ -29,7 +29,7 @@ export default function AutoWatchlist() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const res = await fetch('http://localhost:8008/autowatchlist');
+        const res = await fetch('/api/autowatchlist');
         const json = await res.json();
         const mapped = json.map((stock: any) => ({
           symbol: stock.symbol,
