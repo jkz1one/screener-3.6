@@ -4,6 +4,9 @@ import subprocess
 import os
 from datetime import datetime
 
+print("🔁 [1/3] Building base universe...")
+subprocess.run(["python3", "backend/enrich_universe.py"], check=True)
+
 def check_required_cache():
     today = datetime.now().strftime("%Y-%m-%d")
     CACHE_DIR = "backend/cache"
@@ -32,13 +35,13 @@ def check_required_cache():
             print(f" - {m}")
         raise SystemExit("\n🛑 Aborting pipeline! Run Daily Refresh first.\n")
 
-print("🔎 Verifying cache freshness before pipeline...")
+print("🔎 Verifying cache/enrich freshness ...")
 check_required_cache()
 
-print("🔁 [1/2] Building base universe...")
-subprocess.run(["python3", "backend/enrich_universe.py"], check=True)
+print("🧨 [2/3] Cleaning cache...")
+subprocess.run(["python3", "backend/cache_manager.py"], check=True)
 
-print("⚙️ [2/2] Scoring and saving autowatchlist output...")
+print("⚙️ [3/3] Scoring and saving autowatchlist output...")
 subprocess.run(["python3", "-m", "backend.screenbuilder"], check=True)
 
 print("✅ Pipeline complete. Watchlist and cache updated.")

@@ -143,7 +143,7 @@ def audit_cache_files():
 tasks = [
     ("Scrape TV Signals", "backend/signals/scrape_tv_signals.py"),
     ("Scrape Sector ETF Prices", "backend/signals/scrape_sector_prices.py"),
-#    ("Scrape 5m Candles", "backend/signals/scraper_candles_5m.py"),
+    ("Scrape 5m Candles", "backend/signals/scraper_candles_5m.py"),
     ("Fetch Multi-Day High/Low", "backend/signals/fetch_multi.py"),
     ("Fetch Short Interest", "backend/signals/fetch_short_interest.py"),
 ]
