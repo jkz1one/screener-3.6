@@ -1,227 +1,209 @@
 {
   "AEHR": {
-    "shortPercentOfFloat": 0.2306
-  },
-  "AI": {
-    "shortPercentOfFloat": 0.218
-  },
-  "ALGS": {
-    "shortPercentOfFloat": 0.251
-  },
-  "ALLO": {
-    "shortPercentOfFloat": 0.2218
-  },
-  "ALT": {
-    "shortPercentOfFloat": 0.2856
-  },
-  "ANRO": {
-    "shortPercentOfFloat": 0.203
-  },
-  "ASPI": {
-    "shortPercentOfFloat": 0.2932
-  },
-  "ASTS": {
-    "shortPercentOfFloat": 0.2677
-  },
-  "AVTE": {
-    "shortPercentOfFloat": 0.3047
-  },
-  "AVXL": {
-    "shortPercentOfFloat": 0.2981
-  },
-  "BBAI": {
-    "shortPercentOfFloat": 0.2392
-  },
-  "BDTX": {
-    "shortPercentOfFloat": 0.2519
-  },
-  "BKKT": {
-    "shortPercentOfFloat": 0.2567
-  },
-  "BLNK": {
-    "shortPercentOfFloat": 0.2562
-  },
-  "BMEA": {
-    "shortPercentOfFloat": 0.3737
-  },
-  "BYND": {
-    "shortPercentOfFloat": 0.4087
-  },
-  "CHPT": {
-    "shortPercentOfFloat": 0.24
-  },
-  "CHRS": {
-    "shortPercentOfFloat": 0.297
-  },
-  "CNK": {
-    "shortPercentOfFloat": 0.2009
-  },
-  "CRNC": {
-    "shortPercentOfFloat": 0.2507
-  },
-  "CRVO": {
-    "shortPercentOfFloat": 0.2508
-  },
-  "DNA": {
-    "shortPercentOfFloat": 0.2662
-  },
-  "ENVX": {
-    "shortPercentOfFloat": 0.276
-  },
-  "EOSE": {
-    "shortPercentOfFloat": 0.3162
-  },
-  "EVGO": {
-    "shortPercentOfFloat": 0.2867
-  },
-  "FCEL": {
-    "shortPercentOfFloat": 0.243
-  },
-  "FFAI": {
-    "shortPercentOfFloat": 0.2325
-  },
-  "GES": {
-    "shortPercentOfFloat": 0.3042
-  },
-  "GRPN": {
-    "shortPercentOfFloat": 0.3623
-  },
-  "HRTX": {
-    "shortPercentOfFloat": 0.2257
-  },
-  "HTZ": {
-    "shortPercentOfFloat": 0.4295
-  },
-  "IBRX": {
-    "shortPercentOfFloat": 0.2985
-  },
-  "INDI": {
-    "shortPercentOfFloat": 0.2982
-  },
-  "INMB": {
-    "shortPercentOfFloat": 0.3285
-  },
-  "IOVA": {
-    "shortPercentOfFloat": 0.2916
-  },
-  "KSS": {
-    "shortPercentOfFloat": 0.4248
-  },
-  "LAZR": {
-    "shortPercentOfFloat": 0.2344
-  },
-  "LMND": {
-    "shortPercentOfFloat": 0.2888
-  },
-  "LQDA": {
-    "shortPercentOfFloat": 0.2002
-  },
-  "LXRX": {
-    "shortPercentOfFloat": 0.2092
-  },
-  "MBLY": {
-    "shortPercentOfFloat": 0.268
-  },
-  "MPW": {
-    "shortPercentOfFloat": 0.3591
-  },
-  "MVIS": {
-    "shortPercentOfFloat": 0.2575
-  },
-  "NVAX": {
-    "shortPercentOfFloat": 0.2357
-  },
-  "OCGN": {
-    "shortPercentOfFloat": 0.2291
-  },
-  "OPK": {
-    "shortPercentOfFloat": 0.4488
-  },
-  "ORIC": {
-    "shortPercentOfFloat": 0.2159
-  },
-  "PCT": {
-    "shortPercentOfFloat": 0.376
-  },
-  "PGY": {
-    "shortPercentOfFloat": 0.2173
-  },
-  "PHAT": {
-    "shortPercentOfFloat": 0.2897
-  },
-  "PLUG": {
-    "shortPercentOfFloat": 0.2588
-  },
-  "PRME": {
-    "shortPercentOfFloat": 0.2981
-  },
-  "QMCO": {
     "shortPercentOfFloat": 0.2579
   },
+  "ALGS": {
+    "shortPercentOfFloat": 0.2531
+  },
+  "ALLO": {
+    "shortPercentOfFloat": 0.2094
+  },
+  "ALT": {
+    "shortPercentOfFloat": 0.2938
+  },
+  "ASPI": {
+    "shortPercentOfFloat": 0.2762
+  },
+  "ASTS": {
+    "shortPercentOfFloat": 0.2449
+  },
+  "AVTE": {
+    "shortPercentOfFloat": 0.3112
+  },
+  "AVXL": {
+    "shortPercentOfFloat": 0.2912
+  },
+  "BBAI": {
+    "shortPercentOfFloat": 0.2692
+  },
+  "BDTX": {
+    "shortPercentOfFloat": 0.2246
+  },
+  "BKKT": {
+    "shortPercentOfFloat": 0.2473
+  },
+  "BLNK": {
+    "shortPercentOfFloat": 0.239
+  },
+  "BMEA": {
+    "shortPercentOfFloat": 0.3483
+  },
+  "BYND": {
+    "shortPercentOfFloat": 0.4007
+  },
+  "CHPT": {
+    "shortPercentOfFloat": 0.2342
+  },
+  "CHRS": {
+    "shortPercentOfFloat": 0.3024
+  },
+  "CNK": {
+    "shortPercentOfFloat": 0.2
+  },
+  "CRNC": {
+    "shortPercentOfFloat": 0.2455
+  },
+  "CRVO": {
+    "shortPercentOfFloat": 0.2276
+  },
+  "DNA": {
+    "shortPercentOfFloat": 0.3935
+  },
+  "ENVX": {
+    "shortPercentOfFloat": 0.282
+  },
+  "EOSE": {
+    "shortPercentOfFloat": 0.3022
+  },
+  "EVGO": {
+    "shortPercentOfFloat": 0.2949
+  },
+  "FCEL": {
+    "shortPercentOfFloat": 0.2167
+  },
+  "FFAI": {
+    "shortPercentOfFloat": 0.238
+  },
+  "GES": {
+    "shortPercentOfFloat": 0.2752
+  },
+  "GRPN": {
+    "shortPercentOfFloat": 0.3461
+  },
+  "HRTX": {
+    "shortPercentOfFloat": 0.2294
+  },
+  "HTZ": {
+    "shortPercentOfFloat": 0.503
+  },
+  "IBRX": {
+    "shortPercentOfFloat": 0.2835
+  },
+  "ICCT": {
+    "shortPercentOfFloat": 0.2408
+  },
+  "INDI": {
+    "shortPercentOfFloat": 0.3191
+  },
+  "INMB": {
+    "shortPercentOfFloat": 0.324
+  },
+  "IOVA": {
+    "shortPercentOfFloat": 0.2888
+  },
+  "KSS": {
+    "shortPercentOfFloat": 0.4753
+  },
+  "LAZR": {
+    "shortPercentOfFloat": 0.27
+  },
+  "LMND": {
+    "shortPercentOfFloat": 0.3011
+  },
+  "LQDA": {
+    "shortPercentOfFloat": 0.2063
+  },
+  "LXRX": {
+    "shortPercentOfFloat": 0.3181
+  },
+  "MBLY": {
+    "shortPercentOfFloat": 0.2362
+  },
+  "MPW": {
+    "shortPercentOfFloat": 0.3375
+  },
+  "MVIS": {
+    "shortPercentOfFloat": 0.2366
+  },
+  "NVAX": {
+    "shortPercentOfFloat": 0.2578
+  },
+  "OCGN": {
+    "shortPercentOfFloat": 0.2391
+  },
+  "PCT": {
+    "shortPercentOfFloat": 0.2865
+  },
+  "PGY": {
+    "shortPercentOfFloat": 0.2497
+  },
+  "PHAT": {
+    "shortPercentOfFloat": 0.2432
+  },
+  "PLUG": {
+    "shortPercentOfFloat": 0.2423
+  },
+  "PRME": {
+    "shortPercentOfFloat": 0.2667
+  },
+  "QMCO": {
+    "shortPercentOfFloat": 0.2665
+  },
   "REKR": {
-    "shortPercentOfFloat": 0.2703
+    "shortPercentOfFloat": 0.2311
   },
   "RGTI": {
-    "shortPercentOfFloat": 0.2606
+    "shortPercentOfFloat": 0.2405
   },
   "RILY": {
-    "shortPercentOfFloat": 0.5155
+    "shortPercentOfFloat": 0.5067
   },
   "RUN": {
-    "shortPercentOfFloat": 0.3069
+    "shortPercentOfFloat": 0.3247
   },
   "RXRX": {
-    "shortPercentOfFloat": 0.2394
+    "shortPercentOfFloat": 0.2007
   },
   "SANA": {
-    "shortPercentOfFloat": 0.3567
+    "shortPercentOfFloat": 0.35
   },
   "SAVA": {
-    "shortPercentOfFloat": 0.2462
+    "shortPercentOfFloat": 0.2421
   },
   "SEDG": {
-    "shortPercentOfFloat": 0.3801
+    "shortPercentOfFloat": 0.312
   },
   "SMLR": {
-    "shortPercentOfFloat": 0.2382
-  },
-  "SMR": {
-    "shortPercentOfFloat": 0.2001
+    "shortPercentOfFloat": 0.2133
   },
   "SOUN": {
-    "shortPercentOfFloat": 0.3202
+    "shortPercentOfFloat": 0.3288
   },
   "SPRY": {
-    "shortPercentOfFloat": 0.3259
+    "shortPercentOfFloat": 0.3228
   },
   "SRRK": {
-    "shortPercentOfFloat": 0.2002
+    "shortPercentOfFloat": 0.2066
   },
   "STOK": {
-    "shortPercentOfFloat": 0.2604
+    "shortPercentOfFloat": 0.2783
   },
   "SYM": {
-    "shortPercentOfFloat": 0.2282
+    "shortPercentOfFloat": 0.2195
   },
   "TMDX": {
-    "shortPercentOfFloat": 0.2922
-  },
-  "TTEC": {
-    "shortPercentOfFloat": 0.2205
+    "shortPercentOfFloat": 0.2686
   },
   "VERV": {
-    "shortPercentOfFloat": 0.2516
+    "shortPercentOfFloat": 0.2507
   },
   "VSAT": {
-    "shortPercentOfFloat": 0.2478
+    "shortPercentOfFloat": 0.2365
   },
   "WKHS": {
-    "shortPercentOfFloat": 0.2352
+    "shortPercentOfFloat": 0.2628
   },
   "WOLF": {
-    "shortPercentOfFloat": 0.4175
-  },
-  "WW": {
-    "shortPercentOfFloat": 0.2139
+    "shortPercentOfFloat": 0.4139
   }
 }

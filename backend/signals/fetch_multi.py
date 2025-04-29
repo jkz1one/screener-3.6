@@ -4,7 +4,7 @@ import yfinance as yf
 from datetime import datetime
 from tqdm import tqdm  # ✅ Add this
 
-CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
+CACHE_DIR = os.path.join(os.path.dirname(__file__), "..", "cache")
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 UNIVERSE_PATH = os.path.join(CACHE_DIR, "universe_cache.json")

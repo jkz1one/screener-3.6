@@ -9,9 +9,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 95.38,
-    "prevClose": 92.33,
-    "yfinance_updated": "2025-04-23T13:07:58.486515-04:00"
+    "open": 101.23,
+    "prevClose": 94.29,
+    "yfinance_updated": "2025-04-28T21:18:37.806853-04:00"
   },
   "LII": {
     "sources": [
@@ -23,9 +23,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 503.04,
-    "prevClose": 558.93,
-    "yfinance_updated": "2025-04-23T13:07:58.600040-04:00"
+    "open": 526.93,
+    "prevClose": 527.31,
+    "yfinance_updated": "2025-04-28T21:18:37.933276-04:00"
   },
   "SHW": {
     "sources": [
@@ -37,9 +37,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 337.44,
-    "prevClose": 331.96,
-    "yfinance_updated": "2025-04-23T13:07:58.757033-04:00"
+    "open": 332.61,
+    "prevClose": 331.62,
+    "yfinance_updated": "2025-04-28T21:18:38.096565-04:00"
   },
   "RSG": {
     "sources": [
@@ -51,9 +51,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 243.21,
-    "prevClose": 242.57,
-    "yfinance_updated": "2025-04-23T13:07:58.887928-04:00"
+    "open": 242.92,
+    "prevClose": 243.56,
+    "yfinance_updated": "2025-04-28T21:18:38.280620-04:00"
   },
   "GILD": {
     "sources": [
@@ -66,9 +66,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 105.93,
-    "prevClose": 105.51,
-    "yfinance_updated": "2025-04-23T13:07:59.120113-04:00"
+    "open": 103.825,
+    "prevClose": 103.17,
+    "yfinance_updated": "2025-04-28T21:18:38.423167-04:00"
   },
   "INCY": {
     "sources": [
@@ -80,9 +80,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 58.23,
-    "prevClose": 57.38,
-    "yfinance_updated": "2025-04-23T13:07:59.248151-04:00"
+    "open": 59.4,
+    "prevClose": 59.16,
+    "yfinance_updated": "2025-04-28T21:18:38.567042-04:00"
   },
   "FSLR": {
     "sources": [
@@ -94,9 +94,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 138.03,
-    "prevClose": 135.35,
-    "yfinance_updated": "2025-04-23T13:07:59.425767-04:00"
+    "open": 143.645,
+    "prevClose": 141.86,
+    "yfinance_updated": "2025-04-28T21:18:38.690331-04:00"
   },
   "MA": {
     "sources": [
@@ -108,9 +108,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 537.74,
-    "prevClose": 527.33,
-    "yfinance_updated": "2025-04-23T13:07:59.585723-04:00"
+    "open": 536.03,
+    "prevClose": 533.48,
+    "yfinance_updated": "2025-04-28T21:18:38.855802-04:00"
   },
   "MRK": {
     "sources": [
@@ -123,9 +123,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 78.5,
-    "prevClose": 78.97,
-    "yfinance_updated": "2025-04-23T13:07:59.713832-04:00"
+    "open": 83.0,
+    "prevClose": 82.74,
+    "yfinance_updated": "2025-04-28T21:18:38.972286-04:00"
   },
   "NSC": {
     "sources": [
@@ -137,9 +137,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 225.0,
-    "prevClose": 220.0,
-    "yfinance_updated": "2025-04-23T13:07:59.859418-04:00"
+    "open": 221.15,
+    "prevClose": 221.71,
+    "yfinance_updated": "2025-04-28T21:18:39.106010-04:00"
   },
   "COR": {
     "sources": [
@@ -151,9 +151,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 284.79,
-    "prevClose": 286.27,
-    "yfinance_updated": "2025-04-23T13:08:00.006151-04:00"
+    "open": 287.0,
+    "prevClose": 285.9,
+    "yfinance_updated": "2025-04-28T21:18:39.227941-04:00"
   },
   "PM": {
     "sources": [
@@ -165,9 +165,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Defensive",
-    "open": 168.94,
-    "prevClose": 164.11,
-    "yfinance_updated": "2025-04-23T13:08:00.139111-04:00"
+    "open": 170.29,
+    "prevClose": 170.24,
+    "yfinance_updated": "2025-04-28T21:18:39.356275-04:00"
   },
   "CEG": {
     "sources": [
@@ -180,9 +180,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 212.952,
-    "prevClose": 200.88,
-    "yfinance_updated": "2025-04-23T13:08:00.270877-04:00"
+    "open": 222.34,
+    "prevClose": 222.99,
+    "yfinance_updated": "2025-04-28T21:18:39.597734-04:00"
   },
   "FDS": {
     "sources": [
@@ -194,9 +194,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 428.41,
-    "prevClose": 423.96,
-    "yfinance_updated": "2025-04-23T13:08:00.411669-04:00"
+    "open": 426.94,
+    "prevClose": 424.47,
+    "yfinance_updated": "2025-04-28T21:18:39.723920-04:00"
   },
   "ENPH": {
     "sources": [
@@ -208,9 +208,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 47.2825,
-    "prevClose": 53.43,
-    "yfinance_updated": "2025-04-23T13:08:00.554866-04:00"
+    "open": 46.85,
+    "prevClose": 46.83,
+    "yfinance_updated": "2025-04-28T21:18:39.853872-04:00"
   },
   "WAB": {
     "sources": [
@@ -222,9 +222,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 183.62,
-    "prevClose": 171.76,
-    "yfinance_updated": "2025-04-23T13:08:00.750808-04:00"
+    "open": 184.28,
+    "prevClose": 184.03,
+    "yfinance_updated": "2025-04-28T21:18:39.969685-04:00"
   },
   "GD": {
     "sources": [
@@ -236,9 +236,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 271.63,
-    "prevClose": 274.8,
-    "yfinance_updated": "2025-04-23T13:08:00.930124-04:00"
+    "open": 272.93,
+    "prevClose": 271.97,
+    "yfinance_updated": "2025-04-28T21:18:40.118394-04:00"
   },
   "EXE": {
     "sources": [
@@ -250,9 +250,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 103.01,
-    "prevClose": 103.01,
-    "yfinance_updated": "2025-04-23T13:08:01.098333-04:00"
+    "open": 105.47,
+    "prevClose": 105.3,
+    "yfinance_updated": "2025-04-28T21:18:40.233401-04:00"
   },
   "CHRW": {
     "sources": [
@@ -264,9 +264,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 91.89,
-    "prevClose": 90.28,
-    "yfinance_updated": "2025-04-23T13:08:01.226260-04:00"
+    "open": 89.7,
+    "prevClose": 89.75,
+    "yfinance_updated": "2025-04-28T21:18:40.359369-04:00"
   },
   "REG": {
     "sources": [
@@ -278,9 +278,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 72.2,
-    "prevClose": 72.32,
-    "yfinance_updated": "2025-04-23T13:08:01.386380-04:00"
+    "open": 70.91,
+    "prevClose": 71.42,
+    "yfinance_updated": "2025-04-28T21:18:40.492736-04:00"
   },
   "SRE": {
     "sources": [
@@ -292,9 +292,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 73.06,
-    "prevClose": 72.31,
-    "yfinance_updated": "2025-04-23T13:08:01.525510-04:00"
+    "open": 74.79,
+    "prevClose": 74.68,
+    "yfinance_updated": "2025-04-28T21:18:40.621164-04:00"
   },
   "MPWR": {
     "sources": [
@@ -306,9 +306,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 545.91,
-    "prevClose": 511.82,
-    "yfinance_updated": "2025-04-23T13:08:01.639427-04:00"
+    "open": 580.07,
+    "prevClose": 583.72,
+    "yfinance_updated": "2025-04-28T21:18:40.737653-04:00"
   },
   "AME": {
     "sources": [
@@ -320,9 +320,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 164.06,
-    "prevClose": 159.65,
-    "yfinance_updated": "2025-04-23T13:08:01.824836-04:00"
+    "open": 166.99,
+    "prevClose": 166.69,
+    "yfinance_updated": "2025-04-28T21:18:40.852615-04:00"
   },
   "PSA": {
     "sources": [
@@ -334,9 +334,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 297.38,
-    "prevClose": 296.67,
-    "yfinance_updated": "2025-04-23T13:08:02.103434-04:00"
+    "open": 291.36,
+    "prevClose": 290.91,
+    "yfinance_updated": "2025-04-28T21:18:40.959512-04:00"
   },
   "IBM": {
     "sources": [
@@ -349,9 +349,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 246.0,
-    "prevClose": 240.9,
-    "yfinance_updated": "2025-04-23T13:08:02.264002-04:00"
+    "open": 232.86,
+    "prevClose": 232.41,
+    "yfinance_updated": "2025-04-28T21:18:41.070401-04:00"
   },
   "WM": {
     "sources": [
@@ -363,9 +363,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 230.45,
-    "prevClose": 229.96,
-    "yfinance_updated": "2025-04-23T13:08:02.386682-04:00"
+    "open": 229.22,
+    "prevClose": 228.31,
+    "yfinance_updated": "2025-04-28T21:18:41.201798-04:00"
   },
   "PANW": {
     "sources": [
@@ -378,9 +378,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 168.74,
-    "prevClose": 163.63,
-    "yfinance_updated": "2025-04-23T13:08:02.530818-04:00"
+    "open": 178.62,
+    "prevClose": 178.98,
+    "yfinance_updated": "2025-04-28T21:18:41.349985-04:00"
   },
   "MO": {
     "sources": [
@@ -392,9 +392,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 58.53,
-    "prevClose": 58.82,
-    "yfinance_updated": "2025-04-23T13:08:02.713165-04:00"
+    "open": 58.25,
+    "prevClose": 58.26,
+    "yfinance_updated": "2025-04-28T21:18:41.468631-04:00"
   },
   "EQIX": {
     "sources": [
@@ -406,9 +406,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 805.33,
-    "prevClose": 791.12,
-    "yfinance_updated": "2025-04-23T13:08:02.876433-04:00"
+    "open": 834.58,
+    "prevClose": 838.1,
+    "yfinance_updated": "2025-04-28T21:18:41.588121-04:00"
   },
   "FE": {
     "sources": [
@@ -420,9 +420,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 42.72,
-    "prevClose": 42.71,
-    "yfinance_updated": "2025-04-23T13:08:03.005926-04:00"
+    "open": 42.29,
+    "prevClose": 42.34,
+    "yfinance_updated": "2025-04-28T21:18:41.694582-04:00"
   },
   "GOOGL": {
     "sources": [
@@ -435,9 +435,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 155.61,
-    "prevClose": 151.47,
-    "yfinance_updated": "2025-04-23T13:08:03.146857-04:00"
+    "open": 162.425,
+    "prevClose": 161.96,
+    "yfinance_updated": "2025-04-28T21:18:41.840870-04:00"
   },
   "CL": {
     "sources": [
@@ -449,9 +449,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 95.0,
-    "prevClose": 95.81,
-    "yfinance_updated": "2025-04-23T13:08:03.288655-04:00"
+    "open": 93.64,
+    "prevClose": 93.91,
+    "yfinance_updated": "2025-04-28T21:18:41.985999-04:00"
   },
   "CBOE": {
     "sources": [
@@ -463,9 +463,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 215.29,
-    "prevClose": 214.07,
-    "yfinance_updated": "2025-04-23T13:08:03.415287-04:00"
+    "open": 212.76,
+    "prevClose": 213.59,
+    "yfinance_updated": "2025-04-28T21:18:42.398749-04:00"
   },
   "NDAQ": {
     "sources": [
@@ -477,9 +477,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 74.04,
-    "prevClose": 72.69,
-    "yfinance_updated": "2025-04-23T13:08:03.540340-04:00"
+    "open": 75.59,
+    "prevClose": 75.36,
+    "yfinance_updated": "2025-04-28T21:18:42.532550-04:00"
   },
   "WELL": {
     "sources": [
@@ -491,9 +491,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 147.38,
-    "prevClose": 147.25,
-    "yfinance_updated": "2025-04-23T13:08:03.681473-04:00"
+    "open": 147.82,
+    "prevClose": 146.96,
+    "yfinance_updated": "2025-04-28T21:18:42.639058-04:00"
   },
   "CLX": {
     "sources": [
@@ -505,9 +505,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 140.23,
-    "prevClose": 140.81,
-    "yfinance_updated": "2025-04-23T13:08:03.823776-04:00"
+    "open": 138.09,
+    "prevClose": 138.27,
+    "yfinance_updated": "2025-04-28T21:18:42.760433-04:00"
   },
   "J": {
     "sources": [
@@ -519,9 +519,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 121.02,
-    "prevClose": 118.39,
-    "yfinance_updated": "2025-04-23T13:08:04.000040-04:00"
+    "open": 121.88,
+    "prevClose": 121.57,
+    "yfinance_updated": "2025-04-28T21:18:42.909456-04:00"
   },
   "BX": {
     "sources": [
@@ -533,9 +533,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 131.0,
-    "prevClose": 124.91,
-    "yfinance_updated": "2025-04-23T13:08:04.163252-04:00"
+    "open": 132.97,
+    "prevClose": 131.93,
+    "yfinance_updated": "2025-04-28T21:18:43.025918-04:00"
   },
   "HPE": {
     "sources": [
@@ -547,9 +547,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 15.78,
-    "prevClose": 15.15,
-    "yfinance_updated": "2025-04-23T13:08:04.311350-04:00"
+    "open": 16.285,
+    "prevClose": 16.24,
+    "yfinance_updated": "2025-04-28T21:18:43.144470-04:00"
   },
   "ALB": {
     "sources": [
@@ -561,9 +561,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 57.37,
-    "prevClose": 54.77,
-    "yfinance_updated": "2025-04-23T13:08:04.804899-04:00"
+    "open": 57.88,
+    "prevClose": 57.73,
+    "yfinance_updated": "2025-04-28T21:18:43.251848-04:00"
   },
   "AVB": {
     "sources": [
@@ -575,9 +575,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 208.49,
-    "prevClose": 206.44,
-    "yfinance_updated": "2025-04-23T13:08:04.966696-04:00"
+    "open": 206.0,
+    "prevClose": 205.76,
+    "yfinance_updated": "2025-04-28T21:18:43.482481-04:00"
   },
   "IP": {
     "sources": [
@@ -589,9 +589,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 47.59,
-    "prevClose": 46.48,
-    "yfinance_updated": "2025-04-23T13:08:05.156906-04:00"
+    "open": 47.54,
+    "prevClose": 47.35,
+    "yfinance_updated": "2025-04-28T21:18:43.605645-04:00"
   },
   "AEE": {
     "sources": [
@@ -603,9 +603,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 98.78,
-    "prevClose": 99.15,
-    "yfinance_updated": "2025-04-23T13:08:05.285416-04:00"
+    "open": 98.25,
+    "prevClose": 98.28,
+    "yfinance_updated": "2025-04-28T21:18:43.718655-04:00"
   },
   "LMT": {
     "sources": [
@@ -617,9 +617,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 467.0,
-    "prevClose": 462.08,
-    "yfinance_updated": "2025-04-23T13:08:05.478099-04:00"
+    "open": 479.31,
+    "prevClose": 477.64,
+    "yfinance_updated": "2025-04-28T21:18:43.848980-04:00"
   },
   "PG": {
     "sources": [
@@ -632,9 +632,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Defensive",
-    "open": 166.4,
-    "prevClose": 167.88,
-    "yfinance_updated": "2025-04-23T13:08:05.619766-04:00"
+    "open": 161.04,
+    "prevClose": 161.02,
+    "yfinance_updated": "2025-04-28T21:18:43.959115-04:00"
   },
   "SPGI": {
     "sources": [
@@ -646,9 +646,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 475.5,
-    "prevClose": 466.42,
-    "yfinance_updated": "2025-04-23T13:08:05.746139-04:00"
+    "open": 480.0,
+    "prevClose": 480.0,
+    "yfinance_updated": "2025-04-28T21:18:44.073038-04:00"
   },
   "PSX": {
     "sources": [
@@ -660,9 +660,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 103.32,
-    "prevClose": 100.9,
-    "yfinance_updated": "2025-04-23T13:08:05.872349-04:00"
+    "open": 103.29,
+    "prevClose": 103.97,
+    "yfinance_updated": "2025-04-28T21:18:44.215416-04:00"
   },
   "PNC": {
     "sources": [
@@ -674,9 +674,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 157.7,
-    "prevClose": 154.45,
-    "yfinance_updated": "2025-04-23T13:08:05.994173-04:00"
+    "open": 158.88,
+    "prevClose": 158.46,
+    "yfinance_updated": "2025-04-28T21:18:44.357947-04:00"
   },
   "NTAP": {
     "sources": [
@@ -688,9 +688,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 86.11,
-    "prevClose": 82.45,
-    "yfinance_updated": "2025-04-23T13:08:06.170467-04:00"
+    "open": 88.27,
+    "prevClose": 88.45,
+    "yfinance_updated": "2025-04-28T21:18:44.460134-04:00"
   },
   "MU": {
     "sources": [
@@ -703,9 +703,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 73.71,
-    "prevClose": 70.21,
-    "yfinance_updated": "2025-04-23T13:08:06.303036-04:00"
+    "open": 78.765,
+    "prevClose": 79.78,
+    "yfinance_updated": "2025-04-28T21:18:44.598121-04:00"
   },
   "VTR": {
     "sources": [
@@ -717,9 +717,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 68.22,
-    "prevClose": 68.29,
-    "yfinance_updated": "2025-04-23T13:08:06.466405-04:00"
+    "open": 68.23,
+    "prevClose": 68.16,
+    "yfinance_updated": "2025-04-28T21:18:44.717205-04:00"
   },
   "CHTR": {
     "sources": [
@@ -732,9 +732,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 336.52,
-    "prevClose": 331.34,
-    "yfinance_updated": "2025-04-23T13:08:06.647117-04:00"
+    "open": 373.65,
+    "prevClose": 373.65,
+    "yfinance_updated": "2025-04-28T21:18:44.887390-04:00"
   },
   "FFIV": {
     "sources": [
@@ -746,9 +746,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 260.72,
-    "prevClose": 254.77,
-    "yfinance_updated": "2025-04-23T13:08:06.855301-04:00"
+    "open": 270.22,
+    "prevClose": 270.03,
+    "yfinance_updated": "2025-04-28T21:18:45.025188-04:00"
   },
   "TROW": {
     "sources": [
@@ -760,9 +760,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 89.0,
-    "prevClose": 86.18,
-    "yfinance_updated": "2025-04-23T13:08:06.967052-04:00"
+    "open": 88.44,
+    "prevClose": 88.44,
+    "yfinance_updated": "2025-04-28T21:18:45.158439-04:00"
   },
   "SNA": {
     "sources": [
@@ -774,9 +774,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 308.45,
-    "prevClose": 301.33,
-    "yfinance_updated": "2025-04-23T13:08:07.099489-04:00"
+    "open": 310.64,
+    "prevClose": 308.76,
+    "yfinance_updated": "2025-04-28T21:18:45.294003-04:00"
   },
   "ARM": {
     "sources": [
@@ -788,9 +788,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 106.72,
-    "prevClose": 100.55,
-    "yfinance_updated": "2025-04-23T13:08:07.231949-04:00"
+    "open": 112.53,
+    "prevClose": 113.34,
+    "yfinance_updated": "2025-04-28T21:18:45.401701-04:00"
   },
   "IEX": {
     "sources": [
@@ -802,9 +802,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 171.03,
-    "prevClose": 166.4,
-    "yfinance_updated": "2025-04-23T13:08:07.360693-04:00"
+    "open": 173.65,
+    "prevClose": 173.0,
+    "yfinance_updated": "2025-04-28T21:18:45.509108-04:00"
   },
   "MSFT": {
     "sources": [
@@ -819,9 +819,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 376.3,
-    "prevClose": 366.82,
-    "yfinance_updated": "2025-04-23T13:08:07.532506-04:00"
+    "open": 391.66,
+    "prevClose": 391.85,
+    "yfinance_updated": "2025-04-28T21:18:45.650674-04:00"
   },
   "ROK": {
     "sources": [
@@ -833,9 +833,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 243.77,
-    "prevClose": 234.42,
-    "yfinance_updated": "2025-04-23T13:08:07.709864-04:00"
+    "open": 248.72,
+    "prevClose": 248.38,
+    "yfinance_updated": "2025-04-28T21:18:45.780306-04:00"
   },
   "AMAT": {
     "sources": [
@@ -848,9 +848,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 145.0,
-    "prevClose": 138.3,
-    "yfinance_updated": "2025-04-23T13:08:07.874186-04:00"
+    "open": 150.76,
+    "prevClose": 151.55,
+    "yfinance_updated": "2025-04-28T21:18:45.908973-04:00"
   },
   "CRM": {
     "sources": [
@@ -863,9 +863,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 252.61,
-    "prevClose": 243.39,
-    "yfinance_updated": "2025-04-23T13:08:08.037997-04:00"
+    "open": 268.145,
+    "prevClose": 267.85,
+    "yfinance_updated": "2025-04-28T21:18:46.044695-04:00"
   },
   "AMD": {
     "sources": [
@@ -878,9 +878,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 91.875,
-    "prevClose": 86.26,
-    "yfinance_updated": "2025-04-23T13:08:08.191773-04:00"
+    "open": 95.55,
+    "prevClose": 96.645,
+    "yfinance_updated": "2025-04-28T21:18:46.160445-04:00"
   },
   "ED": {
     "sources": [
@@ -892,9 +892,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 112.23,
-    "prevClose": 113.3,
-    "yfinance_updated": "2025-04-23T13:08:08.393434-04:00"
+    "open": 110.26,
+    "prevClose": 110.45,
+    "yfinance_updated": "2025-04-28T21:18:46.276752-04:00"
   },
   "BIIB": {
     "sources": [
@@ -907,9 +907,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 120.15,
-    "prevClose": 118.89,
-    "yfinance_updated": "2025-04-23T13:08:08.588160-04:00"
+    "open": 118.4,
+    "prevClose": 118.84,
+    "yfinance_updated": "2025-04-28T21:18:46.404665-04:00"
   },
   "AMT": {
     "sources": [
@@ -921,9 +921,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 219.77,
-    "prevClose": 220.97,
-    "yfinance_updated": "2025-04-23T13:08:08.726116-04:00"
+    "open": 210.45,
+    "prevClose": 210.82,
+    "yfinance_updated": "2025-04-28T21:18:46.523423-04:00"
   },
   "FDX": {
     "sources": [
@@ -935,9 +935,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 212.2,
-    "prevClose": 206.57,
-    "yfinance_updated": "2025-04-23T13:08:08.834019-04:00"
+    "open": 212.98,
+    "prevClose": 211.56,
+    "yfinance_updated": "2025-04-28T21:18:46.831996-04:00"
   },
   "MET": {
     "sources": [
@@ -949,9 +949,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 74.75,
-    "prevClose": 73.09,
-    "yfinance_updated": "2025-04-23T13:08:08.955081-04:00"
+    "open": 75.66,
+    "prevClose": 75.19,
+    "yfinance_updated": "2025-04-28T21:18:47.201729-04:00"
   },
   "BMY": {
     "sources": [
@@ -963,9 +963,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 47.63,
-    "prevClose": 49.82,
-    "yfinance_updated": "2025-04-23T13:08:09.076985-04:00"
+    "open": 48.31,
+    "prevClose": 47.9,
+    "yfinance_updated": "2025-04-28T21:18:47.313511-04:00"
   },
   "CINF": {
     "sources": [
@@ -977,9 +977,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 134.0,
-    "prevClose": 132.95,
-    "yfinance_updated": "2025-04-23T13:08:09.200304-04:00"
+    "open": 133.81,
+    "prevClose": 133.69,
+    "yfinance_updated": "2025-04-28T21:18:47.419513-04:00"
   },
   "DLR": {
     "sources": [
@@ -991,9 +991,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 152.9,
-    "prevClose": 148.89,
-    "yfinance_updated": "2025-04-23T13:08:09.331320-04:00"
+    "open": 159.18,
+    "prevClose": 159.88,
+    "yfinance_updated": "2025-04-28T21:18:47.561706-04:00"
   },
   "NEM": {
     "sources": [
@@ -1005,9 +1005,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Basic Materials",
-    "open": 51.75,
-    "prevClose": 54.54,
-    "yfinance_updated": "2025-04-23T13:08:09.486663-04:00"
+    "open": 53.51,
+    "prevClose": 53.94,
+    "yfinance_updated": "2025-04-28T21:18:47.700642-04:00"
   },
   "IR": {
     "sources": [
@@ -1019,9 +1019,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 75.2,
-    "prevClose": 72.25,
-    "yfinance_updated": "2025-04-23T13:08:09.611078-04:00"
+    "open": 75.22,
+    "prevClose": 74.98,
+    "yfinance_updated": "2025-04-28T21:18:47.825890-04:00"
   },
   "INVH": {
     "sources": [
@@ -1033,9 +1033,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 34.12,
-    "prevClose": 34.05,
-    "yfinance_updated": "2025-04-23T13:08:09.747131-04:00"
+    "open": 33.68,
+    "prevClose": 33.78,
+    "yfinance_updated": "2025-04-28T21:18:47.989272-04:00"
   },
   "TXN": {
     "sources": [
@@ -1048,9 +1048,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 152.54,
-    "prevClose": 146.76,
-    "yfinance_updated": "2025-04-23T13:08:09.870509-04:00"
+    "open": 163.15,
+    "prevClose": 162.86,
+    "yfinance_updated": "2025-04-28T21:18:48.195785-04:00"
   },
   "KR": {
     "sources": [
@@ -1062,9 +1062,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 72.17,
-    "prevClose": 72.98,
-    "yfinance_updated": "2025-04-23T13:08:10.020998-04:00"
+    "open": 70.48,
+    "prevClose": 70.0,
+    "yfinance_updated": "2025-04-28T21:18:48.346244-04:00"
   },
   "TJX": {
     "sources": [
@@ -1076,9 +1076,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Cyclical",
-    "open": 127.19,
-    "prevClose": 125.71,
-    "yfinance_updated": "2025-04-23T13:08:10.185507-04:00"
+    "open": 126.77,
+    "prevClose": 126.56,
+    "yfinance_updated": "2025-04-28T21:18:48.463166-04:00"
   },
   "FCX": {
     "sources": [
@@ -1090,9 +1090,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Basic Materials",
-    "open": 35.435,
-    "prevClose": 34.06,
-    "yfinance_updated": "2025-04-23T13:08:10.344066-04:00"
+    "open": 37.05,
+    "prevClose": 37.35,
+    "yfinance_updated": "2025-04-28T21:18:48.569104-04:00"
   },
   "SMCI": {
     "sources": [
@@ -1104,9 +1104,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 33.02,
-    "prevClose": 30.58,
-    "yfinance_updated": "2025-04-23T13:08:10.487081-04:00"
+    "open": 36.6,
+    "prevClose": 36.47,
+    "yfinance_updated": "2025-04-28T21:18:48.675752-04:00"
   },
   "SW": {
     "sources": [
@@ -1118,9 +1118,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 41.955,
-    "prevClose": 41.54,
-    "yfinance_updated": "2025-04-23T13:08:10.638860-04:00"
+    "open": 42.39,
+    "prevClose": 42.23,
+    "yfinance_updated": "2025-04-28T21:18:48.780033-04:00"
   },
   "MRNA": {
     "sources": [
@@ -1132,9 +1132,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 26.49,
-    "prevClose": 25.74,
-    "yfinance_updated": "2025-04-23T13:08:10.810109-04:00"
+    "open": 27.0,
+    "prevClose": 27.22,
+    "yfinance_updated": "2025-04-28T21:18:48.932287-04:00"
   },
   "XYL": {
     "sources": [
@@ -1146,9 +1146,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 114.2,
-    "prevClose": 111.7,
-    "yfinance_updated": "2025-04-23T13:08:11.029721-04:00"
+    "open": 116.83,
+    "prevClose": 116.1,
+    "yfinance_updated": "2025-04-28T21:18:49.089308-04:00"
   },
   "AVGO": {
     "sources": [
@@ -1161,9 +1161,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 177.78,
-    "prevClose": 169.58,
-    "yfinance_updated": "2025-04-23T13:08:11.167114-04:00"
+    "open": 190.431,
+    "prevClose": 192.31,
+    "yfinance_updated": "2025-04-28T21:18:49.279382-04:00"
   },
   "CVX": {
     "sources": [
@@ -1176,9 +1176,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Energy",
-    "open": 137.21,
-    "prevClose": 137.3,
-    "yfinance_updated": "2025-04-23T13:08:11.298581-04:00"
+    "open": 138.97,
+    "prevClose": 138.73,
+    "yfinance_updated": "2025-04-28T21:18:49.418694-04:00"
   },
   "REGN": {
     "sources": [
@@ -1191,9 +1191,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 595.87,
-    "prevClose": 585.49,
-    "yfinance_updated": "2025-04-23T13:08:11.447262-04:00"
+    "open": 603.36,
+    "prevClose": 602.64,
+    "yfinance_updated": "2025-04-28T21:18:49.556488-04:00"
   },
   "MDT": {
     "sources": [
@@ -1205,9 +1205,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 84.16,
-    "prevClose": 83.37,
-    "yfinance_updated": "2025-04-23T13:08:11.608626-04:00"
+    "open": 84.6,
+    "prevClose": 84.16,
+    "yfinance_updated": "2025-04-28T21:18:49.698734-04:00"
   },
   "VZ": {
     "sources": [
@@ -1220,9 +1220,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Communication Services",
-    "open": 42.55,
-    "prevClose": 43.19,
-    "yfinance_updated": "2025-04-23T13:08:11.746506-04:00"
+    "open": 42.0,
+    "prevClose": 41.91,
+    "yfinance_updated": "2025-04-28T21:18:49.849290-04:00"
   },
   "LOW": {
     "sources": [
@@ -1234,9 +1234,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 222.125,
-    "prevClose": 217.92,
-    "yfinance_updated": "2025-04-23T13:08:11.856836-04:00"
+    "open": 220.5,
+    "prevClose": 220.91,
+    "yfinance_updated": "2025-04-28T21:18:49.967842-04:00"
   },
   "AXON": {
     "sources": [
@@ -1249,9 +1249,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 574.97,
-    "prevClose": 555.52,
-    "yfinance_updated": "2025-04-23T13:08:12.005420-04:00"
+    "open": 605.66,
+    "prevClose": 603.78,
+    "yfinance_updated": "2025-04-28T21:18:50.116670-04:00"
   },
   "DGX": {
     "sources": [
@@ -1263,9 +1263,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 172.77,
-    "prevClose": 172.84,
-    "yfinance_updated": "2025-04-23T13:08:12.149897-04:00"
+    "open": 174.68,
+    "prevClose": 173.76,
+    "yfinance_updated": "2025-04-28T21:18:50.244475-04:00"
   },
   "TAP": {
     "sources": [
@@ -1277,9 +1277,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 59.31,
-    "prevClose": 59.0,
-    "yfinance_updated": "2025-04-23T13:08:12.282825-04:00"
+    "open": 56.96,
+    "prevClose": 56.8,
+    "yfinance_updated": "2025-04-28T21:18:50.366162-04:00"
   },
   "PCAR": {
     "sources": [
@@ -1292,9 +1292,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 90.61,
-    "prevClose": 88.56,
-    "yfinance_updated": "2025-04-23T13:08:12.408842-04:00"
+    "open": 91.94,
+    "prevClose": 91.89,
+    "yfinance_updated": "2025-04-28T21:18:50.494282-04:00"
   },
   "ROST": {
     "sources": [
@@ -1307,9 +1307,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 140.61,
-    "prevClose": 137.89,
-    "yfinance_updated": "2025-04-23T13:08:12.572094-04:00"
+    "open": 140.025,
+    "prevClose": 139.71,
+    "yfinance_updated": "2025-04-28T21:18:50.619278-04:00"
   },
   "APP": {
     "sources": [
@@ -1321,9 +1321,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 255.505,
-    "prevClose": 237.71,
-    "yfinance_updated": "2025-04-23T13:08:12.737255-04:00"
+    "open": 278.83,
+    "prevClose": 276.83,
+    "yfinance_updated": "2025-04-28T21:18:50.728180-04:00"
   },
   "EVRG": {
     "sources": [
@@ -1335,9 +1335,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 68.36,
-    "prevClose": 68.36,
-    "yfinance_updated": "2025-04-23T13:08:12.886154-04:00"
+    "open": 68.5,
+    "prevClose": 67.88,
+    "yfinance_updated": "2025-04-28T21:18:50.834974-04:00"
   },
   "MKC": {
     "sources": [
@@ -1349,9 +1349,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 76.1,
-    "prevClose": 75.74,
-    "yfinance_updated": "2025-04-23T13:08:13.068571-04:00"
+    "open": 74.61,
+    "prevClose": 74.54,
+    "yfinance_updated": "2025-04-28T21:18:50.954910-04:00"
   },
   "AFL": {
     "sources": [
@@ -1363,9 +1363,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 108.55,
-    "prevClose": 108.31,
-    "yfinance_updated": "2025-04-23T13:08:13.188409-04:00"
+    "open": 108.3,
+    "prevClose": 107.94,
+    "yfinance_updated": "2025-04-28T21:18:51.087603-04:00"
   },
   "DE": {
     "sources": [
@@ -1377,9 +1377,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 462.95,
-    "prevClose": 454.66,
-    "yfinance_updated": "2025-04-23T13:08:13.306974-04:00"
+    "open": 459.3,
+    "prevClose": 459.3,
+    "yfinance_updated": "2025-04-28T21:18:51.211052-04:00"
   },
   "ARE": {
     "sources": [
@@ -1391,9 +1391,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 78.19,
-    "prevClose": 76.26,
-    "yfinance_updated": "2025-04-23T13:08:13.468808-04:00"
+    "open": 76.13,
+    "prevClose": 75.88,
+    "yfinance_updated": "2025-04-28T21:18:51.315273-04:00"
   },
   "CFG": {
     "sources": [
@@ -1405,9 +1405,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 37.01,
-    "prevClose": 35.82,
-    "yfinance_updated": "2025-04-23T13:08:13.630415-04:00"
+    "open": 37.13,
+    "prevClose": 37.06,
+    "yfinance_updated": "2025-04-28T21:18:51.437640-04:00"
   },
   "ANET": {
     "sources": [
@@ -1419,9 +1419,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 73.21,
-    "prevClose": 68.67,
-    "yfinance_updated": "2025-04-23T13:08:13.809908-04:00"
+    "open": 76.95,
+    "prevClose": 77.91,
+    "yfinance_updated": "2025-04-28T21:18:51.594963-04:00"
   },
   "GRMN": {
     "sources": [
@@ -1433,9 +1433,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 196.45,
-    "prevClose": 191.41,
-    "yfinance_updated": "2025-04-23T13:08:13.963296-04:00"
+    "open": 199.29,
+    "prevClose": 198.96,
+    "yfinance_updated": "2025-04-28T21:18:51.724992-04:00"
   },
   "DOC": {
     "sources": [
@@ -1447,9 +1447,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 18.98,
-    "prevClose": 18.81,
-    "yfinance_updated": "2025-04-23T13:08:14.138918-04:00"
+    "open": 17.79,
+    "prevClose": 17.83,
+    "yfinance_updated": "2025-04-28T21:18:51.874465-04:00"
   },
   "META": {
     "sources": [
@@ -1462,9 +1462,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Communication Services",
-    "open": 528.525,
-    "prevClose": 500.28,
-    "yfinance_updated": "2025-04-23T13:08:14.336555-04:00"
+    "open": 555.65,
+    "prevClose": 547.27,
+    "yfinance_updated": "2025-04-28T21:18:51.992088-04:00"
   },
   "EOG": {
     "sources": [
@@ -1476,9 +1476,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 112.5,
-    "prevClose": 111.32,
-    "yfinance_updated": "2025-04-23T13:08:14.520954-04:00"
+    "open": 112.88,
+    "prevClose": 113.07,
+    "yfinance_updated": "2025-04-28T21:18:52.135102-04:00"
   },
   "TMUS": {
     "sources": [
@@ -1491,9 +1491,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Communication Services",
-    "open": 254.0,
-    "prevClose": 258.3,
-    "yfinance_updated": "2025-04-23T13:08:14.704310-04:00"
+    "open": 231.79,
+    "prevClose": 232.77,
+    "yfinance_updated": "2025-04-28T21:18:52.251435-04:00"
   },
   "RTX": {
     "sources": [
@@ -1505,9 +1505,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 117.375,
-    "prevClose": 113.75,
-    "yfinance_updated": "2025-04-23T13:08:14.836791-04:00"
+    "open": 125.93,
+    "prevClose": 125.22,
+    "yfinance_updated": "2025-04-28T21:18:52.388782-04:00"
   },
   "FITB": {
     "sources": [
@@ -1519,9 +1519,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 35.5,
-    "prevClose": 34.65,
-    "yfinance_updated": "2025-04-23T13:08:14.968554-04:00"
+    "open": 35.41,
+    "prevClose": 35.28,
+    "yfinance_updated": "2025-04-28T21:18:52.526745-04:00"
   },
   "JNPR": {
     "sources": [
@@ -1533,9 +1533,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 34.86,
-    "prevClose": 34.63,
-    "yfinance_updated": "2025-04-23T13:08:15.131668-04:00"
+    "open": 35.58,
+    "prevClose": 35.6,
+    "yfinance_updated": "2025-04-28T21:18:52.632297-04:00"
   },
   "HWM": {
     "sources": [
@@ -1547,9 +1547,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 129.19,
-    "prevClose": 124.3,
-    "yfinance_updated": "2025-04-23T13:08:15.282137-04:00"
+    "open": 138.27,
+    "prevClose": 135.76,
+    "yfinance_updated": "2025-04-28T21:18:52.797090-04:00"
   },
   "CRWD": {
     "sources": [
@@ -1562,9 +1562,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 383.245,
-    "prevClose": 368.45,
-    "yfinance_updated": "2025-04-23T13:08:15.485450-04:00"
+    "open": 424.84,
+    "prevClose": 424.88,
+    "yfinance_updated": "2025-04-28T21:18:52.950922-04:00"
   },
   "CPT": {
     "sources": [
@@ -1576,9 +1576,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 114.09,
-    "prevClose": 113.16,
-    "yfinance_updated": "2025-04-23T13:08:15.621528-04:00"
+    "open": 113.68,
+    "prevClose": 114.0,
+    "yfinance_updated": "2025-04-28T21:18:53.059705-04:00"
   },
   "WDAY": {
     "sources": [
@@ -1591,9 +1591,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 225.48,
-    "prevClose": 220.99,
-    "yfinance_updated": "2025-04-23T13:08:15.743206-04:00"
+    "open": 239.36,
+    "prevClose": 239.53,
+    "yfinance_updated": "2025-04-28T21:18:53.203874-04:00"
   },
   "CB": {
     "sources": [
@@ -1605,9 +1605,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 285.21,
-    "prevClose": 290.42,
-    "yfinance_updated": "2025-04-23T13:08:15.868071-04:00"
+    "open": 280.23,
+    "prevClose": 279.11,
+    "yfinance_updated": "2025-04-28T21:18:53.328303-04:00"
   },
   "CHD": {
     "sources": [
@@ -1619,9 +1619,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 102.95,
-    "prevClose": 103.85,
-    "yfinance_updated": "2025-04-23T13:08:15.997389-04:00"
+    "open": 99.16,
+    "prevClose": 99.31,
+    "yfinance_updated": "2025-04-28T21:18:53.437294-04:00"
   },
   "GL": {
     "sources": [
@@ -1633,9 +1633,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 122.89,
-    "prevClose": 121.68,
-    "yfinance_updated": "2025-04-23T13:08:16.123354-04:00"
+    "open": 123.58,
+    "prevClose": 122.96,
+    "yfinance_updated": "2025-04-28T21:18:53.557732-04:00"
   },
   "AVY": {
     "sources": [
@@ -1647,9 +1647,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 173.48,
-    "prevClose": 174.83,
-    "yfinance_updated": "2025-04-23T13:08:16.252104-04:00"
+    "open": 171.35,
+    "prevClose": 170.75,
+    "yfinance_updated": "2025-04-28T21:18:53.697312-04:00"
   },
   "PAYC": {
     "sources": [
@@ -1661,9 +1661,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 215.88,
-    "prevClose": 211.52,
-    "yfinance_updated": "2025-04-23T13:08:16.391051-04:00"
+    "open": 227.78,
+    "prevClose": 227.6,
+    "yfinance_updated": "2025-04-28T21:18:53.878953-04:00"
   },
   "CDW": {
     "sources": [
@@ -1676,9 +1676,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 155.64,
-    "prevClose": 152.03,
-    "yfinance_updated": "2025-04-23T13:08:16.551105-04:00"
+    "open": 158.19,
+    "prevClose": 157.95,
+    "yfinance_updated": "2025-04-28T21:18:54.043926-04:00"
   },
   "SPY": {
     "sources": [
@@ -1690,9 +1690,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 540.43,
-    "prevClose": 527.25,
-    "yfinance_updated": "2025-04-23T13:08:16.679493-04:00"
+    "open": 551.39,
+    "prevClose": 550.64,
+    "yfinance_updated": "2025-04-28T21:18:54.165765-04:00"
   },
   "IFF": {
     "sources": [
@@ -1704,9 +1704,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 75.78,
-    "prevClose": 74.64,
-    "yfinance_updated": "2025-04-23T13:08:16.823157-04:00"
+    "open": 76.4,
+    "prevClose": 76.24,
+    "yfinance_updated": "2025-04-28T21:18:54.330760-04:00"
   },
   "STX": {
     "sources": [
@@ -1718,9 +1718,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 79.4082,
-    "prevClose": 75.36,
-    "yfinance_updated": "2025-04-23T13:08:16.965632-04:00"
+    "open": 82.21,
+    "prevClose": 82.7,
+    "yfinance_updated": "2025-04-28T21:18:54.466125-04:00"
   },
   "IT": {
     "sources": [
@@ -1732,9 +1732,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 412.31,
-    "prevClose": 400.31,
-    "yfinance_updated": "2025-04-23T13:08:17.090468-04:00"
+    "open": 416.0,
+    "prevClose": 416.09,
+    "yfinance_updated": "2025-04-28T21:18:54.595214-04:00"
   },
   "RF": {
     "sources": [
@@ -1746,9 +1746,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 20.31,
-    "prevClose": 19.78,
-    "yfinance_updated": "2025-04-23T13:08:17.205571-04:00"
+    "open": 20.3,
+    "prevClose": 20.28,
+    "yfinance_updated": "2025-04-28T21:18:54.836379-04:00"
   },
   "APA": {
     "sources": [
@@ -1760,9 +1760,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 16.189,
-    "prevClose": 15.86,
-    "yfinance_updated": "2025-04-23T13:08:17.365955-04:00"
+    "open": 16.36,
+    "prevClose": 16.35,
+    "yfinance_updated": "2025-04-28T21:18:54.969083-04:00"
   },
   "MCHP": {
     "sources": [
@@ -1775,9 +1775,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 42.77,
-    "prevClose": 40.29,
-    "yfinance_updated": "2025-04-23T13:08:17.506593-04:00"
+    "open": 46.66,
+    "prevClose": 46.89,
+    "yfinance_updated": "2025-04-28T21:18:55.115438-04:00"
   },
   "ADP": {
     "sources": [
@@ -1790,9 +1790,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 294.35,
-    "prevClose": 292.89,
-    "yfinance_updated": "2025-04-23T13:08:17.641450-04:00"
+    "open": 291.65,
+    "prevClose": 291.76,
+    "yfinance_updated": "2025-04-28T21:18:55.223959-04:00"
   },
   "ASML": {
     "sources": [
@@ -1804,9 +1804,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 664.245,
-    "prevClose": 638.69,
-    "yfinance_updated": "2025-04-23T13:08:17.771151-04:00"
+    "open": 672.17,
+    "prevClose": 675.3507,
+    "yfinance_updated": "2025-04-28T21:18:55.362942-04:00"
   },
   "XLF": {
     "sources": [
@@ -1818,9 +1818,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 48.04,
-    "prevClose": 47.16,
-    "yfinance_updated": "2025-04-23T13:08:18.206155-04:00"
+    "open": 48.22,
+    "prevClose": 48.02,
+    "yfinance_updated": "2025-04-28T21:18:55.481133-04:00"
   },
   "ERIE": {
     "sources": [
@@ -1832,9 +1832,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 406.15,
-    "prevClose": 405.3,
-    "yfinance_updated": "2025-04-23T13:08:18.321533-04:00"
+    "open": 362.17,
+    "prevClose": 361.85,
+    "yfinance_updated": "2025-04-28T21:18:55.585728-04:00"
   },
   "GFS": {
     "sources": [
@@ -1846,9 +1846,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 33.49,
-    "prevClose": 31.71,
-    "yfinance_updated": "2025-04-23T13:08:18.454260-04:00"
+    "open": 35.16,
+    "prevClose": 35.29,
+    "yfinance_updated": "2025-04-28T21:18:55.705614-04:00"
   },
   "HPQ": {
     "sources": [
@@ -1860,9 +1860,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 25.11,
-    "prevClose": 24.18,
-    "yfinance_updated": "2025-04-23T13:08:18.566532-04:00"
+    "open": 25.28,
+    "prevClose": 25.28,
+    "yfinance_updated": "2025-04-28T21:18:55.817672-04:00"
   },
   "PCG": {
     "sources": [
@@ -1874,9 +1874,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 17.405,
-    "prevClose": 17.44,
-    "yfinance_updated": "2025-04-23T13:08:18.704038-04:00"
+    "open": 17.17,
+    "prevClose": 17.14,
+    "yfinance_updated": "2025-04-28T21:18:55.953684-04:00"
   },
   "CCL": {
     "sources": [
@@ -1888,9 +1888,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 18.88,
-    "prevClose": 17.98,
-    "yfinance_updated": "2025-04-23T13:08:18.830340-04:00"
+    "open": 18.84,
+    "prevClose": 18.6,
+    "yfinance_updated": "2025-04-28T21:18:56.084451-04:00"
   },
   "KLAC": {
     "sources": [
@@ -1903,9 +1903,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 663.21,
-    "prevClose": 636.36,
-    "yfinance_updated": "2025-04-23T13:08:19.111032-04:00"
+    "open": 687.7,
+    "prevClose": 694.61,
+    "yfinance_updated": "2025-04-28T21:18:56.264611-04:00"
   },
   "LW": {
     "sources": [
@@ -1917,9 +1917,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 53.13,
-    "prevClose": 52.47,
-    "yfinance_updated": "2025-04-23T13:08:19.230685-04:00"
+    "open": 51.89,
+    "prevClose": 51.94,
+    "yfinance_updated": "2025-04-28T21:18:56.401618-04:00"
   },
   "ACN": {
     "sources": [
@@ -1931,9 +1931,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 294.65,
-    "prevClose": 283.96,
-    "yfinance_updated": "2025-04-23T13:08:19.417956-04:00"
+    "open": 294.52,
+    "prevClose": 293.39,
+    "yfinance_updated": "2025-04-28T21:18:56.526664-04:00"
   },
   "QQQ": {
     "sources": [
@@ -1945,9 +1945,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 458.23,
-    "prevClose": 444.48,
-    "yfinance_updated": "2025-04-23T13:08:19.555290-04:00"
+    "open": 473.02,
+    "prevClose": 472.56,
+    "yfinance_updated": "2025-04-28T21:18:56.996935-04:00"
   },
   "DELL": {
     "sources": [
@@ -1959,9 +1959,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 89.075,
-    "prevClose": 84.08,
-    "yfinance_updated": "2025-04-23T13:08:19.744334-04:00"
+    "open": 94.57,
+    "prevClose": 94.89,
+    "yfinance_updated": "2025-04-28T21:18:57.123470-04:00"
   },
   "GE": {
     "sources": [
@@ -1973,9 +1973,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Industrials",
-    "open": 195.94,
-    "prevClose": 189.18,
-    "yfinance_updated": "2025-04-23T13:08:19.889816-04:00"
+    "open": 199.5,
+    "prevClose": 198.43,
+    "yfinance_updated": "2025-04-28T21:18:57.302566-04:00"
   },
   "LYV": {
     "sources": [
@@ -1987,9 +1987,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 131.84,
-    "prevClose": 128.5,
-    "yfinance_updated": "2025-04-23T13:08:20.006239-04:00"
+    "open": 133.41,
+    "prevClose": 132.76,
+    "yfinance_updated": "2025-04-28T21:18:57.419810-04:00"
   },
   "ZBRA": {
     "sources": [
@@ -2001,9 +2001,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 237.885,
-    "prevClose": 227.2,
-    "yfinance_updated": "2025-04-23T13:08:20.114053-04:00"
+    "open": 246.0,
+    "prevClose": 246.24,
+    "yfinance_updated": "2025-04-28T21:18:57.538064-04:00"
   },
   "EXC": {
     "sources": [
@@ -2016,9 +2016,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 46.93,
-    "prevClose": 47.37,
-    "yfinance_updated": "2025-04-23T13:08:20.248581-04:00"
+    "open": 46.38,
+    "prevClose": 46.22,
+    "yfinance_updated": "2025-04-28T21:18:57.653105-04:00"
   },
   "WYNN": {
     "sources": [
@@ -2030,9 +2030,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 79.15,
-    "prevClose": 76.97,
-    "yfinance_updated": "2025-04-23T13:08:20.395834-04:00"
+    "open": 82.09,
+    "prevClose": 82.11,
+    "yfinance_updated": "2025-04-28T21:18:57.798560-04:00"
   },
   "UNH": {
     "sources": [
@@ -2045,9 +2045,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 427.07,
-    "prevClose": 427.18,
-    "yfinance_updated": "2025-04-23T13:08:20.538438-04:00"
+    "open": 419.75,
+    "prevClose": 418.64,
+    "yfinance_updated": "2025-04-28T21:18:57.914287-04:00"
   },
   "DLTR": {
     "sources": [
@@ -2059,9 +2059,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 84.43,
-    "prevClose": 82.16,
-    "yfinance_updated": "2025-04-23T13:08:20.658388-04:00"
+    "open": 80.03,
+    "prevClose": 80.57,
+    "yfinance_updated": "2025-04-28T21:18:58.237564-04:00"
   },
   "SNPS": {
     "sources": [
@@ -2074,9 +2074,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 432.34,
-    "prevClose": 413.4,
-    "yfinance_updated": "2025-04-23T13:08:20.778332-04:00"
+    "open": 444.39,
+    "prevClose": 446.62,
+    "yfinance_updated": "2025-04-28T21:18:58.369199-04:00"
   },
   "ZBH": {
     "sources": [
@@ -2088,9 +2088,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 98.14,
-    "prevClose": 97.44,
-    "yfinance_updated": "2025-04-23T13:08:20.932046-04:00"
+    "open": 101.69,
+    "prevClose": 101.51,
+    "yfinance_updated": "2025-04-28T21:18:58.492005-04:00"
   },
   "XLE": {
     "sources": [
@@ -2102,9 +2102,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 82.1,
-    "prevClose": 81.39,
-    "yfinance_updated": "2025-04-23T13:08:21.186486-04:00"
+    "open": 82.3,
+    "prevClose": 82.39,
+    "yfinance_updated": "2025-04-28T21:18:58.644426-04:00"
   },
   "LH": {
     "sources": [
@@ -2116,9 +2116,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 222.49,
-    "prevClose": 220.25,
-    "yfinance_updated": "2025-04-23T13:08:21.333735-04:00"
+    "open": 229.35,
+    "prevClose": 228.31,
+    "yfinance_updated": "2025-04-28T21:18:58.764168-04:00"
   },
   "EQT": {
     "sources": [
@@ -2130,9 +2130,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 50.03,
-    "prevClose": 48.57,
-    "yfinance_updated": "2025-04-23T13:08:21.517922-04:00"
+    "open": 49.98,
+    "prevClose": 50.24,
+    "yfinance_updated": "2025-04-28T21:18:58.876037-04:00"
   },
   "WMT": {
     "sources": [
@@ -2145,9 +2145,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Defensive",
-    "open": 95.0164,
-    "prevClose": 94.85,
-    "yfinance_updated": "2025-04-23T13:08:21.801116-04:00"
+    "open": 95.1,
+    "prevClose": 95.09,
+    "yfinance_updated": "2025-04-28T21:18:58.999867-04:00"
   },
   "ICE": {
     "sources": [
@@ -2159,9 +2159,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 162.1,
-    "prevClose": 160.68,
-    "yfinance_updated": "2025-04-23T13:08:21.937190-04:00"
+    "open": 163.3,
+    "prevClose": 163.23,
+    "yfinance_updated": "2025-04-28T21:18:59.174843-04:00"
   },
   "BA": {
     "sources": [
@@ -2174,9 +2174,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Industrials",
-    "open": 174.0,
-    "prevClose": 162.52,
-    "yfinance_updated": "2025-04-23T13:08:22.052406-04:00"
+    "open": 182.75,
+    "prevClose": 177.95,
+    "yfinance_updated": "2025-04-28T21:18:59.308360-04:00"
   },
   "TGT": {
     "sources": [
@@ -2188,9 +2188,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Defensive",
-    "open": 96.85,
-    "prevClose": 94.1,
-    "yfinance_updated": "2025-04-23T13:08:22.205579-04:00"
+    "open": 96.49,
+    "prevClose": 96.58,
+    "yfinance_updated": "2025-04-28T21:18:59.455587-04:00"
   },
   "UAL": {
     "sources": [
@@ -2202,9 +2202,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 71.48,
-    "prevClose": 66.97,
-    "yfinance_updated": "2025-04-23T13:08:22.356297-04:00"
+    "open": 68.59,
+    "prevClose": 68.2,
+    "yfinance_updated": "2025-04-28T21:18:59.574365-04:00"
   },
   "WTW": {
     "sources": [
@@ -2216,9 +2216,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 324.69,
-    "prevClose": 324.68,
-    "yfinance_updated": "2025-04-23T13:08:22.523860-04:00"
+    "open": 304.56,
+    "prevClose": 302.19,
+    "yfinance_updated": "2025-04-28T21:18:59.687743-04:00"
   },
   "DG": {
     "sources": [
@@ -2230,9 +2230,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 95.875,
-    "prevClose": 96.79,
-    "yfinance_updated": "2025-04-23T13:08:22.686126-04:00"
+    "open": 93.31,
+    "prevClose": 93.56,
+    "yfinance_updated": "2025-04-28T21:18:59.800097-04:00"
   },
   "CME": {
     "sources": [
@@ -2244,9 +2244,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 256.54,
-    "prevClose": 265.56,
-    "yfinance_updated": "2025-04-23T13:08:22.834986-04:00"
+    "open": 267.25,
+    "prevClose": 266.3,
+    "yfinance_updated": "2025-04-28T21:18:59.961413-04:00"
   },
   "FOXA": {
     "sources": [
@@ -2258,9 +2258,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 49.1,
-    "prevClose": 48.2,
-    "yfinance_updated": "2025-04-23T13:08:22.999903-04:00"
+    "open": 49.55,
+    "prevClose": 49.35,
+    "yfinance_updated": "2025-04-28T21:19:00.099193-04:00"
   },
   "ETN": {
     "sources": [
@@ -2272,9 +2272,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Industrials",
-    "open": 288.95,
-    "prevClose": 266.91,
-    "yfinance_updated": "2025-04-23T13:08:23.132838-04:00"
+    "open": 288.06,
+    "prevClose": 288.82,
+    "yfinance_updated": "2025-04-28T21:19:00.235462-04:00"
   },
   "TSN": {
     "sources": [
@@ -2286,9 +2286,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 61.46,
-    "prevClose": 61.39,
-    "yfinance_updated": "2025-04-23T13:08:23.280110-04:00"
+    "open": 60.56,
+    "prevClose": 60.62,
+    "yfinance_updated": "2025-04-28T21:19:00.361732-04:00"
   },
   "ELV": {
     "sources": [
@@ -2300,9 +2300,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 414.75,
-    "prevClose": 415.9,
-    "yfinance_updated": "2025-04-23T13:08:23.400036-04:00"
+    "open": 421.82,
+    "prevClose": 421.68,
+    "yfinance_updated": "2025-04-28T21:19:00.487559-04:00"
   },
   "DUK": {
     "sources": [
@@ -2314,9 +2314,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 121.21,
-    "prevClose": 122.53,
-    "yfinance_updated": "2025-04-23T13:08:23.506409-04:00"
+    "open": 119.99,
+    "prevClose": 119.85,
+    "yfinance_updated": "2025-04-28T21:19:00.615923-04:00"
   },
   "NWSA": {
     "sources": [
@@ -2328,9 +2328,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 26.73,
-    "prevClose": 26.18,
-    "yfinance_updated": "2025-04-23T13:08:23.696150-04:00"
+    "open": 27.15,
+    "prevClose": 27.13,
+    "yfinance_updated": "2025-04-28T21:19:00.752583-04:00"
   },
   "TER": {
     "sources": [
@@ -2342,9 +2342,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 75.07,
-    "prevClose": 71.29,
-    "yfinance_updated": "2025-04-23T13:08:23.806299-04:00"
+    "open": 76.605,
+    "prevClose": 77.12,
+    "yfinance_updated": "2025-04-28T21:19:00.883422-04:00"
   },
   "GEHC": {
     "sources": [
@@ -2357,9 +2357,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 64.54,
-    "prevClose": 61.65,
-    "yfinance_updated": "2025-04-23T13:08:23.931387-04:00"
+    "open": 68.33,
+    "prevClose": 68.42,
+    "yfinance_updated": "2025-04-28T21:19:01.043225-04:00"
   },
   "VLTO": {
     "sources": [
@@ -2371,9 +2371,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 90.56,
-    "prevClose": 89.18,
-    "yfinance_updated": "2025-04-23T13:08:24.067619-04:00"
+    "open": 92.59,
+    "prevClose": 92.31,
+    "yfinance_updated": "2025-04-28T21:19:01.164783-04:00"
   },
   "JBL": {
     "sources": [
@@ -2385,9 +2385,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 139.82,
-    "prevClose": 133.24,
-    "yfinance_updated": "2025-04-23T13:08:24.186527-04:00"
+    "open": 146.41,
+    "prevClose": 146.92,
+    "yfinance_updated": "2025-04-28T21:19:01.307747-04:00"
   },
   "ULTA": {
     "sources": [
@@ -2399,9 +2399,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 385.38,
-    "prevClose": 378.67,
-    "yfinance_updated": "2025-04-23T13:08:24.334729-04:00"
+    "open": 383.06,
+    "prevClose": 383.67,
+    "yfinance_updated": "2025-04-28T21:19:01.415138-04:00"
   },
   "DDOG": {
     "sources": [
@@ -2413,9 +2413,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 95.25,
-    "prevClose": 91.42,
-    "yfinance_updated": "2025-04-23T13:08:24.488171-04:00"
+    "open": 101.4,
+    "prevClose": 101.52,
+    "yfinance_updated": "2025-04-28T21:19:01.598206-04:00"
   },
   "ZS": {
     "sources": [
@@ -2427,9 +2427,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 202.0,
-    "prevClose": 196.52,
-    "yfinance_updated": "2025-04-23T13:08:24.673936-04:00"
+    "open": 219.34,
+    "prevClose": 215.58,
+    "yfinance_updated": "2025-04-28T21:19:01.754010-04:00"
   },
   "PGR": {
     "sources": [
@@ -2441,9 +2441,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 265.08,
-    "prevClose": 265.08,
-    "yfinance_updated": "2025-04-23T13:08:24.803578-04:00"
+    "open": 268.59,
+    "prevClose": 265.01,
+    "yfinance_updated": "2025-04-28T21:19:01.867980-04:00"
   },
   "C": {
     "sources": [
@@ -2455,9 +2455,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 66.47,
-    "prevClose": 64.55,
-    "yfinance_updated": "2025-04-23T13:08:24.947718-04:00"
+    "open": 68.655,
+    "prevClose": 68.43,
+    "yfinance_updated": "2025-04-28T21:19:01.992532-04:00"
   },
   "XOM": {
     "sources": [
@@ -2469,9 +2469,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Energy",
-    "open": 108.81,
-    "prevClose": 108.3,
-    "yfinance_updated": "2025-04-23T13:08:25.062920-04:00"
+    "open": 108.75,
+    "prevClose": 108.57,
+    "yfinance_updated": "2025-04-28T21:19:02.164425-04:00"
   },
   "ALL": {
     "sources": [
@@ -2483,9 +2483,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 194.7,
-    "prevClose": 193.9,
-    "yfinance_updated": "2025-04-23T13:08:25.178146-04:00"
+    "open": 193.66,
+    "prevClose": 192.91,
+    "yfinance_updated": "2025-04-28T21:19:02.274572-04:00"
   },
   "AIZ": {
     "sources": [
@@ -2497,9 +2497,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 191.15,
-    "prevClose": 188.94,
-    "yfinance_updated": "2025-04-23T13:08:25.298222-04:00"
+    "open": 191.73,
+    "prevClose": 190.83,
+    "yfinance_updated": "2025-04-28T21:19:02.400754-04:00"
   },
   "MRVL": {
     "sources": [
@@ -2511,9 +2511,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 54.875,
-    "prevClose": 50.62,
-    "yfinance_updated": "2025-04-23T13:08:25.435698-04:00"
+    "open": 58.315,
+    "prevClose": 58.92,
+    "yfinance_updated": "2025-04-28T21:19:02.526791-04:00"
   },
   "HUM": {
     "sources": [
@@ -2525,9 +2525,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 259.34,
-    "prevClose": 258.92,
-    "yfinance_updated": "2025-04-23T13:08:26.118169-04:00"
+    "open": 264.22,
+    "prevClose": 264.4,
+    "yfinance_updated": "2025-04-28T21:19:02.655488-04:00"
   },
   "HAS": {
     "sources": [
@@ -2539,9 +2539,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 53.98,
-    "prevClose": 52.1,
-    "yfinance_updated": "2025-04-23T13:08:26.268288-04:00"
+    "open": 60.9937,
+    "prevClose": 60.99,
+    "yfinance_updated": "2025-04-28T21:19:02.794213-04:00"
   },
   "CSGP": {
     "sources": [
@@ -2554,9 +2554,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 82.01,
-    "prevClose": 80.87,
-    "yfinance_updated": "2025-04-23T13:08:26.391503-04:00"
+    "open": 83.04,
+    "prevClose": 82.82,
+    "yfinance_updated": "2025-04-28T21:19:02.901587-04:00"
   },
   "BDX": {
     "sources": [
@@ -2568,9 +2568,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 202.57,
-    "prevClose": 199.88,
-    "yfinance_updated": "2025-04-23T13:08:26.525781-04:00"
+    "open": 206.22,
+    "prevClose": 205.08,
+    "yfinance_updated": "2025-04-28T21:19:03.146200-04:00"
   },
   "ES": {
     "sources": [
@@ -2582,9 +2582,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 57.83,
-    "prevClose": 58.05,
-    "yfinance_updated": "2025-04-23T13:08:26.714467-04:00"
+    "open": 58.0,
+    "prevClose": 57.86,
+    "yfinance_updated": "2025-04-28T21:19:03.645905-04:00"
   },
   "JKHY": {
     "sources": [
@@ -2596,9 +2596,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 173.0,
-    "prevClose": 172.68,
-    "yfinance_updated": "2025-04-23T13:08:26.836490-04:00"
+    "open": 171.01,
+    "prevClose": 170.93,
+    "yfinance_updated": "2025-04-28T21:19:03.752875-04:00"
   },
   "ANSS": {
     "sources": [
@@ -2611,9 +2611,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 307.03,
-    "prevClose": 303.26,
-    "yfinance_updated": "2025-04-23T13:08:27.002797-04:00"
+    "open": 319.22,
+    "prevClose": 320.68,
+    "yfinance_updated": "2025-04-28T21:19:03.858577-04:00"
   },
   "EPAM": {
     "sources": [
@@ -2625,9 +2625,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 155.09,
-    "prevClose": 147.39,
-    "yfinance_updated": "2025-04-23T13:08:27.145176-04:00"
+    "open": 159.72,
+    "prevClose": 159.12,
+    "yfinance_updated": "2025-04-28T21:19:03.989751-04:00"
   },
   "XEL": {
     "sources": [
@@ -2640,9 +2640,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 71.07,
-    "prevClose": 71.39,
-    "yfinance_updated": "2025-04-23T13:08:27.266832-04:00"
+    "open": 69.02,
+    "prevClose": 69.0,
+    "yfinance_updated": "2025-04-28T21:19:04.097183-04:00"
   },
   "RMD": {
     "sources": [
@@ -2654,9 +2654,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 214.29,
-    "prevClose": 214.08,
-    "yfinance_updated": "2025-04-23T13:08:27.394848-04:00"
+    "open": 236.0,
+    "prevClose": 235.88,
+    "yfinance_updated": "2025-04-28T21:19:04.246232-04:00"
   },
   "HSY": {
     "sources": [
@@ -2668,9 +2668,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 167.02,
-    "prevClose": 167.44,
-    "yfinance_updated": "2025-04-23T13:08:27.517372-04:00"
+    "open": 163.56,
+    "prevClose": 163.28,
+    "yfinance_updated": "2025-04-28T21:19:04.375869-04:00"
   },
   "AOS": {
     "sources": [
@@ -2683,8 +2683,8 @@
     "tv_volume": null,
     "tv_changePercent": null,
     "open": 65.21,
-    "prevClose": 63.96,
-    "yfinance_updated": "2025-04-23T13:08:27.687717-04:00"
+    "prevClose": 64.99,
+    "yfinance_updated": "2025-04-28T21:19:04.501815-04:00"
   },
   "CSCO": {
     "sources": [
@@ -2698,9 +2698,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 56.15,
-    "prevClose": 55.04,
-    "yfinance_updated": "2025-04-23T13:08:27.803189-04:00"
+    "open": 56.525,
+    "prevClose": 56.71,
+    "yfinance_updated": "2025-04-28T21:19:04.615549-04:00"
   },
   "NTRS": {
     "sources": [
@@ -2712,9 +2712,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 91.21,
-    "prevClose": 89.36,
-    "yfinance_updated": "2025-04-23T13:08:27.989664-04:00"
+    "open": 91.92,
+    "prevClose": 91.59,
+    "yfinance_updated": "2025-04-28T21:19:04.738028-04:00"
   },
   "BBY": {
     "sources": [
@@ -2726,9 +2726,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 66.69,
-    "prevClose": 63.38,
-    "yfinance_updated": "2025-04-23T13:08:28.103997-04:00"
+    "open": 68.0,
+    "prevClose": 67.71,
+    "yfinance_updated": "2025-04-28T21:19:04.905236-04:00"
   },
   "PH": {
     "sources": [
@@ -2740,9 +2740,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 589.59,
-    "prevClose": 566.65,
-    "yfinance_updated": "2025-04-23T13:08:28.281671-04:00"
+    "open": 601.29,
+    "prevClose": 598.02,
+    "yfinance_updated": "2025-04-28T21:19:05.016157-04:00"
   },
   "DHI": {
     "sources": [
@@ -2754,9 +2754,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 127.02,
-    "prevClose": 124.96,
-    "yfinance_updated": "2025-04-23T13:08:28.420933-04:00"
+    "open": 124.58,
+    "prevClose": 124.56,
+    "yfinance_updated": "2025-04-28T21:19:05.141007-04:00"
   },
   "MCO": {
     "sources": [
@@ -2768,9 +2768,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 443.16,
-    "prevClose": 429.87,
-    "yfinance_updated": "2025-04-23T13:08:28.568233-04:00"
+    "open": 439.93,
+    "prevClose": 438.62,
+    "yfinance_updated": "2025-04-28T21:19:05.251435-04:00"
   },
   "K": {
     "sources": [
@@ -5577,9 +5577,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 40.7,
-    "prevClose": 39.97,
-    "yfinance_updated": "2025-04-23T13:08:56.769331-04:00"
+    "open": null,
+    "prevClose": null,
+    "yfinance_updated": "2025-04-28T21:21:14.538923-04:00"
   },
   "KEYS": {
     "sources": [
@@ -5591,9 +5591,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 141.54,
-    "prevClose": 135.11,
-    "yfinance_updated": "2025-04-23T13:08:56.910199-04:00"
+    "open": 143.47,
+    "prevClose": 144.01,
+    "yfinance_updated": "2025-04-28T21:21:14.759839-04:00"
   },
   "KEY": {
     "sources": [
@@ -5605,9 +5605,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 14.63,
-    "prevClose": 14.17,
-    "yfinance_updated": "2025-04-23T13:08:57.036852-04:00"
+    "open": 14.74,
+    "prevClose": 14.72,
+    "yfinance_updated": "2025-04-28T21:21:14.878861-04:00"
   },
   "GOOG": {
     "sources": [
@@ -5620,9 +5620,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Communication Services",
-    "open": 157.91,
-    "prevClose": 153.9,
-    "yfinance_updated": "2025-04-23T13:08:57.467123-04:00"
+    "open": 164.13,
+    "prevClose": 163.85,
+    "yfinance_updated": "2025-04-28T21:21:15.032219-04:00"
   },
   "WDC": {
     "sources": [
@@ -5634,9 +5634,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 38.4,
-    "prevClose": 36.68,
-    "yfinance_updated": "2025-04-23T13:08:57.628797-04:00"
+    "open": 40.53,
+    "prevClose": 40.78,
+    "yfinance_updated": "2025-04-28T21:21:15.177584-04:00"
   },
   "SYK": {
     "sources": [
@@ -5648,9 +5648,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 355.105,
-    "prevClose": 348.12,
-    "yfinance_updated": "2025-04-23T13:08:57.761635-04:00"
+    "open": 366.99,
+    "prevClose": 365.06,
+    "yfinance_updated": "2025-04-28T21:21:15.301517-04:00"
   },
   "TSCO": {
     "sources": [
@@ -5662,9 +5662,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 51.68,
-    "prevClose": 50.28,
-    "yfinance_updated": "2025-04-23T13:08:57.921501-04:00"
+    "open": 49.92,
+    "prevClose": 49.92,
+    "yfinance_updated": "2025-04-28T21:21:15.441604-04:00"
   },
   "MDB": {
     "sources": [
@@ -5676,9 +5676,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 159.87,
-    "prevClose": 152.15,
-    "yfinance_updated": "2025-04-23T13:08:58.057519-04:00"
+    "open": 172.98,
+    "prevClose": 173.5,
+    "yfinance_updated": "2025-04-28T21:21:15.560301-04:00"
   },
   "SO": {
     "sources": [
@@ -5690,9 +5690,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 91.48,
-    "prevClose": 91.86,
-    "yfinance_updated": "2025-04-23T13:08:58.199792-04:00"
+    "open": 90.35,
+    "prevClose": 90.43,
+    "yfinance_updated": "2025-04-28T21:21:15.664225-04:00"
   },
   "HST": {
     "sources": [
@@ -5704,9 +5704,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 14.24,
-    "prevClose": 13.82,
-    "yfinance_updated": "2025-04-23T13:08:58.308612-04:00"
+    "open": 13.91,
+    "prevClose": 13.88,
+    "yfinance_updated": "2025-04-28T21:21:15.800156-04:00"
   },
   "NI": {
     "sources": [
@@ -5718,9 +5718,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 39.17,
-    "prevClose": 39.02,
-    "yfinance_updated": "2025-04-23T13:08:58.457539-04:00"
+    "open": 39.41,
+    "prevClose": 39.45,
+    "yfinance_updated": "2025-04-28T21:21:15.981175-04:00"
   },
   "AMGN": {
     "sources": [
@@ -5734,9 +5734,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 279.91,
-    "prevClose": 278.4,
-    "yfinance_updated": "2025-04-23T13:08:58.632378-04:00"
+    "open": 280.63,
+    "prevClose": 280.84,
+    "yfinance_updated": "2025-04-28T21:21:16.101120-04:00"
   },
   "DOV": {
     "sources": [
@@ -5748,9 +5748,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 169.22,
-    "prevClose": 163.56,
-    "yfinance_updated": "2025-04-23T13:08:58.779645-04:00"
+    "open": 169.43,
+    "prevClose": 169.01,
+    "yfinance_updated": "2025-04-28T21:21:16.224527-04:00"
   },
   "KMB": {
     "sources": [
@@ -5762,9 +5762,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 135.52,
-    "prevClose": 137.92,
-    "yfinance_updated": "2025-04-23T13:08:58.912456-04:00"
+    "open": 131.73,
+    "prevClose": 131.61,
+    "yfinance_updated": "2025-04-28T21:21:16.423660-04:00"
   },
   "APO": {
     "sources": [
@@ -5776,9 +5776,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 130.0,
-    "prevClose": 123.71,
-    "yfinance_updated": "2025-04-23T13:08:59.024490-04:00"
+    "open": 134.42,
+    "prevClose": 133.4,
+    "yfinance_updated": "2025-04-28T21:21:16.568613-04:00"
   },
   "DVN": {
     "sources": [
@@ -5790,9 +5790,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 31.74,
-    "prevClose": 31.2,
-    "yfinance_updated": "2025-04-23T13:08:59.208509-04:00"
+    "open": 31.36,
+    "prevClose": 31.35,
+    "yfinance_updated": "2025-04-28T21:21:16.681953-04:00"
   },
   "TTWO": {
     "sources": [
@@ -5805,9 +5805,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 212.07,
-    "prevClose": 209.97,
-    "yfinance_updated": "2025-04-23T13:08:59.355374-04:00"
+    "open": 227.25,
+    "prevClose": 225.38,
+    "yfinance_updated": "2025-04-28T21:21:16.786046-04:00"
   },
   "CNP": {
     "sources": [
@@ -5819,9 +5819,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 37.14,
-    "prevClose": 37.26,
-    "yfinance_updated": "2025-04-23T13:08:59.494096-04:00"
+    "open": 38.05,
+    "prevClose": 38.19,
+    "yfinance_updated": "2025-04-28T21:21:16.886938-04:00"
   },
   "SCHW": {
     "sources": [
@@ -5833,9 +5833,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 78.28,
-    "prevClose": 76.58,
-    "yfinance_updated": "2025-04-23T13:08:59.642018-04:00"
+    "open": 80.45,
+    "prevClose": 79.94,
+    "yfinance_updated": "2025-04-28T21:21:16.998882-04:00"
   },
   "VRTX": {
     "sources": [
@@ -5848,9 +5848,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 488.99,
-    "prevClose": 490.47,
-    "yfinance_updated": "2025-04-23T13:08:59.768707-04:00"
+    "open": 492.8,
+    "prevClose": 493.84,
+    "yfinance_updated": "2025-04-28T21:21:17.157507-04:00"
   },
   "PYPL": {
     "sources": [
@@ -5863,9 +5863,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 62.715,
-    "prevClose": 61.42,
-    "yfinance_updated": "2025-04-23T13:08:59.911183-04:00"
+    "open": 65.34,
+    "prevClose": 65.34,
+    "yfinance_updated": "2025-04-28T21:21:17.306295-04:00"
   },
   "MCD": {
     "sources": [
@@ -5878,9 +5878,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Cyclical",
-    "open": 318.5,
-    "prevClose": 319.08,
-    "yfinance_updated": "2025-04-23T13:09:00.028076-04:00"
+    "open": 317.7,
+    "prevClose": 316.74,
+    "yfinance_updated": "2025-04-28T21:21:17.437911-04:00"
   },
   "QCOM": {
     "sources": [
@@ -5893,9 +5893,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 142.26,
-    "prevClose": 138.74,
-    "yfinance_updated": "2025-04-23T13:09:00.173518-04:00"
+    "open": 147.845,
+    "prevClose": 148.56,
+    "yfinance_updated": "2025-04-28T21:21:17.641257-04:00"
   },
   "MTD": {
     "sources": [
@@ -5907,9 +5907,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 1044.34,
-    "prevClose": 1003.16,
-    "yfinance_updated": "2025-04-23T13:09:00.312931-04:00"
+    "open": 1067.19,
+    "prevClose": 1061.79,
+    "yfinance_updated": "2025-04-28T21:21:17.754410-04:00"
   },
   "CPAY": {
     "sources": [
@@ -5921,9 +5921,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 318.1,
-    "prevClose": 307.77,
-    "yfinance_updated": "2025-04-23T13:09:00.420220-04:00"
+    "open": 322.17,
+    "prevClose": 322.03,
+    "yfinance_updated": "2025-04-28T21:21:17.890525-04:00"
   },
   "EG": {
     "sources": [
@@ -5935,9 +5935,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 357.65,
-    "prevClose": 357.2,
-    "yfinance_updated": "2025-04-23T13:09:00.575403-04:00"
+    "open": 353.15,
+    "prevClose": 353.15,
+    "yfinance_updated": "2025-04-28T21:21:17.997587-04:00"
   },
   "EW": {
     "sources": [
@@ -5949,9 +5949,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 71.97,
-    "prevClose": 70.6,
-    "yfinance_updated": "2025-04-23T13:09:00.721091-04:00"
+    "open": 76.38,
+    "prevClose": 76.04,
+    "yfinance_updated": "2025-04-28T21:21:18.115351-04:00"
   },
   "CMCSA": {
     "sources": [
@@ -5964,9 +5964,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Communication Services",
-    "open": 34.55,
-    "prevClose": 34.2,
-    "yfinance_updated": "2025-04-23T13:09:00.852315-04:00"
+    "open": 33.915,
+    "prevClose": 33.9,
+    "yfinance_updated": "2025-04-28T21:21:18.260895-04:00"
   },
   "PARA": {
     "sources": [
@@ -5978,9 +5978,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 11.11,
-    "prevClose": 10.98,
-    "yfinance_updated": "2025-04-23T13:09:00.997887-04:00"
+    "open": 11.71,
+    "prevClose": 11.73,
+    "yfinance_updated": "2025-04-28T21:21:18.402606-04:00"
   },
   "COF": {
     "sources": [
@@ -5992,9 +5992,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 177.0,
-    "prevClose": 170.2,
-    "yfinance_updated": "2025-04-23T13:09:01.156158-04:00"
+    "open": 183.25,
+    "prevClose": 182.73,
+    "yfinance_updated": "2025-04-28T21:21:18.530837-04:00"
   },
   "OKE": {
     "sources": [
@@ -6006,9 +6006,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 85.21,
-    "prevClose": 84.05,
-    "yfinance_updated": "2025-04-23T13:09:01.290336-04:00"
+    "open": 86.22,
+    "prevClose": 86.31,
+    "yfinance_updated": "2025-04-28T21:21:18.630005-04:00"
   },
   "KIM": {
     "sources": [
@@ -6020,9 +6020,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 20.59,
-    "prevClose": 20.45,
-    "yfinance_updated": "2025-04-23T13:09:01.437658-04:00"
+    "open": 20.34,
+    "prevClose": 20.35,
+    "yfinance_updated": "2025-04-28T21:21:18.751610-04:00"
   },
   "FRT": {
     "sources": [
@@ -6034,9 +6034,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 94.29,
-    "prevClose": 93.57,
-    "yfinance_updated": "2025-04-23T13:09:01.563028-04:00"
+    "open": 94.52,
+    "prevClose": 94.38,
+    "yfinance_updated": "2025-04-28T21:21:18.857376-04:00"
   },
   "TPR": {
     "sources": [
@@ -6048,9 +6048,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 68.68,
-    "prevClose": 64.92,
-    "yfinance_updated": "2025-04-23T13:09:01.783960-04:00"
+    "open": 68.81,
+    "prevClose": 68.88,
+    "yfinance_updated": "2025-04-28T21:21:18.964570-04:00"
   },
   "LLY": {
     "sources": [
@@ -6062,9 +6062,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 836.96,
-    "prevClose": 827.54,
-    "yfinance_updated": "2025-04-23T13:09:01.899024-04:00"
+    "open": 870.44,
+    "prevClose": 884.54,
+    "yfinance_updated": "2025-04-28T21:21:19.183587-04:00"
   },
   "CTVA": {
     "sources": [
@@ -6076,9 +6076,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 61.39,
-    "prevClose": 60.65,
-    "yfinance_updated": "2025-04-23T13:09:02.023724-04:00"
+    "open": 61.71,
+    "prevClose": 61.47,
+    "yfinance_updated": "2025-04-28T21:21:19.294629-04:00"
   },
   "FAST": {
     "sources": [
@@ -6091,9 +6091,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 82.21,
-    "prevClose": 81.44,
-    "yfinance_updated": "2025-04-23T13:09:02.205097-04:00"
+    "open": 80.51,
+    "prevClose": 80.73,
+    "yfinance_updated": "2025-04-28T21:21:19.417410-04:00"
   },
   "ISRG": {
     "sources": [
@@ -6106,9 +6106,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 499.275,
-    "prevClose": 478.74,
-    "yfinance_updated": "2025-04-23T13:09:02.324638-04:00"
+    "open": 515.91,
+    "prevClose": 514.59,
+    "yfinance_updated": "2025-04-28T21:21:19.524814-04:00"
   },
   "CMG": {
     "sources": [
@@ -6120,9 +6120,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 48.87,
-    "prevClose": 47.1,
-    "yfinance_updated": "2025-04-23T13:09:02.580912-04:00"
+    "open": 51.94,
+    "prevClose": 51.78,
+    "yfinance_updated": "2025-04-28T21:21:19.633924-04:00"
   },
   "PWR": {
     "sources": [
@@ -6134,9 +6134,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 277.28,
-    "prevClose": 261.85,
-    "yfinance_updated": "2025-04-23T13:09:02.701075-04:00"
+    "open": 285.57,
+    "prevClose": 287.34,
+    "yfinance_updated": "2025-04-28T21:21:19.755149-04:00"
   },
   "APTV": {
     "sources": [
@@ -6148,9 +6148,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 54.43,
-    "prevClose": 52.28,
-    "yfinance_updated": "2025-04-23T13:09:02.855815-04:00"
+    "open": 56.0,
+    "prevClose": 55.93,
+    "yfinance_updated": "2025-04-28T21:21:19.859074-04:00"
   },
   "PFG": {
     "sources": [
@@ -6162,9 +6162,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 74.65,
-    "prevClose": 72.85,
-    "yfinance_updated": "2025-04-23T13:09:02.965071-04:00"
+    "open": 73.33,
+    "prevClose": 73.46,
+    "yfinance_updated": "2025-04-28T21:21:19.973115-04:00"
   },
   "CAH": {
     "sources": [
@@ -6176,9 +6176,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 134.1,
-    "prevClose": 133.69,
-    "yfinance_updated": "2025-04-23T13:09:03.097836-04:00"
+    "open": 138.0,
+    "prevClose": 137.56,
+    "yfinance_updated": "2025-04-28T21:21:20.078365-04:00"
   },
   "NKE": {
     "sources": [
@@ -6191,9 +6191,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Cyclical",
-    "open": 59.0,
-    "prevClose": 57.06,
-    "yfinance_updated": "2025-04-23T13:09:03.213003-04:00"
+    "open": 57.73,
+    "prevClose": 57.62,
+    "yfinance_updated": "2025-04-28T21:21:20.220754-04:00"
   },
   "INTC": {
     "sources": [
@@ -6207,9 +6207,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 20.725,
-    "prevClose": 19.51,
-    "yfinance_updated": "2025-04-23T13:09:03.358862-04:00"
+    "open": 20.115,
+    "prevClose": 20.05,
+    "yfinance_updated": "2025-04-28T21:21:20.340902-04:00"
   },
   "DOW": {
     "sources": [
@@ -6222,9 +6222,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 30.06,
-    "prevClose": 29.0,
-    "yfinance_updated": "2025-04-23T13:09:03.473786-04:00"
+    "open": 30.25,
+    "prevClose": 30.02,
+    "yfinance_updated": "2025-04-28T21:21:20.470499-04:00"
   },
   "BRO": {
     "sources": [
@@ -6236,9 +6236,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 117.72,
-    "prevClose": 117.56,
-    "yfinance_updated": "2025-04-23T13:09:03.622578-04:00"
+    "open": 115.0,
+    "prevClose": 114.44,
+    "yfinance_updated": "2025-04-28T21:21:20.592848-04:00"
   },
   "CZR": {
     "sources": [
@@ -6250,9 +6250,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 27.74,
-    "prevClose": 26.75,
-    "yfinance_updated": "2025-04-23T13:09:03.744386-04:00"
+    "open": 28.44,
+    "prevClose": 28.44,
+    "yfinance_updated": "2025-04-28T21:21:20.717002-04:00"
   },
   "KMX": {
     "sources": [
@@ -6264,9 +6264,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 67.01,
-    "prevClose": 65.05,
-    "yfinance_updated": "2025-04-23T13:09:03.901400-04:00"
+    "open": 65.81,
+    "prevClose": 65.03,
+    "yfinance_updated": "2025-04-28T21:21:20.861660-04:00"
   },
   "IRM": {
     "sources": [
@@ -6278,9 +6278,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 85.32,
-    "prevClose": 83.03,
-    "yfinance_updated": "2025-04-23T13:09:04.053043-04:00"
+    "open": 87.33,
+    "prevClose": 87.72,
+    "yfinance_updated": "2025-04-28T21:21:20.998318-04:00"
   },
   "ORLY": {
     "sources": [
@@ -6293,9 +6293,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 1401.08,
-    "prevClose": 1393.54,
-    "yfinance_updated": "2025-04-23T13:09:04.197311-04:00"
+    "open": 1352.48,
+    "prevClose": 1347.0,
+    "yfinance_updated": "2025-04-28T21:21:21.104088-04:00"
   },
   "HIG": {
     "sources": [
@@ -6307,9 +6307,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 118.78,
-    "prevClose": 118.74,
-    "yfinance_updated": "2025-04-23T13:09:04.341156-04:00"
+    "open": 118.82,
+    "prevClose": 118.76,
+    "yfinance_updated": "2025-04-28T21:21:21.230783-04:00"
   },
   "RL": {
     "sources": [
@@ -6321,9 +6321,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 219.35,
-    "prevClose": 209.59,
-    "yfinance_updated": "2025-04-23T13:09:04.464796-04:00"
+    "open": 220.61,
+    "prevClose": 219.96,
+    "yfinance_updated": "2025-04-28T21:21:21.354972-04:00"
   },
   "PDD": {
     "sources": [
@@ -6335,9 +6335,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 102.0,
-    "prevClose": 98.34,
-    "yfinance_updated": "2025-04-23T13:09:04.588012-04:00"
+    "open": 103.66,
+    "prevClose": 104.01,
+    "yfinance_updated": "2025-04-28T21:21:21.467739-04:00"
   },
   "D": {
     "sources": [
@@ -6349,9 +6349,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 53.2,
-    "prevClose": 53.4,
-    "yfinance_updated": "2025-04-23T13:09:04.693647-04:00"
+    "open": 52.95,
+    "prevClose": 52.95,
+    "yfinance_updated": "2025-04-28T21:21:21.592633-04:00"
   },
   "LIN": {
     "sources": [
@@ -6364,9 +6364,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Basic Materials",
-    "open": 454.39,
-    "prevClose": 454.61,
-    "yfinance_updated": "2025-04-23T13:09:04.857460-04:00"
+    "open": 448.65,
+    "prevClose": 448.4,
+    "yfinance_updated": "2025-04-28T21:21:21.716179-04:00"
   },
   "PODD": {
     "sources": [
@@ -6378,9 +6378,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 250.59,
-    "prevClose": 244.02,
-    "yfinance_updated": "2025-04-23T13:09:05.353568-04:00"
+    "open": 260.24,
+    "prevClose": 260.71,
+    "yfinance_updated": "2025-04-28T21:21:21.837743-04:00"
   },
   "NCLH": {
     "sources": [
@@ -6392,9 +6392,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 17.57,
-    "prevClose": 16.61,
-    "yfinance_updated": "2025-04-23T13:09:05.479378-04:00"
+    "open": 17.48,
+    "prevClose": 17.23,
+    "yfinance_updated": "2025-04-28T21:21:21.946216-04:00"
   },
   "PPL": {
     "sources": [
@@ -6406,9 +6406,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 36.0,
-    "prevClose": 36.21,
-    "yfinance_updated": "2025-04-23T13:09:05.615569-04:00"
+    "open": 35.91,
+    "prevClose": 35.93,
+    "yfinance_updated": "2025-04-28T21:21:22.072851-04:00"
   },
   "KKR": {
     "sources": [
@@ -6420,9 +6420,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 108.97,
-    "prevClose": 102.28,
-    "yfinance_updated": "2025-04-23T13:09:05.724992-04:00"
+    "open": 114.0,
+    "prevClose": 113.63,
+    "yfinance_updated": "2025-04-28T21:21:22.186423-04:00"
   },
   "BAX": {
     "sources": [
@@ -6434,9 +6434,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 29.24,
-    "prevClose": 28.62,
-    "yfinance_updated": "2025-04-23T13:09:05.858702-04:00"
+    "open": 30.31,
+    "prevClose": 30.22,
+    "yfinance_updated": "2025-04-28T21:21:22.294560-04:00"
   },
   "ABT": {
     "sources": [
@@ -6448,9 +6448,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 132.21,
-    "prevClose": 131.73,
-    "yfinance_updated": "2025-04-23T13:09:06.024231-04:00"
+    "open": 129.33,
+    "prevClose": 128.85,
+    "yfinance_updated": "2025-04-28T21:21:22.458582-04:00"
   },
   "GLW": {
     "sources": [
@@ -6462,9 +6462,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 43.39,
-    "prevClose": 41.75,
-    "yfinance_updated": "2025-04-23T13:09:06.207541-04:00"
+    "open": 44.02,
+    "prevClose": 44.18,
+    "yfinance_updated": "2025-04-28T21:21:22.579438-04:00"
   },
   "DVA": {
     "sources": [
@@ -6476,9 +6476,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 136.66,
-    "prevClose": 134.97,
-    "yfinance_updated": "2025-04-23T13:09:06.367702-04:00"
+    "open": 140.73,
+    "prevClose": 139.56,
+    "yfinance_updated": "2025-04-28T21:21:22.736828-04:00"
   },
   "IPG": {
     "sources": [
@@ -6490,9 +6490,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 24.44,
-    "prevClose": 23.9,
-    "yfinance_updated": "2025-04-23T13:09:06.482919-04:00"
+    "open": 24.68,
+    "prevClose": 24.56,
+    "yfinance_updated": "2025-04-28T21:21:22.858466-04:00"
   },
   "NXPI": {
     "sources": [
@@ -6505,9 +6505,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 181.46,
-    "prevClose": 174.66,
-    "yfinance_updated": "2025-04-23T13:09:06.628578-04:00"
+    "open": 192.87,
+    "prevClose": 193.55,
+    "yfinance_updated": "2025-04-28T21:21:22.969052-04:00"
   },
   "VLO": {
     "sources": [
@@ -6519,9 +6519,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 115.22,
-    "prevClose": 112.46,
-    "yfinance_updated": "2025-04-23T13:09:06.745538-04:00"
+    "open": 114.0,
+    "prevClose": 113.87,
+    "yfinance_updated": "2025-04-28T21:21:23.090737-04:00"
   },
   "BALL": {
     "sources": [
@@ -6533,9 +6533,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 48.64,
-    "prevClose": 48.37,
-    "yfinance_updated": "2025-04-23T13:09:06.947077-04:00"
+    "open": 50.49,
+    "prevClose": 50.56,
+    "yfinance_updated": "2025-04-28T21:21:23.241646-04:00"
   },
   "SYY": {
     "sources": [
@@ -6547,9 +6547,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 73.5,
-    "prevClose": 73.29,
-    "yfinance_updated": "2025-04-23T13:09:07.097542-04:00"
+    "open": 70.83,
+    "prevClose": 70.93,
+    "yfinance_updated": "2025-04-28T21:21:23.436317-04:00"
   },
   "EXPD": {
     "sources": [
@@ -6561,9 +6561,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 109.11,
-    "prevClose": 107.11,
-    "yfinance_updated": "2025-04-23T13:09:07.244769-04:00"
+    "open": 108.98,
+    "prevClose": 108.58,
+    "yfinance_updated": "2025-04-28T21:21:23.632363-04:00"
   },
   "BR": {
     "sources": [
@@ -6575,9 +6575,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 238.28,
-    "prevClose": 235.0,
-    "yfinance_updated": "2025-04-23T13:09:07.376090-04:00"
+    "open": 238.18,
+    "prevClose": 237.72,
+    "yfinance_updated": "2025-04-28T21:21:23.764363-04:00"
   },
   "CMS": {
     "sources": [
@@ -6589,9 +6589,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 73.72,
-    "prevClose": 73.7,
-    "yfinance_updated": "2025-04-23T13:09:07.558428-04:00"
+    "open": 72.24,
+    "prevClose": 72.18,
+    "yfinance_updated": "2025-04-28T21:21:23.908598-04:00"
   },
   "DD": {
     "sources": [
@@ -6603,9 +6603,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 63.67,
-    "prevClose": 61.84,
-    "yfinance_updated": "2025-04-23T13:09:07.675427-04:00"
+    "open": 65.64,
+    "prevClose": 65.69,
+    "yfinance_updated": "2025-04-28T21:21:24.065888-04:00"
   },
   "ADM": {
     "sources": [
@@ -6617,9 +6617,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 48.56,
-    "prevClose": 48.54,
-    "yfinance_updated": "2025-04-23T13:09:07.915441-04:00"
+    "open": 48.25,
+    "prevClose": 48.25,
+    "yfinance_updated": "2025-04-28T21:21:24.185529-04:00"
   },
   "FOX": {
     "sources": [
@@ -6631,9 +6631,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 45.62,
-    "prevClose": 44.78,
-    "yfinance_updated": "2025-04-23T13:09:08.037074-04:00"
+    "open": 45.8,
+    "prevClose": 45.79,
+    "yfinance_updated": "2025-04-28T21:21:24.313692-04:00"
   },
   "IDXX": {
     "sources": [
@@ -6646,9 +6646,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 429.21,
-    "prevClose": 421.59,
-    "yfinance_updated": "2025-04-23T13:09:08.176289-04:00"
+    "open": 436.81,
+    "prevClose": 437.44,
+    "yfinance_updated": "2025-04-28T21:21:24.450144-04:00"
   },
   "V": {
     "sources": [
@@ -6661,9 +6661,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 337.24,
-    "prevClose": 331.4,
-    "yfinance_updated": "2025-04-23T13:09:08.308551-04:00"
+    "open": 336.775,
+    "prevClose": 335.17,
+    "yfinance_updated": "2025-04-28T21:21:24.555207-04:00"
   },
   "GPN": {
     "sources": [
@@ -6675,9 +6675,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 73.02,
-    "prevClose": 71.39,
-    "yfinance_updated": "2025-04-23T13:09:08.449954-04:00"
+    "open": 73.1,
+    "prevClose": 72.48,
+    "yfinance_updated": "2025-04-28T21:21:24.657548-04:00"
   },
   "EQR": {
     "sources": [
@@ -6689,9 +6689,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 69.55,
-    "prevClose": 68.93,
-    "yfinance_updated": "2025-04-23T13:09:08.571165-04:00"
+    "open": 68.57,
+    "prevClose": 68.53,
+    "yfinance_updated": "2025-04-28T21:21:24.780746-04:00"
   },
   "CSX": {
     "sources": [
@@ -6704,9 +6704,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 28.275,
-    "prevClose": 27.78,
-    "yfinance_updated": "2025-04-23T13:09:08.709304-04:00"
+    "open": 27.86,
+    "prevClose": 27.84,
+    "yfinance_updated": "2025-04-28T21:21:24.891260-04:00"
   },
   "GEN": {
     "sources": [
@@ -6718,9 +6718,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 24.77,
-    "prevClose": 24.24,
-    "yfinance_updated": "2025-04-23T13:09:08.819870-04:00"
+    "open": 25.48,
+    "prevClose": 25.26,
+    "yfinance_updated": "2025-04-28T21:21:25.009605-04:00"
   },
   "O": {
     "sources": [
@@ -6732,9 +6732,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 58.36,
-    "prevClose": 58.52,
-    "yfinance_updated": "2025-04-23T13:09:08.933445-04:00"
+    "open": 56.81,
+    "prevClose": 56.89,
+    "yfinance_updated": "2025-04-28T21:21:25.158616-04:00"
   },
   "LULU": {
     "sources": [
@@ -6747,9 +6747,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 271.565,
-    "prevClose": 261.71,
-    "yfinance_updated": "2025-04-23T13:09:09.136634-04:00"
+    "open": 268.34,
+    "prevClose": 267.9,
+    "yfinance_updated": "2025-04-28T21:21:25.301494-04:00"
   },
   "ZTS": {
     "sources": [
@@ -6761,9 +6761,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 151.94,
-    "prevClose": 149.99,
-    "yfinance_updated": "2025-04-23T13:09:09.285610-04:00"
+    "open": 153.35,
+    "prevClose": 153.47,
+    "yfinance_updated": "2025-04-28T21:21:25.417499-04:00"
   },
   "JNJ": {
     "sources": [
@@ -6776,9 +6776,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 156.49,
-    "prevClose": 157.75,
-    "yfinance_updated": "2025-04-23T13:09:09.445556-04:00"
+    "open": 155.5,
+    "prevClose": 154.58,
+    "yfinance_updated": "2025-04-28T21:21:25.533473-04:00"
   },
   "WEC": {
     "sources": [
@@ -6790,9 +6790,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 108.43,
-    "prevClose": 109.13,
-    "yfinance_updated": "2025-04-23T13:09:09.632933-04:00"
+    "open": 107.76,
+    "prevClose": 107.73,
+    "yfinance_updated": "2025-04-28T21:21:25.702832-04:00"
   },
   "MSTR": {
     "sources": [
@@ -6804,9 +6804,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 354.765,
-    "prevClose": 343.03,
-    "yfinance_updated": "2025-04-23T13:09:09.766945-04:00"
+    "open": 372.51,
+    "prevClose": 368.71,
+    "yfinance_updated": "2025-04-28T21:21:25.829119-04:00"
   },
   "AJG": {
     "sources": [
@@ -6818,9 +6818,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 331.14,
-    "prevClose": 330.75,
-    "yfinance_updated": "2025-04-23T13:09:09.895296-04:00"
+    "open": 323.83,
+    "prevClose": 322.3,
+    "yfinance_updated": "2025-04-28T21:21:25.938081-04:00"
   },
   "ON": {
     "sources": [
@@ -6833,9 +6833,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 37.0,
-    "prevClose": 35.45,
-    "yfinance_updated": "2025-04-23T13:09:10.021392-04:00"
+    "open": 39.43,
+    "prevClose": 39.63,
+    "yfinance_updated": "2025-04-28T21:21:26.043872-04:00"
   },
   "RJF": {
     "sources": [
@@ -6847,9 +6847,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 137.62,
-    "prevClose": 134.77,
-    "yfinance_updated": "2025-04-23T13:09:10.155288-04:00"
+    "open": 137.63,
+    "prevClose": 137.37,
+    "yfinance_updated": "2025-04-28T21:21:26.155496-04:00"
   },
   "SWKS": {
     "sources": [
@@ -6861,9 +6861,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 59.96,
-    "prevClose": 57.8,
-    "yfinance_updated": "2025-04-23T13:09:10.304375-04:00"
+    "open": 61.215,
+    "prevClose": 61.52,
+    "yfinance_updated": "2025-04-28T21:21:26.296724-04:00"
   },
   "CAT": {
     "sources": [
@@ -6876,9 +6876,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Industrials",
-    "open": 301.34,
-    "prevClose": 291.17,
-    "yfinance_updated": "2025-04-23T13:09:10.436365-04:00"
+    "open": 306.45,
+    "prevClose": 306.45,
+    "yfinance_updated": "2025-04-28T21:21:26.445252-04:00"
   },
   "PLTR": {
     "sources": [
@@ -6891,9 +6891,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 98.87,
-    "prevClose": 93.99,
-    "yfinance_updated": "2025-04-23T13:09:10.561097-04:00"
+    "open": 113.61,
+    "prevClose": 112.78,
+    "yfinance_updated": "2025-04-28T21:21:26.582035-04:00"
   },
   "MCK": {
     "sources": [
@@ -6905,9 +6905,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 690.92,
-    "prevClose": 695.17,
-    "yfinance_updated": "2025-04-23T13:09:10.709919-04:00"
+    "open": 698.55,
+    "prevClose": 695.0,
+    "yfinance_updated": "2025-04-28T21:21:26.699844-04:00"
   },
   "CRL": {
     "sources": [
@@ -6919,9 +6919,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 109.215,
-    "prevClose": 106.89,
-    "yfinance_updated": "2025-04-23T13:09:10.857325-04:00"
+    "open": 115.005,
+    "prevClose": 114.66,
+    "yfinance_updated": "2025-04-28T21:21:26.850822-04:00"
   },
   "IQV": {
     "sources": [
@@ -6933,9 +6933,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 149.17,
-    "prevClose": 143.61,
-    "yfinance_updated": "2025-04-23T13:09:11.001224-04:00"
+    "open": 151.31,
+    "prevClose": 150.28,
+    "yfinance_updated": "2025-04-28T21:21:26.994176-04:00"
   },
   "CNC": {
     "sources": [
@@ -6947,9 +6947,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 60.22,
-    "prevClose": 60.23,
-    "yfinance_updated": "2025-04-23T13:09:11.138340-04:00"
+    "open": 57.95,
+    "prevClose": 57.69,
+    "yfinance_updated": "2025-04-28T21:21:27.114547-04:00"
   },
   "NVDA": {
     "sources": [
@@ -6963,9 +6963,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 104.52,
-    "prevClose": 98.89,
-    "yfinance_updated": "2025-04-23T13:09:11.263682-04:00"
+    "open": 109.695,
+    "prevClose": 111.01,
+    "yfinance_updated": "2025-04-28T21:21:27.230928-04:00"
   },
   "WBA": {
     "sources": [
@@ -6978,9 +6978,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 11.05,
-    "prevClose": 10.99,
-    "yfinance_updated": "2025-04-23T13:09:11.377337-04:00"
+    "open": 11.0,
+    "prevClose": 11.01,
+    "yfinance_updated": "2025-04-28T21:21:27.362554-04:00"
   },
   "TRMB": {
     "sources": [
@@ -6992,9 +6992,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 60.26,
-    "prevClose": 58.01,
-    "yfinance_updated": "2025-04-23T13:09:11.537591-04:00"
+    "open": 61.81,
+    "prevClose": 61.71,
+    "yfinance_updated": "2025-04-28T21:21:27.527799-04:00"
   },
   "EBAY": {
     "sources": [
@@ -7006,9 +7006,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 67.53,
-    "prevClose": 67.05,
-    "yfinance_updated": "2025-04-23T13:09:11.670172-04:00"
+    "open": 68.0,
+    "prevClose": 67.83,
+    "yfinance_updated": "2025-04-28T21:21:27.666548-04:00"
   },
   "CF": {
     "sources": [
@@ -7020,9 +7020,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 76.13,
-    "prevClose": 75.54,
-    "yfinance_updated": "2025-04-23T13:09:11.783997-04:00"
+    "open": 78.65,
+    "prevClose": 78.47,
+    "yfinance_updated": "2025-04-28T21:21:27.785957-04:00"
   },
   "BEN": {
     "sources": [
@@ -7034,9 +7034,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 18.6,
-    "prevClose": 18.05,
-    "yfinance_updated": "2025-04-23T13:09:11.908457-04:00"
+    "open": 18.67,
+    "prevClose": 18.72,
+    "yfinance_updated": "2025-04-28T21:21:27.892203-04:00"
   },
   "NWS": {
     "sources": [
@@ -7048,9 +7048,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 30.82,
-    "prevClose": 30.29,
-    "yfinance_updated": "2025-04-23T13:09:12.073411-04:00"
+    "open": 31.26,
+    "prevClose": 31.23,
+    "yfinance_updated": "2025-04-28T21:21:28.029786-04:00"
   },
   "AAPL": {
     "sources": [
@@ -7065,9 +7065,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 206.0,
-    "prevClose": 199.74,
-    "yfinance_updated": "2025-04-23T13:09:12.195365-04:00"
+    "open": 210.06,
+    "prevClose": 209.28,
+    "yfinance_updated": "2025-04-28T21:21:28.199539-04:00"
   },
   "SBUX": {
     "sources": [
@@ -7080,9 +7080,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Cyclical",
-    "open": 84.0,
-    "prevClose": 81.75,
-    "yfinance_updated": "2025-04-23T13:09:12.308220-04:00"
+    "open": 84.3557,
+    "prevClose": 83.81,
+    "yfinance_updated": "2025-04-28T21:21:28.345224-04:00"
   },
   "TRV": {
     "sources": [
@@ -7095,9 +7095,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 260.93,
-    "prevClose": 261.31,
-    "yfinance_updated": "2025-04-23T13:09:12.428817-04:00"
+    "open": 260.13,
+    "prevClose": 259.16,
+    "yfinance_updated": "2025-04-28T21:21:28.492310-04:00"
   },
   "AES": {
     "sources": [
@@ -7109,9 +7109,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 10.28,
-    "prevClose": 9.98,
-    "yfinance_updated": "2025-04-23T13:09:12.554887-04:00"
+    "open": 10.09,
+    "prevClose": 10.05,
+    "yfinance_updated": "2025-04-28T21:21:28.630210-04:00"
   },
   "HD": {
     "sources": [
@@ -7124,9 +7124,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Consumer Cyclical",
-    "open": 361.92,
-    "prevClose": 354.43,
-    "yfinance_updated": "2025-04-23T13:09:12.673588-04:00"
+    "open": 357.99,
+    "prevClose": 357.58,
+    "yfinance_updated": "2025-04-28T21:21:28.743707-04:00"
   },
   "TXT": {
     "sources": [
@@ -7138,9 +7138,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 67.04,
-    "prevClose": 65.45,
-    "yfinance_updated": "2025-04-23T13:09:12.795345-04:00"
+    "open": 68.86,
+    "prevClose": 68.42,
+    "yfinance_updated": "2025-04-28T21:21:28.846563-04:00"
   },
   "BSX": {
     "sources": [
@@ -7152,9 +7152,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 100.0,
-    "prevClose": 95.05,
-    "yfinance_updated": "2025-04-23T13:09:12.917110-04:00"
+    "open": 102.5,
+    "prevClose": 101.9,
+    "yfinance_updated": "2025-04-28T21:21:29.001323-04:00"
   },
   "ORCL": {
     "sources": [
@@ -7166,9 +7166,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 134.91,
-    "prevClose": 127.24,
-    "yfinance_updated": "2025-04-23T13:09:13.053042-04:00"
+    "open": 139.65,
+    "prevClose": 138.49,
+    "yfinance_updated": "2025-04-28T21:21:29.113538-04:00"
   },
   "OTIS": {
     "sources": [
@@ -7180,9 +7180,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 95.94,
-    "prevClose": 98.95,
-    "yfinance_updated": "2025-04-23T13:09:13.161913-04:00"
+    "open": 92.93,
+    "prevClose": 92.93,
+    "yfinance_updated": "2025-04-28T21:21:29.292899-04:00"
   },
   "KHC": {
     "sources": [
@@ -7195,9 +7195,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 30.13,
-    "prevClose": 30.2,
-    "yfinance_updated": "2025-04-23T13:09:13.944213-04:00"
+    "open": 29.39,
+    "prevClose": 29.49,
+    "yfinance_updated": "2025-04-28T21:21:29.420722-04:00"
   },
   "ADBE": {
     "sources": [
@@ -7210,9 +7210,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Technology",
-    "open": 358.658,
-    "prevClose": 349.91,
-    "yfinance_updated": "2025-04-23T13:09:14.136560-04:00"
+    "open": 368.05,
+    "prevClose": 367.72,
+    "yfinance_updated": "2025-04-28T21:21:29.532921-04:00"
   },
   "LEN": {
     "sources": [
@@ -7224,9 +7224,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 110.01,
-    "prevClose": 107.42,
-    "yfinance_updated": "2025-04-23T13:09:14.250395-04:00"
+    "open": 107.6,
+    "prevClose": 107.63,
+    "yfinance_updated": "2025-04-28T21:21:29.686997-04:00"
   },
   "CTSH": {
     "sources": [
@@ -7239,9 +7239,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 71.33,
-    "prevClose": 69.73,
-    "yfinance_updated": "2025-04-23T13:09:14.394378-04:00"
+    "open": 72.06,
+    "prevClose": 72.17,
+    "yfinance_updated": "2025-04-28T21:21:29.914479-04:00"
   },
   "UNP": {
     "sources": [
@@ -7253,9 +7253,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 221.31,
-    "prevClose": 216.9,
-    "yfinance_updated": "2025-04-23T13:09:14.565646-04:00"
+    "open": 213.06,
+    "prevClose": 213.29,
+    "yfinance_updated": "2025-04-28T21:21:30.193733-04:00"
   },
   "MKTX": {
     "sources": [
@@ -7267,9 +7267,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 220.3,
-    "prevClose": 222.41,
-    "yfinance_updated": "2025-04-23T13:09:14.712911-04:00"
+    "open": 218.66,
+    "prevClose": 219.0,
+    "yfinance_updated": "2025-04-28T21:21:30.348614-04:00"
   },
   "MAA": {
     "sources": [
@@ -7281,9 +7281,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 159.59,
-    "prevClose": 158.32,
-    "yfinance_updated": "2025-04-23T13:09:14.901704-04:00"
+    "open": 159.03,
+    "prevClose": 159.38,
+    "yfinance_updated": "2025-04-28T21:21:30.470592-04:00"
   },
   "GS": {
     "sources": [
@@ -7296,9 +7296,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Financial Services",
-    "open": 533.63,
-    "prevClose": 519.99,
-    "yfinance_updated": "2025-04-23T13:09:15.044195-04:00"
+    "open": 544.86,
+    "prevClose": 544.86,
+    "yfinance_updated": "2025-04-28T21:21:30.764541-04:00"
   },
   "HRL": {
     "sources": [
@@ -7310,9 +7310,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 30.65,
-    "prevClose": 30.71,
-    "yfinance_updated": "2025-04-23T13:09:15.166010-04:00"
+    "open": 29.64,
+    "prevClose": 29.7,
+    "yfinance_updated": "2025-04-28T21:21:30.896359-04:00"
   },
   "BLDR": {
     "sources": [
@@ -7324,9 +7324,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 120.24,
-    "prevClose": 116.1,
-    "yfinance_updated": "2025-04-23T13:09:15.279552-04:00"
+    "open": 121.4,
+    "prevClose": 121.35,
+    "yfinance_updated": "2025-04-28T21:21:31.019597-04:00"
   },
   "LVS": {
     "sources": [
@@ -7338,9 +7338,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 35.12,
-    "prevClose": 33.94,
-    "yfinance_updated": "2025-04-23T13:09:15.410601-04:00"
+    "open": 35.46,
+    "prevClose": 35.89,
+    "yfinance_updated": "2025-04-28T21:21:31.136892-04:00"
   },
   "TFC": {
     "sources": [
@@ -7352,9 +7352,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 37.32,
-    "prevClose": 36.34,
-    "yfinance_updated": "2025-04-23T13:09:15.525974-04:00"
+    "open": 37.75,
+    "prevClose": 37.67,
+    "yfinance_updated": "2025-04-28T21:21:31.270865-04:00"
   },
   "HCA": {
     "sources": [
@@ -7366,9 +7366,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 328.63,
-    "prevClose": 324.62,
-    "yfinance_updated": "2025-04-23T13:09:15.679536-04:00"
+    "open": 327.05,
+    "prevClose": 327.92,
+    "yfinance_updated": "2025-04-28T21:21:31.400573-04:00"
   },
   "HLT": {
     "sources": [
@@ -7380,9 +7380,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 217.165,
-    "prevClose": 210.64,
-    "yfinance_updated": "2025-04-23T13:09:15.850674-04:00"
+    "open": 220.91,
+    "prevClose": 219.62,
+    "yfinance_updated": "2025-04-28T21:21:31.579913-04:00"
   },
   "GM": {
     "sources": [
@@ -7394,9 +7394,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 46.5,
-    "prevClose": 45.16,
-    "yfinance_updated": "2025-04-23T13:09:16.012506-04:00"
+    "open": 47.2,
+    "prevClose": 47.11,
+    "yfinance_updated": "2025-04-28T21:21:31.708280-04:00"
   },
   "PFE": {
     "sources": [
@@ -7408,9 +7408,9 @@
     "tv_changePercent": null,
     "signals": {},
     "sector": "Healthcare",
-    "open": 22.7799,
-    "prevClose": 22.53,
-    "yfinance_updated": "2025-04-23T13:09:16.163070-04:00"
+    "open": 23.03,
+    "prevClose": 22.92,
+    "yfinance_updated": "2025-04-28T21:21:31.911686-04:00"
   },
   "KDP": {
     "sources": [
@@ -7423,9 +7423,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 35.38,
-    "prevClose": 35.48,
-    "yfinance_updated": "2025-04-23T13:09:16.338539-04:00"
+    "open": 34.5,
+    "prevClose": 34.4,
+    "yfinance_updated": "2025-04-28T21:21:32.051498-04:00"
   },
   "STE": {
     "sources": [
@@ -7437,9 +7437,9 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 225.0,
-    "prevClose": 222.77,
-    "yfinance_updated": "2025-04-23T13:09:16.455511-04:00"
+    "open": 225.48,
+    "prevClose": 225.0,
+    "yfinance_updated": "2025-04-28T21:21:32.173825-04:00"
   },
   "PKG": {
     "sources": [
@@ -7451,8 +7451,8 @@
     "tv_price": null,
     "tv_volume": null,
     "tv_changePercent": null,
-    "open": 179.54,
-    "prevClose": 186.42,
-    "yfinance_updated": "2025-04-23T13:09:16.577562-04:00"
+    "open": 185.13,
+    "prevClose": 184.82,
+    "yfinance_updated": "2025-04-28T21:21:32.295275-04:00"
   }
 }

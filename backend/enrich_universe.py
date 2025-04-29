@@ -1,7 +1,8 @@
 import json
 import os
 from datetime import datetime
-import pytz
+import pytz 
+from pytz import timezone
 from tqdm import tqdm
 
 CACHE_DIR = "backend/cache"
@@ -18,9 +19,14 @@ OUTPUT_PATH = os.path.join(CACHE_DIR, f"universe_enriched_{current_date_str}.jso
 
 def load_json(path):
     if not os.path.exists(path):
+        print(f"⚠️ Warning: Cache file missing: {path}")
         return {}
-    with open(path, "r") as f:
-        return json.load(f)
+    try:
+        with open(path, "r") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"❌ Error loading {path}: {e}")
+        return {}
 
 def enrich_with_tv_signals(universe, tv_data):
     normalized_tv_data = {}
@@ -45,6 +51,13 @@ def enrich_with_tv_signals(universe, tv_data):
                 info["rel_vol"] = tv["rel_vol"]
             if "avg_volume_10d" in tv:
                 info["avg_volume_10d"] = tv["avg_volume_10d"]
+            if "open" in tv:
+                info["open"] = tv["open"]
+            if "prevClose" in tv:
+                info["prevClose"] = tv["prevClose"]
+            if "yfinance_updated" in tv:
+                info["yfinance_updated"] = tv["yfinance_updated"]
+    
     return universe
 
 def enrich_with_sector(universe, sector_data):
@@ -233,6 +246,7 @@ def inject_risk_flags(universe):
 def main():
     print("🚀 Starting enrichment...")
     universe = load_json(UNIVERSE_PATH)
+    print(f"📡 Loading latest TV signals...")
     tv_signals = load_json(TV_SIGNALS_PATH)
     sector_prices = load_json(SECTOR_PRICES_PATH)
     candles = load_json(CANDLES_PATH)
@@ -251,6 +265,11 @@ def main():
     universe = flag_top_volume_gainers(universe)
     universe = inject_risk_flags(universe)
 
+    eastern = timezone('America/New_York')
+    now_eastern = datetime.now(eastern)
+
+    for symbol, info in universe.items():
+        info["enriched_timestamp"] = now_eastern.isoformat()
 
     with open(OUTPUT_PATH, "w") as f:
         json.dump(universe, f, indent=2)
