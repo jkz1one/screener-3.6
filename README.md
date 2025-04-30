@@ -3,6 +3,7 @@
 A real-time stock scanning tool that builds a tiered watchlist using premarket signals, sector rotation, volume, and risk filters. Built with FastAPI + Next.js.
 
 ---
+![image](https://github.com/user-attachments/assets/d5ee4dfc-0336-4804-939b-82a089c4a1f4)
 
 ## 🔧 How It Works
 
