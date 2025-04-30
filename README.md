@@ -38,7 +38,7 @@ A real-time stock scanning tool that builds a tiered watchlist using premarket s
 ## ▶️ How to Run
 
 ```bash
-# 1. Refresh daily signals before scoring (once per day, premarket)
+# 1. Refresh daily signals before scoring (once per day)
 python3 backend/daily_refresh.py
 
 # 2. Run the full pipeline (enrich + score + build watchlist)
@@ -49,7 +49,7 @@ uvicorn backend.main:app --reload --port 8000
 
 # 4. Start frontend (Next.js)
 npm run dev
-
+```
 ---
 
 ## 📡 API Endpoints
