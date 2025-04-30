@@ -1,112 +1,88 @@
-# Stock Screener v3.6 – Project Goals (as of 2025-04-28)
+# ✅ Stock Screener v3.6 – Final Goals Before v3.7
 
-# 🚀 Current Phase: **Late Phase 1 / Early Phase 2**
-> (Tier Logic almost locked → Moving into Time Automation and Full Pipeline orchestration.)
+> **Status:** Stable daily-use build  
+> **Next phase:** Universe Builder + Automation + Risk Logic Fixes  
+> **Tag:** `v3.6-final`
 
-## ✅ COMPLETED GOALS
+---
+
+## ✅ COMPLETED
 
 ### Tier Logic
-- [x] Tier 1: Gap Up / Gap Down
-- [x] Tier 1: Break Above/Below 9:30–9:40 Range
-- [x] Tier 1: High Relative Volume (`rel_vol > 1.5`)
-- [x] Tier 2: Early % Move (9:30–9:35)
-- [x] Tier 2: Squeeze Watch (Short % + RelVol + Move)
-- [x] Tier 2: Sector Rotation logic
-- [x] Tier 3: High Volume
-- [x] Tier 3: Top 5 Volume Gainers
-- [x] Tier 3: Near Multi-Day High / Low
-- [x] Tier 3: High Volume, No Breakout
+- Tier 1: Gap Up / Gap Down  
+- Tier 1: Break Above/Below 9:30–9:40 Range  
+- Tier 1: High Relative Volume  
+- Tier 2: Early % Move  
+- Tier 2: Squeeze Watch  
+- Tier 2: Sector Rotation  
+- Tier 3: High Volume  
+- Tier 3: Top 5 Volume Gainers  
+- Tier 3: Near Multi-Day High / Low  
+- Tier 3: High Volume, No Breakout  
 
 ### Risk Filters
-- [x] Low Liquidity
-- [x] Wide Spread
+- Low Liquidity  
+- Wide Spread  
 
-### Data Sources & Enrichment
-- [x] `tv_signals.json` (TradingView + yfinance merged)
-- [x] `sector_etf_prices.json` scrape
-- [x] `candles_5m.json` for range break logic
-- [x] `short_interest.json` loaded
-- [x] `multi_day_levels.json` added (high/low)
-- [x] Universe cache with L1/L2/L3 logic
-- [x] `universe_enriched.json` merge complete
-- [x] `universe_scored.json` output
+### Data & Enrichment
+- TradingView + yfinance merged (`tv_signals.json`)  
+- Sector ETF scraper (`sector_etf_prices.json`)  
+- 5-min candle scraper for 9:30–9:40 range  
+- Short Interest loader  
+- Multi-day high/low logic  
+- Full scored universe (`universe_scored_*.json`)  
+- AutoWatchlist builder working and displayed in frontend  
 
 ### Backend Architecture
-- [x] Central scoring dictionaries (TIER_1/2/3, risk flags)
-- [x] `apply_signal_flags()` logic
-- [x] `score()` function
-- [x] Risk filter injection
-- [x] Use `get_latest_file()` logic
-- [x] Progress loader in scrapers (`tqdm`)
-- [x] Modular flow (scrape → enrich → score)
-- [x] Delete obsolete `yfinance_enrichment.py` after merger
+- Scoring dictionaries for Tiers and Risk  
+- `apply_signal_flags()` and `score()`  
+- `run_pipeline.py` as orchestration layer  
+- Modular flow with caching  
+- Stable FastAPI backend endpoints  
+
+### Frontend UI
+- `/tracker` view shows: Tiers, Score, Tags, Risk flags  
+- Toggle for: T1–T3, Risk filter, Tag filters, Sort  
+- Responsive and styled per design spec  
 
 ---
 
-## 🧹 Tiny Cosmetic Improvements
-- [x] Collapse all data saves into clean `backend/cache/`
-- [x] Uniform JSON file formats across scrapers
-- [x] Smarter loading and error checking across scraper scripts
+## 🔄 IN PROGRESS / PARTIAL
+
+- [~] Tier 1: Momentum Confluence (needs TradingView premarket levels)  
+- [~] Scheduler system for auto-refresh (cron or APScheduler)  
+- [~] Daily refresh runs manually for now  
 
 ---
 
-## ⚒️ IN PROGRESS / PARTIALLY COMPLETE
-- [~] Tier 1: Momentum Confluence (PM high/low + prev day high/low)
-- [~] Build lightweight scheduler script (timed scraper runner)
-- [~] Time-align scraper tasks (4AM premarket jobs, 9:30AM open jobs, 9:40AM candle jobs)
+## 🛠️ UPCOMING (v3.7)
 
----
+### Backend Enhancements
+- [ ] Fix AutoWatchlist risk toggle logic (UI not honoring blocked stocks correctly)  
+- [ ] Universe Builder (dynamic L1–L3 tagging, CSV-driven)  
+- [ ] Fallback logic for failed yfinance pulls  
+- [ ] Timestamp injection into all cache files  
+- [ ] Risk “No Reliable Price” logic  
 
-## 🔥 New Goals Just Added
-- [~] Build lightweight daily scheduler
-- [~] Organize scraper times (4AM, 9:30AM, 9:40AM) 
+### Automation
+- [ ] `daily_refresh.py` timed run (before 9:00AM)  
+- [ ] Modular runner script (`runner.py`)  
+- [ ] Skip scraper if cache is fresh (timestamp check)  
 
----
-
-## ❌ NOT YET STARTED
-
-### Tier Logic
-- [ ] Finalize Tier 1: Momentum Confluence logic
-
-### Risk Filters
-- [ ] No Reliable Price / Ghost Print logic
-
-### Backend Features
-- [ ] Build scraper module wrapper (functions not just raw scripts)
-- [ ] Add batch loading support in scrapers (candles, TV signals, sector ETFs)
-- [ ] Prepare scrapers for easy source swapping (e.g., TradingView full primary ready)
-- [ ] Add debug logs for scoring breakdown
-- [ ] Include `reasons[]` array in output
-- [ ] Add timestamps inside all cache files
-- [ ] Build `runner.py` for full pipeline automation
-- [ ] Fallback logic if yfinance fails mid-run
-- [ ] Build scoring anomaly validator script (for audit/debugging)
-
-### Timed Automation
-- [ ] Add `APScheduler` or `cron` support for timed scrapes
-- [ ] Skip scraping if latest cache is still fresh (timestamp check)
-
-### TradingView Scraper Upgrade
-- [ ] Add stealth features (rotate user-agent, random delays)
-- [ ] Handle rate limiting / fallback retries
-- [ ] Consider Playwright-based scraping option
-- [ ] Make TradingView scraping the **primary** source (replace yfinance dependency)
+### Scraper System
+- [ ] Wrap scrapers as functions not raw scripts  
+- [ ] Prepare for source swapping (TV as primary)  
+- [ ] Add stealth options to TradingView scraper  
 
 ### Frontend Goals
-- [ ] Frontend UI config (e.g., set relative volume threshold)
-- [ ] Toggle tier visibility in UI
-- [ ] Show triggered signals per ticker in UI
-- [ ] Add Sector Rotation tab
-- [ ] Show score + tier tags visually
-- [ ] "Top 3 Only" / Blocked ticker toggle view
-- [ ] UI indicators for cache freshness (timestamp display)
+- [ ] Sector Rotation tab  
+- [ ] Add frontend config (e.g. `rel_vol` threshold)  
+- [ ] UI badge for cache timestamp freshness  
+- [ ] Add “Top 3 Only” or “Show Blocked” toggles  
 
 ### Long-Term / Advanced
-- [ ] Relative Volume Percentiles (dynamic scaling)
-- [ ] Options-based GEX, Vanna, Charm signal integration
-- [ ] Sentiment overlays (SPY + VIX confluence, sector strength overlays)
-- [ ] Screener builder or custom logic editor (Management Panel front end)
-- [ ] Backtest / replay engine (past signals validation)
-- [ ] Export or alert system for daily top signals
-- [ ] Expand universe with more tickers (e.g., mid-caps for squeeze watch)
-- [ ] Fix or rebuild the Watchlist Puller logic
+- [ ] Options data (GEX, Vanna, Charm)  
+- [ ] Sentiment overlays (SPY, VIX)  
+- [ ] Screener builder or rule editor  
+- [ ] Export / Alerts for top picks  
+- [ ] Replay engine for backtesting signals  

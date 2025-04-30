@@ -73,6 +73,14 @@ def score(info):
             score += RISK_FLAGS[risk]
     return score
 
+def build_tier_hits(info):
+    signals = info.get("signals", {})
+    return {
+        "T1": [sig for sig in TIER_1 if signals.get(sig)],
+        "T2": [sig for sig in TIER_2 if signals.get(sig)],
+        "T3": [sig for sig in TIER_3 if signals.get(sig)],
+    }
+
 def main():
     print("🚀 Starting enrichment and scoring...")
     universe = load_json(UNIVERSE_PATH)
@@ -81,6 +89,7 @@ def main():
     for symbol in tqdm(universe):
         s = score(universe[symbol])
         universe[symbol]["score"] = s
+        universe[symbol]["tierHits"] = build_tier_hits(universe[symbol])  # ✅ Add this line!
 
     with open(OUTPUT_PATH, "w") as f:
         json.dump(universe, f, indent=2)

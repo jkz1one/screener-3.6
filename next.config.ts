@@ -4,8 +4,8 @@ const nextConfig: NextConfig = {
   async rewrites() {
     return [
       {
-        source: "/api/autowatchlist",
-        destination: "http://localhost:8008/autowatchlist",
+        source: "/api/:path*",
+        destination: "http://localhost:8000/api/:path*",
       },
     ];
   },

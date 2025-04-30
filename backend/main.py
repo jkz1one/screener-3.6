@@ -43,7 +43,6 @@ async def get_universe_raw():
 
 @app.get("/api/cache-timestamps")
 async def get_cache_timestamps():
-    """Returns last modified timestamps and freshness status for key cache files."""
     files = [
         "tv_signals.json",
         "sector_etf_prices.json",
@@ -51,7 +50,8 @@ async def get_cache_timestamps():
         "multi_day_levels.json",
         "short_interest.json",
         "universe_enriched.json",
-        "universe_scored.json"
+        "universe_scored.json",
+        "autowatchlist_cache.json"
     ]
 
     now = datetime.now()
@@ -76,3 +76,7 @@ async def get_cache_timestamps():
 
     return JSONResponse(content=output)
 
+@app.get("/api/autowatchlist")
+async def get_watchlist():
+    path = os.path.join(CACHE_DIR, "autowatchlist_cache.json")
+    return load_json_file(path, "AutoWatchlist")

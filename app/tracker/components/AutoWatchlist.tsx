@@ -26,23 +26,27 @@ export default function AutoWatchlist() {
   const [tagFilters, setTagFilters] = useState<string[]>([]);
   const [sortBy, setSortBy] = useState<'score' | 'symbol'>('score');
 
+  function formatLabel(text: string) {
+    return text
+      .replace(/_/g, ' ')            // Replace underscores with spaces
+      .replace(/\b\w/g, (l) => l.toUpperCase()); // Capitalize first letter of each word
+  }
+  
+
   useEffect(() => {
     async function fetchData() {
       try {
         const res = await fetch('/api/autowatchlist');
         const json = await res.json();
-        const mapped = json.map((stock: any) => ({
-          symbol: stock.symbol,
+        const mapped = Object.entries(json).map(([symbol, stock]: [string, any]) => ({
+          symbol,
           score: stock.score,
           tags: stock.tags || [],
           isBlocked: stock.isBlocked || false,
           reasons: stock.reasons || [],
-          tierHits: {
-            T1: stock.tier1 || [],
-            T2: stock.tier2 || [],
-            T3: stock.tier3 || [],
-          },
+          tierHits: stock.tierHits || { T1: [], T2: [], T3: [] },
         }));
+        
         setData(mapped);
       } catch (err) {
         console.error('Failed to fetch autowatchlist', err);
@@ -138,7 +142,8 @@ export default function AutoWatchlist() {
                   <h4 className="text-green-400 font-bold mb-1">Tier 1</h4>
                   <ul className="space-y-1">
                     {stock.tierHits.T1.map((s) => (
-                      <li key={s}>✓ {s}</li>
+                      <li key={s}>✓ {formatLabel(s)}</li>
+
                     ))}
                   </ul>
                 </div>
@@ -146,7 +151,7 @@ export default function AutoWatchlist() {
                   <h4 className="text-blue-400 font-bold mb-1">Tier 2</h4>
                   <ul className="space-y-1">
                     {stock.tierHits.T2.map((s) => (
-                      <li key={s}>✓ {s}</li>
+                      <li key={s}>✓ {formatLabel(s)}</li>
                     ))}
                   </ul>
                 </div>
@@ -154,7 +159,7 @@ export default function AutoWatchlist() {
                   <h4 className="text-purple-400 font-bold mb-1">Tier 3</h4>
                   <ul className="space-y-1">
                     {stock.tierHits.T3.map((s) => (
-                      <li key={s}>✓ {s}</li>
+                     <li key={s}>✓ {formatLabel(s)}</li>
                     ))}
                   </ul>
                 </div>
@@ -164,7 +169,7 @@ export default function AutoWatchlist() {
                     <h4 className="text-red-400 font-semibold text-sm mb-1">Risk Flags</h4>
                     <ul className="flex gap-3 text-xs text-red-300">
                       {stock.reasons.map((flag) => (
-                        <li key={flag}>⚠ {flag}</li>
+                        <li key={flag}>⚠ {formatLabel(flag)}</li>
                       ))}
                     </ul>
                   </div>
